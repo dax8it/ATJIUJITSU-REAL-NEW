@@ -28,7 +28,7 @@ const Layout = props => {
               <li className="nav-about" role="menuitem">
                 <Link to={`/about`}>About</Link>
               </li>
-              <li className="nav-photovogue" role="menuitem">
+              <li className="nav-tags" role="menuitem">
                 <Link to={`/tags/class`}>Programs</Link>
               </li>
               <li className="nav-tags" role="menuitem">
