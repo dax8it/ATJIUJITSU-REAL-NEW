@@ -80,14 +80,14 @@ const Layout = props => {
       <Footer2 />
       <footer className="site-foot">
         &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
-        All photos and videos by{" "}
-        <a
+        Jiujitsu - Judo - Kick Boxing - Muay Thai - Smarter Yoga{" "}
+        {/* <a
           href="https://alexcovo.com"
           target="_blank"
           rel="noopener noreferrer"
         >
           Alex Covo Studio NYC
-        </a>
+        </a> */}
       </footer>
     </div>
   )
