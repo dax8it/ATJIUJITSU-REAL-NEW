@@ -9,7 +9,7 @@ home: true
 tags:
   - Home
   - Blog
-  - class
+  - Class
   - Toddler
 ---
 

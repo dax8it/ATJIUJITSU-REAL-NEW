@@ -10,7 +10,7 @@ home: true
 tags:
   - Home
   - Blog
-  - class
+  - Class
   - Kick-Boxing
 ---
 
