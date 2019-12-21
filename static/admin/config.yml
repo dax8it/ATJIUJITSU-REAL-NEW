@@ -7,10 +7,33 @@ publish_mode: editorial_workflow
 media_folder: static/img
 public_folder: /img
 
+logo_url: https://atjiujitsunyc2020.netlify.com/img/atjiujitsu-icon.png
+
 collections:
   - name: "blog"
     label: "blog"
     folder: "content/blog/"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {
+          label: "Template Key",
+          name: "templateKey",
+          widget: "hidden",
+          default: "blog-post",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Order", name: "order", widget: "number", required: true }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Thumbnail", name: "thumbnail", widget: image }
+      - { label: "Home", name: "home", widget: "boolean", default: true }
+      - { label: "Tags", name: "tags", widget: "list" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "pages"
+    label: "pages"
+    folder: "content/pages/"
     create: true
     slug: "{{slug}}"
     fields:
