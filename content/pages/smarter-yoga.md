@@ -10,11 +10,6 @@ home: true
 programs: true
 thumbnail: /img/dsc09388.jpg
 tags:
-  - Home
-  - Class
-  - Smarter Yoga
-  - Yoga
-  - Programs
 ---
 
 <br>

@@ -8,10 +8,6 @@ home: true
 programs: true
 thumbnail: /img/cover01.jpg
 tags:
-  - Home
-  - Class
-  - Muay Thai
-  - Programs
 ---
 
 # Muay Thai

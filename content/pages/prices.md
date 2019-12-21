@@ -9,9 +9,6 @@ home: true
 programs: false
 thumbnail: /img/blog-index.jpg
 tags:
-  - Home
-  - Prices
-  - Classes
 ---
 
 # Monthly Subscriptions

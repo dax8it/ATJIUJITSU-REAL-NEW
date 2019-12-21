@@ -8,8 +8,6 @@ home: true
 programs: false
 thumbnail: /img/the-struggle.jpg
 tags:
-  - motion
-  - video
 ---
 
 ---

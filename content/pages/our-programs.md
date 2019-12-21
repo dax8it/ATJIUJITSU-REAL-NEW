@@ -8,8 +8,6 @@ home: true
 programs: false
 thumbnail: /img/dsc07038_easy-resize.com.jpg
 tags:
-  - Home
-  - Class
 ---
 
 <br>

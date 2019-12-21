@@ -10,8 +10,6 @@ home: true
 programs: false
 thumbnail: /img/index-our-team_bw.jpg
 tags:
-  - Home
-  - About
 ---
 
 <div class="video-responsive">

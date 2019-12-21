@@ -50,10 +50,10 @@ collections:
       - { label: "Thumbnail", name: "thumbnail", widget: image }
       - { label: "Home", name: "home", widget: "boolean", default: false }
       - {
-          label: "Programs",
-          name: "programs",
-          widget: "boolean",
-          default: false,
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          options: ["Programs", "Blog"],
         }
-      - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Body", name: "body", widget: "markdown" }
