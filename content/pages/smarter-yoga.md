@@ -7,6 +7,7 @@ description: >-
   Instructor Kim discusses the benefits of smarter YOGA to improve your
   jiu-jitsu ability.
 home: true
+programs: true
 thumbnail: /img/dsc09388.jpg
 tags:
   - Home

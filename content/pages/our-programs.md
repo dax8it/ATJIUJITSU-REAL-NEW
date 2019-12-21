@@ -5,6 +5,7 @@ order: 2
 date: "2019-05-01"
 description: Our line up of activities
 home: true
+programs: false
 thumbnail: /img/dsc07038_easy-resize.com.jpg
 tags:
   - Home

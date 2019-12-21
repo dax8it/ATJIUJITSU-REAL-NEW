@@ -6,6 +6,7 @@ date: "2019-05-04"
 description: >-
   Our pricing makes taking classes afforable.
 home: true
+programs: false
 thumbnail: /img/blog-index.jpg
 tags:
   - Home
