@@ -7,6 +7,7 @@ description: >-
   AT Jiu-Jitsu NYC's first ever talent show! From magic tricks, to dancing and
   singing to playing musical instruments and hula hoop tricks!
 home: true
+programs: false
 thumbnail: /img/index-our-team_bw.jpg
 tags:
   - Home

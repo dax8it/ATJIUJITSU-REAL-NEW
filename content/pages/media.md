@@ -5,6 +5,7 @@ order: 5
 date: 2019-12-11T05:51:20.372Z
 description: Some videos and images
 home: true
+programs: false
 thumbnail: /img/the-struggle.jpg
 tags:
   - motion

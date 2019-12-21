@@ -5,6 +5,7 @@ order: 15
 date: "2019-05-01"
 description: we like to compete
 home: true
+programs: true
 thumbnail: /img/cover01.jpg
 tags:
   - Home

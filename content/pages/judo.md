@@ -6,6 +6,7 @@ date: "2019-05-01"
 description: >-
   Kickboxing our way to Fitness
 home: true
+programs: true
 thumbnail: /img/img_8240.jpg
 tags:
   - Home
