@@ -8,9 +8,7 @@ home: true
 thumbnail: /img/dsc07038_easy-resize.com.jpg
 tags:
   - Home
-  - Blog
   - Class
-  - Programs
 ---
 
 <br>

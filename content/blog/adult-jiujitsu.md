@@ -8,10 +8,10 @@ home: true
 thumbnail: /img/cover01.jpg
 tags:
   - Home
-  - Blog
   - Class
   - Jiujitsu
   - BJJ
+  - Programs
 ---
 
 # Brasilian Jiujitsu

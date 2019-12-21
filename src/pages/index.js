@@ -18,16 +18,16 @@ const BlogIndex = ({ data }, location) => {
   return (
     <Layout title={siteTitle}>
       <SEO
-        title="Fashion Photography"
+        title="Jiujitsu School Jackson Heights Queens NYC "
         keywords={[
-          `dance`,
-          `dance-school`,
-          `dance-academy`,
-          `lyrical`,
-          `ballet`,
-          `tumbling`,
-          `modern-dance`,
-          `tap`,
+          `bjj`,
+          `jiujitsu`,
+          `kick boxing`,
+          `muay thai`,
+          `yoga`,
+          `toddler`,
+          `judo`,
+          `martial arts`,
         ]}
       />
       {/* <Bio /> */}

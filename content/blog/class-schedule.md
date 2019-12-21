@@ -9,7 +9,6 @@ home: true
 thumbnail: /img/homepagea2.jpg
 tags:
   - Home
-  - Blog
   - Schedule
   - Classes
 ---

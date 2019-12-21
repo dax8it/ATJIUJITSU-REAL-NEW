@@ -9,9 +9,9 @@ home: true
 thumbnail: /img/img_8240.jpg
 tags:
   - Home
-  - Blog
   - Class
   - Kick Boxing
+  - Programs
 ---
 
 • Kickboxing is a form of martial arts derived from karate. It borrows moves from multiple types of martial arts including full-contact karate, Muay Thai, and boxing.

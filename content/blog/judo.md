@@ -9,9 +9,9 @@ home: true
 thumbnail: /img/img_8240.jpg
 tags:
   - Home
-  - Blog
   - Class
   - Judo
+  - Programs
 ---
 
 # Judo

@@ -9,7 +9,6 @@ home: true
 thumbnail: /img/blog-index.jpg
 tags:
   - Home
-  - Blog
   - Prices
   - Classes
 ---

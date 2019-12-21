@@ -10,7 +10,6 @@ home: true
 thumbnail: /img/index-our-team_bw.jpg
 tags:
   - Home
-  - Blog
   - About
 ---
 

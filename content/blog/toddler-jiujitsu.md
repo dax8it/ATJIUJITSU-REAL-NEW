@@ -8,9 +8,9 @@ home: true
 thumbnail: /img/cover01.jpg
 tags:
   - Home
-  - Blog
   - Class
   - Toddler
+  - Programs
 ---
 
 # Toddler Jiujitsu
