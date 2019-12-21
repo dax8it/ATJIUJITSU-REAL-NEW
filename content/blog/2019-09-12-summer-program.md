@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Summer Program
-order: 10
+order: 20
 date: "2019-08-23"
 description: "AT JIU-JITSU NYC's 4 Week Summer Program, 2019"
 home: false

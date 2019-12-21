@@ -4,8 +4,8 @@ title: Programs
 order: 2
 date: "2019-05-01"
 description: Our line up of activities
-thumbnail: /img/dsc07038_easy-resize.com.jpg
 home: true
+thumbnail: /img/dsc07038_easy-resize.com.jpg
 tags:
   - Home
   - Blog

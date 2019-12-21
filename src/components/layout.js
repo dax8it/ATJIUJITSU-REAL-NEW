@@ -80,7 +80,8 @@ const Layout = props => {
       <Footer2 />
       <footer className="site-foot">
         &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
-        Jiujitsu - Judo - Kick Boxing - Muay Thai - Smarter Yoga{" "}
+        BRAZILIAN JIUJITSU • JUDO • MUAY THAI • SMARTER YOGA • KICKBOXING •
+        TODDLER JIU-JITSU{" "}
         {/* <a
           href="https://alexcovo.com"
           target="_blank"

@@ -6,15 +6,42 @@ date: "2019-05-03"
 description: >-
   AT Jiu-Jitsu NYC's first ever talent show! From magic tricks, to dancing and
   singing to playing musical instruments and hula hoop tricks!
-thumbnail: /img/index-our-team_bw.jpg
 home: true
+thumbnail: /img/index-our-team_bw.jpg
 tags:
   - Home
   - Blog
   - About
 ---
 
-## Our Team
+<div class="video-responsive">
+                    <iframe
+                      src="https://player.cloudinary.com/embed/?cloud_name=dax8it&public_id=https%3A%2F%2Fres.cloudinary.com%2Fdax8it%2Fvideo%2Fupload%2Fv1575694094%2Fatjiujitsunyc%2FATJIUJITSUNYC_INTRO.mp4&fluid=true&controls=true&colors%5Baccent%5D=%2363b9ef&show_jump_controls=false&floating_when_not_visible=false&hide_context_menu=false&logo_image_url=https%3A%2F%2Fres.cloudinary.com%2Fdax8it%2Fimage%2Fupload%2Fv1549678229%2Fatjiujitsunyc%2Flogo.png&poster_options%5Btransformation%5D%5Bstart_offset%5D=6&autoplay_on_scroll=false&info%5Btitle%5D=WELCOME%20TO%20ATJIUJITSUNYC"
+                      width="640"
+                      height="480"
+                      allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
+                      allowfullscreen
+                      frameborder="0"
+                    ></iframe>
+                  </div>
+                  <br />
+                </div>
+
+---
+
+## Welcome to ATJIUJITSUNYC
+
+AT Jiu-Jitsu NYC is a martial arts school that focuses on providing the local community with a clean and safe environment where members will be able to focus and work on improving their health. Members will also have the opportunity to connect and interact with other members in the community while engaging in classes.
+
+## Martial Arts for Adults and Kids
+
+Through classes focusing on mixed martial arts such as Brazilian Jiu-Jitsu, Judo, Muay Thai, Yoga, and Kickboxing. The goal of AT Jiu-Jitsu NYC is to provide members the opportunity to be able to grow as individuals by gaining a better sense of themselves in both mind and body, all while learning about the sport and self-defense aspects of these martial arts. Members will walk out of at Jiu-Jitsu NYC feeling empowered and confident. AT Jiu-Jitsu NYC will work with members to set personalized goals and prove that these set objections can be reached, despite any existing limitations.
+
+<br>
+
+---
+
+# Our Team
 
 ![](/img/dsc06203-1-.jpg)
 

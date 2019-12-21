@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: "Grappling Industries Tournament, September"
 date: "2019-09-28"
-order: 10
+order: 20
 description: >-
   Thank you to everyone who came out to compete! We're so proud of both children
   and adults!

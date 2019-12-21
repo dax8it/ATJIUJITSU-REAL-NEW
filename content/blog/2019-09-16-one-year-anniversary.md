@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: One Year Anniversary
-order: 10
+order: 20
 date: "2019-09-08"
 description: AT JIU-JITSU NYC celebrates their one year anniversary!
 home: false

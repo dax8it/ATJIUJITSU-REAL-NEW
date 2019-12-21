@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "FINDING THE MOTIVATION TO TRAIN "
-order: 10
+order: 20
 date: "2019-07-15"
 description: >-
   Life, Jiu-Jitsu and the Struggle. Professor Alvaro explains finding the
@@ -10,6 +10,8 @@ home: false
 thumbnail: /img/0.png
 tags:
   - Blog
+  - Videos
+  - Media
 ---
 
 <br>
