@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Judo
 order: 11
-date: '2019-05-01'
+date: "2019-05-01"
 description: Kickboxing our way to Fitness
 thumbnail: /img/img_8240.jpg
 home: true

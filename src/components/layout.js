@@ -53,7 +53,7 @@ const Layout = props => {
           <div className="site-head-right">
             <div className="social-links">
               <a
-                href="https://www.facebook.com"
+                href="https://www.facebook.com/atjiujitsunyc"
                 title="Facebook"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -61,7 +61,7 @@ const Layout = props => {
                 Facebook
               </a>
               <a
-                href="https://instagram.com/gcdadance"
+                href="https://instagram.com/jiujitsunyc"
                 title="Twitter"
                 target="_blank"
                 rel="noopener noreferrer"

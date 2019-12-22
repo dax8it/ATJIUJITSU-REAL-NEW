@@ -6,7 +6,6 @@ date: "2019-05-04"
 description: >-
   Use this page to view, select and register for classes.
 home: true
-programs: false
 thumbnail: /img/homepagea2.jpg
 tags:
 ---

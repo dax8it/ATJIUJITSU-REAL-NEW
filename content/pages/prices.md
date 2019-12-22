@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Our Prices
 order: 4
-date: '2019-05-04'
+date: "2019-05-04"
 description: Our pricing makes taking classes afforable.
 thumbnail: /img/blog-index.jpg
 home: true

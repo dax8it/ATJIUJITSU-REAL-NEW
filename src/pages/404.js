@@ -15,7 +15,7 @@ class NotFoundPage extends React.Component {
         <h1>This isn't good</h1>
         <p>
           You lost your way, but it's never to late to find the right path.
-          Check out the rest of the site.
+          Check out the rest of the site, come in and ROLL with us! OSS!
         </p>
       </Layout>
     )

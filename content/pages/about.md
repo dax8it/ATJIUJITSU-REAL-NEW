@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: About Us
 order: 1
-date: '2019-05-03'
+date: "2019-05-03"
 description: >-
   AT Jiu-Jitsu NYC's first ever talent show! From magic tricks, to dancing and
   singing to playing musical instruments and hula hoop tricks!

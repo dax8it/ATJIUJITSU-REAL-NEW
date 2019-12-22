@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Media
 order: 5
-date: 2019-12-11T05:51:20.372Z
+date: "2019-12-11"
 description: Some videos and images
 thumbnail: /img/the-struggle.jpg
 home: true
