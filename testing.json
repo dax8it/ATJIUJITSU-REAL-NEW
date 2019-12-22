@@ -1,0 +1,1 @@
+{"type":"PR","pr":{"number":12,"head":"9dabac2ff7d727bb623d58c299d7b6bc81029d69"},"user":"alex","status":"draft","branch":"cms/testing","collection":"blog","title":"Testing","description":"This is a test","objects":{"entry":{"path":"content/blog/testing.md","sha":"398a1d701f7a19252f16fcbd41bf3c77cc0fd71b"},"files":[]},"timeStamp":"2019-12-22T01:23:28.842Z"}
