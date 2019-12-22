@@ -2,13 +2,12 @@
 templateKey: blog-post
 title: Our Prices
 order: 4
-date: "2019-05-04"
-description: >-
-  Our pricing makes taking classes afforable.
-home: true
-programs: false
+date: '2019-05-04'
+description: Our pricing makes taking classes afforable.
 thumbnail: /img/blog-index.jpg
+home: true
 tags:
+  - Blog
 ---
 
 # Monthly Subscriptions
