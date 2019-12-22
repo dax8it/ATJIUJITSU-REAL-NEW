@@ -6,8 +6,8 @@ date: '2019-05-01'
 description: we like to compete
 thumbnail: /img/cover01.jpg
 home: true
-programs: true
 tags:
+  - Programs
 ---
 
 # Brasilian Jiujitsu
