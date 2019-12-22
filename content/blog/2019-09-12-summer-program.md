@@ -7,6 +7,7 @@ description: "AT JIU-JITSU NYC's 4 Week Summer Program, 2019"
 home: false
 thumbnail: /img/dsc03545.jpg
 tags:
+  - Blog
 ---
 
 Our kids had a blast during our Summer Camp, with activities such as laser tag, water balloon fights, Mario Kart tournaments, dodgeball, Jiu-Jitsu, arts and crafts, and trips to the pool, the library and museums, it was a summer we hope they'll never forget! Be sure to join us next year!

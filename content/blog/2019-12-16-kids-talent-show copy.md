@@ -9,6 +9,7 @@ description: >-
 home: false
 thumbnail: /img/dsc00701.jpg
 tags:
+  - Blog
 ---
 
 Thank you to all our students who showed us their talents and skills during our Talent Show! Everyone's talent is unique and special and we enjoyed watching everyone's performance of dancing and singing and jokes and magic!

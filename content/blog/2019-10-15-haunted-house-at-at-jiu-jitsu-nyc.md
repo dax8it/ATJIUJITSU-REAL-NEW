@@ -9,6 +9,7 @@ description: >-
 home: false
 thumbnail: /img/1572987289_tmp_dsc08935.jpg
 tags:
+  - Blog
 ---
 
 Thank you to everyone for your help and support during the Haunted house. We hope you all had a scary good time!!!

@@ -7,6 +7,7 @@ description: AT JIU-JITSU NYC celebrates their one year anniversary!
 home: false
 thumbnail: /img/dsc06193-1-.jpg
 tags:
+  - Blog
 ---
 
 It's with great pleasure that we are celebrating AT Jiu-Jitsu NYC's one year anniversary. September 8th marked one year since our grand opening! We are proud to have made such great friends and family along the way. We hope all of you will continue with us throughout this journey. Thank you once again for everyone's support.

@@ -7,7 +7,6 @@ description: Our pricing makes taking classes afforable.
 thumbnail: /img/blog-index.jpg
 home: true
 tags:
-  - Blog
 ---
 
 # Monthly Subscriptions

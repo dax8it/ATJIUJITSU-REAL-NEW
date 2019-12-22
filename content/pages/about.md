@@ -9,7 +9,6 @@ description: >-
 thumbnail: /img/index-our-team_bw.jpg
 home: true
 tags:
-  - Blog
 ---
 
 <div class="video-responsive">

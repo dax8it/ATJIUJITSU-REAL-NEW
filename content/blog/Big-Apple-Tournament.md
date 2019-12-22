@@ -9,6 +9,7 @@ description: >-
 home: false
 thumbnail: /img/big-apple-pic-04.png
 tags:
+  - Blog
 ---
 
 ![](/img/big-apple-pic-12.png)

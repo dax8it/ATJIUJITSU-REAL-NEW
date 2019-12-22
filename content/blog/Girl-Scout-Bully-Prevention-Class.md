@@ -9,6 +9,7 @@ description: >-
 home: false
 thumbnail: /img/girl-scouts-02.png
 tags:
+  - Blog
 ---
 
 ## We help the Girl Scouts prevent bullying
