@@ -9,19 +9,13 @@ description: >-
 home: false
 thumbnail: /img/big-apple-pic-04.png
 tags:
-  - Big Apple
-  - tournament
-  - bjj
-  - competition
-  - kids
-  - Blog
 ---
 
 ![](/img/big-apple-pic-12.png)
 
 Another win from some of our favorites. They're all our favorites!!!
 
-## Congrats to all our students who competed.
+**Congrats to all our students who competed.**
 
 We took 3rd place in kids team category. We're very proud of everyone who competed!
 

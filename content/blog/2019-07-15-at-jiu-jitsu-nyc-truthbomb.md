@@ -9,9 +9,6 @@ description: >-
 home: false
 thumbnail: /img/0.png
 tags:
-  - Blog
-  - Videos
-  - Media
 ---
 
 <br>

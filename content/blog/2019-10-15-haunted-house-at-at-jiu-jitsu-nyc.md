@@ -9,15 +9,9 @@ description: >-
 home: false
 thumbnail: /img/1572987289_tmp_dsc08935.jpg
 tags:
-  - halloween
-  - haunted house
-  - nyc
-  - spooky
-  - jiu jitsu
-  - Blog
 ---
 
-## Thank you to everyone for your help and support during the Haunted house. We hope you all had a scary good time!!!
+Thank you to everyone for your help and support during the Haunted house. We hope you all had a scary good time!!!
 
 ![](/img/1572987289_tmp_dsc08935.jpg)
 

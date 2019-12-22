@@ -9,14 +9,9 @@ description: >-
 home: false
 thumbnail: /img/img_7014.jpg
 tags:
-  - bjj
-  - promotion
-  - stripes
-  - success
-  - Blog
 ---
 
-## We’re proud of our students and how hard they work at achieving their goals. This is the first step in this long and wonderful journey!
+**We’re proud of our students and how hard they work at achieving their goals. This is the first step in this long and wonderful journey!**
 
 ---
 

@@ -9,14 +9,11 @@ description: >-
 home: false
 thumbnail: /img/dsc07044_easy-resize.com.jpg
 tags:
-  - Grappling Industries
-  - Tournament
-  - Blog
 ---
 
 ![](/img/no-kids-or-adult-works-harder-than-this-young-man.-super-proud-of-him-for-wanting-to-show-off-his-skills-_grapplingindustries-last-weekend.-.jpg "Elek ")
 
-**No kid or adult works harder than this young man. Super proud of him for wanting to show off his skills at Grappling Industries last weekend.**
+No kid or adult works harder than this young man. Super proud of him for wanting to show off his skills at Grappling Industries last weekend.
 
 ---
 
