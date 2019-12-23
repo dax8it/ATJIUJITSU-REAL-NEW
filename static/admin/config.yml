@@ -23,17 +23,28 @@ collections:
           default: "blog-post",
         }
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Order", name: "order", widget: "number", required: true }
+      - {
+          label: "Order",
+          name: "order",
+          widget: "number",
+          default: 20,
+          required: false,
+        }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "text" }
-      - { label: "Thumbnail", name: "thumbnail", widget: image }
+      - {
+          label: "Thumbnail",
+          name: "thumbnail",
+          widget: "image",
+          required: false,
+        }
       - { label: "Home", name: "home", widget: "boolean", default: false }
       - {
           label: "Tags",
           name: "tags",
           widget: "select",
           multiple: true,
-          options: ["Programs", "Blog"],
+          options: ["Programs", "Blog", "Media", "Other"],
         }
       - { label: "Body", name: "body", widget: "markdown" }
 
@@ -50,16 +61,27 @@ collections:
           default: "blog-post",
         }
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Order", name: "order", widget: "number", required: true }
+      - {
+          label: "Order",
+          name: "order",
+          widget: "number",
+          default: 10,
+          required: false,
+        }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "text" }
-      - { label: "Thumbnail", name: "thumbnail", widget: image }
+      - {
+          label: "Thumbnail",
+          name: "thumbnail",
+          widget: "image",
+          required: false,
+        }
       - { label: "Home", name: "home", widget: "boolean", default: false }
       - {
           label: "Tags",
           name: "tags",
           widget: "select",
           multiple: true,
-          options: ["Programs", "Blog"],
+          options: ["Programs", "Blog", "Media", "Other"],
         }
       - { label: "Body", name: "body", widget: "markdown" }

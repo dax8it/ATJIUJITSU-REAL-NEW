@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
 title: Media
-order: 5
+order: 20
 date: "2019-12-11"
 description: Some videos and images
 thumbnail: /img/the-struggle.jpg
 home: true
 tags:
-  - Blog
+  - Media
 ---
 
 ---
@@ -16,14 +16,14 @@ tags:
 
 ## Atjiujitsu BJJ Academy
 
-`youtube: https://youtu.be/6BIkKoLV-OA`
+`youtube: https://youtu.be/N-mrq3IY0ro`
 
 <br>
 
-`youtube: https://www.youtube.com/watch?v=-nq8Dbl-pw4`
+`youtube: https://youtu.be/kWblycLnNuc`
 
 <br>
 
-`youtube: https://youtu.be/vxhpekf3ekY`
+`youtube: https://youtu.be/ZLXkTHgRxqQ`
 
 ---
