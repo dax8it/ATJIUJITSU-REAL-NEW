@@ -12,8 +12,6 @@ tags:
 
 # Muay Thai
 
-![](/img/dsc6897.jpg)
-
 • A highly-effective self-defense martial art. Contrary to the popular belief, Muay Thai is not the same as kickboxing. The two are often mistaken for one another, which is a common misconception. Although there are significant similarities between them, the key difference is that Muay Thai allows the use of elbows.
 
 • Almost all Muay Thai movements involve rotating your hip with each kick, kicks below the waist are allowed, as well as grabbing your opponent’s leg mid-kick.

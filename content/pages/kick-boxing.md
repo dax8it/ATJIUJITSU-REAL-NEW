@@ -4,11 +4,17 @@ title: Kick Boxing
 order: 14
 date: "2019-05-01"
 description: Kickboxing our way to Fitness
-thumbnail: /img/img_8240.jpg
+thumbnail: /img/kick-AIS09142.jpg
 home: true
 tags:
   - Programs
 ---
+
+`youtube: https://youtu.be/YEhrXn8-qeU`
+
+---
+
+<br>
 
 • Kickboxing is a form of martial arts derived from karate. It borrows moves from multiple types of martial arts including full-contact karate, Muay Thai, and boxing.
 

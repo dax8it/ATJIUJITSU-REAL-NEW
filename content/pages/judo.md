@@ -4,7 +4,7 @@ title: Judo
 order: 11
 date: "2019-05-01"
 description: Kickboxing our way to Fitness
-thumbnail: /img/img_8240.jpg
+thumbnail: /img/products-grid3.jpg
 home: true
 tags:
   - Programs
