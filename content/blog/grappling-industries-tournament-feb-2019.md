@@ -23,4 +23,4 @@ tags:
 
 ![](/img/congrats-roberto.jpg)
 
-**Congrats to Roberto for taking Gold today at Grappling Industries. A true beast on the mats and one of the nicest guys off the mats.**
+**Congrats to Roberto for taking Gold today at Grappling Industries. A true beast on the mats and one of the nicest guys off the mats!**
