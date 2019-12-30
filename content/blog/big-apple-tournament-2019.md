@@ -12,3 +12,8 @@ tags:
   - Blog
 ---
 
+Another win from some of our favorites. They're all our favorites!!!
+
+**Congrats to all our students who competed.**
+
+We took 3rd place in kids team category. We're very proud of everyone who competed!
