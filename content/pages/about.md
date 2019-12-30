@@ -116,7 +116,7 @@ Morgan admits to being a diehard **NY Knicks** and **New York Mets** fan, and re
 
 <br>
 
-![](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:030303,c_fill,g_auto,r_max,w_450/v1570034552/STAFF/img_8240_eoyl9q.jpg)
+![](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:030303,c_fill,g_auto,r_max,w_450/v1570034552/STAFF/img_8240_eoyl9q.png)
 
 
 
@@ -152,7 +152,7 @@ Natalia has always loved caring for children and was studying to become a teache
 
 <br>
 
-![](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:030303,c_fill,g_auto,r_max,w_450/v1570034552/STAFF/img_1880_udw86t.jpg)
+![](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:000000,c_fill,g_auto,r_max,w_450/v1570034552/STAFF/img_1880_udw86t.png)
 
 # Gabriela
 
@@ -166,7 +166,7 @@ Gabriela, mainly known as Gaby has been training in Jiu-Jitsu for one year. She 
 
 <br>
 
-![Arianna Calle](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:030303,c_fill,g_auto,r_max,w_450/v1569973398/STAFF/DSC04092._sqvpxe.jpg)
+![Arianna Calle](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:000000,c_fill,g_auto,r_max,w_450/v1570034555/STAFF/dsc04092_aaw1dy.png)
 
 # Arianna Calle
 
