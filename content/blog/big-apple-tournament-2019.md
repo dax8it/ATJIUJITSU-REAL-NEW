@@ -34,3 +34,5 @@ We took 3rd place in kids team category. We're very proud of everyone who compet
 ![](/img/big-apple-pic-09.png)
 
 ![](/img/big-apple-pic-10.png)
+
+![](/img/big-apple-pic-01.png)
