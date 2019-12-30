@@ -6,7 +6,7 @@ order: 20
 description: >-
   Thank you to our students, Roberto and Elek for representing our school at the Grappling Industries Tournament.
 home: false
-thumbnail: /img/dsc07074_sm.jpg
+thumbnail: /img/dsc07074_small.jpg
 tags:
   - Blog
 ---
