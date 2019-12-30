@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: KIDS TALENT SHOW
-order: 20
+order: 30
 date: "2019-12-15"
 description: >-
   AT Jiu-Jitsu NYC's first ever talent show! From magic tricks, to dancing and

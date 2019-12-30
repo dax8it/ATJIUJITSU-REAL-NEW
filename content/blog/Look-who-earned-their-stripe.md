@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Stripes and Belts Promotions
-order: 10
+order: 30
 date: "2019-08-01"
 description: >-
   Here are some of our students, who with hard work and determination have
