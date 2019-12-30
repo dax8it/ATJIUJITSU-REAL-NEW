@@ -152,7 +152,7 @@ Natalia has always loved caring for children and was studying to become a teache
 
 <br>
 
-![](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:030303,c_fill,g_auto,r_max,w_450/v1570034552/STAFF/img_1880_udw86t.jpg)
+![](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:000000,c_fill,g_auto,r_max,w_450/v1570034552/STAFF/img_1880_udw86t.png)
 
 # Gabriela
 
