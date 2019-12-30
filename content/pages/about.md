@@ -116,7 +116,7 @@ Morgan admits to being a diehard **NY Knicks** and **New York Mets** fan, and re
 
 <br>
 
-![](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:030303,c_fill,g_auto,r_max,w_450/v1570034552/STAFF/img_8240_eoyl9q.jpg)
+![](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:030303,c_fill,g_auto,r_max,w_450/v1570034552/STAFF/img_8240_eoyl9q.png)
 
 
 
