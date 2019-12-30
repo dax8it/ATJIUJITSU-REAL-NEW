@@ -4,8 +4,11 @@ title: About Us
 order: 1
 date: '2019-05-03'
 description: >-
-  AT Jiu-Jitsu NYC's first ever talent show! From magic tricks, to dancing and
-  singing to playing musical instruments and hula hoop tricks!
+  AT Jiu-Jitsu NYC is a martial arts school that focuses on providing the local
+  community with a clean and safe environment where members will be able to
+  focus and work on improving their health. Members will also have the
+  opportunity to connect and interact with other members in the community while
+  engaging in classes.
 thumbnail: /img/index-our-team_bw.jpg
 home: true
 tags:
@@ -27,9 +30,9 @@ tags:
 
 ---
 
-## Welcome to ATJIUJITSUNYC
+# Welcome to ATJIUJITSUNYC
 
-AT Jiu-Jitsu NYC is a martial arts school that focuses on providing the local community with a clean and safe environment where members will be able to focus and work on improving their health. Members will also have the opportunity to connect and interact with other members in the community while engaging in classes.
+
 
 ## Martial Arts for Adults and Kids
 
