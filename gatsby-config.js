@@ -145,6 +145,9 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: `UA-4799639-6`,
+        head: true,
+        exclude: ["/admin/**", "/do-not-track/me/too/"],
+        cookieDomain: "atjiujitsunyc.com",
       },
     },
     `gatsby-plugin-feed`,
