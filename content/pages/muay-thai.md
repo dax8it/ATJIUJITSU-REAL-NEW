@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: Muay Thai
 order: 12
-date: "2019-05-01"
+date: '2019-05-01'
 description: we like to compete
-thumbnail: /img/cover01.jpg
+thumbnail: /img/dsc07458.jpg
 home: true
 tags:
   - Programs
