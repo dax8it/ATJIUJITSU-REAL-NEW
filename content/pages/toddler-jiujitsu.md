@@ -4,7 +4,7 @@ title: Toddler Jiujitsu
 order: 15
 date: '2019-05-01'
 description: we like to compete
-thumbnail: /img/cover01.jpg
+thumbnail: /img/dsc09880.jpg
 home: true
 tags:
   - Programs
