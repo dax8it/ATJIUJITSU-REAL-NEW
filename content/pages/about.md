@@ -3,12 +3,7 @@ templateKey: blog-post
 title: About Us
 order: 1
 date: '2019-05-03'
-description: >-
-  AT Jiu-Jitsu NYC is a martial arts school that focuses on providing the local
-  community with a clean and safe environment where members will be able to
-  focus and work on improving their health. Members will also have the
-  opportunity to connect and interact with other members in the community while
-  engaging in classes.
+description: Meet our staff and crew that make all of our classes possible.
 thumbnail: /img/index-our-team_bw.jpg
 home: true
 tags:
