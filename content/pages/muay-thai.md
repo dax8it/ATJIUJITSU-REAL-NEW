@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Muay Thai
-order: 12
+order: 4
 date: '2019-05-01'
 description: >-
   Muay-Thai, Combat sport that uses stand-up striking along with various
