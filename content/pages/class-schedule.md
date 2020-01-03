@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Class Schedule
-order: 3
+order: 1
 date: '2019-05-04'
 description: 'Use this page to view, select and register for classes.'
 thumbnail: /img/homepagea2.jpg
