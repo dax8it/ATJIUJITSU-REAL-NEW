@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
 title: Jiujitsu
-order: 10
-date: "2019-05-01"
+order: 3
+date: '2019-05-01'
 description: we like to compete
 thumbnail: /img/dsc6898.jpg
 home: true
