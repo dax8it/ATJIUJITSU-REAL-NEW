@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Judo
-order: 11
+order: 7
 date: '2019-05-01'
 description: >-
   The martial art involves several holds, locks and throws. Learning balance,
@@ -19,7 +19,7 @@ tags:
 
 • Instead, judo simply involves two individuals who, by gripping the judo uniform, use the forces of balance, power, and movement to attempt to subdue each other. Thus,it is simple and basic. however, judo techniques often take considerable time, effort, and energy
 
-• Judo is offered to Ages 5 to 7 only
+• Judo is incorporated into most of our Jiu-Jitsu classes
 
 <br>
 
