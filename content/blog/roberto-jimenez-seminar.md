@@ -8,4 +8,4 @@ home: true
 tags:
   - Blog
 ---
-temp
+temp. not ready
