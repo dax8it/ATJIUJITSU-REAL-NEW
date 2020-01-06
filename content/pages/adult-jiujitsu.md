@@ -4,7 +4,7 @@ title: Jiujitsu
 order: 3
 date: '2019-05-01'
 description: we like to compete
-thumbnail: /img/dsc09646.jpg
+thumbnail: /img/dsc04087.jpg
 home: true
 tags:
   - Programs
