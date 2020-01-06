@@ -6,7 +6,7 @@ date: '2019-05-01'
 description: >-
   The martial art involves several holds, locks and throws. Learning balance,
   coordination and the ability to take down someone way bigger
-thumbnail: /img/dsc07295.jpg
+thumbnail: /img/dsc01093.jpg
 home: true
 tags:
   - Programs
