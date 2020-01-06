@@ -4,13 +4,12 @@ title: Jiujitsu
 order: 3
 date: '2019-05-01'
 description: we like to compete
-thumbnail: /img/dsc6898.jpg
+thumbnail: /img/dsc09646.jpg
 home: true
 tags:
   - Programs
 ---
-
-# Brasilian Jiujitsu
+# Brazilian Jiujitsu
 
 • BJJ is a grappling-based martial art whose central theme is the skill of controlling a resisting opponent in ways that force them to submit. BJJ does not feature kicking or punching. Techniques of BJJ are centered round the skill of taking an opponent down to the ground and wrestling for dominant control positions from where the opponent can be rendered harmless.
 
@@ -20,4 +19,4 @@ tags:
 
 <br>
 
----
+- - -
