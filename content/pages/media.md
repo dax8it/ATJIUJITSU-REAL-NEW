@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
 title: Media
-order: 20
-date: "2019-12-11"
+order: 11
+date: '2019-12-11'
 description: Some videos and images
 thumbnail: /img/the-struggle.jpg
 home: true
