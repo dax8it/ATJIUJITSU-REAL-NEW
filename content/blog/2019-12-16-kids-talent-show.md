@@ -2,12 +2,12 @@
 templateKey: blog-post
 title: KIDS TALENT SHOW
 order: 30
-date: "2019-12-15"
+date: '2019-12-15'
 description: >-
   AT Jiu-Jitsu NYC's first ever talent show! From magic tricks, to dancing and
-  singing to playing musical instruments and hula hoop tricks!
-home: false
+  singing to playing musical instruments and hula hoop tricks!!
 thumbnail: /img/dsc00701.jpg
+home: false
 tags:
   - Blog
 ---
