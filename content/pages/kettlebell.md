@@ -3,7 +3,7 @@ templateKey: blog-post
 title: KettleBell
 order: 6
 date: 2020-01-06T22:49:38.439Z
-description: 'For toning and strengethening '
+description: 'For toning and strengthening, try our new Kettlebell class! '
 thumbnail: /img/dsc01419.jpg
 home: false
 tags:
