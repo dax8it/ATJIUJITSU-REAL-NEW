@@ -2,19 +2,20 @@
 templateKey: blog-post
 title: KIDS TALENT SHOW
 order: 30
-date: "2019-12-15"
+date: '2019-12-15'
 description: >-
   AT Jiu-Jitsu NYC's first ever talent show! From magic tricks, to dancing and
   singing to playing musical instruments and hula hoop tricks!
+thumbnail: /img/dsc00939.jpg
 home: false
-thumbnail: /img/dsc00701.jpg
 tags:
   - Blog
 ---
-
 Thank you to all our students who showed us their talents and skills during our Talent Show! Everyone's talent is unique and special and we enjoyed watching everyone's performance of dancing and singing and jokes and magic!
 
-![](/img/dsc00939.jpg)
+![](/img/dsc00701.jpg)
+
+Elek with the grand reveal of magic!
 
 ![](/img/dsc00739.jpg)
 
@@ -51,7 +52,3 @@ Angelina and Vida singing and dancing!
 ![](/img/dsc00752.jpg)
 
 Justin demonstrating his skills on the piano.
-
-![](/img/dsc00701.jpg)
-
-Elek showing off his magic tricks!
