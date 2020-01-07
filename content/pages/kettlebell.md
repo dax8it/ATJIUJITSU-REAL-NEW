@@ -11,3 +11,11 @@ tags:
   - Other
 ---
 With our new new KettleBell class, it helps to improve Core Strength & Stability. Enhances Body Awareness & Coordination. Improves Balance & Stabilizer Muscles.
+
+![](/img/dsc00634.jpg)
+
+![](/img/dsc00524.jpg)
+
+![](/img/dsc01268.jpg)
+
+![](/img/dsc01268.jpg)
