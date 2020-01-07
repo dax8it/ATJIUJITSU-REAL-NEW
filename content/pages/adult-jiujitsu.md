@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Jiujitsu
 order: 3
 date: '2019-05-01'
-description: we like to compete
+description: 'Jiu Jitsu is so much more than a sport, it’s a way of life.'
 thumbnail: /img/dsc04087.jpg
 home: true
 tags:
