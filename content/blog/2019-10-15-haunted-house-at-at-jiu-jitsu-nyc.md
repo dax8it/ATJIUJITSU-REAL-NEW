@@ -13,8 +13,6 @@ tags:
 ---
 Thank you to everyone for your help and support during the Haunted house. We hope you all had a scary good time!!!
 
-![](/img/dsc08935.jpg)
-
 ![](/img/1572987336_tmp_dsc08815.jpg)
 
 ![](/img/1572987363_tmp_dsc08816.jpg)
