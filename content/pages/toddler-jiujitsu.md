@@ -11,8 +11,6 @@ home: true
 tags:
   - Programs
 ---
-
-
 # Toddler Jiujitsu
 
 • Brazilian Jiu-Jitsu is THE BEST non-violent self defense for children and teens. Our toddlers learn takedowns, throws, falling, controls. In the day-to-day classes, we take the punching/kicking element out of the equation and focus mainly on grappling. Through demonstration, students learn a series of techniques each day.
