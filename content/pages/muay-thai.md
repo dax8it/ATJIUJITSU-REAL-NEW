@@ -11,6 +11,14 @@ home: true
 tags:
   - Programs
 ---
+
+
+
+
+
+
+
+
 # Muay Thai
 
 • A highly-effective self-defense martial art. Contrary to the popular belief, Muay Thai is not the same as kickboxing. The two are often mistaken for one another, which is a common misconception. Although there are significant similarities between them, the key difference is that Muay Thai allows the use of elbows.
