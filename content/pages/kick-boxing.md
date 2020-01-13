@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Kick Boxing
+title: KickBoxing
 order: 4
 date: '2019-05-01'
 description: Kickboxing our way to Fitness
@@ -9,10 +9,9 @@ home: true
 tags:
   - Programs
 ---
-
 `youtube: https://youtu.be/YEhrXn8-qeU`
 
----
+- - -
 
 <br>
 
@@ -24,4 +23,12 @@ tags:
 
 • Kickboxing often uses interval training, where participants exercise at peak output for 30 seconds to a couple of minutes and then rest.
 
-• This type of training is called high-intensity interval training and has been shown to be especially good for burning calories and increasingcardiovascular fitness.
+• This type of training is called high-intensity interval training and has been shown to be especially good for burning calories and increasing cardiovascular fitness.
+
+![](/img/dsc02154.jpg)
+
+![](/img/dsc02168.jpg)
+
+![](/img/dsc02181.jpg)
+
+![](/img/dsc02140.jpg)
