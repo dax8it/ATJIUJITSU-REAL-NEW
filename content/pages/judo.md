@@ -19,7 +19,7 @@ tags:
 
 • Instead, judo simply involves two individuals who, by gripping the judo uniform, use the forces of balance, power, and movement to attempt to subdue each other. Thus,it is simple and basic. however, judo techniques often take considerable time, effort, and energy
 
-• Judo is incorporated into most of our Jiu-Jitsu classes
+• Judo is incorporated into our Jiu-Jitsu classes
 
 <br>
 
