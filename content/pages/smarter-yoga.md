@@ -11,10 +11,9 @@ home: true
 tags:
   - Programs
 ---
-
 <br>
 
----
+- - -
 
 <br>
 
@@ -29,11 +28,17 @@ You can also learn many useful breathing techniques. Your breathing patterns can
 > ### Yoga for functional training.
 >
 > > You will learn to move in ways that will benefit daily life, not just your next yoga class. Our system takes the traditional practice and couples it with hard sciences like physiology, kinesiology, neuroscience and bio mechanics.
-
+>
 > ### Yoga uses breathing techniques, exercise and meditation.
 >
 > > It helps to improve health and happiness. Yoga increases Flexibility, Strength, Improves Balance, Increases Stamina and Improves Body Alignment.
 
 <br>
 
----
+- - -
+
+![](/img/dsc05400.jpg)
+
+![](/img/dsc04697.jpg)
+
+![](/img/dsc04706.jpg)
