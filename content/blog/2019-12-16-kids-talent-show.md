@@ -15,7 +15,7 @@ Thank you to all our students who showed us their talents and skills during our 
 
 ![](/img/dsc00701.jpg)
 
-Elek with the grand reveal of magic!
+Elek demonstrating his magic trick!
 
 ![](/img/dsc00739.jpg)
 
