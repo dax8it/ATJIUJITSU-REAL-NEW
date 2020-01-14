@@ -12,7 +12,7 @@ home: false
 tags:
   - Blog
 ---
-# **No kid or adult works harder than this young man. Super proud of him for wanting to show off his skills at Grappling Industries last weekend.**
+## **No kid or adult works harder than this young man. Super proud of him for wanting to show off his skills at Grappling Industries.**
 
 - - -
 
