@@ -3,7 +3,9 @@ templateKey: blog-post
 title: Media
 order: 11
 date: '2019-12-11'
-description: Some videos and images
+description: >-
+  Check out our videos and subscribe to our Youtube channel for more content on
+  all of our classes!
 thumbnail: /img/the-struggle.jpg
 home: true
 tags:
