@@ -17,33 +17,37 @@ tags:
 
 # Stripes
 
-![](/img/dsc00244.jpg)
+![](/img/dsc02378.jpg)
 
-## Dion
+## Justin
 
-![](/img/dsc00240.jpg)
+![](/img/img_0719.png)
 
-## Sofia O.
+## Francesca
 
-![](/img/dsc00235.jpg)
+![](/img/dsc02358.jpg)
 
-## Kaitlyn
+## Ian
 
-![](/img/img_8398.jpg)
+![](/img/dsc02369.jpg)
 
-## **Francesca**
+## Angelina
 
-![](/img/img_8394.jpg)
+![](/img/dsc02375.jpg)
 
-## Ginny
+## **Elek**
 
-![](/img/img_8400.jpg)
+![](/img/dsc02364.jpg)
 
-## Sophia P.
+## Ulap
 
 - - -
 
 # **Promotions**
+
+![](/img/dsc02386.jpg)
+
+## Chase promoted to Grey and White belt!
 
 ![](/img/dsc00254.jpg)
 
