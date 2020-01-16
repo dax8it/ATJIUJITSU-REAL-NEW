@@ -23,6 +23,8 @@ We're happy and proud of everyone who put their jiu-jitsu skills out on the line
 
 ![](/img/dsc07210_easy-resize.com.jpg)
 
+![](/img/grapplingindustriesais08176.jpg)
+
 ![](/img/grapplingindustriesais08163_easy-resize.com.jpg)
 
 ![](/img/dsc07038_easy-resize.com.jpg)
@@ -35,6 +37,4 @@ We're happy and proud of everyone who put their jiu-jitsu skills out on the line
 
 ![](/img/dsc07105_easy-resize.com.jpg)
 
-![](/img/grapplingindustriesais08015_easy-resize.com.jpg)
-
-![](/img/dsc07074_easy-resize.com.jpg)
+![](/img/grapplingindustriesais07995.jpg)
