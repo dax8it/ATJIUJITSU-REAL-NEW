@@ -15,6 +15,30 @@ tags:
 
 - - -
 
+# **Promotions**
+
+![](/img/dsc03409.jpg)
+
+## Arianna promoted to Blue belt!!! 
+
+![](/img/dsc02386.jpg)
+
+## Chase promoted to Grey and White belt!
+
+![](/img/dsc00254.jpg)
+
+## Wyatt promoted to Grey belt!
+
+![](/img/1576706125_tmp_dsc09866.jpg)
+
+## Isaac promoted to Grey and White belt!
+
+![](/img/dsc09873.jpg)
+
+## Ezra promoted to Grey and White belt!
+
+- - -
+
 # Stripes
 
 ![](/img/dsc02378.jpg)
@@ -42,25 +66,3 @@ tags:
 ## Ulap
 
 - - -
-
-# **Promotions**
-
-![](/img/dsc03409.jpg)
-
-## Arianna promoted to Blue belt!!! 
-
-![](/img/dsc02386.jpg)
-
-## Chase promoted to Grey and White belt!
-
-![](/img/dsc00254.jpg)
-
-## Wyatt promoted to Grey belt!
-
-![](/img/1576706125_tmp_dsc09866.jpg)
-
-## Isaac promoted to Grey and White belt!
-
-![](/img/dsc09873.jpg)
-
-## Ezra promoted to Grey and White belt!
