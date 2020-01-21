@@ -15,7 +15,7 @@ tags:
 
 - - -
 
-# **Promotions**
+# **Belt Promotions**
 
 ![](/img/dsc03409.jpg)
 
