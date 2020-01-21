@@ -45,6 +45,10 @@ tags:
 
 # **Promotions**
 
+![](/img/dsc03409.jpg)
+
+## Arianna promoted to Blue belt!!! 
+
 ![](/img/dsc02386.jpg)
 
 ## Chase promoted to Grey and White belt!
