@@ -10,9 +10,11 @@ tags:
   - Blog
   - Other
 ---
-## It is with immense happiness and gratitude we officially that AT Jiu-Jitsu NYC is now officially part of Lotus Club. As we expand AT Jiu-Jitsu NYC, we are not only welcoming another dojo to our team, we are welcoming a ripple effect for a better society. We collaborate to build a better community as we build each other up. Wherever you see a Lotus Club Jiu-Jitsu school, be certain that the community around you will be a much safer, happier and more supportive one!! Please head over to their page, and give them the same support they have given us.
+## It is with immense happiness and gratitude we announce that AT Jiu-Jitsu NYC is now officially a part of Lotus Club. As we expand AT Jiu-Jitsu NYC, we are not only welcoming another dojo to our team, we are welcoming a ripple effect for a better society. We collaborate to build a better community as we build each other up. Wherever you see a Lotus Club Jiu-Jitsu school, be certain that the community around you will be a much safer, happier and more supportive one!! Please head over to their page, and give them the same support they have given us.
 
 ## <https://gentleartstudio.com/>
+
+- - -
 
 ![](/img/dsc03400.jpg)
 
@@ -31,3 +33,5 @@ tags:
 ![](/img/dsc03432.jpg)
 
 ![](/img/dsc03331.jpg)
+
+- - -
