@@ -13,6 +13,8 @@ tags:
 ---
 Thank you to all our students who showed us their talents and skills during our Talent Show! Everyone's talent is unique and special and we enjoyed watching everyone's performance of dancing and singing and jokes and magic!
 
+---
+
 ![](/img/dsc00701.jpg)
 
 Elek demonstrating his magic trick!
@@ -52,3 +54,5 @@ Angelina and Vida singing and dancing!
 ![](/img/dsc00752.jpg)
 
 Justin demonstrating his skills on the piano.
+
+---
