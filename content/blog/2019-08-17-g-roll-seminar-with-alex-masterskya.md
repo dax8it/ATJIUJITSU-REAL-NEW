@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: G-Roll Seminar with Alex Masterskya
-order: 30
+order: 9
 date: '2019-08-31'
 description: Learning how to do the G-Roll
 thumbnail: /img/dsc6904.jpg
