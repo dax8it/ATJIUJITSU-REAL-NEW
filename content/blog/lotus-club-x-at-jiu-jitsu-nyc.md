@@ -14,8 +14,6 @@ tags:
 
 ## <https://gentleartstudio.com/>
 
-- - -
-
 ![](/img/dsc03400.jpg)
 
 ![](/img/dsc03346.jpg)
@@ -33,5 +31,3 @@ tags:
 ![](/img/dsc03432.jpg)
 
 ![](/img/dsc03331.jpg)
-
-- - -
