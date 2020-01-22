@@ -11,6 +11,8 @@ tags:
 ---
 We're all proud of everyone who sacrificed their time and tested themselves at the Grappling Industries Tournament, win or lose.  
 
+- - -
+
 ![](/img/dsc03189.jpg)
 
 ![](/img/dsc03289.jpg)
@@ -30,3 +32,5 @@ We're all proud of everyone who sacrificed their time and tested themselves at t
 ![](/img/dsc02997.jpg)
 
 ![](/img/dsc03009.jpg)
+
+- - -
