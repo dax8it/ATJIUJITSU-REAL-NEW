@@ -1,6 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Img from "gatsby-image"
+import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -43,10 +44,17 @@ class BlogPostTemplate extends React.Component {
           />
 
           <footer className="post-content-footer">
-            {/* There are two options for how we display the byline/author-info.
-        If the post has more than one author, we load a specific template
-        from includes/byline-multiple.hbs, otherwise, we just use the
-        default byline. */}
+            <h2>
+              Make sure to check out all the{" "}
+              <Link to={`/tags/blog`}>
+                <b>LATEST NEWS</b>
+              </Link>{" "}
+              on our{" "}
+              <Link to={`/tags/blog`}>
+                <b>BLOG</b>
+              </Link>
+              .
+            </h2>
           </footer>
         </article>
       </Layout>

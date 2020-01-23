@@ -1,14 +1,15 @@
 ---
 templateKey: blog-post
 title: G-Roll Seminar with Alex Masterskya
-order: 9
-date: '2019-08-31'
+order: 30
+date: 2019-08-31
 description: Learning how to do the G-Roll
 thumbnail: /img/dsc6904.jpg
 home: false
 tags:
   - Blog
 ---
+
 Thank you to everyone who joined us during Alex Masterskya, G-Roll Seminar. We hope you all learned something new and different from someone else's perspective.
 
 **AUGUST 31, 2019**
