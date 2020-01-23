@@ -2,19 +2,18 @@
 templateKey: blog-post
 title: Belt Promotions and Stripes
 order: 1
-date: 2019-12-29
+date: 2019-12-29T00:00:00.000Z
 description: >-
   Here are some of our students, who with hard work and determination have
   earned their stripe or new belt!
-thumbnail: /img/img_7014.jpg
+thumbnail: /img/dsc03373.jpg
 home: false
 tags:
   - Blog
 ---
-
 **We’re proud of our students and how hard they work at achieving their goals. This is the first step in this long and wonderful journey!**
 
----
+- - -
 
 # **Belt Promotions**
 
@@ -38,7 +37,7 @@ tags:
 
 ## Ezra promoted to Grey and White belt!
 
----
+- - -
 
 # Stripes
 
@@ -66,4 +65,4 @@ tags:
 
 ## Ulap
 
----
+- - -
