@@ -12,6 +12,7 @@ const Layout = props => {
           <a
             className="nav-burger"
             href={`#`}
+            aria-label="Menu"
             onClick={() => setToggleNav(!toggleNav)}
           >
             <div className="hamburger hamburger--collapse">
