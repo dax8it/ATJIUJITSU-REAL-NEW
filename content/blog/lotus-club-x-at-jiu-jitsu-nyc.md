@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
 title: 'Lotus Club x AT Jiu-Jitsu NYC '
-order: 3
+order: 1
 date: 2020-01-21T23:48:14.019Z
 description: AT Jiu-Jitsu NYC's affiliation with Lotus Club
 thumbnail: /img/dsc03396.jpg
-home: true
+home: false
 tags:
   - Blog
 ---
