@@ -34,3 +34,5 @@ Thank you to our special guest instructor Roberto Jimenez for sharing some of yo
 ![](/img/dsc01948.jpg)
 
 ![](/img/dsc01933.jpg)
+
+---
