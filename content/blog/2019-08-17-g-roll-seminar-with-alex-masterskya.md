@@ -26,3 +26,5 @@ Thank you to everyone who joined us during Alex Masterskya, G-Roll Seminar. We h
 ![](/img/dsc6900.jpg)
 
 ![](/img/dsc05855.jpg)
+
+---
