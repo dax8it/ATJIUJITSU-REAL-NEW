@@ -41,6 +41,10 @@ tags:
 
 # Stripes
 
+![](/img/dsc04143.jpg)
+
+## Vida
+
 ![](/img/dsc02378.jpg)
 
 ## Justin
@@ -60,9 +64,5 @@ tags:
 ![](/img/dsc02375.jpg)
 
 ## **Elek**
-
-![](/img/dsc02364.jpg)
-
-## Ulap
 
 - - -
