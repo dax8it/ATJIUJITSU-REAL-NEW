@@ -6,7 +6,7 @@ date: '2019-05-01'
 description: >-
   Muay-Thai, combat sport that uses stand-up striking along with various
   clinching techniques. 
-thumbnail: /img/dsc03780.jpg
+thumbnail: /img/dsc07458.jpg
 home: true
 tags:
   - Programs
