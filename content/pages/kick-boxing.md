@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: KickBoxing
-order: 4
+order: 3
 date: '2019-05-01'
 description: Kickboxing our way to Fitness
 thumbnail: /img/kick-AIS09142.jpg
