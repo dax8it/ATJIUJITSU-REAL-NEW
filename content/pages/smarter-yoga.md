@@ -45,10 +45,8 @@ You can also learn many useful breathing techniques. Your breathing patterns can
 
 ![](/img/dsc05463.jpg)
 
-![](/img/dsc00144.jpg)
-
 ![](/img/dsc03899.jpg)
 
 ![](/img/dsc05450.jpg)
 
----
+- - -
