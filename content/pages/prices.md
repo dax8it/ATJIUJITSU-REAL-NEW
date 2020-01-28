@@ -16,7 +16,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 ## Unlimited Classes - $155/mo:
 
 * Perfect for the grappler looking to up their game
-  * Unlimited Jiujitsu
+  * Unlimited Jiu-Jitsu
   * Muay Thai
   * Kickboxing
   * Yoga
@@ -27,8 +27,8 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 * Recommended for Beginners
   * Jiu Jitsu
-  * Kickboxing
   * Muay Thai
+  * Kickboxing
   * Yoga
 
 - - -
@@ -36,7 +36,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 ## Two Times A Week - $135/mo:
 
 * Any class 2X a week
-  * Jiu-Jitsu
+  * Jiu Jitsu
   * Muay Thai
   * Kickboxing
   * Yoga
@@ -46,8 +46,8 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 ## Age 3-4 Toddler Classes - $135/mo:
 
 * Great for adventurous kids
-  * learn to concentrate
-  * learn throws (Judo)
+  * learn Discipline 
+  * learn Throws (Judo)
   * learn Self Defenses
 
 - - -
