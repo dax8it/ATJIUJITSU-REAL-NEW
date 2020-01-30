@@ -17,6 +17,10 @@ tags:
 
 # **Belt Promotions**
 
+![](/img/dsc04776.jpg)
+
+## Hannis promoted to Grey and White belt!
+
 ![](/img/dsc03409.jpg)
 
 ## Arianna promoted to Blue belt!!!
@@ -41,6 +45,14 @@ tags:
 
 # Stripes
 
+![](/img/dsc04785.jpg)
+
+## Jenniffer
+
+![](/img/dsc04779.jpg)
+
+## Gerard
+
 ![](/img/dsc04143.jpg)
 
 ## Vida
@@ -56,13 +68,5 @@ tags:
 ![](/img/dsc02358.jpg)
 
 ## Ian
-
-![](/img/dsc02369.jpg)
-
-## Angelina
-
-![](/img/dsc02375.jpg)
-
-## **Elek**
 
 - - -
