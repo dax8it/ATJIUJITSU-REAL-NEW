@@ -15,17 +15,17 @@ With our new new KettleBell class, it helps to improve core strength & stability
 
 ![](/img/dsc04047.jpg)
 
-![](/img/dsc00524.jpg)
+![](/img/dsc04886.jpg)
 
 ![](/img/dsc03988.jpg)
 
-![](/img/dsc01268.jpg)
+![](/img/dsc00524.jpg)
 
 ![](/img/dsc03938.jpg)
 
 ![](/img/dsc04081.jpg)
 
-![](/img/dsc01192.jpg)
+![](/img/dsc04938.jpg)
 
 ![](/img/dsc01451.jpg)
 
