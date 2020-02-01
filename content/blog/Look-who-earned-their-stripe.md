@@ -45,6 +45,10 @@ tags:
 
 # Stripes
 
+![](/img/dsc05003.jpg)
+
+## Shea
+
 ![](/img/dsc04785.jpg)
 
 ## Jenniffer
@@ -64,9 +68,5 @@ tags:
 ![](/img/img_0719.png)
 
 ## Francesca
-
-![](/img/dsc02358.jpg)
-
-## Ian
 
 - - -
