@@ -17,6 +17,10 @@ tags:
 
 # **Belt Promotions**
 
+![](/img/dsc05276.jpg)
+
+## Allanis promoted to Grey and White belt!
+
 ![](/img/dsc04776.jpg)
 
 ## Hannis promoted to Grey and White belt!
@@ -36,10 +40,6 @@ tags:
 ![](/img/1576706125_tmp_dsc09866.jpg)
 
 ## Isaac promoted to Grey and White belt!
-
-![](/img/dsc09873.jpg)
-
-## Ezra promoted to Grey and White belt!
 
 - - -
 
