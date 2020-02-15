@@ -17,6 +17,14 @@ tags:
 
 # **Belt Promotions**
 
+![](/img/dsc05804.jpg)
+
+## Francesca promoted to Grey and White belt! 
+
+![](/img/dsc05794.jpg)
+
+## Liliom promoted to Grey and White belt!
+
 ![](/img/dsc05276.jpg)
 
 ## Allanis promoted to Grey and White belt!
@@ -33,15 +41,7 @@ tags:
 
 ## Chase promoted to Grey and White belt!
 
-![](/img/dsc00254.jpg)
-
-## Wyatt promoted to Grey belt!
-
-![](/img/1576706125_tmp_dsc09866.jpg)
-
-## Isaac promoted to Grey and White belt!
-
-- - -
+---
 
 # Stripes
 
