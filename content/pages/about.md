@@ -38,8 +38,6 @@ Through classes focusing on mixed martial arts such as Brazilian Jiu-Jitsu, Judo
 
 <br>
 
-
-
 ![Professor Alvaro Tautiva Owner and Head Instructor](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:000000,c_fill,g_auto,r_max,w_450/v1572928676/STAFF/img_9533_evb1gz.png)
 
 # Professor Alvaro Tautiva
@@ -156,7 +154,7 @@ Gabriela, mainly known as Gaby has been training in Jiu-Jitsu for one year. She 
 
 # Arianna Calle
 
-## Head Coach
+## Coach
 
 Arianna has been training Jiu-Jitsu for 3 years now and is currently a yellow belt. She is highly motivated and a big participator in all of our classes including Muay Thai, Kickboxing, Yoga and Jiu-Jitsu. You can find her on the mats during the kids classes assisting Professor Alvaro and during the adults classes where she is constantly training.
 
