@@ -11,7 +11,7 @@ tags:
 ---
 Thank you to our special guest instructor Roberto Jimenez for sharing some of your knowledge with us and teaching us the backtake. Everyone learned something and got some good tough rolls too. Truly a great jiu-jitsu family.
 
----
+- - -
 
 ![](/img/dsc01572.jpg)
 
@@ -33,6 +33,4 @@ Thank you to our special guest instructor Roberto Jimenez for sharing some of yo
 
 ![](/img/dsc01948.jpg)
 
-![](/img/dsc01933.jpg)
-
----
+- - -
