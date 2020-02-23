@@ -17,6 +17,22 @@ tags:
 
 # **Belt Promotions**
 
+![](/img/dsc05804.jpg)
+
+## Francesca promoted to Grey and White belt! 
+
+![](/img/dsc05794.jpg)
+
+## Liliom promoted to Grey and White belt!
+
+![](/img/dsc05276.jpg)
+
+## Allanis promoted to Grey and White belt!
+
+![](/img/dsc04776.jpg)
+
+## Hannis promoted to Grey and White belt!
+
 ![](/img/dsc03409.jpg)
 
 ## Arianna promoted to Blue belt!!!
@@ -25,21 +41,25 @@ tags:
 
 ## Chase promoted to Grey and White belt!
 
-![](/img/dsc00254.jpg)
-
-## Wyatt promoted to Grey belt!
-
-![](/img/1576706125_tmp_dsc09866.jpg)
-
-## Isaac promoted to Grey and White belt!
-
-![](/img/dsc09873.jpg)
-
-## Ezra promoted to Grey and White belt!
-
-- - -
+---
 
 # Stripes
+
+![](/img/dsc05003.jpg)
+
+## Shea
+
+![](/img/dsc04785.jpg)
+
+## Jenniffer
+
+![](/img/dsc04779.jpg)
+
+## Gerard
+
+![](/img/dsc04143.jpg)
+
+## Vida
 
 ![](/img/dsc02378.jpg)
 
@@ -48,21 +68,5 @@ tags:
 ![](/img/img_0719.png)
 
 ## Francesca
-
-![](/img/dsc02358.jpg)
-
-## Ian
-
-![](/img/dsc02369.jpg)
-
-## Angelina
-
-![](/img/dsc02375.jpg)
-
-## **Elek**
-
-![](/img/dsc02364.jpg)
-
-## Ulap
 
 - - -

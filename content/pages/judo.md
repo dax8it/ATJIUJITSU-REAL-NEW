@@ -5,7 +5,7 @@ order: 7
 date: '2019-05-01'
 description: >-
   The martial art involves several holds, locks and throws. Learning balance,
-  coordination and the ability to take down someone way bigger
+  coordination and the ability to take someone down
 thumbnail: /img/dsc01093.jpg
 home: true
 tags:
@@ -17,7 +17,7 @@ tags:
 
 • Judo does not involve kicking, punching, or striking techniques of any kind.
 
-• Instead, judo simply involves two individuals who, by gripping the judo uniform, use the forces of balance, power, and movement to attempt to subdue each other. Thus,it is simple and basic. however, judo techniques often take considerable time, effort, and energy
+• Instead, judo simply involves two individuals who, by gripping the judo uniform, use the forces of balance, power, and movement to attempt to subdue each other. Thus,it is simple and basic. 
 
 • Judo is incorporated into our Jiu-Jitsu classes
 

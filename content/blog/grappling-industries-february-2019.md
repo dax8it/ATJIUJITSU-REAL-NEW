@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: Grappling Industries February 2019
+title: 'Grappling Industries, February 2019'
 order: 30
-date: 2019-02-22
+date: 2019-02-22T00:00:00.000Z
 description: >-
   Thank you to our students, Roberto and Elek for representing our school at the
   Grappling Industries Tournament.

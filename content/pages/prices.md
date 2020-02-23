@@ -9,53 +9,52 @@ home: true
 tags:
   - Other
 ---
-
 # Monthly Subscriptions
 
 We make it easy to attend our classes. Choose one of our monthly subscription plans to get the most bang for your buck. You won't see this type of offer anywhere else in the NYC area. Unlimited classes. You decide.
 
-## Unlimited Classes - \$155/mo:
+## Unlimited Classes - $155/mo:
 
-- Perfect for the grappler looking to up their game
-  - Unlimited Jiujitsu
-  - Muay Thai
-  - Kickboxing
-  - Yoga
+* Perfect for the grappler looking to up their game
+  * Unlimited Jiu-Jitsu
+  * Muay Thai
+  * Kickboxing
+  * Yoga
 
----
+- - -
 
-## Three Times A Week - \$145/mo:
+## Three Times A Week - $145/mo:
 
-- Recommended for Beginners
-  - Jiu Jitsu
-  - Kickboxing
-  - Muay Thai
-  - Yoga
+* Recommended for Beginners
+  * Jiu Jitsu
+  * Muay Thai
+  * Kickboxing
+  * Yoga
 
----
+- - -
 
-## Two Times A Week - \$135/mo:
+## Two Times A Week - $135/mo:
 
-- Any class 2X a week
-  - Jiu-Jitsu
-  - Muay Thai
-  - Kickboxing
-  - Yoga
+* Any class 2X a week
+  * Jiu Jitsu
+  * Muay Thai
+  * Kickboxing
+  * Yoga
 
----
+- - -
 
-## Age 3-4 Toddler Classes - \$135/mo:
+## Age 3-4 Toddler Classes - $135/mo:
 
-- Great for adventurous kids
-  - learn to concentrate
-  - learn throws (Judo)
-  - learn Self Defenses
+* Great for adventurous kids
+  * learn Discipline 
+  * learn Throws (Judo)
+  * learn Self Defenses
 
----
+- - -
 
-## Pay In Full (6 Months) - \$810:
+## Pay In Full (6 Months) - $810:
 
-- Unlimited Classes (\$135 x 6)
-  - 6 Month Agreement
-  - Unlimited Classes
-  - $135 Monthly (Compared to $155)
+* Unlimited Classes ($135 x 6 Months)
+  * 6 Month Agreement
+  * Unlimited Classes
+  * $135 Monthly (Compared to $155)
