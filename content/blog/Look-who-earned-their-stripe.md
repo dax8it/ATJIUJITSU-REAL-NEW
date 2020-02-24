@@ -19,7 +19,7 @@ tags:
 
 ![](/img/dsc05804.jpg)
 
-## Francesca promoted to Grey and White belt! 
+## Francesca promoted to Grey and White belt!
 
 ![](/img/dsc05794.jpg)
 
@@ -41,9 +41,13 @@ tags:
 
 ## Chase promoted to Grey and White belt!
 
----
+- - -
 
 # Stripes
+
+![](/img/img_1469.jpg)
+
+## Oliver 
 
 ![](/img/dsc05003.jpg)
 
@@ -64,9 +68,5 @@ tags:
 ![](/img/dsc02378.jpg)
 
 ## Justin
-
-![](/img/img_0719.png)
-
-## Francesca
 
 - - -
