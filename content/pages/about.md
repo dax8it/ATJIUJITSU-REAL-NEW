@@ -77,8 +77,6 @@ Having been raised in Jackson Heights his whole life, Professor Alvaro dreamt ab
 
 ## Morning Class Jiu-Jitsu Instructor
 
-Alex Castro is currently a black belt under Vitor Shaolin. Alex has been teaching the morning classes at AT Jiu-Jitsu NYC for over a year now every Tuesday and Thursday from 6:15 a.m. to 7:30 a.m. Besides being an instructor, Alex spends his most important time as a father of two who have also been training for over a year now with us. 
-
 <br>
 
 - - -
