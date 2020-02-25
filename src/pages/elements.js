@@ -121,6 +121,22 @@ const ElementsPage = ({ data }, location) => {
             </dd>
           </dl>
           <hr />
+
+          <a
+            href="javascript:void(
+        window.open(
+          'https://form.jotform.com/200527521454145',
+          'blank',
+          'scrollbars=yes,
+          toolbar=no,
+          width=700,
+          height=500'
+        )
+      )
+    "
+          >
+            ATJIUJITSUNYC TRAIL AND FULL MEMBERSHIP FORM
+          </a>
           <h2 id="blockquote">
             <strong>Blockquote</strong>
           </h2>
@@ -360,14 +376,16 @@ const ElementsPage = ({ data }, location) => {
               </div>
             </div>
           </form>
+
           <h2 id="code">Code</h2>
           <pre>
             <code>
               i = <span style={{ color: "rgb(191,90,242)" }}>0</span>;{"\n"}
               {"\n"}
               <span style={{ color: "rgb(10,132,255)" }}>while</span> (!deck.
-              <span style={{ color: "rgb(255,214,10)" }}>isInOrder</span>()){" "}
-              {"{"}
+              <span style={{ color: "rgb(255,214,10)" }}>
+                isInOrder
+              </span>()) {"{"}
               {"\n"}
               {"    "}print{" "}
               <span style={{ color: "rgb(50,215,75)" }}>'Iteration '</span> + i;
