@@ -40,6 +40,7 @@ Through classes focusing on mixed martial arts such as Brazilian Jiu-Jitsu, Judo
 
 ![Professor Alvaro Tautiva Owner and Head Instructor](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:000000,c_fill,g_auto,r_max,w_450/v1572928676/STAFF/img_9533_evb1gz.png)
 
+
 # Professor Alvaro Tautiva
 
 ## Owner and Head Instructor
