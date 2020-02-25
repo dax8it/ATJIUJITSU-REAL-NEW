@@ -70,6 +70,21 @@ Having been raised in Jackson Heights his whole life, Professor Alvaro dreamt ab
 
 <br>
 
+![]
+(https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_7px_solid_rgb:000000,c_fill,fl_clip,g_auto,r_max,w_1000/v1582594935/65968774_10156463402248697_5243164133561466880_o_ivegh3.jpg)
+
+# Alex Castro
+
+## Morning Class Jiu-Jitsu Instructor
+
+Alex Castro is currently a black belt under Vitor Shaolin. Alex has been teaching the morning classes at AT Jiu-Jitsu NYC for over a year now every Tuesday and Thursday from 6:15 a.m. to 7:30 a.m. Besides being an instructor, Alex spends his most important time as a father of two who have also been training for over a year now with us. 
+
+<br>
+
+- - -
+
+<br>
+
 ![Kim-Lien KendallSmarteryoga Instructor/ Kids Brazilian Jiu-Jitsu and Judo Assistant Instructor](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:000000,c_fill,g_auto,r_max,w_450/v1570034552/STAFF/kim_bg_pio3vb.png)
 
 # Kim-Lien Kendall
