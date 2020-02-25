@@ -72,7 +72,7 @@ Having been raised in Jackson Heights his whole life, Professor Alvaro dreamt ab
 <br>
 
 
-![]
+![Alex Castro Morning Class Jiu-Jitsu Instructor]
 (https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:000000,c_fill,g_auto,r_max,w_450/v1582671629/STAFF/alex_castro_g05d9d.png)
 
 # Alex Castro
