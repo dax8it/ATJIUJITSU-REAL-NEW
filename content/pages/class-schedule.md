@@ -21,7 +21,11 @@ tags:
 
 **\- Kids receive a free gi!**
 
-For more info Contact Us by calling (917)-745-1772 or email <mailto:atjiujitsunyc@gmail.com>
+## Get started now!
+
+## Sign up for a trial here:
+
+ <https://form.jotform.com/200527521454145>
 
 Check out our adult and kids schedule below.
 
@@ -36,11 +40,11 @@ Check out our adult and kids schedule below.
 
 ## TUESDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **Jiu-Jitsu:** 6:15 to 7:30 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **Muay Thai:** 6:00 to 6:45 pm
 * **Smarter Yoga:** 7:10 to 8:00 pm
@@ -53,11 +57,11 @@ _**Morning Class**_
 
 ## THURSDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **Jiu-Jitsu:** 6:15 to 7:30 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **KettleBell Class:** 6:00 to 6:45 pm
 * **Jiu-Jitsu:** 7:15 to 8:30 pm
