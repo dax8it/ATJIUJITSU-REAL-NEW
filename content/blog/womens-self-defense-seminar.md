@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Womens Self Defense Seminar
 order: 30
-date: 2020-03-28T22:30:05.290Z
+date: 2020-03-28T18:30:00.000Z
 description: >-
   Guest Instructor Sepi Melamed will be stopping by on Saturday, March 28th for
   a women's self defense seminar from 2:30 to 4:30 p.m.
