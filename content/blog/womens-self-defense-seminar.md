@@ -11,4 +11,4 @@ home: false
 tags:
   - Blog
 ---
-Sepi is a 3rd degree black belt in Krav Maga, awarded by John Whitman, founder of Krav Maga alliance and a purple belt in Brazilian Jiu-Jitsu.
+# Sepi is a 3rd degree black belt in Krav Maga, awarded by John Whitman, founder of Krav Maga alliance and a purple belt in Brazilian Jiu-Jitsu.
