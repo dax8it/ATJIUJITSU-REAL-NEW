@@ -2,22 +2,22 @@
 templateKey: blog-post
 title: Womens Self Defense Seminar
 order: 30
-date: 2020-03-28T18:30:00.000Z
+date: 2020-03-28T17:00:00.000Z
 description: >-
   Guest Instructor Sepi Melamed will be stopping by on Saturday, March 28th for
-  a women's self defense seminar from 2:30 to 4:30 p.m at AT JIU-JITSU NYC.
+  a women's self defense seminar from 1:00 to 3:00 p.m at AT JIU-JITSU NYC.
 thumbnail: /img/self-defense-seminar.jpg
 home: false
 tags:
   - Blog
 ---
-* # Sepi is a 3rd degree black belt in Krav Maga, awarded by John Whitman, founder of Krav Maga alliance and a purple belt in Brazilian Jiu-Jitsu.
-* # This seminar is open to everyone. If you would like to attend please email us at at atjiujitsunyc@gmail.com or dm us on Instagram at @jiujitsunyc with a message that you would like to join
+* ## Sepi is a 3rd degree black belt in Krav Maga, awarded by John Whitman, founder of Krav Maga alliance and a purple belt in Brazilian Jiu-Jitsu.
+* ## This seminar is open to everyone. If you would like to attend please email us at at atjiujitsunyc@gmail.com or dm us on Instagram at @jiujitsunyc with a message that you would like to join
 
-## Members- $20
+# Members- $20
 
-## Public- $30
+# Public- $30
 
-## Special- 2 Guests for $40
+# Special- 2 Guests for $40
 
-## Limited Spots Availiable. Don't miss out!!!
+# Limited Spots Availiable. Don't miss out!!!
