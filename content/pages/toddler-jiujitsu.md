@@ -31,6 +31,6 @@ tags:
 
 ![](/img/dsc09880.jpg)
 
-![]()
+![](/img/dsc01389.jpg)
 
 ![](/img/dsc09254.jpg)
