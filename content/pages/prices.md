@@ -13,6 +13,26 @@ tags:
 
 We make it easy to attend our classes. Choose one of our monthly subscription plans to get the most bang for your buck. You won't see this type of offer anywhere else in the NYC area. Unlimited classes. You decide.
 
+<a
+            href="javascript:void(
+        window.open(
+          'https://form.jotform.com/200527521454145',
+          'blank',
+          'scrollbars=yes,
+          toolbar=no,
+          width=700,
+          height=500'
+        )
+      )
+    "
+          >
+ATJIUJITSUNYC TRIAL MEMBERSHIP FORM
+</a>
+
+<br>
+
+- - -
+
 ## Unlimited Classes - $155/mo:
 
 * Perfect for the grappler looking to up their game
