@@ -11,6 +11,32 @@ tags:
 ---
 With our new new KettleBell class, it helps to improve core strength & stability, enhances body awareness & coordination, improves balance & helps to stabilize muscles.
 
+
+## Get started now!
+
+## Sign up for a trial here:
+
+<a
+            href="javascript:void(
+        window.open(
+          'https://form.jotform.com/200527521454145',
+          'blank',
+          'scrollbars=yes,
+          toolbar=no,
+          width=700,
+          height=500'
+        )
+      )
+    "
+          >
+ATJIUJITSUNYC TRIAL MEMBERSHIP FORM
+</a>
+
+<br>
+
+---
+
+
 ![](/img/dsc00634.jpg)
 
 ![](/img/dsc04047.jpg)
