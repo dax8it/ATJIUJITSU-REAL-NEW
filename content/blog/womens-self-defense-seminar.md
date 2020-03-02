@@ -6,7 +6,7 @@ date: 2020-03-28T17:00:00.000Z
 description: >-
   Guest Instructor Sepi Melamed will be stopping by on Saturday, March 28th for
   a women's self defense seminar from 1:00 to 3:00 p.m at AT JIU-JITSU NYC.
-thumbnail: /img/self-defense-seminar.jpg
+thumbnail: /img/self-defense-sem.jpg
 home: false
 tags:
   - Blog
