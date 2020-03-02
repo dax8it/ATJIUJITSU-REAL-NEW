@@ -19,6 +19,31 @@ tags:
 
 • Our toddler class are for Ages 3-4. Recommended for active children who are eager to learn.
 
+
+## Get started now!
+
+## Sign up for a trial here:
+
+<a
+            href="javascript:void(
+        window.open(
+          'https://form.jotform.com/200527521454145',
+          'blank',
+          'scrollbars=yes,
+          toolbar=no,
+          width=700,
+          height=500'
+        )
+      )
+    "
+          >
+ATJIUJITSUNYC TRIAL MEMBERSHIP FORM
+</a>
+
+<br>
+
+- - -
+
 ![](/img/dsc09448.jpg)
 
 ![](/img/dsc04973.jpg)
