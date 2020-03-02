@@ -18,6 +18,7 @@ tags:
 • Students benefit from greatly increased physical fitness, problem-solving ability, self-knowledge of their body and mind and the many social benefits of working and growing with your classmates.
 
 ## Get started now!
+
 ## Sign up for a trial here:
 
 <a
