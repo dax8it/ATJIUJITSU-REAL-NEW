@@ -21,6 +21,28 @@ tags:
 
 <br>
 
+## Get started now!
+
+## Sign up for a trial here:
+
+<a
+            href="javascript:void(
+        window.open(
+          'https://form.jotform.com/200527521454145',
+          'blank',
+          'scrollbars=yes,
+          toolbar=no,
+          width=700,
+          height=500'
+        )
+      )
+    "
+          >
+ATJIUJITSUNYC TRIAL MEMBERSHIP FORM
+</a>
+
+<br>
+
 - - -
 
 ![](/img/dsc02721.jpg)
