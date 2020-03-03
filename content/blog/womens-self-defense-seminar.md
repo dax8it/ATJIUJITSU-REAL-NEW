@@ -21,3 +21,25 @@ tags:
 # Special- 2 Guests for $40
 
 # Limited Spots Availiable. Don't miss out!!!
+
+## Get started now!
+
+## Sign the waiver here:
+
+<a
+            href="javascript:void(
+        window.open(
+          'https://form.jotform.com/200527521454145',
+          'blank',
+          'scrollbars=yes,
+          toolbar=no,
+          width=700,
+          height=500'
+        )
+      )
+    "
+          >
+ATJIUJITSUNYC TRIAL MEMBERSHIP FORM
+</a>
+
+<br>
