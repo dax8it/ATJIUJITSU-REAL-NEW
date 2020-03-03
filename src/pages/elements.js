@@ -135,8 +135,9 @@ const ElementsPage = ({ data }, location) => {
       )
     "
           >
-            ATJIUJITSUNYC TRAIL AND FULL MEMBERSHIP FORM
+            ATJIUJITSUNYC MEMBERSHIP FORM
           </a>
+
           <h2 id="blockquote">
             <strong>Blockquote</strong>
           </h2>

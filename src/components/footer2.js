@@ -72,7 +72,9 @@ const Footer2 = class extends React.Component {
                   <br />
                   <br></br>
                   Call Us <br />
-                  <b>(917)-745-1772</b>
+                  <a href="tel:9177451772">
+                    <b>(917)-745-1772</b>
+                  </a>
                 </p>
               </div>
             </div>
