@@ -17,6 +17,14 @@ tags:
 
 # **Belt Promotions**
 
+![](/img/dsc06937.jpg)
+
+## Kaitlyn promoted to Grey and White belt! 
+
+![](/img/img_1570.jpg)
+
+## Dion promoted to Grey belt!
+
 ![](/img/dsc05804.jpg)
 
 ## Francesca promoted to Grey and White belt!
@@ -37,17 +45,13 @@ tags:
 
 ## Arianna promoted to Blue belt!!!
 
-![](/img/dsc02386.jpg)
-
-## Chase promoted to Grey and White belt!
-
 - - -
 
 # Stripes
 
 ![](/img/img_1469.jpg)
 
-## Oliver 
+## Oliver
 
 ![](/img/dsc05003.jpg)
 
