@@ -25,6 +25,10 @@ tags:
 
 ## Dion promoted to Grey belt!
 
+![](/img/img_1613.png)
+
+## Richard promoted to Blue belt!
+
 ![](/img/dsc05804.jpg)
 
 ## Francesca promoted to Grey and White belt!
@@ -32,10 +36,6 @@ tags:
 ![](/img/dsc05794.jpg)
 
 ## Liliom promoted to Grey and White belt!
-
-![](/img/dsc05276.jpg)
-
-## Allanis promoted to Grey and White belt!
 
 ![](/img/dsc04776.jpg)
 
@@ -51,7 +51,7 @@ tags:
 
 ![](/img/dsc07226.jpg)
 
-## Giovanna 
+## Giovanna
 
 ![](/img/dsc07217.jpg)
 
