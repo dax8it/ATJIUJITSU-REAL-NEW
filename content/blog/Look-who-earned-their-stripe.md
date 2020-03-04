@@ -19,7 +19,7 @@ tags:
 
 ![](/img/dsc06937.jpg)
 
-## Kaitlyn promoted to Grey and White belt! 
+## Kaitlyn promoted to Grey and White belt!
 
 ![](/img/img_1570.jpg)
 
@@ -49,6 +49,14 @@ tags:
 
 # Stripes
 
+![](/img/dsc07226.jpg)
+
+## Giovanna 
+
+![](/img/dsc07217.jpg)
+
+## Angel
+
 ![](/img/img_1469.jpg)
 
 ## Oliver
@@ -64,13 +72,5 @@ tags:
 ![](/img/dsc04779.jpg)
 
 ## Gerard
-
-![](/img/dsc04143.jpg)
-
-## Vida
-
-![](/img/dsc02378.jpg)
-
-## Justin
 
 - - -
