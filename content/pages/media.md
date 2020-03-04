@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Media
 order: 11
-date: '2019-12-11'
+date: "2019-12-11"
 description: >-
   Check out our videos and subscribe to our Youtube channel for more content on
   all of our classes!
@@ -19,7 +19,7 @@ tags:
 <a
             href="javascript:void(
         window.open(
-          'https://form.jotform.com/200527521454145',
+          'https://form.jotform.com/atjiujitsudev/studio-membership',
           'blank',
           'scrollbars=yes,
           toolbar=no,
@@ -29,7 +29,7 @@ tags:
       )
     "
           >
-ATJIUJITSUNYC TRIAL MEMBERSHIP FORM
+ATJIUJITSUNYC MEMBERSHIP FORM
 </a>
 
 <br>

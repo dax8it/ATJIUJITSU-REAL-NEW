@@ -2,15 +2,15 @@
 templateKey: blog-post
 title: KickBoxing
 order: 3
-date: '2019-05-01'
+date: "2019-05-01"
 description: Kickboxing our way to Fitness
 thumbnail: /img/kick-AIS09142.jpg
 home: true
 tags:
   - Programs
 ---
-`youtube: https://youtu.be/YEhrXn8-qeU`
 
+`youtube: https://youtu.be/YEhrXn8-qeU`
 
 ## Get started now!
 
@@ -19,7 +19,7 @@ tags:
 <a
             href="javascript:void(
         window.open(
-          'https://form.jotform.com/200527521454145',
+          'https://form.jotform.com/atjiujitsudev/studio-membership',
           'blank',
           'scrollbars=yes,
           toolbar=no,
@@ -29,12 +29,12 @@ tags:
       )
     "
           >
-ATJIUJITSUNYC TRIAL MEMBERSHIP FORM
+ATJIUJITSUNYC MEMBERSHIP FORM
 </a>
 
 <br>
 
-- - -
+---
 
 <br>
 

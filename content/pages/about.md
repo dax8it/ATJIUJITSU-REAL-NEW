@@ -2,13 +2,14 @@
 templateKey: blog-post
 title: About Us
 order: 9
-date: '2019-05-03'
+date: "2019-05-03"
 description: Meet our staff and crew that make all of our classes possible.
 thumbnail: /img/dsc06203-1-.jpg
 home: true
 tags:
   - Other
 ---
+
 <div class="video-responsive">
                     <iframe
                       src="https://player.cloudinary.com/embed/?cloud_name=dax8it&public_id=https%3A%2F%2Fres.cloudinary.com%2Fdax8it%2Fvideo%2Fupload%2Fv1575694094%2Fatjiujitsunyc%2FATJIUJITSUNYC_INTRO.mp4&fluid=true&controls=true&colors%5Baccent%5D=%2363b9ef&show_jump_controls=false&floating_when_not_visible=false&hide_context_menu=false&logo_image_url=https%3A%2F%2Fres.cloudinary.com%2Fdax8it%2Fimage%2Fupload%2Fv1549678229%2Fatjiujitsunyc%2Flogo.png&poster_options%5Btransformation%5D%5Bstart_offset%5D=6&autoplay_on_scroll=false&info%5Btitle%5D=WELCOME%20TO%20ATJIUJITSUNYC"
@@ -22,7 +23,7 @@ tags:
                   <br />
                 </div>
 
-- - -
+---
 
 # Welcome to ATJIUJITSUNYC
 
@@ -39,7 +40,7 @@ Through classes focusing on mixed martial arts such as Brazilian Jiu-Jitsu, Judo
 <a
             href="javascript:void(
         window.open(
-          'https://form.jotform.com/200527521454145',
+          'https://form.jotform.com/atjiujitsudev/studio-membership',
           'blank',
           'scrollbars=yes,
           toolbar=no,
@@ -49,18 +50,18 @@ Through classes focusing on mixed martial arts such as Brazilian Jiu-Jitsu, Judo
       )
     "
           >
-ATJIUJITSUNYC TRIAL MEMBERSHIP FORM
+ATJIUJITSUNYC MEMBERSHIP FORM
 </a>
 
 <br>
 
-- - -
+---
 
 # Our Team
 
 <br>
 
-![Professor Alvaro Tautiva Owner and Head Instructor](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:000000,c_fill,g_auto,r_max,w_450/v1572928676/STAFF/img_9533_evb1gz.png)
+![Professor Alvaro Tautiva Owner and Head Instructor](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1583298686/STAFF/IMG_9614-Edit_qbrbjs.png)
 
 # Professor Alvaro Tautiva
 
@@ -74,21 +75,21 @@ An active competitor in the BJJ scene, Professor Alvaro has competed and medaled
 
 **Some current titles include:**
 
-* IBJJF Summer Open 2017: Brown Belt Master 1 Feather Champion
-* Pan Jiu-jitsu No Gi IBJJF Championship 2015: Purple Belt Master 1 Feather Champion
-* World Master Jiu-jitsu IBJJF Championships 2015: Purple Belt Master 1 Second Place
-* New York Summer International IBJJF Open 2015: Purple Master 1 Second Place
-* Big Apple Open 2015: Purple Belt Adult Feather Champion
-* Good Fight 2013 Summer Classic: Purple Belt Adult Light Champion
-* Good Fight 2012 Winter Classic: Blue Adult Feather Gi/No Gi Champion/Open Weight Gi Champ
-* Long Island Pride XVI: Blue Open Weight No-Gi Champion
-* Boston IBJJF International Open 2012: Blue Belt Feather Third Place
+- IBJJF Summer Open 2017: Brown Belt Master 1 Feather Champion
+- Pan Jiu-jitsu No Gi IBJJF Championship 2015: Purple Belt Master 1 Feather Champion
+- World Master Jiu-jitsu IBJJF Championships 2015: Purple Belt Master 1 Second Place
+- New York Summer International IBJJF Open 2015: Purple Master 1 Second Place
+- Big Apple Open 2015: Purple Belt Adult Feather Champion
+- Good Fight 2013 Summer Classic: Purple Belt Adult Light Champion
+- Good Fight 2012 Winter Classic: Blue Adult Feather Gi/No Gi Champion/Open Weight Gi Champ
+- Long Island Pride XVI: Blue Open Weight No-Gi Champion
+- Boston IBJJF International Open 2012: Blue Belt Feather Third Place
 
 Having been raised in Jackson Heights his whole life, Professor Alvaro dreamt about being able to bring Jiu-Jitsu to his community and giving members the opportunity to connect and interact with other members of the community while engaging in classes.
 
 <br>
 
-- - -
+---
 
 <br>
 
@@ -100,11 +101,11 @@ Having been raised in Jackson Heights his whole life, Professor Alvaro dreamt ab
 
 <br>
 
-- - -
+---
 
 <br>
 
-![Kim-Lien KendallSmarteryoga Instructor/ Kids Brazilian Jiu-Jitsu and Judo Assistant Instructor](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:000000,c_fill,g_auto,r_max,w_450/v1570034552/STAFF/kim_bg_pio3vb.png)
+![Kim-Lien KendallSmarteryoga Instructor/ Kids Brazilian Jiu-Jitsu and Judo Assistant Instructor](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1583298661/STAFF/IMG_9662-Edit_yofzma.png)
 
 # Kim-Lien Kendall
 
@@ -116,11 +117,11 @@ Kim has a BS in Biochemistry from Florida State University (2005), is certified 
 
 <br>
 
-- - -
+---
 
 <br>
 
-![](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:000000,c_fill,g_auto,r_max,w_450/v1570035473/STAFF/0_vidkvp.png)
+![Morgan Chen](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1583298692/STAFF/IMG_9669-Edit_mhgkln.png)
 
 # Morgan Chen
 
@@ -132,11 +133,11 @@ Morgan admits to being a diehard **NY Knicks** and **New York Mets** fan, and re
 
 <br>
 
-- - -
+---
 
 <br>
 
-![](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:030303,c_fill,g_auto,r_max,w_450/v1570034552/STAFF/img_8240_eoyl9q.png)
+![Rocco Giambrone](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1583298671/STAFF/IMG_9653-Edit_wf35ni.png)
 
 # Rocco Giambrone
 
@@ -150,11 +151,11 @@ Born and raised in Astoria, Queens, Rocco is a die-hard New Yorker. A big advoca
 
 <br>
 
-- - -
+---
 
 <br>
 
-![Natalia VallebuonaProgram Director](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:000000,c_fill,g_auto,r_max,w_450/v1570034552/STAFF/natalia_o5xxt6.png)
+![Natalia Vallebuona - Program Director](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1583298680/STAFF/IMG_9694-Edit_wikw61.png)
 
 # Natalia
 
@@ -166,7 +167,7 @@ Natalia has always loved caring for children and was studying to become a teache
 
 <br>
 
-- - -
+---
 
 <br>
 
@@ -180,11 +181,11 @@ Gabriela, mainly known as Coach Gaby has been training in Jiu-Jitsu for one year
 
 <br>
 
-- - -
+---
 
 <br>
 
-![Arianna Calle](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:000000,c_fill,g_auto,r_max,w_450/v1570034555/STAFF/dsc04092_aaw1dy.png)
+![Arianna Calle](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1583298692/STAFF/IMG_9716-Edit_e3mlnh.png)
 
 # Arianna Calle
 
@@ -194,11 +195,11 @@ Arianna has been training Jiu-Jitsu for 4 years now and is currently a blue belt
 
 <br>
 
-- - -
+---
 
 <br>
 
-![Daniela Tautiva M.S.WCo-Owner and Assistant Program Director](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:000000,c_fill,g_auto,r_max,w_450/v1570034551/STAFF/daniela_gl2skd.png "Daniela Tautiva M.S.WCo-Owner and Assistant Program Director")
+![Daniela Tautiva M.S.WCo-Owner and Assistant Program Director](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1583298673/STAFF/IMG_9722-Edit_xhvhqb.png "Daniela Tautiva M.S.WCo-Owner and Assistant Program Director")
 
 # Daniela Tautiva M.S.W
 
@@ -209,3 +210,5 @@ Daniela obtained her Masters in Social Work from Adelphi University in 2018 and 
 As Co-Owner and Assistant Program Director of AT Jiu-Jitsu NYC, Daniela has worked closely with Professor Alvaro to ensure that the programs offered at our school are tailored to the needs of every child and adult, with the goal of assisting our members in working to build confidence.
 
 Daniela is a 2nd Degree Brown Belt in Shotokan Karate through Sensei Kai Leung and is currently a purple belt in Brazilian Jiu-Jitsu.
+
+---

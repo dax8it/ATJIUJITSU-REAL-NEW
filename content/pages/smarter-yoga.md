@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Smarter Yoga
 order: 6
-date: '2019-07-13'
+date: "2019-07-13"
 description: >-
   Instructor Kim discusses the benefits of smarter YOGA to improve your
   jiu-jitsu ability.
@@ -11,8 +11,8 @@ home: true
 tags:
   - Programs
 ---
-<br>
 
+<br>
 
 ## Get started now!
 
@@ -21,7 +21,7 @@ tags:
 <a
             href="javascript:void(
         window.open(
-          'https://form.jotform.com/200527521454145',
+          'https://form.jotform.com/atjiujitsudev/studio-membership',
           'blank',
           'scrollbars=yes,
           toolbar=no,
@@ -31,12 +31,12 @@ tags:
       )
     "
           >
-ATJIUJITSUNYC TRIAL MEMBERSHIP FORM
+ATJIUJITSUNYC MEMBERSHIP FORM
 </a>
 
 <br>
 
-- - -
+---
 
 <br>
 
@@ -58,7 +58,7 @@ You can also learn many useful breathing techniques. Your breathing patterns can
 
 <br>
 
-- - -
+---
 
 ![](/img/dsc03884.jpg)
 
@@ -78,4 +78,4 @@ You can also learn many useful breathing techniques. Your breathing patterns can
 
 ![](/img/dsc06223.jpg)
 
-- - -
+---

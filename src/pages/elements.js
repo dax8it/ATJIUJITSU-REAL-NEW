@@ -125,7 +125,7 @@ const ElementsPage = ({ data }, location) => {
           <a
             href="javascript:void(
         window.open(
-          'https://form.jotform.com/200527521454145',
+          'https://form.jotform.com/atjiujitsudev/studio-membership',
           'blank',
           'scrollbars=yes,
           toolbar=no,

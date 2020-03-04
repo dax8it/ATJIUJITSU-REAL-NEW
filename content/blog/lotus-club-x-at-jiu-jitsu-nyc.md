@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Lotus Club x AT Jiu-Jitsu NYC '
+title: "Lotus Club x AT Jiu-Jitsu NYC "
 order: 30
 date: 2020-01-20T00:00:00.000Z
 description: AT Jiu-Jitsu NYC's affiliation with Lotus Club
@@ -9,6 +9,7 @@ home: true
 tags:
   - Blog
 ---
+
 ![](/img/logo-removebg-preview.png)
 
 ## It is with immense happiness and gratitude we announce that AT Jiu-Jitsu NYC is now officially a part of Lotus Club. As we expand AT Jiu-Jitsu NYC, we are not only welcoming another dojo to our team, we are welcoming a ripple effect for a better society. We collaborate to build a better community as we build each other up. Wherever you see a Lotus Club Jiu-Jitsu school, be certain that the community around you will be a much safer, happier and more supportive one!!! Please head over to their page, and give them the same support they have given us.
@@ -22,7 +23,7 @@ tags:
 <a
             href="javascript:void(
         window.open(
-          'https://form.jotform.com/200527521454145',
+          'https://form.jotform.com/atjiujitsudev/studio-membership',
           'blank',
           'scrollbars=yes,
           toolbar=no,
@@ -32,12 +33,12 @@ tags:
       )
     "
           >
-ATJIUJITSUNYC TRIAL MEMBERSHIP FORM
+ATJIUJITSUNYC MEMBERSHIP FORM
 </a>
 
 <br>
 
-- - -
+---
 
 ![](/img/dsc03400.jpg)
 
@@ -65,4 +66,4 @@ ATJIUJITSUNYC TRIAL MEMBERSHIP FORM
 
 ![](/img/dsc09439.jpg)
 
-- - -
+---

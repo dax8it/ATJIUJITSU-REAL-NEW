@@ -3,14 +3,14 @@ templateKey: blog-post
 title: KettleBell
 order: 5
 date: 2020-01-06T22:49:38.439Z
-description: 'For toning and strengthening, try our new Kettlebell class! '
+description: "For toning and strengthening, try our new Kettlebell class! "
 thumbnail: /img/dsc01419.jpg
 home: true
 tags:
   - Programs
 ---
-With our new new KettleBell class, it helps to improve core strength & stability, enhances body awareness & coordination, improves balance & helps to stabilize muscles.
 
+With our new new KettleBell class, it helps to improve core strength & stability, enhances body awareness & coordination, improves balance & helps to stabilize muscles.
 
 ## Get started now!
 
@@ -19,7 +19,7 @@ With our new new KettleBell class, it helps to improve core strength & stability
 <a
             href="javascript:void(
         window.open(
-          'https://form.jotform.com/200527521454145',
+          'https://form.jotform.com/atjiujitsudev/studio-membership',
           'blank',
           'scrollbars=yes,
           toolbar=no,
@@ -29,13 +29,12 @@ With our new new KettleBell class, it helps to improve core strength & stability
       )
     "
           >
-ATJIUJITSUNYC TRIAL MEMBERSHIP FORM
+ATJIUJITSUNYC MEMBERSHIP FORM
 </a>
 
 <br>
 
-- - -
-
+---
 
 ![](/img/dsc00634.jpg)
 

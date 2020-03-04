@@ -2,15 +2,16 @@
 templateKey: blog-post
 title: Muay Thai
 order: 4
-date: '2019-05-01'
+date: "2019-05-01"
 description: >-
   Muay-Thai, combat sport that uses stand-up striking along with various
-  clinching techniques. 
+  clinching techniques.
 thumbnail: /img/dsc05861.jpg
 home: true
 tags:
   - Programs
 ---
+
 # Muay Thai
 
 • A highly-effective self-defense martial art. Contrary to the popular belief, Muay Thai is not the same as kickboxing. The two are often mistaken for one another, which is a common misconception. Although there are significant similarities between them, the key difference is that Muay Thai allows the use of elbows.
@@ -28,7 +29,7 @@ tags:
 <a
             href="javascript:void(
         window.open(
-          'https://form.jotform.com/200527521454145',
+          'https://form.jotform.com/atjiujitsudev/studio-membership',
           'blank',
           'scrollbars=yes,
           toolbar=no,
@@ -38,12 +39,12 @@ tags:
       )
     "
           >
-ATJIUJITSUNYC TRIAL MEMBERSHIP FORM
+ATJIUJITSUNYC MEMBERSHIP FORM
 </a>
 
 <br>
 
-- - -
+---
 
 ![](/img/dsc02721.jpg)
 

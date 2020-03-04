@@ -11,14 +11,15 @@ home: false
 tags:
   - Blog
 ---
-* ## Sepi is a 3rd degree black belt in Krav Maga, awarded by John Whitman, founder of Krav Maga alliance and a purple belt in Brazilian Jiu-Jitsu.
-* ## This seminar is open to everyone. If you would like to attend please email us at at atjiujitsunyc@gmail.com or dm us on Instagram at @jiujitsunyc with a message that you would like to join
 
-# Members- $20
+- ## Sepi is a 3rd degree black belt in Krav Maga, awarded by John Whitman, founder of Krav Maga alliance and a purple belt in Brazilian Jiu-Jitsu.
+- ## This seminar is open to everyone. If you would like to attend please email us at at atjiujitsunyc@gmail.com or dm us on Instagram at @jiujitsunyc with a message that you would like to join
 
-# Public- $30
+# Members- \$20
 
-# Special- 2 Guests for $40
+# Public- \$30
+
+# Special- 2 Guests for \$40
 
 # Limited Spots Availiable. Don't miss out!!!
 
@@ -29,7 +30,7 @@ tags:
 <a
             href="javascript:void(
         window.open(
-          'https://form.jotform.com/200527521454145',
+          'https://form.jotform.com/atjiujitsudev/studio-membership',
           'blank',
           'scrollbars=yes,
           toolbar=no,
@@ -39,7 +40,7 @@ tags:
       )
     "
           >
-ATJIUJITSUNYC TRIAL MEMBERSHIP FORM
+ATJIUJITSUNYC MEMBERSHIP FORM
 </a>
 
 <br>
