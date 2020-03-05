@@ -3,12 +3,15 @@ templateKey: blog-post
 title: KettleBell
 order: 5
 date: 2020-01-06T22:49:38.439Z
-description: "For toning and strengthening, try our new Kettlebell class! "
+description: 'For toning and strengthening, try our new Kettlebell class! '
 thumbnail: /img/dsc01419.jpg
 home: true
 tags:
   - Programs
 ---
+# Kettlebell
+
+## The best weight training program in Jackson Heights, NY!
 
 With our new new KettleBell class, it helps to improve core strength & stability, enhances body awareness & coordination, improves balance & helps to stabilize muscles.
 
@@ -34,7 +37,7 @@ ATJIUJITSUNYC MEMBERSHIP FORM
 
 <br>
 
----
+- - -
 
 ![](/img/dsc00634.jpg)
 
