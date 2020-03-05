@@ -9,7 +9,7 @@ home: true
 tags:
   - Programs
 ---
-# Kettlebell 
+# Kettlebell
 
 ## The best weight training program in Jackson Heights, NY!
 
