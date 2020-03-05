@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Judo
 order: 7
-date: "2019-05-01"
+date: '2019-05-01'
 description: >-
   The martial art involves several holds, locks and throws. Learning balance,
   coordination and the ability to take someone down
@@ -11,8 +11,9 @@ home: true
 tags:
   - Programs
 ---
-
 # Judo
+
+## The best Judo program in Jackson Heights, NY!
 
 • Judo is a tremendous and dynamic combat sport that demands both physical prowess and great mental discipline. From a standing position, it involves techniques that allow you to lift and throw your opponents onto their backs.
 
@@ -46,7 +47,7 @@ ATJIUJITSUNYC MEMBERSHIP FORM
 
 <br>
 
----
+- - -
 
 ![](/img/dsc01818.jpg)
 
