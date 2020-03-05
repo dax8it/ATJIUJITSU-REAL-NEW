@@ -2,15 +2,16 @@
 templateKey: blog-post
 title: Jiu Jitsu
 order: 2
-date: "2019-05-01"
-description: "Jiu Jitsu is so much more than a sport, it’s a way of life."
+date: '2019-05-01'
+description: 'Jiu Jitsu is so much more than a sport, it’s a way of life.'
 thumbnail: /img/dsc09646.jpg
 home: true
 tags:
   - Programs
 ---
-
 # Brazilian Jiu Jitsu
+
+## The best Jiu-Jitsu program in Jackson Heights, NY!
 
 • BJJ is a grappling-based martial art whose central theme is the skill of controlling a resisting opponent in ways that force them to submit. BJJ does not feature kicking or punching. Techniques of BJJ are centered round the skill of taking an opponent down to the ground and wrestling for dominant control positions from where the opponent can be rendered harmless.
 
@@ -40,7 +41,7 @@ ATJIUJITSUNYC MEMBERSHIP FORM
 
 <br>
 
----
+- - -
 
 ![](/img/dsc09545.jpg)
 
