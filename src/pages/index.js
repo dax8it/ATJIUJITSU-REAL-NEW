@@ -18,16 +18,21 @@ const BlogIndex = ({ data }, location) => {
   return (
     <Layout title={siteTitle}>
       <SEO
-        title="Jiujitsu School Jackson Heights Queens NYC "
+        title="Martial Arts - Jiujitsu - Judo - Muay Thai - Kickboxing - MMA - in Jackson Heights Queens NYC "
         keywords={[
           `bjj`,
           `jiujitsu`,
           `kick boxing`,
           `muay thai`,
+          `mma`,
+          `mixed martial arts`,
           `yoga`,
           `toddler`,
           `judo`,
           `martial arts`,
+          `Jackson Heights`,
+          `Queens`,
+          `New York City`,
         ]}
       />
       {/* <Bio /> */}
