@@ -2,14 +2,13 @@
 templateKey: blog-post
 title: KickBoxing
 order: 3
-date: "2019-05-01"
-description: Kickboxing our way to Fitness
+date: '2019-05-01'
+description: 'The best Kickboxing program in Jackson Heights, NY!'
 thumbnail: /img/kick-AIS09142.jpg
 home: true
 tags:
   - Programs
 ---
-
 `youtube: https://youtu.be/YEhrXn8-qeU`
 
 ## Get started now!
@@ -34,7 +33,7 @@ ATJIUJITSUNYC MEMBERSHIP FORM
 
 <br>
 
----
+- - -
 
 <br>
 
