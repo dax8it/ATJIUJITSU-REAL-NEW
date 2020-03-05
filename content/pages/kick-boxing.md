@@ -35,7 +35,9 @@ ATJIUJITSUNYC MEMBERSHIP FORM
 
 - - -
 
-<br>
+# Kickboxing
+
+## The best kickboxing program in Jackson Heights, NY!
 
 • Kickboxing is a form of martial arts derived from karate. It borrows moves from multiple types of martial arts including full-contact karate, Muay Thai, and boxing.
 
