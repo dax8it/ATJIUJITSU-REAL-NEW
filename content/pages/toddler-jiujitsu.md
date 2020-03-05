@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Toddler Jiujitsu
 order: 8
-date: "2019-05-01"
+date: '2019-05-01'
 description: >-
   In Toddler BJJ, children will meet many new friends and share common
   experiences like drilling techniques, playing games, and live rolling
@@ -11,14 +11,15 @@ home: true
 tags:
   - Programs
 ---
+# Toddler Jiu-Jitsu
 
-# Toddler Jiujitsu
+## The best Jiu-Jitsu program for toddlers in Jackson Heights, NY!
 
 • Brazilian Jiu-Jitsu is THE BEST non-violent self defense for children and teens. Our toddlers learn takedowns, throws, falling, controls. Through demonstration, students learn a series of techniques each class.
 
 • In Brazilian Jiu Jitsu classes, children will meet many new friends and share common experiences like drilling techniques, playing games, and live rolling.
 
-• Our toddler class are for Ages 3-4. Recommended for active children who are eager to learn.
+• Our toddler class are for Ages 3-4. Recommended for active children who are eager to learn. 
 
 ## Get started now!
 
@@ -42,7 +43,7 @@ ATJIUJITSUNYC MEMBERSHIP FORM
 
 <br>
 
----
+- - -
 
 ![](/img/dsc09448.jpg)
 
