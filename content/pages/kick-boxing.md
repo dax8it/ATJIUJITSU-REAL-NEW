@@ -35,8 +35,6 @@ ATJIUJITSUNYC MEMBERSHIP FORM
 
 - - -
 
-<br>
-
 # Kickboxing
 
 ## The best kickboxing program in Jackson Heights, NY!
