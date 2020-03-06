@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: At JiujitsuNYC Calendar
+title: At Jiu-Jitsu NYC Calendar
 order: 100
 date: "2019-05-03"
-description: View Class Schedule, Seminars and Events
+description: View Class Schedule, Seminars and Events.
 thumbnail: /img/homepagea2.jpg
 home: false
 tags:
