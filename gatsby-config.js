@@ -118,6 +118,14 @@ module.exports = {
         name: `assets`,
       },
     },
+
+    {
+      resolve: `gatsby-plugin-load-script`,
+      options: {
+        src: "https://www.maonrails.com/js/widgets.js",
+      },
+    },
+
     {
       resolve: `gatsby-plugin-postcss`,
       options: {
