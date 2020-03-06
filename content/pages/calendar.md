@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
-title: calendar
+title: At JiujitsuNYC Calendar
 order: 100
 date: "2019-05-03"
-description: Calendar of classes and special events.
-thumbnail:
+description: View Class Schedule, Seminars and Events
+thumbnail: /img/homepagea2.jpg
 home: false
 tags:
   - Other
@@ -14,7 +14,17 @@ tags:
 
 # AT Jiujitsu NYC Calendar
 
-Keep tabs on class schedules and special events
+## **\-** **\$20 Unlimited Classes for 7 Days**
+
+**\- Classes include Kickboxing, Muay-Thai, Jiu-Jitsu and Yoga**
+
+**\- Kids receive a free gi!**
+
+## Get started now!
+
+## Sign up for a trial here:
+
+<a href="https://www.maonrails.com/signup/member/8s6">TRAIL & FULL MEMBERSHIP FORM</a>
 
 ---
 
@@ -24,5 +34,4 @@ Keep tabs on class schedules and special events
 
 <br />
 
-<div class="maonrails-schedule maonrails-frame-container" attr-gym="DL7vA"><iframe src="https://www.maondev.com/widgets/schedule/render/gym/DL7vA" frameborder="0" scrolling="no"></iframe></div>
-<br />
+---
