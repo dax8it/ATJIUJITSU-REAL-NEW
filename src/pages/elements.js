@@ -550,6 +550,16 @@ const ElementsPage = ({ data }, location) => {
         </div>
 
         <div class="maonrails-schedule" attr-gym="DL7vA"></div>
+        <div
+          class="maonrails-schedule maonrails-frame-container"
+          attr-gym="DL7vA"
+        >
+          <iframe
+            src="https://www.maondev.com/widgets/schedule/render/gym/DL7vA"
+            frameborder="0"
+            scrolling="yes"
+          ></iframe>
+        </div>
       </article>
     </Layout>
   )
