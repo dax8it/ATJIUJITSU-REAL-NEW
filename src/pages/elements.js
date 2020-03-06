@@ -138,8 +138,6 @@ const ElementsPage = ({ data }, location) => {
             ATJIUJITSUNYC MEMBERSHIP FORM
           </a>
 
-          <div class="maonrails-schedule" attr-gym="DL7vA"></div>
-
           <h2 id="blockquote">
             <strong>Blockquote</strong>
           </h2>
@@ -550,6 +548,8 @@ const ElementsPage = ({ data }, location) => {
             </div>
           </div>
         </div>
+
+        <div class="maonrails-schedule" attr-gym="DL7vA"></div>
       </article>
     </Layout>
   )
