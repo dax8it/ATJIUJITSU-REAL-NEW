@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Belt Promotions and Stripes
 order: 1
-date: 2019-12-29T00:00:00.000Z
+date: 2020-03-08T00:00:00.000Z
 description: >-
   Here are some of our students, who with hard work and determination have
   earned their stripe or new belt!
@@ -16,6 +16,10 @@ tags:
 - - -
 
 # **Belt Promotions**
+
+![](/img/dsc07643.jpg)
+
+## Vida promoted to Grey and White belt!
 
 ![](/img/dsc06937.jpg)
 
@@ -36,10 +40,6 @@ tags:
 ![](/img/dsc05794.jpg)
 
 ## Liliom promoted to Grey and White belt!
-
-![](/img/dsc04776.jpg)
-
-## Hannis promoted to Grey and White belt!
 
 ![](/img/dsc03409.jpg)
 
