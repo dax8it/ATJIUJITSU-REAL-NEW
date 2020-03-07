@@ -49,6 +49,10 @@ tags:
 
 # Stripes
 
+![](/img/dsc07638.jpg)
+
+## Julian
+
 ![](/img/dsc07226.jpg)
 
 ## Giovanna
@@ -67,10 +71,6 @@ tags:
 
 ![](/img/dsc04785.jpg)
 
-## Jenniffer
-
-![](/img/dsc04779.jpg)
-
-## Gerard
+## Jennifer
 
 - - -
