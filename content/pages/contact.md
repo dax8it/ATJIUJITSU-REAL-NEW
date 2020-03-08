@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: At Jiu-Jitsu NYC Calendar
-order: 100
+title: At Jiu-Jitsu NYC Contact Form
+order: 101
 date: "2019-05-03"
 description: View Class Schedule, Seminars and Events.
 thumbnail: /img/homepagea2.jpg
@@ -12,13 +12,13 @@ tags:
 
 ---
 
-# AT Jiujitsu NYC Calendar
+# AT Jiujitsu NYC Contact
 
 ---
 
 <br />
 
-<div class="maonrails-schedule maonrails-frame-container" attr-gym="DL7vA"></div>
+<div class="maonrails-form" attr-ref="6aaQ6" attr-gym="DL7vA"></div>
 
 <br />
 
