@@ -65,6 +65,7 @@ ATJIUJITSUNYC MEMBERSHIP FORM
   * Jiu Jitsu
   * Muay Thai
   * Kickboxing
+  * Kettlebell
   * Yoga
 
 - - -
