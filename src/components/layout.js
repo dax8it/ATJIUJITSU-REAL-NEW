@@ -33,7 +33,7 @@ const Layout = props => {
                 <Link to={`/tags/programs`}>Programs</Link>
               </li>
               <li className="nav-tags" role="menuitem">
-                <Link to={`/class-schedule`}>Schedule</Link>
+                <Link to={`/calendar`}>Schedule</Link>
               </li>
               <li className="nav-tags" role="menuitem">
                 <Link to={`/prices`}>Prices</Link>
@@ -42,7 +42,7 @@ const Layout = props => {
                 <Link to={`/tags/blog`}>Latest News</Link>
               </li>
               <li className="nav-tags" role="menuitem">
-                <Link to={`/media`}>Media</Link>
+                <Link to={`/contact`}>Contact Us</Link>
               </li>
             </ul>
           </nav>
@@ -54,20 +54,20 @@ const Layout = props => {
           <div className="site-head-right">
             <div className="social-links">
               <a
-                href="https://www.facebook.com/atjiujitsunyc"
+                href="https://at-jiujitsu-nyc.maonrails.com/login"
+                title="Member Login"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Member Login
+              </a>
+              <a
+                href="https://www.facebook.com/ATjiujitsuNYC/"
                 title="Facebook"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 Facebook
-              </a>
-              <a
-                href="https://instagram.com/jiujitsunyc"
-                title="Twitter"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Instagram
               </a>
             </div>
           </div>
