@@ -2,21 +2,20 @@
 templateKey: blog-post
 title: Class Schedule
 order: 1
-date: "2019-05-04"
-description: "Use this page to view, select and register for classes."
+date: '2019-05-04'
+description: 'Use this page to view, select and register for classes.'
 thumbnail: /img/homepagea2.jpg
 home: true
 tags:
   - Other
 ---
-
 <br>
 
----
+- - -
 
 # Adult and Kids Schedule
 
-## **\-** **\$20 Unlimited Classes for 7 Days**
+## **\-** **$20 Unlimited Classes for 7 Days**
 
 **\- Classes include Kickboxing, Muay-Thai, Jiu-Jitsu and Yoga**
 
@@ -44,62 +43,62 @@ ATJIUJITSUNYC MEMBERSHIP FORM
 
 Check out our adult and kids schedule below.
 
----
+- - -
 
 # Adult Classes
 
 ## MONDAY
 
-- **Kickboxing:** 6:15 to 7:10 pm
-- **Jiu-Jitsu:** 7:15 to 8:30 pm
+* **Kickboxing:** 6:15 to 7:10 pm
+* **Jiu-Jitsu:** 7:15 to 8:30 pm
 
 ## TUESDAY
 
-**_Morning Class_**
+_**Morning Class**_
 
-- **Jiu-Jitsu:** 6:15 to 7:30 am
+* **Jiu-Jitsu:** 6:15 to 7:30 am
 
-_**Afternoon Class**_
+**_Afternoon Class_**
 
-- **Muay Thai:** 6:00 to 6:45 pm
-- **Smarter Yoga:** 7:10 to 8:00 pm
-- **Jiu-Jitsu:** 8:10 to 9:15 pm
+* **Muay Thai:** 6:00 to 6:45 pm
+* **Smarter Yoga:** 7:10 to 8:00 pm
+* **Jiu-Jitsu:** 8:10 to 9:15 pm
 
 ## WEDNESDAY
 
-- **Kickboxing:** 6:15 to 7:10 pm
-- **Jiu-Jitsu:** 7:15 to 8:30 pm
+* **Kickboxing:** 6:15 to 7:10 pm
+* **Jiu-Jitsu:** 7:15 to 8:30 pm
 
 ## THURSDAY
 
-**_Morning Class_**
+_**Morning Class**_
 
-- **Jiu-Jitsu:** 6:15 to 7:30 am
+* **Jiu-Jitsu:** 6:15 to 7:30 am
 
-_**Afternoon Class**_
+**_Afternoon Class_**
 
-- **KettleBell Class:** 6:00 to 6:45 pm
-- **Jiu-Jitsu:** 7:15 to 8:30 pm
+* **KettleBell Class:** 6:00 to 6:45 pm
+* **Jiu-Jitsu:** 7:15 to 8:30 pm
 
 ## FRIDAY
 
-- **Kickboxing:** 6:15 to 7:10 pm
-- **No Gi Jiu-Jitsu:** 7:15 to 8:30 pm
+* **Kickboxing:** 6:15 to 7:10 pm
+* **No Gi Jiu-Jitsu:** 7:15 to 8:30 pm
 
 ## SATURDAY
 
-- **Kickboxing:** 12:15 to 1:15 pm
-- **No Gi Jiu-Jitsu:** 1:15 to 2:15 pm
+* **Kickboxing:** 12:15 to 1:15 pm
+* **No Gi Jiu-Jitsu:** 1:15 to 2:15 pm
 
 ## SUNDAY
 
 <br>
 
-- **Open Mat for Everyone:** 10:00 am to 12:00 pm
+* **Open Mat for Everyone:** 10:00 am to 12:00 pm
 
 <br>
 
----
+- - -
 
 <br>
 
@@ -107,42 +106,42 @@ _**Afternoon Class**_
 
 ### MONDAY
 
-- **Kids Judo (Ages 5 to 9):** 4:00 to 4:45pm
-- **Kids Jiu-Jitsu (Ages 10 to 13)** 5:00 to 5:45pm
+* **Kids Judo (Ages 5 to 9):** 4:00 to 4:45pm
+* **Kids Jiu-Jitsu (Ages 10 to 13)** 5:00 to 5:45pm
 
 ### TUESDAY
 
-- **Kids Jiu-Jitsu (Ages 5 to 9):** 3:15 to 4:00pm
-- **Kids Muay Thai (Ages 8 to 13):** 4:00 to 4:45pm
-- **Kids Jiu-Jitsu (Ages 10 to 13):** 5:00 to 5:45pm
+* **Kids Jiu-Jitsu (Ages 5 to 9):** 3:15 to 4:00pm
+* **Kids Muay Thai (Ages 8 to 13):** 4:00 to 4:45pm
+* **Kids Jiu-Jitsu (Ages 10 to 13):** 5:00 to 5:45pm
 
 ### WEDNESDAY
 
-- **Kids Judo (Ages 5 to 9):** 4:00 to 4:45pm
-- **Kids Jiu-Jitsu (Ages 10 to 13):** 5:00 to 5:45pm
+* **Kids Judo (Ages 5 to 9):** 4:00 to 4:45pm
+* **Kids Jiu-Jitsu (Ages 10 to 13):** 5:00 to 5:45pm
 
 ### THURSDAY
 
-- **Kids Jiu-Jitsu (Ages 5 to 9):** 3:15 to 4:00pm
-- **Kids Muay Thai (Ages 8 to 13):** 4:00 to 4:45pm
-- **Kids Jiu-Jitsu (Ages 10 to 13):** 5:00 to 5:45pm
+* **Kids Jiu-Jitsu (Ages 5 to 9):** 3:15 to 4:00pm
+* **Kids Muay Thai (Ages 8 to 13):** 4:00 to 4:45pm
+* **Kids Jiu-Jitsu (Ages 10 to 13):** 5:00 to 5:45pm
 
 ### FRIDAY
 
-- **Kids Judo (Ages 5 to 9):** 4:00 to 4:45pm
-- **Kids No Gi Jiu-Jitsu (Ages 8 to 13):** 5:00 to 5:45pm
+* **Kids Judo (Ages 5 to 9):** 4:00 to 4:45pm
+* **Kids MMA (Ages 8 to 13):** 5:00 to 5:45pm
 
 ### SATURDAY
 
-- **Toddler Jiu-Jitsu (Ages 3 to 4):** 9:15 to 10:00am
+* **Toddler Jiu-Jitsu (Ages 3 to 4):** 9:15 to 10:00am
 
 \*LIMITED SPOTS AVAILABLE (Call/ Email Us to confirm a spot)
 
-- **Kids Jiu-Jitsu (Ages 5 to 9):** 10:15 to 11:00pm
-- **Kids Jiu-Jitsu (Ages 10 to 13):** 11:15 to 12:00pm
+* **Kids Jiu-Jitsu (Ages 5 to 9):** 10:15 to 11:00pm
+* **Kids Jiu-Jitsu (Ages 10 to 13):** 11:15 to 12:00pm
 
 <br>
 
----
+- - -
 
 ###
