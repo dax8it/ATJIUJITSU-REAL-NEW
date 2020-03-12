@@ -42,6 +42,7 @@ const BlogIndex = ({ data }, location) => {
             {data.site.siteMetadata.description}
           </h2>
           <br />
+          <br />
           <p class="post-content-excerpt">
             {" "}
             From our toddler & kids programs to our adult BJJ classes, we offers
