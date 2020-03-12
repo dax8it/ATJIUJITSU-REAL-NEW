@@ -41,7 +41,7 @@ const BlogIndex = ({ data }, location) => {
           <h2 className="page-head-title">
             {data.site.siteMetadata.description}
           </h2>
-          <br />
+          <p />
           <br />
           <p class="post-content-excerpt">
             {" "}

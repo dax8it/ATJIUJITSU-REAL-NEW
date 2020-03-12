@@ -1,7 +1,5 @@
 import React from "react"
 import { graphql } from "gatsby"
-import Helmet from "react-helmet"
-import { withPrefix, Link } from "gatsby"
 import Layout from "../components/layout"
 
 import SEO from "../components/seo"
@@ -17,9 +15,6 @@ class TagPageTemplate extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <Helmet>
-          <script src={withPrefix("widget.js")} type="text/javascript" />
-        </Helmet>
         <SEO
           // title={`#${tag}`}
           title={`#${tag.charAt(0).toUpperCase() + tag.slice(1)}`}

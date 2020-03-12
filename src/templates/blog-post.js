@@ -1,6 +1,5 @@
 import React from "react"
-import Helmet from "react-helmet"
-import { withPrefix, Link } from "gatsby"
+import { Link } from "gatsby"
 import { graphql } from "gatsby"
 import Img from "gatsby-image"
 
@@ -8,7 +7,6 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 
 import "../utils/css/components/forms.css"
-import "../utils/css/components/forms2.css"
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -17,9 +15,6 @@ class BlogPostTemplate extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <Helmet>
-          <script src={withPrefix("widget.js")} type="text/javascript" />
-        </Helmet>
         <SEO
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
