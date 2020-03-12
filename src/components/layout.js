@@ -39,10 +39,7 @@ const Layout = props => {
                 <Link to={`/prices`}>Prices</Link>
               </li>
               <li className="nav-tags" role="menuitem">
-                <Link to={`/tags/blog`}>Latest News</Link>
-              </li>
-              <li className="nav-tags" role="menuitem">
-                <Link to={`/contact`}>Contact Us</Link>
+                <Link to={`/tags/blog`}>Latest News/Events</Link>
               </li>
             </ul>
           </nav>
@@ -61,14 +58,7 @@ const Layout = props => {
               >
                 Member Login
               </a>
-              <a
-                href="https://www.facebook.com/ATjiujitsuNYC/"
-                title="Facebook"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Facebook
-              </a>
+              <Link to={`/contact`}>Contact Us</Link>
             </div>
           </div>
         </div>
