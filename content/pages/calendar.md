@@ -20,9 +20,7 @@ tags:
 
 **\- Kids receive a free gi!**
 
-## Get started now!
-
-## Sign up for a trial here:
+## Get started now
 
 ## Sign up for a trial here:
 

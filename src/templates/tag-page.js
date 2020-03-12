@@ -1,9 +1,12 @@
 import React from "react"
 import { graphql } from "gatsby"
-
+import Helmet from "react-helmet"
+import { withPrefix, Link } from "gatsby"
 import Layout from "../components/layout"
+
 import SEO from "../components/seo"
 import PostCard from "../components/postCard"
+import "../utils/css/components/forms.css"
 
 class TagPageTemplate extends React.Component {
   render() {
@@ -14,6 +17,9 @@ class TagPageTemplate extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
+        <Helmet>
+          <script src={withPrefix("widget.js")} type="text/javascript" />
+        </Helmet>
         <SEO
           // title={`#${tag}`}
           title={`#${tag.charAt(0).toUpperCase() + tag.slice(1)}`}
@@ -33,14 +39,14 @@ class TagPageTemplate extends React.Component {
         />
         <header className="tag-page-head">
           <h1 className="page-head-title">
-            Latest News & Events{/*{tag}*/}
+            Our {tag}
             {/*({props.data.allMarkdownRemark.totalCount})*/}
           </h1>
           <br />
-          <p class="post-content-excerpt">
+          {/*<p class="post-content-excerpt">
             All the latest news and events from our Jiutjistu and Martial Arts
             family here at AT-JIUJITSU in Jackson Heights, Queens NYC
-          </p>
+          </p>*/}
         </header>
         <div className="post-feed">
           {posts.map(({ node }) => {
