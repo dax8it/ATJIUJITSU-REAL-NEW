@@ -1,14 +1,15 @@
 ---
 templateKey: blog-post
-title: Jiu Jitsu
+title: Brazilian Jiu Jitsu
 order: 2
-date: '2019-05-01'
-description: 'Jiu Jitsu is so much more than a sport, it’s a way of life.'
+date: "2019-05-01"
+description: "Jiu Jitsu is so much more than a sport, it’s a way of life."
 thumbnail: /img/dsc09646.jpg
 home: true
 tags:
   - Programs
 ---
+
 # Brazilian Jiu Jitsu
 
 ## The best Jiu-Jitsu program in Jackson Heights, NY!
@@ -41,7 +42,7 @@ ATJIUJITSUNYC MEMBERSHIP FORM
 
 <br>
 
-- - -
+---
 
 ![](/img/dsc09545.jpg)
 

@@ -8,6 +8,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 
 import "../utils/css/components/forms.css"
+import "../utils/css/components/forms2.css"
 
 class BlogPostTemplate extends React.Component {
   render() {
