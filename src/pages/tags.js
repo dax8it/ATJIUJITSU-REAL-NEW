@@ -16,7 +16,7 @@ const TagIndex = ({ data }) => {
 
   return (
     <Layout title={siteTitle}>
-      <SEO title="Tags" />
+      <SEO title="The Best Martial Arts and Jiujitsu School in Jackson Heights Queens NYC" />
       <header className="tag-page-head">
         <h1 className="page-head-title">Tags({tags.length})</h1>
       </header>

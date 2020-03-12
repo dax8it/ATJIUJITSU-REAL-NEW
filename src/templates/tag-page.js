@@ -20,17 +20,27 @@ class TagPageTemplate extends React.Component {
           keywords={[
             `${tag}`,
             `jiujitsu`,
+            `bjj`,
+            `mma`,
             `yoga`,
             `kickboking`,
             `judo`,
             `program`,
+            `jackson heights`,
+            `queens`,
+            `martial arts`,
           ]}
         />
         <header className="tag-page-head">
           <h1 className="page-head-title">
-            Our {tag}
+            Latest News & Events{/*{tag}*/}
             {/*({props.data.allMarkdownRemark.totalCount})*/}
           </h1>
+          <br />
+          <p class="post-content-excerpt">
+            All the latest news and events from our Jiutjistu and Martial Arts
+            family here at AT-JIUJITSU in Jackson Heights, Queens NYC
+          </p>
         </header>
         <div className="post-feed">
           {posts.map(({ node }) => {

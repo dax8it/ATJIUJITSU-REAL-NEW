@@ -18,7 +18,7 @@ const BlogIndex = ({ data }, location) => {
   return (
     <Layout title={siteTitle}>
       <SEO
-        title="Martial Arts - Jiujitsu - Judo - Muay Thai - Kickboxing - MMA - in Jackson Heights Queens NYC "
+        title="Martial Arts & Jiujitsu - BJJ Training in Jackson Heights Queens"
         keywords={[
           `bjj`,
           `jiujitsu`,
@@ -41,6 +41,12 @@ const BlogIndex = ({ data }, location) => {
           <h2 className="page-head-title">
             {data.site.siteMetadata.description}
           </h2>
+          <br />
+          <p class="post-content-excerpt">
+            {" "}
+            From our toddler & kids programs to our adult BJJ classes, we offers
+            the best BJJ & martial arts program in Jackson Heights Queens.
+          </p>
         </header>
       )}
       <div className="post-feed">
