@@ -176,11 +176,6 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-netlify-cms`,
     `gatsby-plugin-netlify`,
-    {
-      resolve: `gatsby-plugin-offline`,
-      options: {
-        precachePages: [`/calendar/`, `/contact/`],
-      },
-    },
+    `gatsby-plugin-remove-serviceworker`,
   ],
 }
