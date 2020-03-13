@@ -176,6 +176,12 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-netlify-cms`,
     `gatsby-plugin-netlify`,
-    `gatsby-plugin-offline`,
+
+    {
+      resolve: `gatsby-plugin-offline`,
+      options: {
+        precachePages: [`/calendar/`, `/contact/`],
+      },
+    },
   ],
 }
