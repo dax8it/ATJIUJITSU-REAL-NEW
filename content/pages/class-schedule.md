@@ -47,19 +47,6 @@ Check out our adult and kids schedule below.
 ---
 
 <br>
-<h2>Original Code</h2>
-<div class="maonrails-form maonrails-frame-container" attr-ref="6aaQ6" attr-gym="DL7vA"></div>
-</br>
-
-<br>
-<h2>iframe schedule Code</h2>
-<div class="h_iframe">
-<iframe src="https://www.maonrails.com/widgets/schedule/render/gym/DL7vA" scrolling="no"  frameborder="0"></iframe>
-</div>
-<br>
-
-<h2>iframe form</h2>
-<iframe src="https://www.maonrails.com/widgets/forms/render/ref/6aaQ6/gym/DL7vA" scrolling="no"  frameborder="0"></iframe>
 
 # Adult Classes
 

@@ -138,6 +138,15 @@ const ElementsPage = ({ data }, location) => {
             ATJIUJITSUNYC MEMBERSHIP FORM
           </a>
 
+          <br />
+
+          <div
+            class="maonrails-schedule maonrails-frame-container"
+            attr-gym="DL7vA"
+          ></div>
+
+          <br />
+
           <h2 id="blockquote">
             <strong>Blockquote</strong>
           </h2>
