@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 'SCHOOL CLOSED '
 order: 1
-date: 2020-03-16T20:15:54.032Z
+date: 2020-03-16T20:15:00.000Z
 description: >-
   Due to the recent events that are taking place in our community we have
   decided to close our school until Monday, March 23rd.
