@@ -5,7 +5,7 @@ order: 1
 date: 2020-03-16T20:15:54.032Z
 description: >-
   Due to the recent events that are taking place in our community we have
-  decided to close our school until March 23rd.
+  decided to close our school until Monday, March 23rd.
 home: true
 tags:
   - Blog
