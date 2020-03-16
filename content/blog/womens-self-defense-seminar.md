@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Womens Self Defense Seminar
 order: 30
-date: 2020-03-21T17:00:00.000Z
+date: 2020-03-13T17:00:00.000Z
 description: Postponed until further notice
 thumbnail: /img/self-defense-sem.jpg
 home: false
