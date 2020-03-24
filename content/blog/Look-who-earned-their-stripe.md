@@ -35,7 +35,7 @@ tags:
 
 ![](/img/dsc05804.jpg)
 
-## Francesca promoted to Grey and White belt!
+## Francesca promoted to Grey and Black belt!
 
 ![](/img/dsc05794.jpg)
 
