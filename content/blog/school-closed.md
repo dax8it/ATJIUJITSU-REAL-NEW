@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'SCHOOL CLOSED '
-order: 1
+order: 2
 date: 2020-03-16T20:15:00.000Z
 description: >-
   Due to the recent events that are taking place in our community we have
