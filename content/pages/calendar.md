@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
 title: Class Schedule
-order: 1
-date: "2019-05-03"
-description: Keep track of classes, events, seminars, cancelations and holidays.
+order: 3
+date: '2019-05-03'
+description: 'Keep track of classes, events, seminars, cancelations and holidays.'
 thumbnail: /img/homepagea2.jpg
 home: true
 tags:
