@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 'THANK YOU FOR YOUR SUPPORT! '
 order: 30
-date: 2020-05-04T19:55:07.156Z
+date: 2020-05-01T19:55:07.156Z
 description: >-
   Thank you for everyone's support during this time! Seeing everyone's face
   through the Zoom calls and the energy to continue training at home has helped
