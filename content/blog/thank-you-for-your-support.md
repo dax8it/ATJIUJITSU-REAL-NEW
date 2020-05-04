@@ -8,7 +8,7 @@ description: >-
   through the Zoom calls and the energy to continue training at home has helped
   us see the positive side of things! 
 thumbnail: /img/95217318_4130020200348969_4749777471920930816_n.jpg
-home: false
+home: true
 tags:
   - Blog
 ---
