@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'THANK YOU FOR YOUR SUPPORT! '
-order: 30
+order: 1
 date: 2020-05-04T19:55:07.156Z
 description: >-
   AT JIU-JITSU NYC wants to thank you for everyone's support during this time!
