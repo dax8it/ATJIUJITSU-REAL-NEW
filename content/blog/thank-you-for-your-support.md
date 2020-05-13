@@ -1,11 +1,12 @@
 ---
 templateKey: blog-post
-title: 'THANK YOU FOR YOUR SUPPORT! '
+title: 'THANK YOU FOR YOUR SUPPORT! CLICK TO DONATE '
 order: 1
 date: 2020-05-04T19:55:07.156Z
 description: >-
   AT JIU-JITSU NYC wants to thank you for everyone's support during this time!
-  Please click to donate here! 
+  We are so happy to see everyone's face through the Zoom calls and their energy
+  to continue training from home.
 thumbnail: /img/95217318_4130020200348969_4749777471920930816_n.jpg
 home: true
 tags:
@@ -20,3 +21,15 @@ tags:
 For those who do not know us, AT Jiu-Jitsu NYC opened its doors in 2018 and was built from a dream of bringing the love of Brazilian Jiu-Jitsu that owner and head instructor- Alvaro Tautiva had, to his love for his community of Jackson Heights. AT Jiu-Jitsu NYC is a family run business and we try to extend that sense of family to not only our members but to our community as a whole. We have always strived to ensure that our doors are open to anyone and you may have even heard of our annual haunted house which we host as a thank you to all the children and families in our neighborhood.
 
 We want to continue to be able to be there for our community and especially to our students whether new, old or future but we need your help to ensure that, as we stated before, we whether out this storm at least until we are able to open up our doors once again.  During this time, we ask for your help and donate anything you can to help us to remain open so we can still be here for you once this all passes
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+
+<input type="hidden" name="cmd" value="_s-xclick" />
+
+<input type="hidden" name="hosted_button_id" value="K733G86UG6S8A" />
+
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+
+</form>
