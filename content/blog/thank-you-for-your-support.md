@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'THANK YOU FOR YOUR SUPPORT! CLICK TO DONATE '
+title: 'THANK YOU FOR YOUR SUPPORT! '
 order: 1
 date: 2020-05-04T19:55:07.156Z
 description: >-
