@@ -18,18 +18,10 @@ tags:
 
 ![](/img/img_3937.jpg)
 
-For those who do not know us, AT Jiu-Jitsu NYC opened its doors in 2018 and was built from a dream of bringing the love of Brazilian Jiu-Jitsu that owner and head instructor- Alvaro Tautiva had, to his love for his community of Jackson Heights. AT Jiu-Jitsu NYC is a family run business and we try to extend that sense of family to not only our members but to our community as a whole. We have always strived to ensure that our doors are open to anyone and you may have even heard of our annual haunted house which we host as a thank you to all the children and families in our neighborhood.
+AT Jiu-Jitsu NYC opened its doors in 2018 and was built from a dream of bringing the love of Jiu-Jitsu to the community of Jackson Heights. We are a family run business and we try to extend that sense of family to not only our members, but to our community as a whole. Unfortunately, due to the circumstances we are at risk of closing our doors.
 
-We want to continue to be able to be there for our community and especially to our students whether new, old or future but we need your help to ensure that, as we stated before, we whether out this storm at least until we are able to open up our doors once again.  During this time, we ask for your help and donate anything you can to help us to remain open so we can still be here for you once this all passes
+With that in mind, we would like to thank all our members and the martial arts community that have continued to support us during this difficult time. Your help will allow us to carry on serving our members with online classes until we have the financial support to reopen our doors physically, once we are able to.
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+We are grateful for the family we have built here at AT JIU-JITSU NYC and will be devastated if there is no longer a home to offer. We want to be there for our community, and especially to our students whether new, old or future. During this time, we ask for your help and support to allow us to reopen our doors once this all passes. We appreciate it if you take the time to check out or Gofundme and we are grateful for any amount you can contribute. Our link is down below. Thank you all once again.
 
-<input type="hidden" name="cmd" value="_s-xclick" />
-
-<input type="hidden" name="hosted_button_id" value="K733G86UG6S8A" />
-
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-
-</form>
+<https://www.gofundme.com/f/at-jiujitsu-nyc?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet>
