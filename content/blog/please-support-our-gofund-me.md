@@ -6,7 +6,7 @@ date: 2020-05-18T20:43:16.682Z
 description: >-
   Link is in the description. Thank you to everyone who has donated already! We
   would not be able to make it through without your support! 
-thumbnail: /img/gofundme.jpg
+thumbnail: /img/go-fund-me.jpg
 home: true
 tags:
   - Blog
@@ -18,3 +18,7 @@ With that in mind, we would like to thank all our members and the martial arts c
 We are grateful for the family we have built here at AT JIU-JITSU NYC and will be devastated if there is no longer a home to offer. We want to be there for our community, and especially to our students whether new, old or future. During this time, we ask for your help and support to allow us to reopen our doors once this all passes. We appreciate it if you take the time to check out or Gofundme and we are grateful for any amount you can contribute. Our link is down below. Thank you all once again.
 
 <https://www.gofundme.com/f/at-jiujitsu-nyc?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet>
+
+
+
+![]()
