@@ -4,9 +4,9 @@ title: 'Please Support Our GoFund Me! '
 order: 1
 date: 2020-05-18T20:43:16.682Z
 description: >-
-  Link is in the description. Thank you to everyone who has donated already! We
-  would not be able to make it through without your support! 
-thumbnail: /img/go-fund-me.jpg
+  Please click the link down below. Thank you to everyone who has donated
+  already! We would not be able to make it through without your support! 
+thumbnail: /img/rawimage.jpg
 home: true
 tags:
   - Blog
