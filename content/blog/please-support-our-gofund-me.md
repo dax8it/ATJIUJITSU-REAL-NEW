@@ -6,7 +6,7 @@ date: 2020-05-18T20:43:16.682Z
 description: >-
   Please click the link down below. Thank you to everyone who has donated
   already! We would not be able to make it through without your support! 
-thumbnail: /img/rawimage.jpg
+thumbnail: /img/gofundme.png
 home: true
 tags:
   - Blog
