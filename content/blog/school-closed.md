@@ -10,7 +10,7 @@ home: true
 tags:
   - Blog
 ---
-## Here at, AT Jiu-Jitsu NYC understand the importance of not giving in to mass media hysteria, we also acknowledge the importance of being cautious and responsible at times like these especially with keeping in mind those around us who are at most risk from this terrible virus.
+## Here at, AT Jiu-Jitsu NYC, we understand the importance of not giving in to mass media hysteria, we also acknowledge the importance of being cautious and responsible at times like these especially with keeping in mind those around us who are at most risk from this terrible virus.
 
 ## We will continue to keep you all informed on what is to come.
 
@@ -18,4 +18,4 @@ tags:
 
 ## We understand that this is not easy as we are a school filled with incredibly dedicated students however as part of the Jiu-Jitsu community it is important for us to stay strong and support each other during this time. We thank you and ask for your patience and understanding while we navigate through this pandemic. If any other questions arise please feel free to reach out to us at Atjiujitsunyc@gmail.com
 
----
+- - -
