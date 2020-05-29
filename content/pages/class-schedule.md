@@ -17,7 +17,6 @@ tags:
 
 ![](/img/9db897c7-2635-4954-bea2-d331ba682ef9.jpg)
 
-
 - - -
 
 # Adult and Kids Schedule
@@ -63,11 +62,11 @@ Check out our adult and kids schedule below.
 
 ## TUESDAY
 
-**_Morning Class_**
+_**Morning Class**_
 
 * **Jiu-Jitsu:** 6:15 to 7:30 am
 
-_**Afternoon Class**_
+**_Afternoon Class_**
 
 * **Muay Thai:** 6:00 to 6:45 pm
 * **Smarter Yoga:** 7:10 to 8:00 pm
@@ -80,11 +79,11 @@ _**Afternoon Class**_
 
 ## THURSDAY
 
-**_Morning Class_**
+_**Morning Class**_
 
 * **Jiu-Jitsu:** 6:15 to 7:30 am
 
-_**Afternoon Class**_
+**_Afternoon Class_**
 
 * **KettleBell Class:** 6:00 to 6:45 pm
 * **Jiu-Jitsu:** 7:15 to 8:30 pm
