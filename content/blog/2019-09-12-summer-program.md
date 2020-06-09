@@ -19,7 +19,7 @@ tags:
 
 **If you are interested please email us at atjiujitsunyc@gmail.com as the spots are limited! Thank you.**
 
-**Check out some photos from our summer session from last year with activities such as laser tag, water balloon fights, Mario Kart tournaments, dodgeball, Jiu-Jitsu, arts and crafts, and trips to the pool, the library and museums, it was a summer we hope they'll never forget! Be sure to join us this year!**
+**Check out some photos from our summer session from last year with activities such as laser tag, water balloon fights, Mario Kart tournaments, dodgeball, Jiu-Jitsu, arts and crafts, and trips to the pool, the library and museums, it was a summer we hope they'll never forget! Be sure to join us this year and we hope to see you all there!**
 
 - - -
 
