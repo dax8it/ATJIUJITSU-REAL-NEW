@@ -13,7 +13,7 @@ tags:
 
 **We would also like to invite you all to read this article published by the Daily news on June 2nd in which Governor Cuomo has announced that summer day camps are allowed to open at the end of the month as the coronavirus crisis wanes.**
 
-****[**https://www.nydailynews.com/news/politics/ny-cuomo-gives-green-light-to-summer-day-camp-20200602-ta4wlvqxerhvnae4u3x6btv6fm-story.html**](https://www.nydailynews.com/news/politics/ny-cuomo-gives-green-light-to-summer-day-camp-20200602-ta4wlvqxerhvnae4u3x6btv6fm-story.html)****
+<https://www.nydailynews.com/news/politics/ny-cuomo-gives-green-light-to-summer-day-camp-20200602-ta4wlvqxerhvnae4u3x6btv6fm-story.html>
 
 **In light of the corona virus outbreak, we will continue to add to our already rigorous health and safety protocols to our Academy as we make decisions about the summer season. We are continuing to monitor the situation and will of course be putting strict safety measures in place before welcoming the kids for the summer.**
 
