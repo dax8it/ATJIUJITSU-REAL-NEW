@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
-title: Summer Program
+title: Summer Program 2020
 order: 10
-date: 2019-08-23T00:00:00.000Z
-description: 'AT JIU-JITSU NYC''s 4 Week Summer Program, 2019'
-thumbnail: /img/dsc03545.jpg
-home: false
+date: 2020-06-10T00:00:00.000Z
+description: Sign up now for AT JIU-JITSU NYC's 8 week summer session
+thumbnail: /img/img_70591.jpg
+home: true
 tags:
   - Blog
 ---
