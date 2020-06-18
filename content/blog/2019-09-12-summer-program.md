@@ -30,7 +30,7 @@ tags:
 
 <https://www.nydailynews.com/news/politics/ny-cuomo-gives-green-light-to-summer-day-camp-20200602-ta4wlvqxerhvnae4u3x6btv6fm-story.html>
 
-**In light of the corona virus outbreak, we will continue to add to our already rigorous health and safety protocols to our Academy as we make decisions about the summer season. We are continuing to monitor the situation and will of course be putting strict safety measures in place before welcoming the kids for the summer.**
+**In light of the corona virus outbreak, we will continue to add to our already rigorous health and safety protocols to our Academy. We are continuing to monitor the situation and will of course be putting strict safety measures in place before welcoming the kids for the summer.**
 
 **If you are interested please email us at atjiujitsunyc@gmail.com as the spots are limited! Thank you.**
 
