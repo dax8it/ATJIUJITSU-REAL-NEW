@@ -23,6 +23,13 @@ tags:
 
 • Judo is incorporated into our Jiu-Jitsu classes
 
+## **\*\*Important\*\***
+
+Please sign our Covid-19 form below.
+
+<https://form.jotform.com/201665657119056>
+
+
 ## Get started now!
 
 ## Sign up for a trial here:
