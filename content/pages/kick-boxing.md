@@ -11,6 +11,13 @@ tags:
 ---
 `youtube: https://youtu.be/YEhrXn8-qeU`
 
+## **\*\*Important\*\***
+
+Please sign our Covid-19 form below.
+
+<https://form.jotform.com/201665657119056>
+
+
 ## Get started now!
 
 ## Sign up for a trial here:
