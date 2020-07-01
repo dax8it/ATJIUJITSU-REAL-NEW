@@ -21,6 +21,13 @@ tags:
 
 • Our toddler class are for Ages 3-4. Recommended for active children who are eager to learn. Limited spots available due to class in high demand!
 
+## **\*\*Important\*\***
+
+Please sign our Covid-19 form below.
+
+<https://form.jotform.com/201665657119056>
+
+
 ## Get started now!
 
 ## Sign up for a trial here:
