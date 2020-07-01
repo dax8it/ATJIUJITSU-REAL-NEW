@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Class Schedule
 order: 3
 date: 2020-05-29T22:47:34.544Z
-description: "Use this page to view, select and register for online classes."
+description: 'Use this page to view, select and register for online classes.'
 thumbnail: /img/homepagea2.jpg
 home: true
 tags:
@@ -27,6 +27,12 @@ tags:
 **\- Classes include Kickboxing, Muay-Thai, Jiu-Jitsu and Yoga**
 
 **\- Kids receive a free gi!**
+
+## **\*\*Important\*\***
+
+Please sign our Covid-19 form below.
+
+<https://form.jotform.com/201665657119056>
 
 ## Get started now!
 
