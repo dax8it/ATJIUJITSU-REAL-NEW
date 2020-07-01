@@ -25,6 +25,11 @@ tags:
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+## **\*\*Important\*\***
+
+Please sign our Covid-19 form below.
+
+<https://form.jotform.com/201665657119056>
 
 **We would also like to invite you all to read this article published by the Daily news on June 2nd in which Governor Cuomo has announced that summer day camps are allowed to open at the end of the month as the coronavirus crisis wanes.**
 
