@@ -16,6 +16,13 @@ tags:
 * With our new new KettleBell class, it helps to improve core strength & stability, enhances body awareness & coordination, improves balance & helps to stabilize muscles.
 * Kettlebell training is very dynamic raising your heart rate quickly so as well as developing muscle and strength you also receive a full cardio workout too. Kettlebell training takes away the need to perform weights on one day and cardio on another, you can do everything in just one workout.
 
+
+## **\*\*Important\*\***
+
+Please sign our Covid-19 form below.
+
+<https://form.jotform.com/201665657119056>
+
 ## Get started now!
 
 ## Sign up for a trial here:
