@@ -31,6 +31,9 @@ Please sign our Covid-19 form below.
 
 <https://form.jotform.com/201665657119056>
 
+<script type="text/javascript" src="https://form.jotform.com/jsform/201665657119056"></script>
+
+
 **We would also like to invite you all to read this article published by the Daily news on June 2nd in which Governor Cuomo has announced that summer day camps are allowed to open at the end of the month as the coronavirus crisis wanes.**
 
 <https://www.nydailynews.com/news/politics/ny-cuomo-gives-green-light-to-summer-day-camp-20200602-ta4wlvqxerhvnae4u3x6btv6fm-story.html>
