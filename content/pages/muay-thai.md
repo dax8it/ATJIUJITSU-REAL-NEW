@@ -21,6 +21,13 @@ tags:
 
 • Compared to regular boxing, which uses two contact points (two fists) or kickboxing (four points of contact), Muay Thai fighting style uses eight points of contact, utilizing every part of the body in both attack and defense mode.
 
+## **\*\*Important\*\***
+
+Please sign our Covid-19 form below.
+
+<https://form.jotform.com/201665657119056>
+
+
 ## Get started now!
 
 ## Sign up for a trial here:
