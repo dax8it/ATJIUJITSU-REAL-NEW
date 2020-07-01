@@ -13,6 +13,12 @@ tags:
 
 We make it easy to attend our classes. Choose one of our monthly subscription plans to get the most bang for your buck. You won't see this type of offer anywhere else in the NYC area. Unlimited classes. You decide.
 
+## **\*\*Important\*\***
+
+Please sign our Covid-19 form below.
+
+<https://form.jotform.com/201665657119056>
+
 ## Get started now!
 
 ## Sign up for a trial here:
