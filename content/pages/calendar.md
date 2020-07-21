@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Class Schedule
-order: 3
+order: 2
 date: 2020-05-29T22:47:34.544Z
 description: 'Use this page to view, select and register for online classes.'
 thumbnail: /img/homepagea2.jpg
