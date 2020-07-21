@@ -13,6 +13,8 @@ tags:
 
 ## Get started now!
 
+## **\*\*Important\*\***
+
 ## Register for Martial Arts on Rails here:
 
 <https://at-jiujitsu-nyc.maonrails.com/login>
@@ -46,52 +48,43 @@ Check out our adult and kids schedule below.
 
 ## MONDAY
 
-* **Kickboxing:** 6:15 to 7:10 pm
-* **Jiu-Jitsu:** 7:15 to 8:30 pm
+**_Morning Class_**
+
+* **Jiu-Jitsu:** 8:00 am to 8:45 am
+
+_**Afternoon Class**_
+
+* **Advanced Sparring Session:** 1:00 to 1:45 pm
+* **Womens Jiu-Jitsu:** 8:00 to 8:45 pm
 
 ## TUESDAY
 
-_**Morning Class**_
-
-* **Jiu-Jitsu:** 6:15 to 7:30 am
-
-**_Afternoon Class_**
-
-* **Muay Thai:** 6:00 to 6:45 pm
-* **Smarter Yoga:** 7:10 to 8:00 pm
-* **Jiu-Jitsu:** 8:10 to 9:15 pm
+* **No GI Drilling and Sparring:** 5:00 to 5:45 pm
+* **Jiu-Jitsu Drilling (GI):** 7:00 to 7:45 pm
 
 ## WEDNESDAY
 
-* **Kickboxing:** 6:15 to 7:10 pm
-* **Jiu-Jitsu:** 7:15 to 8:30 pm
+* **Kickboxing:** 6:00 to 6:45 pm
+* **Advanced Sparring:** 7:00 to 7:45 pm
 
 ## THURSDAY
 
-_**Morning Class**_
-
-* **Jiu-Jitsu:** 6:15 to 7:30 am
-
-**_Afternoon Class_**
-
-* **KettleBell Class:** 6:00 to 6:45 pm
-* **Jiu-Jitsu:** 7:15 to 8:30 pm
+* **No GI Drilling and Sparring:** 5:00 to 5:45 pm
+* **Muay Thai:** 6:00 to 6:45 pm
+* **Jiu-Jitsu Drilling (GI):** 7:00 to 7:45 pm
 
 ## FRIDAY
 
-* **Kickboxing:** 6:15 to 7:10 pm
-* **No Gi Jiu-Jitsu:** 7:15 to 8:30 pm
+* **Advanced Sparring Session:** 1:00 to 1:45 pm
+* **Kickboxing Sparring Class:** 6:00 to 6:45 pm
 
 ## SATURDAY
 
-* **Kickboxing:** 12:15 to 1:15 pm
-* **No Gi Jiu-Jitsu:** 1:15 to 2:15 pm
+* **No GI Drilling and Sparring:** 12:00 to 12:45 pm
 
 ## SUNDAY
 
-<br>
-
-* **Open Mat for Everyone:** 10:00 am to 12:00 pm
+* **Drilling and Sparring (Open Training):** 12:00 to 12:45 pm
 
 <br>
 
@@ -146,5 +139,3 @@ _**Morning Class**_
 **\- Classes include Kickboxing, Muay-Thai, Jiu-Jitsu and Yoga**
 
 **\- Kids receive a free gi!**
-
-## **\*\*Important\*\***
