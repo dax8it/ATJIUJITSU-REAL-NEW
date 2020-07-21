@@ -88,6 +88,8 @@ _**Afternoon Class**_
 
 <br>
 
+![](/img/006ae1d9-6130-42f4-b6fd-038cc9335055.jpg)
+
 - - -
 
 <br>
