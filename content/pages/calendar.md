@@ -15,7 +15,7 @@ tags:
 
 ## **\*\*Important\*\***
 
-## Register for Martial Arts on Rails here:
+## Sign up for Martial Arts on Rails here to book classes and register:
 
 <https://at-jiujitsu-nyc.maonrails.com/login>
 
