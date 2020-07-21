@@ -17,10 +17,6 @@ tags:
 
 <https://at-jiujitsu-nyc.maonrails.com/login>
 
-## Please sign our Covid-19 form below:
-
-<https://form.jotform.com/201665657119056>
-
 ## Sign Our Waiver below:
 
 <a
