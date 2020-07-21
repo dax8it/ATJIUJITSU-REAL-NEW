@@ -11,13 +11,17 @@ tags:
 ---
 # Adult and Kids Schedule
 
-Please sign our Covid-19 form below.
+## Get started now!
+
+## Register for Martial Arts on Rails here:
+
+<https://at-jiujitsu-nyc.maonrails.com/login>
+
+## Please sign our Covid-19 form below:
 
 <https://form.jotform.com/201665657119056>
 
-## Get started now!
-
-## Sign up for a trial here:
+## Sign Our Waiver below:
 
 <a
             href="javascript:void(
@@ -28,10 +32,11 @@ Please sign our Covid-19 form below.
           toolbar=no,
           width=700,
           height=500'
-        )
+        )0
       )
     "
           >
+
 ATJIUJITSUNYC MEMBERSHIP FORM
 </a>
 
@@ -50,11 +55,11 @@ Check out our adult and kids schedule below.
 
 ## TUESDAY
 
-**_Morning Class_**
+_**Morning Class**_
 
 * **Jiu-Jitsu:** 6:15 to 7:30 am
 
-_**Afternoon Class**_
+**_Afternoon Class_**
 
 * **Muay Thai:** 6:00 to 6:45 pm
 * **Smarter Yoga:** 7:10 to 8:00 pm
@@ -67,11 +72,11 @@ _**Afternoon Class**_
 
 ## THURSDAY
 
-**_Morning Class_**
+_**Morning Class**_
 
 * **Jiu-Jitsu:** 6:15 to 7:30 am
 
-_**Afternoon Class**_
+**_Afternoon Class_**
 
 * **KettleBell Class:** 6:00 to 6:45 pm
 * **Jiu-Jitsu:** 7:15 to 8:30 pm
