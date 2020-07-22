@@ -50,11 +50,11 @@ Check out our adult and kids schedule below.
 
 ## MONDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **Jiu-Jitsu:** 8:00 am to 8:45 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **Advanced Sparring Session:** 1:00 to 1:45 pm
 * **Womens Jiu-Jitsu:** 8:00 to 8:45 pm
@@ -62,6 +62,7 @@ _**Morning Class**_
 ## TUESDAY
 
 * **No GI Drilling and Sparring:** 5:00 to 5:45 pm
+* **Fitness Boot Camp:** 6:00 to 6:45 pm
 * **Jiu-Jitsu Drilling (GI):** 7:00 to 7:45 pm
 
 ## WEDNESDAY
@@ -90,7 +91,7 @@ _**Morning Class**_
 
 <br>
 
-# Virtual Classes: 
+# Virtual Classes:
 
 ![](/img/006ae1d9-6130-42f4-b6fd-038cc9335055.jpg)
 
