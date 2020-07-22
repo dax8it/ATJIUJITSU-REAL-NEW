@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: KickBoxing
-order: 3
+order: 5
 date: '2019-05-01'
 description: 'The best Kickboxing program in Jackson Heights, NY!'
 thumbnail: /img/kick-AIS09142.jpg
@@ -16,7 +16,6 @@ tags:
 Please sign our Covid-19 form below.
 
 <https://form.jotform.com/201665657119056>
-
 
 ## Get started now!
 
