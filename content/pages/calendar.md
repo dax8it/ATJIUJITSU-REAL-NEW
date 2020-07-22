@@ -3,7 +3,9 @@ templateKey: blog-post
 title: Class Schedule
 order: 2
 date: 2020-05-29T22:47:34.544Z
-description: Use this page to register for Martial Arts on Rails to book classes online
+description: >-
+  Use this page to register for Martial Arts on Rails to book classes online.
+  Open to members only. 
 thumbnail: /img/homepagea2.jpg
 home: true
 tags:
@@ -48,11 +50,11 @@ Check out our adult and kids schedule below.
 
 ## MONDAY
 
-**_Morning Class_**
+_**Morning Class**_
 
 * **Jiu-Jitsu:** 8:00 am to 8:45 am
 
-_**Afternoon Class**_
+**_Afternoon Class_**
 
 * **Advanced Sparring Session:** 1:00 to 1:45 pm
 * **Womens Jiu-Jitsu:** 8:00 to 8:45 pm
@@ -88,6 +90,8 @@ _**Afternoon Class**_
 
 <br>
 
+# Virtual Classes: 
+
 ![](/img/006ae1d9-6130-42f4-b6fd-038cc9335055.jpg)
 
 <br>
@@ -98,9 +102,9 @@ _**Afternoon Class**_
 
 # Kids Classes
 
+## Kids Virtual Classes:
+
 ![](/img/9db897c7-2635-4954-bea2-d331ba682ef9.jpg)
-
-
 
 ### MONDAY
 
