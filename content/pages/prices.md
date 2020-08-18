@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Our Prices
 order: 10
 date: '2019-05-04'
-description: Our pricing makes taking classes afforable.
+description: Our pricing makes taking classes affordable!
 thumbnail: /img/blog-index.jpg
 home: true
 tags:
@@ -45,30 +45,8 @@ ATJIUJITSUNYC MEMBERSHIP FORM
 
 ## Unlimited Classes - $155/mo:
 
-* Perfect for the grappler looking to up their game
+* Take advantage of our reopening special. 15% off for each additional family member/friends!
   * Unlimited Jiu-Jitsu
-  * Muay Thai
-  * Kickboxing
-  * Kettlebell
-  * Yoga
-
-- - -
-
-## Three Times A Week - $145/mo:
-
-* Pick any three days of the week to train
-  * Jiu-Jitsu
-  * Muay Thai
-  * Kickboxing
-  * Kettlebell
-  * Yoga
-
-- - -
-
-## Two Times A Week - $135/mo:
-
-* Pick any two days of the week to train
-  * Jiu Jitsu
   * Muay Thai
   * Kickboxing
   * Kettlebell
@@ -81,7 +59,7 @@ ATJIUJITSUNYC MEMBERSHIP FORM
 * Great for adventurous kids
   * learn Discipline
   * learn Throws (Judo)
-  * learn Self Defenses
+  * learn Self Defense
 
 - - -
 
