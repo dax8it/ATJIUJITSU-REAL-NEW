@@ -4,7 +4,7 @@ title: Toddlers In Action Zoom Class
 order: 30
 date: 2020-05-22T21:44:28.904Z
 description: >-
-  Join us Saturday's at 10:30 AM for our live Zoom "TODDLER IN ACTION" class.
+  Join us Saturday's at 10:00 AM for our live Zoom "TODDLER IN ACTION" class.
   Exercise, singing, dancing, martial arts, and positivity, for the young ones.
 thumbnail: /img/dsc09880.jpg
 home: false
