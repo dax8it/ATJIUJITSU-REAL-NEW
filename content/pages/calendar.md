@@ -17,6 +17,12 @@ tags:
 
 ## Sign up for Martial Arts on Rails here to book classes and register:
 
+**New members/visitors Sign Up Here:**
+
+<https://www.maonrails.com/signup/member/8s6>
+
+**Members Login Here:**
+
 <https://at-jiujitsu-nyc.maonrails.com/login>
 
 ## Sign Our Waiver below:
@@ -48,11 +54,11 @@ Check out our adult and kids schedule below.
 
 ## MONDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **Jiu-Jitsu:** 8:00 am to 8:45 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **Advanced Sparring Session:** 1:00 to 1:45 pm
 * **Womens Jiu-Jitsu:** 8:00 to 8:45 pm
