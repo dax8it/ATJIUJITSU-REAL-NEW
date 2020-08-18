@@ -1,21 +1,21 @@
 ---
 templateKey: blog-post
 title: Summer Program 2020
-order: ''
+order: 3
 date: 2020-06-10T00:00:00.000Z
-description: Another summer camp season is in the books.
+description: Sign up now for AT JIU-JITSU NYC's 8 week summer session
 thumbnail: /img/img_70591.jpg
 home: false
 tags:
   - Blog
 ---
-**What a wonderful summer – being immersed in nature, exploring new places, making new friends and trying new things. We always end each camp season with an eye toward the future and the excitement that lies ahead. Our heart is full of gratitude for our staff, for our campers and particularly for our camp parents who have entrusted your children to us. what a wonderful summer! Thank you for being an important part of it. We can’t wait to have you back again next year.**
+**Another summer camp season is in the books. What a wonderful summer – being immersed in nature, exploring new places, making new friends and trying new things. We always end each camp season with an eye toward the future and the excitement that lies ahead. Our heart is full of gratitude for our staff, for our campers and particularly for our camp parents who have entrusted your children to us. what a wonderful summer! Thank you for being an important part of it. We can’t wait to have you back again next year.**
 
-**Check out some photos below from our previous summer sessions with activities such as laser tag, water balloon fights, Mario Kart tournaments, dodgeball, Jiu-Jitsu, arts and crafts, and trips to the pool, the library and museums, it was a summer we hope they'll never forget!** 
+**Check out some photos from our summer session from last year with activities such as laser tag, water balloon fights, Mario Kart tournaments, dodgeball, Jiu-Jitsu, arts and crafts, and trips to the pool, the library and museums, it was a summer we hope they'll never forget!** 
 
 - - -
 
-![](/img/img_1837.jpg)
+![](/img/img_7378.jpg)
 
 ![](/img/1.jpg)
 
@@ -23,15 +23,11 @@ tags:
 
 ![](/img/6.jpg)
 
-![](/img/img_1864.jpg)
-
 ![](/img/11.jpg)
 
 ![](/img/5.jpg)
 
 ![](/img/img_7332.jpg)
-
-![](/img/img_1831.jpg)
 
 ![](/img/img_7412.jpg)
 
@@ -52,8 +48,6 @@ tags:
 ![](/img/9.jpg)
 
 ![](/img/dsc03295-1-.jpg)
-
-![](/img/img_2426.jpg)
 
 ![](/img/8.jpg)
 
