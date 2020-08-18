@@ -45,7 +45,7 @@ ATJIUJITSUNYC MEMBERSHIP FORM
 
 ## Unlimited Classes - $155/mo:
 
-* Take advantage of our reopening special
+* Take advantage of our reopening special. Additional 15% off family/friends discount!
   * Unlimited Jiu-Jitsu
   * Muay Thai
   * Kickboxing
