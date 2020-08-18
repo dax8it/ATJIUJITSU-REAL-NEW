@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Our Prices
 order: 10
 date: '2019-05-04'
-description: Our pricing makes taking classes afforable.
+description: Our pricing makes taking classes affordable!
 thumbnail: /img/blog-index.jpg
 home: true
 tags:
