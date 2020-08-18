@@ -59,7 +59,7 @@ ATJIUJITSUNYC MEMBERSHIP FORM
 * Great for adventurous kids
   * learn Discipline
   * learn Throws (Judo)
-  * learn Self Defenses
+  * learn Self Defense
 
 - - -
 
