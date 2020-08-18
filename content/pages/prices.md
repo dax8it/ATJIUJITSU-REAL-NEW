@@ -54,28 +54,6 @@ ATJIUJITSUNYC MEMBERSHIP FORM
 
 - - -
 
-## Three Times A Week - $145/mo:
-
-* Pick any three days of the week to train
-  * Jiu-Jitsu
-  * Muay Thai
-  * Kickboxing
-  * Kettlebell
-  * Yoga
-
-- - -
-
-## Two Times A Week - $135/mo:
-
-* Pick any two days of the week to train
-  * Jiu Jitsu
-  * Muay Thai
-  * Kickboxing
-  * Kettlebell
-  * Yoga
-
-- - -
-
 ## Age 3-4 Toddler Classes - $135/mo:
 
 * Great for adventurous kids
