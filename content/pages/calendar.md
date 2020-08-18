@@ -17,6 +17,12 @@ tags:
 
 ## Sign up for Martial Arts on Rails here to book classes and register:
 
+**New members/visitors Sign Up Here:**
+
+<https://www.maonrails.com/signup/member/8s6>
+
+**Members Login Here:**
+
 <https://at-jiujitsu-nyc.maonrails.com/login>
 
 ## Sign Our Waiver below:
@@ -65,6 +71,12 @@ _**Morning Class**_
 
 ## WEDNESDAY
 
+_**Morning Class**_
+
+* **Jiu-Jitsu:** 7:30 am to 8:15 am
+
+**_Afternoon Class_**
+
 * **Kickboxing:** 6:00 to 6:45 pm
 * **Advanced Sparring:** 7:00 to 7:45 pm
 
@@ -85,7 +97,7 @@ _**Morning Class**_
 
 ## SUNDAY
 
-* **Drilling and Sparring (Open Training):** 12:00 to 12:45 pm
+* **Drilling and Sparring (Open Training):** 10:00 to 10:45 am
 
 <br>
 
@@ -99,49 +111,30 @@ _**Morning Class**_
 
 <br>
 
-# Kids Classes
+# Kids Classes/ Blended Learning
+
+### MONDAY
+
+* **Kids Judo (Ages 5 to 9):** 3:15 to 4:00pm
+* **Kids Jiu-Jitsu (Ages 10 to 13)** 4:15 to 5:00pm
+
+### WEDNESDAY
+
+* **Kids Judo (Ages 5 to 9):** 3:15 to 4:00pm
+* **Kids Jiu-Jitsu (Ages 10 to 13)** 4:15 to 5:00pm
+
+### FRIDAY
+
+* **Kids Judo (Ages 5 to 9):** 3:15 to 4:00pm
+* **Kids Jiu-Jitsu (Ages 10 to 13)** 4:15 to 5:00pm
+
+### SATURDAY
+
+* **Toddler Jiu-Jitsu (Ages 3 to 4):** 10:15 to 11:00am
 
 ## Kids Virtual Classes:
 
 ![](/img/9db897c7-2635-4954-bea2-d331ba682ef9.jpg)
-
-### MONDAY
-
-* **Kids Judo (Ages 5 to 9):** 4:00 to 4:45pm
-* **Kids Jiu-Jitsu (Ages 10 to 13)** 5:00 to 5:45pm
-
-### TUESDAY
-
-* **Kids Jiu-Jitsu (Ages 5 to 9):** 3:15 to 4:00pm
-* **Kids Muay Thai (Ages 8 to 13):** 4:00 to 4:45pm
-* **Kids Jiu-Jitsu (Ages 10 to 13):** 5:00 to 5:45pm
-
-### WEDNESDAY
-
-* **Kids Judo (Ages 5 to 9):** 4:00 to 4:45pm
-* **Kids Jiu-Jitsu (Ages 10 to 13):** 5:00 to 5:45pm
-
-### THURSDAY
-
-* **Kids Jiu-Jitsu (Ages 5 to 9):** 3:15 to 4:00pm
-* **Kids Muay Thai (Ages 8 to 13):** 4:00 to 4:45pm
-* **Kids Jiu-Jitsu (Ages 10 to 13):** 5:00 to 5:45pm
-
-### FRIDAY
-
-* **Kids Judo (Ages 5 to 9):** 4:00 to 4:45pm
-* **Kids MMA (Ages 8 to 13):** 5:00 to 5:45pm
-
-### SATURDAY
-
-* **Toddler Jiu-Jitsu (Ages 3 to 4):** 9:15 to 10:00am
-
-\*LIMITED SPOTS AVAILABLE (Call/ Email Us to confirm a spot)
-
-* **Kids Jiu-Jitsu (Ages 5 to 9):** 10:15 to 11:00pm
-* **Kids Jiu-Jitsu (Ages 10 to 13):** 11:15 to 12:00pm
-
-<br>
 
 - - -
 
