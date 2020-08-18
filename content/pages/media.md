@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
 title: Media
-order: 11
-date: "2019-12-11"
+order: 12
+date: '2019-12-11'
 description: >-
   Check out our videos and subscribe to our Youtube channel for more content on
   all of our classes!
