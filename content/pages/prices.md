@@ -45,7 +45,7 @@ ATJIUJITSUNYC MEMBERSHIP FORM
 
 ## Unlimited Classes - $155/mo:
 
-* Perfect for the grappler looking to up their game
+* Take advantage of our reopening special
   * Unlimited Jiu-Jitsu
   * Muay Thai
   * Kickboxing
