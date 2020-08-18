@@ -54,11 +54,11 @@ Check out our adult and kids schedule below.
 
 ## MONDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **Jiu-Jitsu:** 8:00 am to 8:45 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **Advanced Sparring Session:** 1:00 to 1:45 pm
 * **Womens Jiu-Jitsu:** 8:00 to 8:45 pm
@@ -71,11 +71,11 @@ _**Morning Class**_
 
 ## WEDNESDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **Jiu-Jitsu:** 7:30 am to 8:15 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **Kickboxing:** 6:00 to 6:45 pm
 * **Advanced Sparring:** 7:00 to 7:45 pm
@@ -113,47 +113,30 @@ _**Morning Class**_
 
 # Kids Classes
 
-## Kids Virtual Classes:
 
-![](/img/9db897c7-2635-4954-bea2-d331ba682ef9.jpg)
 
 ### MONDAY
 
-* **Kids Judo (Ages 5 to 9):** 4:00 to 4:45pm
-* **Kids Jiu-Jitsu (Ages 10 to 13)** 5:00 to 5:45pm
-
-### TUESDAY
-
-* **Kids Jiu-Jitsu (Ages 5 to 9):** 3:15 to 4:00pm
-* **Kids Muay Thai (Ages 8 to 13):** 4:00 to 4:45pm
-* **Kids Jiu-Jitsu (Ages 10 to 13):** 5:00 to 5:45pm
+* **Kids Judo (Ages 5 to 9):** 3:15 to 4:00pm
+* **Kids Jiu-Jitsu (Ages 10 to 13)** 4:15 to 5:00pm
 
 ### WEDNESDAY
 
-* **Kids Judo (Ages 5 to 9):** 4:00 to 4:45pm
-* **Kids Jiu-Jitsu (Ages 10 to 13):** 5:00 to 5:45pm
-
-### THURSDAY
-
-* **Kids Jiu-Jitsu (Ages 5 to 9):** 3:15 to 4:00pm
-* **Kids Muay Thai (Ages 8 to 13):** 4:00 to 4:45pm
-* **Kids Jiu-Jitsu (Ages 10 to 13):** 5:00 to 5:45pm
+* **Kids Judo (Ages 5 to 9):** 3:15 to 4:00pm
+* **Kids Jiu-Jitsu (Ages 10 to 13)** 4:15 to 5:00pm
 
 ### FRIDAY
 
-* **Kids Judo (Ages 5 to 9):** 4:00 to 4:45pm
-* **Kids MMA (Ages 8 to 13):** 5:00 to 5:45pm
+* **Kids Judo (Ages 5 to 9):** 3:15 to 4:00pm
+* **Kids Jiu-Jitsu (Ages 10 to 13)** 4:15 to 5:00pm
 
 ### SATURDAY
 
-* **Toddler Jiu-Jitsu (Ages 3 to 4):** 9:15 to 10:00am
+* **Toddler Jiu-Jitsu (Ages 3 to 4):** 10:15 to 11:00am
 
-\*LIMITED SPOTS AVAILABLE (Call/ Email Us to confirm a spot)
+## Kids Virtual Classes:
 
-* **Kids Jiu-Jitsu (Ages 5 to 9):** 10:15 to 11:00pm
-* **Kids Jiu-Jitsu (Ages 10 to 13):** 11:15 to 12:00pm
-
-<br>
+![](/img/9db897c7-2635-4954-bea2-d331ba682ef9.jpg)
 
 - - -
 
