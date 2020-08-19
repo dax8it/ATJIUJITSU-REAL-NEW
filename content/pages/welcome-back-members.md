@@ -23,3 +23,5 @@ Now that we have been given the green light to reopen, it is very important to s
 
 **• Do not feel well • Are exhibiting any symptoms of COVID-19: mild to severe respiratory illness with fever, cough and difficulty breathing, or other symptoms identified by the CDC.
  • Have been in contact with someone with COVID-19 in the last 14 days. • Are a high risk or vulnerable individual as described above.**
+
+We want to assure our members that we are also taking every precaution necessary and your safety is our main concern. All our staff members have been tested for Covid-19 and will continue to do so with monthly tests. The Academy will be thoroughly cleaned every night and commonly touched surfaces will be wiped down periodically throughout the day. In addition, the academy will get steam cleaned 3 times a week. We trust that everyone training is healthy and safe in order to come in and take class
