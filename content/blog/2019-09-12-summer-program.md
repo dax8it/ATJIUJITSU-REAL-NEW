@@ -17,7 +17,11 @@ tags:
 
 ![](/img/1.jpg)
 
+![](/img/videocapture_20200818-185408.jpg)
+
 ![](/img/img_1831.jpg)
+
+![](/img/videocapture_20200818-191038.jpg)
 
 ![](/img/img_7284.jpg)
 
@@ -34,8 +38,6 @@ tags:
 ![](/img/img_7412.jpg)
 
 ![](/img/10.jpg)
-
-![](/img/img_1837.jpg)
 
 ![](/img/dsc03249.jpg)
 
