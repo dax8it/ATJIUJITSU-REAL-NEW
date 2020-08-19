@@ -19,7 +19,7 @@ Now that we have been given the green light to reopen, it is very important to s
 
 ## **\*\*We strongly recommend for everyone to get Covid tested monthly.\*\*** 
 
-**We ask you do not enter if you:**
+**We also ask you do not enter if you:**
 
 **• Do not feel well • Are exhibiting any symptoms of COVID-19: mild to severe respiratory illness with fever, cough and difficulty breathing, or other symptoms identified by the CDC.
  • Have been in contact with someone with COVID-19 in the last 14 days. • Are a high risk or vulnerable individual as described above.**
