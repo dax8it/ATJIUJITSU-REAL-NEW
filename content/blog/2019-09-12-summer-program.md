@@ -17,7 +17,11 @@ tags:
 
 ![](/img/1.jpg)
 
+![](/img/videocapture_20200818-185408.jpg)
+
 ![](/img/img_1831.jpg)
+
+![](/img/videocapture_20200818-191038.jpg)
 
 ![](/img/img_7284.jpg)
 
@@ -27,15 +31,13 @@ tags:
 
 ![](/img/5.jpg)
 
-![](/img/img_1864.jpg)
+![](/img/img_1861.jpg)
 
 ![](/img/img_7332.jpg)
 
 ![](/img/img_7412.jpg)
 
 ![](/img/10.jpg)
-
-![](/img/img_1837.jpg)
 
 ![](/img/dsc03249.jpg)
 
@@ -52,8 +54,6 @@ tags:
 ![](/img/9.jpg)
 
 ![](/img/dsc03295-1-.jpg)
-
-![](/img/img_2426.jpg)
 
 ![](/img/8.jpg)
 
