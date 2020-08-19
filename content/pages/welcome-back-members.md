@@ -3,9 +3,7 @@ templateKey: blog-post
 title: Welcome Back Members!
 order: 1
 date: 2020-08-18T22:56:32.594Z
-description: >-
-  It has been a long and tough road back, but we are happy to be opening our
-  doors, to members only.
+description: 'Book classes online and register below! '
 home: true
 tags:
   - Blog
