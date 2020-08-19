@@ -31,7 +31,7 @@ tags:
 
 ![](/img/5.jpg)
 
-![](/img/img_1864.jpg)
+![](/img/img_1861.jpg)
 
 ![](/img/img_7332.jpg)
 
@@ -54,8 +54,6 @@ tags:
 ![](/img/9.jpg)
 
 ![](/img/dsc03295-1-.jpg)
-
-![](/img/img_2426.jpg)
 
 ![](/img/8.jpg)
 
