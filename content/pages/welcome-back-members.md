@@ -9,6 +9,8 @@ tags:
 ---
 We would like to take the time to welcome back AT Jiu-Jitsu NYC members! It has been a long and tough road back, but we are happy to be opening our doors, starting with members only. Through this program, you will be able to book your class sessions through our online booking platform. It is very important that you do so in order to take classes.
 
+We strongly recommend for everyone to get Covid tested. 
+
 Both our Adults and Kids class schedule is up on our website https://www.atjiujitsunyc.com/calendar/ and also on https://at-jiujitsu-nyc.maonrails.com/login. Once you have created an account, click on the menu screen on the top right and click on “Schedule” and book the class you are going to take.
 
 <https://www.maonrails.com/signup/member/8s6>
