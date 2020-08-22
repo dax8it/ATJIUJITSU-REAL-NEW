@@ -13,38 +13,14 @@ tags:
 ---
 # Adult and Kids Schedule
 
-## Get started now!
+## Get Started Now:
 
-## Sign up for Martial Arts on Rails here to book classes and register:
+## Register for classes here:
 
-**New members/visitors Sign Up Here:**
+## <https://www.maonrails.com/signup/member/8s6>
 
-<https://www.maonrails.com/signup/member/8s6>
-
-**Members Login Here:**
-
-<https://at-jiujitsu-nyc.maonrails.com/login>
-
-## Sign Our Waiver below:
-
-<a
-            href="javascript:void(
-        window.open(
-          'https://form.jotform.com/atjiujitsudev/studio-membership',
-          'blank',
-          'scrollbars=yes,
-          toolbar=no,
-          width=700,
-          height=500'
-        )0
-      )
-    "
-          >
-
-ATJIUJITSUNYC MEMBERSHIP FORM
-</a>
-
-Check out our adult and kids schedule below.
+# 
+<br>
 
 - - -
 
@@ -54,11 +30,11 @@ Check out our adult and kids schedule below.
 
 ## MONDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **Jiu-Jitsu:** 8:00 am to 8:45 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **Advanced Sparring Session:** 1:00 to 1:45 pm
 * **Womens Jiu-Jitsu:** 8:00 to 8:45 pm
@@ -71,11 +47,11 @@ _**Morning Class**_
 
 ## WEDNESDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **Jiu-Jitsu:** 7:30 am to 8:15 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **Kickboxing:** 6:00 to 6:45 pm
 * **Advanced Sparring:** 7:00 to 7:45 pm
