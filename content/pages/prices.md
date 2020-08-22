@@ -19,8 +19,6 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 ## <https://www.maonrails.com/signup/member/8s6>
 
-<br>
-
 - - -
 
 ## Unlimited Classes - $155/mo:
