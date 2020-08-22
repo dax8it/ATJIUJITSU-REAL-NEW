@@ -21,7 +21,7 @@ In the link below, there is a step by step video tutorial for how to register, i
 
 # **Academy Protocols:**
 
-## Students are recommended to: 
+## Students are recommended  before coming in to: 
 
 **• Get Covid tested every month**
 
