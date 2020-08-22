@@ -34,23 +34,9 @@ Through classes focusing on mixed martial arts such as Brazilian Jiu-Jitsu, Judo
 
 ## Get started now!
 
-## Sign up for a trial here:
+## Register for classes here:
 
-<a
-            href="javascript:void(
-        window.open(
-          'https://form.jotform.com/atjiujitsudev/studio-membership',
-          'blank',
-          'scrollbars=yes,
-          toolbar=no,
-          width=700,
-          height=500'
-        )
-      )
-    "
-          >
-ATJIUJITSUNYC MEMBERSHIP FORM
-</a>
+<https://www.maonrails.com/signup/member/8s6>
 
 <br>
 
