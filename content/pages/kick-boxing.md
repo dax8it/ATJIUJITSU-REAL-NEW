@@ -19,8 +19,6 @@ tags:
 
 <br>
 
-<br>
-
 - - -
 
 # Kickboxing
