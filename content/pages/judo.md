@@ -23,32 +23,11 @@ tags:
 
 • Judo is incorporated into our Jiu-Jitsu classes
 
-## **\*\*Important\*\***
+# Get Started Now:
 
-Please sign our Covid-19 form below.
+## Register for classes here:
 
-<https://form.jotform.com/201665657119056>
-
-
-## Get started now!
-
-## Sign up for a trial here:
-
-<a
-            href="javascript:void(
-        window.open(
-          'https://form.jotform.com/atjiujitsudev/studio-membership',
-          'blank',
-          'scrollbars=yes,
-          toolbar=no,
-          width=700,
-          height=500'
-        )
-      )
-    "
-          >
-ATJIUJITSUNYC MEMBERSHIP FORM
-</a>
+## <https://www.maonrails.com/signup/member/8s6>
 
 <br>
 
