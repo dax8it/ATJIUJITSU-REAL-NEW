@@ -19,11 +19,9 @@ In the link below, there is a step by step video tutorial for how to register, i
 
 # **Academy Protocols:**
 
-## **\*\*We strongly recommend for everyone to get Covid tested monthly.\*\***
+## **Students are recommended to:** 
 
-**Students are recommended to:** 
-
-**• Get Covid tested every month**
+**\*\*Get Covid tested every month\*\***
 
 • Wear a clean mask at all times during training (Breaks allowed in between if needed)
 
