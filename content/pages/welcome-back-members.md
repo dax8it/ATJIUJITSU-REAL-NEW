@@ -21,9 +21,12 @@ In the link below, there is a step by step video tutorial for how to register, i
 
 # **Academy Protocols:**
 
-## **Students are recommended to:** 
+Please read below how AT JIU JITSU NYC plans to 
 
-**\*\*Get Covid tested every month\*\***
+## **Students are recommended to:**
+
+**\*\*Get Covid tested every month
+\*\***
 
 • Wear a clean mask at all times during training (Breaks allowed in between if needed)
 
