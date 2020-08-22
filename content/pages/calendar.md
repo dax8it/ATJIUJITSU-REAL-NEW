@@ -18,6 +18,7 @@ tags:
 ## <https://www.maonrails.com/signup/member/8s6>
 
 # 
+
 <br>
 
 - - -
@@ -28,11 +29,11 @@ tags:
 
 ## MONDAY
 
-**_Morning Class_**
+_**Morning Class**_
 
 * **Jiu-Jitsu:** 8:00 am to 8:45 am
 
-_**Afternoon Class**_
+**_Afternoon Class_**
 
 * **Advanced Sparring Session:** 1:00 to 1:45 pm
 * **Womens Jiu-Jitsu:** 8:00 to 8:45 pm
@@ -45,11 +46,11 @@ _**Afternoon Class**_
 
 ## WEDNESDAY
 
-**_Morning Class_**
+_**Morning Class**_
 
 * **Jiu-Jitsu:** 7:30 am to 8:15 am
 
-_**Afternoon Class**_
+**_Afternoon Class_**
 
 * **Kickboxing:** 6:00 to 6:45 pm
 * **Advanced Sparring:** 7:00 to 7:45 pm
@@ -105,6 +106,7 @@ _**Afternoon Class**_
 ### SATURDAY
 
 * **Toddler Jiu-Jitsu (Ages 3 to 4):** 10:15 to 11:00am
+* **Outdoor Kickboxing (All Ages Welcome):** 11:15 to 12:00pm
 
 ## Kids Virtual Classes:
 
