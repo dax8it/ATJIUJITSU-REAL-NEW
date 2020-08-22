@@ -4,7 +4,7 @@ title: Welcome Back Members!
 order: 1
 date: 2020-08-18T22:56:32.594Z
 description: 'Book classes online and register below! '
-thumbnail: /img/jumbotron.png
+thumbnail: /img/img_3045.jpg
 home: true
 tags:
   - Blog
