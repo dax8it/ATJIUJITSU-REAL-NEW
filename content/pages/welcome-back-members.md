@@ -21,7 +21,7 @@ In the link below, there is a step by step video tutorial for how to register, i
 
 # **Academy Protocols:**
 
-Please read below how AT JIU JITSU NYC plans to 
+Please read below how AT JIU JITSU NYC plans to maintain safe during training. 
 
 ## **Students are recommended to:**
 
