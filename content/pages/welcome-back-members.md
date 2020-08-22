@@ -21,9 +21,22 @@ In the link below, there is a step by step video tutorial for how to register, i
 
 ## **\*\*We strongly recommend for everyone to get Covid tested monthly.\*\***
 
-**We also ask you do not enter if you:**
+**Students are recommended to:** 
 
-**• Do not feel well • Are exhibiting any symptoms of COVID-19: mild to severe respiratory illness with fever, cough and difficulty breathing, or other symptoms identified by the CDC.
- • Have been in contact with someone with COVID-19 in the last 14 days. • Are a high risk or vulnerable individual as described above.**
+**• Get Covid tested every month**
 
-**We want to assure our members that we are also taking every precaution necessary and your safety is our main concern. All our staff members have been tested for Covid-19 and will continue to do so with monthly tests. The Academy will be thoroughly cleaned every night and commonly touched surfaces will be wiped down periodically throughout the day. In addition, the academy will get steam cleaned 3 times a week. We trust that everyone training is healthy and safe in order to come in and take class**
+• Wear a clean mask at all times during training (Breaks allowed in between if needed)
+
+• Wash your hands with soap and water or use hand sanitizer frequently in and outside the gym.
+
+• Avoid touching your face.
+
+• Sneeze or cough into a tissue, or in the inside of their elbow. (Wash hands or use hand sanitizer immediately after)
+
+• Disinfect and wash frequently used items and surfaces as much as possible, such as: gear bag, water bottle, mouth guard, belt, and gym footwear.
+
+• Bring your own face towel to dry any perspiration.
+
+• Be thoughtful of any early symptoms before training. (Do not attend training sessions if you exhibit any of the following symptoms: Fever or chills, Cough, Shortness of breath or difficulty breathing, Fatigue, Muscle or body aches, Headache, loss of taste or smell, Sore throat, Congestion or runny nose, Nausea or vomiting, Diarrhea)
+
+• Create a buddy system to exclusively train together (No switching partners is allowed)
