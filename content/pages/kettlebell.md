@@ -16,32 +16,11 @@ tags:
 * With our new new KettleBell class, it helps to improve core strength & stability, enhances body awareness & coordination, improves balance & helps to stabilize muscles.
 * Kettlebell training is very dynamic raising your heart rate quickly so as well as developing muscle and strength you also receive a full cardio workout too. Kettlebell training takes away the need to perform weights on one day and cardio on another, you can do everything in just one workout.
 
+# Get Started Now:
 
-## **\*\*Important\*\***
+## Register for classes here:
 
-Please sign our Covid-19 form below.
-
-<https://form.jotform.com/201665657119056>
-
-## Get started now!
-
-## Sign up for a trial here:
-
-<a
-            href="javascript:void(
-        window.open(
-          'https://form.jotform.com/atjiujitsudev/studio-membership',
-          'blank',
-          'scrollbars=yes,
-          toolbar=no,
-          width=700,
-          height=500'
-        )
-      )
-    "
-          >
-ATJIUJITSUNYC MEMBERSHIP FORM
-</a>
+## <https://www.maonrails.com/signup/member/8s6>
 
 <br>
 
