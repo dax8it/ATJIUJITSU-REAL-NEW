@@ -1,29 +1,46 @@
 ---
 templateKey: blog-post
-title: Welcome Back Members!
+title: Register for classes!
 order: 1
 date: 2020-08-18T22:56:32.594Z
-description: 'Book classes online and register below! '
+description: 'Welcome back members! Please read below our plans and actions for reopening. '
 thumbnail: /img/img_3045.jpg
 home: true
 tags:
   - Blog
 ---
-We would like to take the time to welcome back AT Jiu-Jitsu NYC members! It has been a long and tough road back, but we are happy to be opening our doors, starting with members only. Through this program, you will be able to book your class sessions through our online booking platform. It is very important that you do so in order to take classes.
+We would like to take the time to welcome back AT Jiu-Jitsu NYC members! Through Martial Arts on Rails, you will be able to book your class sessions through our online booking platform. It is very important that you do so in order to take classes.
 
-Now that we have been given the green light to reopen, it is very important to sign up for Martial Arts On Rails. In the link below, there is a step by step video tutorial for how to do so if you have not yet done so.
+In the link below, there is a step by step video tutorial for how to register, if you have not yet done so.
 
 <https://www.maonrails.com/signup/member/8s6>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pna2MyGY56A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+- - -
+
 # **Academy Protocols:**
 
-## **\*\*We strongly recommend for everyone to get Covid tested monthly.\*\***
+## Students are recommended to: 
 
-**We also ask you do not enter if you:**
+**• Get Covid tested every month**
 
-**• Do not feel well • Are exhibiting any symptoms of COVID-19: mild to severe respiratory illness with fever, cough and difficulty breathing, or other symptoms identified by the CDC.
- • Have been in contact with someone with COVID-19 in the last 14 days. • Are a high risk or vulnerable individual as described above.**
+• Wear a clean mask at all times during training (Breaks allowed in between if needed)
 
-**We want to assure our members that we are also taking every precaution necessary and your safety is our main concern. All our staff members have been tested for Covid-19 and will continue to do so with monthly tests. The Academy will be thoroughly cleaned every night and commonly touched surfaces will be wiped down periodically throughout the day. In addition, the academy will get steam cleaned 3 times a week. We trust that everyone training is healthy and safe in order to come in and take class**
+• Wash your hands with soap and water or use hand sanitizer frequently in and outside the gym.
+
+• Avoid touching your face.
+
+• Sneeze or cough into a tissue, or in the inside of their elbow. (Wash hands or use hand sanitizer immediately after)
+
+• Disinfect and wash frequently used items and surfaces as much as possible, such as: gear bag, water bottle, mouth guard, belt, and gym footwear.
+
+• Bring your own face towel to dry any perspiration.
+
+• Be thoughtful of any early symptoms before training. (Do not attend training sessions if you exhibit any of the following symptoms: Fever or chills, Cough, Shortness of breath or difficulty breathing, Fatigue, Muscle or body aches, Headache, loss of taste or smell, Sore throat, Congestion or runny nose, Nausea or vomiting, Diarrhea)
+
+• Create a buddy system to exclusively train together (No switching partners is allowed)
+
+## AT JIU-JITSU NYC RE-OPENING ACTIONS AND PROTOCOLS:
+
+• Hand sanitizer will be provided by the mats, changing area, lobby and at the entrance of the gym. • Disinfectant area for feet before stepping onto the mats. • Commonly touched surfaces will be wiped down twice before arrival and after dismissal • Allow as much fresh air ventilation as possible between sessions. • Covid-19 specific liability waiver. • Disinfect throughout the day all common and high-traffic areas such as the entrance, gym mats, and restrooms in between classes. • Staff members will be tested twice a month and will provide proof of negative exam after every test. • Staff will maintain social distance amongst each other when possible • We will follow testing policies and procedures required for staff according to the guidelines established by CDC and local government. • Temperature checks will be administered prior to training.
