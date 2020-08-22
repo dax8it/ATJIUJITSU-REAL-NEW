@@ -30,27 +30,11 @@ tags:
 
 Through classes focusing on mixed martial arts such as Brazilian Jiu-Jitsu, Judo, Muay Thai, Yoga, and Kickboxing. The goal of AT Jiu-Jitsu NYC is to provide members the opportunity to be able to grow as individuals by gaining a better sense of themselves in both mind and body, all while learning about the sport and self-defense aspects of these martial arts. Members will walk out of at Jiu-Jitsu NYC feeling empowered and confident. AT Jiu-Jitsu NYC will work with members to set personalized goals and prove that these set objections can be reached, despite any existing limitations.
 
-<br>
+# Get started now!
 
-## Get started now!
+## Register for classes here:
 
-## Sign up for a trial here:
-
-<a
-            href="javascript:void(
-        window.open(
-          'https://form.jotform.com/atjiujitsudev/studio-membership',
-          'blank',
-          'scrollbars=yes,
-          toolbar=no,
-          width=700,
-          height=500'
-        )
-      )
-    "
-          >
-ATJIUJITSUNYC MEMBERSHIP FORM
-</a>
+## <https://www.maonrails.com/signup/member/8s6>
 
 <br>
 
