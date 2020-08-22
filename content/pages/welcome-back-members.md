@@ -9,7 +9,7 @@ home: true
 tags:
   - Blog
 ---
-We would like to take the time to welcome back AT Jiu-Jitsu NYC members! It has been a long and tough road back, but we are happy to be opening our doors, starting with members only. Through this program, you will be able to book your class sessions through our online booking platform. It is very important that you do so in order to take classes.
+We would like to take the time to welcome back AT Jiu-Jitsu NYC members! It has been a long and tough road back, but we are happy to be opening our doors, starting with members only. Through Martial Arts on Rails, you will be able to book your class sessions through our online booking platform. It is very important that you do so in order to take classes.
 
 Now that we have been given the green light to reopen, it is very important to sign up for Martial Arts On Rails. In the link below, there is a step by step video tutorial for how to do so if you have not yet done so.
 
