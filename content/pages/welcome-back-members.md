@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: Welcome Back Members!
+title: Register for classes!
 order: 1
 date: 2020-08-18T22:56:32.594Z
-description: 'Book classes online and register below! '
+description: Welcome back AT JIU-JITSU NYC members
 thumbnail: /img/img_3045.jpg
 home: true
 tags:
