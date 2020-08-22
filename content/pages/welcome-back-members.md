@@ -21,8 +21,7 @@ In the link below, there is a step by step video tutorial for how to register, i
 
 # **Academy Protocols:**
 
-**\*\*Get Covid tested every month
-\*\***
+**• Get Covid tested every month**
 
 • Wear a clean mask at all times during training (Breaks allowed in between if needed)
 
@@ -40,6 +39,6 @@ In the link below, there is a step by step video tutorial for how to register, i
 
 • Create a buddy system to exclusively train together (No switching partners is allowed)
 
-## AT JIU-JITSU NYC GYM RE-OPENING PROTOCOLS:
+## AT JIU-JITSU NYC GYM RE-OPENING ACTIONS AND PROTOCOLS:
 
 • Hand sanitizer will be provided by the mats, changing area, lobby and at the entrance of the gym. • Disinfectant area for feet before stepping onto the mats. • Commonly touched surfaces will be wiped down twice before arrival and after dismissal • Allow as much fresh air ventilation as possible between sessions. • Covid-19 specific liability waiver. • Disinfect throughout the day all common and high-traffic areas such as the entrance, gym mats, and restrooms in between classes. • Staff members will be tested twice a month and will provide proof of negative exam after every test. • Staff will maintain social distance amongst each other when possible • We will follow testing policies and procedures required for staff according to the guidelines established by CDC and local government. • Temperature checks will be administered prior to training.
