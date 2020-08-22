@@ -13,31 +13,11 @@ tags:
 
 We make it easy to attend our classes. Choose one of our monthly subscription plans to get the most bang for your buck. You won't see this type of offer anywhere else in the NYC area. Unlimited classes. You decide.
 
-## **\*\*Important\*\***
+# Get Started Now:
 
-Please sign our Covid-19 form below.
+## Register for classes here:
 
-<https://form.jotform.com/201665657119056>
-
-## Get started now!
-
-## Sign up for a trial here:
-
-<a
-            href="javascript:void(
-        window.open(
-          'https://form.jotform.com/atjiujitsudev/studio-membership',
-          'blank',
-          'scrollbars=yes,
-          toolbar=no,
-          width=700,
-          height=500'
-        )
-      )
-    "
-          >
-ATJIUJITSUNYC MEMBERSHIP FORM
-</a>
+## <https://www.maonrails.com/signup/member/8s6>
 
 <br>
 
