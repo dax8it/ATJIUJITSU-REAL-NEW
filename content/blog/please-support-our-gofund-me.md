@@ -23,4 +23,6 @@ We are grateful for the family we have built here at AT JIU-JITSU NYC and will b
 
 - - -
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GcSAlbiqbjY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![](/img/95217318_4130020200348969_4749777471920930816_n.jpg)
