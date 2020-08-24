@@ -13,11 +13,13 @@ tags:
 
 ## Get Started Now:
 
-## Register for classes here:
+## Register here:
 
 ## <https://www.maonrails.com/signup/member/8s6>
 
-# 
+## Schedule:
+
+## <https://at-jiujitsu-nyc.maonrails.com/members/schedule>
 
 <br>
 
@@ -29,13 +31,13 @@ tags:
 
 ## MONDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **Jiu-Jitsu:** 8:00 am to 8:45 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
-* **Advanced Sparring Session:** 1:00 to 1:45 pm
+* **Outdoor Kickboxing (Weather Permitting):** 6:00 to 6:45 pm
 * **Womens Jiu-Jitsu:** 8:00 to 8:45 pm
 
 ## TUESDAY
@@ -46,19 +48,19 @@ _**Morning Class**_
 
 ## WEDNESDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **Jiu-Jitsu:** 7:30 am to 8:15 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
-* **Kickboxing:** 6:00 to 6:45 pm
+* **Outdoor Kickboxing (Weather Permitting):** 6:00 to 6:45 pm
 * **Advanced Sparring:** 7:00 to 7:45 pm
 
 ## THURSDAY
 
 * **No GI Drilling and Sparring:** 5:00 to 5:45 pm
-* **Muay Thai:** 6:00 to 6:45 pm
+* **Outdoor Muay Thai (Weather Permitting):** 6:00 to 6:45 pm
 * **Jiu-Jitsu Drilling (GI):** 7:00 to 7:45 pm
 
 ## FRIDAY
@@ -68,7 +70,7 @@ _**Morning Class**_
 
 ## SATURDAY
 
-* **No GI Drilling and Sparring:** 12:00 to 12:45 pm
+* **No GI Drilling and Sparring:** 12:15 to 1:00 pm
 
 ## SUNDAY
 
@@ -114,8 +116,4 @@ _**Morning Class**_
 
 - - -
 
-## **\-** **$20 Unlimited Classes for 7 Days**
-
-**\- Classes include Kickboxing, Muay-Thai, Jiu-Jitsu and Yoga**
-
-**\- Kids receive a free gi!**
+- - -
