@@ -15,8 +15,14 @@ AT Jiu-Jitsu NYC opened its doors in 2018 and was built from a dream of bringing
 
 With that in mind, we would like to thank all our members and the martial arts community that have continued to support us during this difficult time. Your help will allow us to carry on serving our members with online classes until we have the financial support to reopen our doors physically, once we are able to.
 
-We are grateful for the family we have built here at AT JIU-JITSU NYC and will be devastated if there is no longer a home to offer. We want to be there for our community, and especially to our students whether new, old or future. During this time, we ask for your help and support to allow us to reopen our doors once this all passes. We appreciate it if you take the time to check out or Gofundme and we are grateful for any amount you can contribute. Our link is down below. Thank you all once again.
+We are grateful for the family we have built here at AT JIU-JITSU NYC and will be devastated if there is no longer a home to offer. We want to be there for our community, and especially to our students whether new, old or future. We appreciate it if you take the time to check out or Gofundme and we are grateful for any amount you can contribute. Our link is down below. Thank you all once again.
 
 <https://www.gofundme.com/f/at-jiujitsu-nyc?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LAMbmCwIufg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- - -
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GcSAlbiqbjY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![](/img/95217318_4130020200348969_4749777471920930816_n.jpg)
