@@ -13,11 +13,11 @@ tags:
 
 ## Get Started Now:
 
-## Register for classes here:
+## Register here:
 
 ## <https://www.maonrails.com/signup/member/8s6>
 
-## If you already have an account with us please login below.
+## Schedule:
 
 ## <https://at-jiujitsu-nyc.maonrails.com/members/schedule>
 
@@ -31,11 +31,11 @@ tags:
 
 ## MONDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **Jiu-Jitsu:** 8:00 am to 8:45 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **Outdoor Kickboxing (Weather Permitting):** 6:00 to 6:45 pm
 * **Womens Jiu-Jitsu:** 8:00 to 8:45 pm
@@ -48,11 +48,11 @@ _**Morning Class**_
 
 ## WEDNESDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **Jiu-Jitsu:** 7:30 am to 8:15 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **Outdoor Kickboxing (Weather Permitting):** 6:00 to 6:45 pm
 * **Advanced Sparring:** 7:00 to 7:45 pm
@@ -116,4 +116,4 @@ _**Morning Class**_
 
 - - -
 
-****
+- - -
