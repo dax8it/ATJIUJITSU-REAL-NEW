@@ -56,13 +56,13 @@ _**Morning Class**_
 
 **_Afternoon Class_**
 
-* **Outdoor Kickboxing (Weather Permitting):** 6:00 to 6:45 pm
+* **Outdoor Kickboxing:** 6:00 to 6:45 pm
 * **Advanced Sparring:** 7:00 to 7:45 pm
 
 ## THURSDAY
 
 * **No GI Drilling and Sparring:** 5:00 to 5:45 pm
-* **Outdoor Muay Thai (Weather Permitting):** 6:00 to 6:45 pm
+* **Outdoor Muay Thai:** 6:00 to 6:45 pm
 * **Jiu-Jitsu Drilling (GI):** 7:00 to 7:45 pm
 
 ## FRIDAY
