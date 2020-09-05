@@ -33,13 +33,13 @@ tags:
 
 ## MONDAY
 
-**_Morning Class_**
+_**Morning Class**_
 
 * **Jiu-Jitsu:** 8:00 am to 8:45 am
 
-_**Afternoon Class**_
+**_Afternoon Class_**
 
-* **Outdoor Kickboxing (Weather Permitting):** 6:00 to 6:45 pm
+* **Outdoor Kickboxing:** 6:00 to 6:45 pm
 * **Womens Jiu-Jitsu:** 8:00 to 8:45 pm
 
 ## TUESDAY
@@ -50,19 +50,19 @@ _**Afternoon Class**_
 
 ## WEDNESDAY
 
-**_Morning Class_**
+_**Morning Class**_
 
 * **Jiu-Jitsu:** 7:30 am to 8:15 am
 
-_**Afternoon Class**_
+**_Afternoon Class_**
 
-* **Outdoor Kickboxing (Weather Permitting):** 6:00 to 6:45 pm
+* **Outdoor Kickboxing:** 6:00 to 6:45 pm
 * **Advanced Sparring:** 7:00 to 7:45 pm
 
 ## THURSDAY
 
 * **No GI Drilling and Sparring:** 5:00 to 5:45 pm
-* **Outdoor Muay Thai (Weather Permitting):** 6:00 to 6:45 pm
+* **Outdoor Muay Thai:** 6:00 to 6:45 pm
 * **Jiu-Jitsu Drilling (GI):** 7:00 to 7:45 pm
 
 ## FRIDAY
@@ -82,7 +82,7 @@ _**Afternoon Class**_
 
 # Virtual Classes:
 
-![](/img/006ae1d9-6130-42f4-b6fd-038cc9335055.jpg)
+![](/img/img_4887.jpg)
 
 <br>
 
@@ -115,7 +115,5 @@ _**Afternoon Class**_
 **Outdoor Classes are held on 34th Avenue between 80th and 81st Street! (Weather Permitted)** 
 
 ## 
-
-- - -
 
 - - -
