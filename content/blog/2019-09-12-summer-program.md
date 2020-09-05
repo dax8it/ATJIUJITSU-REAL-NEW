@@ -53,7 +53,7 @@ tags:
 
 ![](/img/8.jpg)
 
-Summer 2020
+## **Summer 2020**
 
 ![](/img/img_1831.jpg)
 
