@@ -29,6 +29,8 @@ tags:
 
 # Adult Classes (Available To Book)
 
+**Outdoor Classes are held on 34th Avenue between 80th and 81st Street! (Weather Permitted)** 
+
 ## MONDAY
 
 **_Morning Class_**
@@ -88,7 +90,7 @@ _**Afternoon Class**_
 
 <br>
 
-# Kids Classes/ Blended Learning
+# Kids Classes
 
 ### MONDAY
 
@@ -107,12 +109,12 @@ _**Afternoon Class**_
 
 ### SATURDAY
 
-* **Toddler Jiu-Jitsu (Ages 3 to 4):** 10:15 to 11:00am
-* **Outdoor Kickboxing (All Ages Welcome):** 11:15 to 12:00pm
+* **Toddler Jiu-Jitsu (Ages 3 to 4):** 10:00 to 11:00am
+* **Outdoor Kickboxing (All Ages):** 11:15 to 12:00pm
 
-## Kids Virtual Classes:
+**Outdoor Classes are held on 34th Avenue between 80th and 81st Street! (Weather Permitted)** 
 
-![](/img/9db897c7-2635-4954-bea2-d331ba682ef9.jpg)
+## 
 
 - - -
 
