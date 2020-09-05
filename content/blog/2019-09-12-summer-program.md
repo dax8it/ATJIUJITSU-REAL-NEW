@@ -15,13 +15,11 @@ tags:
 
 - - -
 
+## **Summer 2019**
+
 ![](/img/1.jpg)
 
 ![](/img/videocapture_20200818-185408.jpg)
-
-![](/img/img_1831.jpg)
-
-![](/img/videocapture_20200818-191038.jpg)
 
 ![](/img/img_7284.jpg)
 
@@ -30,8 +28,6 @@ tags:
 ![](/img/11.jpg)
 
 ![](/img/5.jpg)
-
-![](/img/img_1861.jpg)
 
 ![](/img/img_7332.jpg)
 
@@ -56,5 +52,13 @@ tags:
 ![](/img/dsc03295-1-.jpg)
 
 ![](/img/8.jpg)
+
+## **Summer 2020**
+
+![](/img/img_1831.jpg)
+
+![](/img/videocapture_20200818-191038.jpg)
+
+![](/img/img_1861.jpg)
 
 - - -
