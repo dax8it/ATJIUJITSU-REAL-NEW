@@ -82,7 +82,7 @@ _**Morning Class**_
 
 # Virtual Classes:
 
-![](/img/006ae1d9-6130-42f4-b6fd-038cc9335055.jpg)
+![](/img/img_4887.jpg)
 
 <br>
 
