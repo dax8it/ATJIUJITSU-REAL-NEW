@@ -33,11 +33,11 @@ tags:
 
 ## MONDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **Jiu-Jitsu:** 8:00 am to 8:45 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **Outdoor Kickboxing:** 6:00 to 6:45 pm
 * **Womens Jiu-Jitsu:** 8:00 to 8:45 pm
@@ -45,30 +45,32 @@ _**Morning Class**_
 ## TUESDAY
 
 * **No GI Drilling and Sparring:** 5:00 to 5:45 pm
-* **Fitness Boot Camp:** 6:00 to 6:45 pm
+* **Outdoor Muay Thai:** 6:00 to 6:45 pm
 * **Jiu-Jitsu Drilling (GI):** 7:00 to 7:45 pm
 
 ## WEDNESDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
-* **Jiu-Jitsu:** 7:30 am to 8:15 am
+* **Jiu-Jitsu (No GI):** 7:30 am to 8:15 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **Outdoor Kickboxing:** 6:00 to 6:45 pm
-* **Advanced Sparring:** 7:00 to 7:45 pm
+* **Advanced Sparring:** 7:15 to 8:00 pm
 
 ## THURSDAY
 
 * **No GI Drilling and Sparring:** 5:00 to 5:45 pm
 * **Outdoor Muay Thai:** 6:00 to 6:45 pm
-* **Jiu-Jitsu Drilling (GI):** 7:00 to 7:45 pm
+* **Smarter Yoga:** 7:15 to 8:00 pm
+* **Jiu-Jitsu Drilling (GI):** 8:10 to 9:00 pm
 
 ## FRIDAY
 
-* **Advanced Sparring Session:** 1:00 to 1:45 pm
+* **Advanced Sparring Session:** 12:00 to 1:00 pm
 * **Kickboxing Sparring Class:** 6:00 to 6:45 pm
+* **Drilling and Sparring (GI):** 7:15 to 8:00 pm
 
 ## SATURDAY
 
