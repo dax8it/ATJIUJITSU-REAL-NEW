@@ -13,7 +13,9 @@ tags:
 
 We make it easy to attend our classes. Choose one of our monthly subscription plans to get the most bang for your buck. You won't see this type of offer anywhere else in the NYC area. Unlimited classes. You decide.
 
-# Get Started Now:
+# Get Started Now: 
+
+## 3 Trial Classes (Within One week) - $20 
 
 ## Register for classes here:
 
