@@ -90,19 +90,19 @@ _**Morning Class**_
 
 ### MONDAY
 
-* **Kids Judo (Ages 5 to 9):** 3:15 to 4:00 pm
-* **Kids Jiu-Jitsu (Ages 10 to 13):** 4:15 to 5:00 pm
+* **Jiu-Jitsu (Ages 5 to 9):** 3:15 to 4:00 pm
+* **Jiu-Jitsu (Ages 10 to 13):** 4:15 to 5:00 pm
 * **Outdoor Kickboxing (All Ages):** 5:15 to 6:00 pm
 
 ### WEDNESDAY
 
-* **Kids Judo (Ages 5 to 9):** 3:15 to 4:00 pm
-* **Kids Jiu-Jitsu (Ages 10 to 13)** 4:15 to 5:00 pm
+* **Jiu-Jitsu (Ages 5 to 9):** 3:15 to 4:00 pm
+* **Jiu-Jitsu (Ages 10 to 13)** 4:15 to 5:00 pm
 
 ### FRIDAY
 
-* **Kids Judo (Ages 5 to 9):** 3:15 to 4:00 pm
-* **Kids Jiu-Jitsu (Ages 10 to 13)** 4:15 to 5:00 pm
+* **Jiu-Jitsu (Ages 5 to 9):** 3:15 to 4:00 pm
+* **Jiu-Jitsu (Ages 10 to 13)** 4:15 to 5:00 pm
 
 ### SATURDAY
 
