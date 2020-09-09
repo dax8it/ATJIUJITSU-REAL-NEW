@@ -80,41 +80,34 @@ _**Morning Class**_
 
 * **Drilling and Sparring (Open Training):** 10:00 to 10:45 am
 
-<br>
-
-# Virtual Classes:
-
-![](/img/img_4887.jpg)
-
-<br>
-
 - - -
 
 <br>
 
 # Kids Classes
 
+**Outdoor Classes are held on 34th Avenue between 80th and 81st Street! (Weather Permitted)** 
+
 ### MONDAY
 
-* **Kids Judo (Ages 5 to 9):** 3:15 to 4:00pm
-* **Kids Jiu-Jitsu (Ages 10 to 13)** 4:15 to 5:00pm
+* **Kids Judo (Ages 5 to 9):** 3:15 to 4:00 pm
+* **Kids Jiu-Jitsu (Ages 10 to 13):** 4:15 to 5:00 pm
+* **Outdoor Kickboxing (All Ages):** 5:15 to 6:00 pm
 
 ### WEDNESDAY
 
-* **Kids Judo (Ages 5 to 9):** 3:15 to 4:00pm
-* **Kids Jiu-Jitsu (Ages 10 to 13)** 4:15 to 5:00pm
+* **Kids Judo (Ages 5 to 9):** 3:15 to 4:00 pm
+* **Kids Jiu-Jitsu (Ages 10 to 13)** 4:15 to 5:00 pm
 
 ### FRIDAY
 
-* **Kids Judo (Ages 5 to 9):** 3:15 to 4:00pm
-* **Kids Jiu-Jitsu (Ages 10 to 13)** 4:15 to 5:00pm
+* **Kids Judo (Ages 5 to 9):** 3:15 to 4:00 pm
+* **Kids Jiu-Jitsu (Ages 10 to 13)** 4:15 to 5:00 pm
 
 ### SATURDAY
 
-* **Toddler Jiu-Jitsu (Ages 3 to 4):** 10:00 to 11:00am
-* **Outdoor Kickboxing (All Ages):** 11:15 to 12:00pm
-
-**Outdoor Classes are held on 34th Avenue between 80th and 81st Street! (Weather Permitted)** 
+* **Toddler Jiu-Jitsu (Ages 3 to 4):** 10:00 to 11:00 am
+* **Outdoor Kickboxing (All Ages):** 11:15 to 12:00 pm
 
 ## 
 
