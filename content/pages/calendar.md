@@ -80,6 +80,12 @@ _**Morning Class**_
 
 * **Drilling and Sparring (Open Training):** 10:00 to 10:45 am
 
+<br>
+
+
+
+![](/img/img_4887-1-.jpg)
+
 - - -
 
 <br>
