@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Outdoor Classes
+title: Outdoor Kickboxing Classes
 order: 2
 date: 2020-10-07T20:30:05.220Z
 description: >-
