@@ -4,18 +4,14 @@ title: Outdoor Classes
 order: 2
 date: 2020-10-07T20:30:05.220Z
 description: >-
-  Catch us outside on 34th avenue between 80th and 81st Street  for Kickboxing
-  and Muay Thai for both adults and kids! 
+  Join us for the fun on 34th avenue between 80th and 81st street Kickboxing and
+  Muay Thai for both adults and kids! 
 thumbnail: /img/dsc08770.jpg
 home: true
 tags:
   - Programs
 ---
-![](/img/dsc08161.jpg)
-
-![](/img/dsc08687.jpg)
-
-![](/img/dsc08488.jpg)
+Our outdoor kids kickboxing is available to kids of all ages! Every Monday from 5:15 p.m. to 6:00 p.m. and Saturday from 11:15 a.m. to 12:00 p.m. 
 
 ![](/img/img_5802.jpg)
 
