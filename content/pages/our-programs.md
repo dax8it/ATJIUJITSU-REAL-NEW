@@ -15,7 +15,7 @@ tags:
 
 ---
 
-# Brasilian Jiu-Jitsu
+# Brazilian Jiu-Jitsu
 
 ![](/img/dsc6897.jpg)
 
