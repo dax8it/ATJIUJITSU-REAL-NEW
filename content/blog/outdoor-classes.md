@@ -10,6 +10,7 @@ thumbnail: /img/dsc08770.jpg
 home: true
 tags:
   - Programs
+  - Blog
 ---
 ## Our outdoor kids kickboxing is available to kids of all ages! Every Monday from 5:15 p.m. to 6:00 p.m. and Saturday from 11:15 a.m. to 12:00 p.m.
 
