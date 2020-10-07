@@ -13,7 +13,7 @@ tags:
 ---
 ## Our outdoor kids kickboxing is available to kids of all ages! Every Monday from 5:15 p.m. to 6:00 p.m. and Saturday from 11:15 a.m. to 12:00 p.m. 
 
-## Our adult program is offered Monday through Thursday outdoors from 6:00 p.m. to 7:00 p.m. 
+## Our adult program is offered Monday through Thursday outdoors from 6:00 p.m. to 7:00 p.m. Everyone is welcome to join! All ages, all experience levels! 
 
 **(Classes are held outdoors weather permitting!)** 
 
