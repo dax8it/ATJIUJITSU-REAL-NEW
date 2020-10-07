@@ -15,7 +15,7 @@ tags:
 
 ## Our adult program is offered Monday through Thursday outdoors from 6:00 p.m. to 7:00 p.m. 
 
-**(Classes are held, weather permitting!)** 
+**(Classes are held outdoors weather permitting!)** 
 
 ![](/img/img_5802.jpg)
 
