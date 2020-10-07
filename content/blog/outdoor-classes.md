@@ -28,3 +28,5 @@ tags:
 ![](/img/dsc08676.jpg)
 
 ![](/img/dsc08591.jpg)
+
+![](/img/dsc08488.jpg)
