@@ -14,7 +14,7 @@ tags:
 ---
 # Kids Kickboxing
 
-## Our outdoor kids kickboxing is available to kids of all ages! Every Monday and Saturday! 
+## Our outdoor kids kickboxing is available to kids of all ages! Every Monday and Saturday!
 
 ### MONDAYS- 5:15 pm to 6:00 pm
 
@@ -29,6 +29,8 @@ tags:
 ### TUESDAYS AND THURSDAYS (MUAY THAI) - 6:00 pm to 7:00 pm
 
 **(Classes are held outdoors weather permitting!)** 
+
+![]()
 
 ![](/img/dsc08151.jpg)
 
