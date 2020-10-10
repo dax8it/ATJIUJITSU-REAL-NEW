@@ -24,13 +24,9 @@ tags:
 
 ## Our adult program is offered Monday through Thursday with both Kickboxing and Muay Thai classes to choose from! Everyone is welcome to join! All ages, all experience levels!
 
-### MONDAYS (KICKBOXING) - 6:00 pm to 7:00 pm
+### MONDAYS AND WEDNESDAYS (KICKBOXING) - 6:00 pm to 7:00 pm
 
-### TUESDAYS (MUAY THAI) - 6:00 pm to 7:00 pm
-
-### WEDNESDAYS (KICKBOXING) - 6:00 pm to 7:00 pm
-
-### THURSDAYS (MUAY THAI) - 6:00 pm to 7:00 pm
+### TUESDAYS AND THURSDAYS (MUAY THAI) - 6:00 pm to 7:00 pm
 
 **(Classes are held outdoors weather permitting!)** 
 
