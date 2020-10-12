@@ -12,9 +12,13 @@ tags:
   - Programs
   - Blog
 ---
+## Book for outdoor classes here:
+
+## <https://at-jiujitsu-nyc.maonrails.com/members/schedule>
+
 # Kids Kickboxing
 
-## Our outdoor kids kickboxing is available to kids of all ages! Every Monday and Saturday! 
+## Our outdoor kids kickboxing is available to kids of all ages! Every Monday and Saturday!
 
 ### MONDAYS- 5:15 pm to 6:00 pm
 
@@ -30,18 +34,22 @@ tags:
 
 **(Classes are held outdoors weather permitting!)** 
 
+![](/img/dsc08802.jpg)
+
 ![](/img/dsc08151.jpg)
 
 ![](/img/img_5802.jpg)
 
 ![](/img/dsc08761.jpg)
 
-![](/img/img_5804.jpg)
+![](/img/dsc08943.jpg)
 
 ![](/img/dsc08199.jpg)
 
 ![](/img/dsc08676.jpg)
 
 ![](/img/dsc08591.jpg)
+
+![](/img/dsc08814.jpg)
 
 ![](/img/dsc08488.jpg)
