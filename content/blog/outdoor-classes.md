@@ -12,7 +12,7 @@ tags:
   - Programs
   - Blog
 ---
-## Book your classes here:
+## Book for outdoor classes here:
 
 ## <https://at-jiujitsu-nyc.maonrails.com/members/schedule>
 
