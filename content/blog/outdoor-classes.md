@@ -6,7 +6,7 @@ date: 2020-10-07T20:30:05.220Z
 description: >-
   Join us for the fun on 34th avenue between 80th and 81st street Kickboxing and
   Muay Thai for both adults and kids! 
-thumbnail: /img/dsc08770.jpg
+thumbnail: /img/dsc08488.jpg
 home: true
 tags:
   - Programs
@@ -28,9 +28,9 @@ tags:
 
 ## Our adult program is offered Monday through Thursday with both Kickboxing and Muay Thai classes to choose from! Everyone is welcome to join! All ages, all experience levels!
 
-### MONDAYS AND WEDNESDAYS (KICKBOXING) - 6:00 pm to 7:00 pm
+### MONDAYS AND WEDNESDAYS (KICKBOXING)- 6:00 pm to 7:00 pm
 
-### TUESDAYS AND THURSDAYS (MUAY THAI) - 6:00 pm to 7:00 pm
+### TUESDAYS AND THURSDAYS (MUAY THAI)- 6:00 pm to 7:00 pm
 
 **(Classes are held outdoors weather permitting!)** 
 
@@ -52,4 +52,4 @@ tags:
 
 ![](/img/dsc08814.jpg)
 
-![](/img/dsc08488.jpg)
+![](/img/dsc08770.jpg)
