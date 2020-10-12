@@ -158,7 +158,7 @@ Natalia has always loved caring for children and was studying to become a teache
 
 # Arianna Calle
 
-## Head Coach
+## Coach
 
 Arianna has been training Jiu-Jitsu for 4 years now and is currently a blue belt. She received her blue belt through Professor Alvaro under Lotus Club. She is highly motivated and a big participator in all of our classes including Muay Thai, Kickboxing, Yoga and Jiu-Jitsu. On her free time, Arianna's hobby includes deadlifting. You can also find her on the mats during the kids classes assisting Professor Alvaro and during the adults classes where she is constantly training.
 
@@ -186,7 +186,7 @@ Gabriela, mainly known as Coach Gaby has been training in Jiu-Jitsu for one year
 
 # Daniela Tautiva M.S.W
 
-## Co-Owner and Assistant Coach
+## Co-Owner and Coach
 
 Daniela obtained her Masters in Social Work from Adelphi University in 2018 and currently works as a Foster Care Case Planner. Having been raised in Jackson Heights and being the daughter of immigrant parents, Daniela works closely with families with the goal of providing permanency and safety of their children.
 
