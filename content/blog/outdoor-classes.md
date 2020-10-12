@@ -6,7 +6,7 @@ date: 2020-10-07T20:30:05.220Z
 description: >-
   Join us for the fun on 34th avenue between 80th and 81st street Kickboxing and
   Muay Thai for both adults and kids! 
-thumbnail: /img/dsc08770.jpg
+thumbnail: /img/dsc08488.jpg
 home: true
 tags:
   - Programs
@@ -52,4 +52,4 @@ tags:
 
 ![](/img/dsc08814.jpg)
 
-![](/img/dsc08488.jpg)
+![](/img/dsc08770.jpg)
