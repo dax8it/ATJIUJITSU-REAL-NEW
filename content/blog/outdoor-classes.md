@@ -34,7 +34,7 @@ tags:
 
 **(Classes are held outdoors weather permitting!)** 
 
-![]()
+![](/img/dsc08802.jpg)
 
 ![](/img/dsc08151.jpg)
 
@@ -42,12 +42,14 @@ tags:
 
 ![](/img/dsc08761.jpg)
 
-![](/img/img_5804.jpg)
+![](/img/dsc08943.jpg)
 
 ![](/img/dsc08199.jpg)
 
 ![](/img/dsc08676.jpg)
 
 ![](/img/dsc08591.jpg)
+
+![](/img/dsc08814.jpg)
 
 ![](/img/dsc08488.jpg)
