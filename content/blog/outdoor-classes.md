@@ -16,23 +16,25 @@ tags:
 
 ## <https://at-jiujitsu-nyc.maonrails.com/members/schedule>
 
+**_(Classes are held outdoors weather permitting!)_** 
+
 # Kids Kickboxing
 
 ## Our outdoor kids kickboxing is available to kids of all ages! Every Monday and Saturday!
 
-### MONDAYS- 5:15 pm to 6:00 pm
+MONDAYS- 5:15 pm to 6:00 pm
 
-### SATURDAYS- 11:15 am to 12:00 pm
+SATURDAYS- 11:15 am to 12:00 pm
 
 # Adult Kickboxing and Muay-Thai
 
 ## Our adult program is offered Monday through Thursday with both Kickboxing and Muay Thai classes to choose from! Everyone is welcome to join! All ages, all experience levels!
 
-### MONDAYS AND WEDNESDAYS (KICKBOXING)- 6:00 pm to 7:00 pm
+MONDAYS AND WEDNESDAYS (KICKBOXING)- 6:00 pm to 7:00 pm
 
-### TUESDAYS AND THURSDAYS (MUAY THAI)- 6:00 pm to 7:00 pm
+TUESDAYS AND THURSDAYS (MUAY THAI)- 6:00 pm to 7:00 pm
 
-**(Classes are held outdoors weather permitting!)** 
+- - -
 
 ![](/img/dsc08802.jpg)
 
