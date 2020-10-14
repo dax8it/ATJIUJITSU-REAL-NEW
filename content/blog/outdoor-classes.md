@@ -16,6 +16,8 @@ tags:
 
 ## <https://at-jiujitsu-nyc.maonrails.com/members/schedule>
 
+- - -
+
 _**(Classes are held outdoors weather permitting!)**_ 
 
 # Kids Kickboxing
