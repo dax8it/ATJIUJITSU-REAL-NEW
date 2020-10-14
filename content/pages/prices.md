@@ -29,7 +29,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
   * Jiu-Jitsu
   * Muay Thai
   * Kickboxing
-  * Kettlebell
+  * Outdoor Classes
   * Yoga
 
 - - -
@@ -40,12 +40,12 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
   * Unlimited Jiu-Jitsu
   * Muay Thai
   * Kickboxing
-  * Kettlebell
+  * Outdoor Classes
   * Yoga
 
 - - -
 
-## Age 3-4 Toddler Classes - $135/mo:
+## Age 3-4 Toddler Classes - $155/mo:
 
 * Great for adventurous kids
   * learn Discipline
