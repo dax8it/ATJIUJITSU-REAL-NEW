@@ -29,7 +29,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
   * Jiu-Jitsu
   * Muay Thai
   * Kickboxing
-  * Kettlebell
+  * Outdoor Classes
   * Yoga
 
 - - -
@@ -40,7 +40,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
   * Unlimited Jiu-Jitsu
   * Muay Thai
   * Kickboxing
-  * Kettlebell
+  * Outdoor Classes
   * Yoga
 
 - - -
