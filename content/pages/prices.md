@@ -19,13 +19,24 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 # Get Started Now:
 
-## Three Trial Classes (Within One week) - $20
+## Three Trial Classes (Within 1 week) - $20
 
 - - -
 
-## Unlimited Classes - $155/mo:
+## Two Times a Week - $155/mo:
 
-* Take advantage of our reopening special. 15% off for each additional family member/friends!
+* Working out is always useful even if you do it twice a week. 
+  * Jiu-Jitsu
+  * Muay Thai
+  * Kickboxing
+  * Kettlebell
+  * Yoga
+
+- - -
+
+## Unlimited Classes - $175/mo:
+
+* From unlimited access to yoga, jiu jitsu, kickboxing and muay thai for you to take advantage of
   * Unlimited Jiu-Jitsu
   * Muay Thai
   * Kickboxing
