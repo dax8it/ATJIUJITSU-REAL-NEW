@@ -25,7 +25,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 ## Three Times a Week - $155/mo:
 
-* Working out is always useful even if you do it twice a week! 
+* Working out is always useful even if you do it three times a week! 
   * Jiu-Jitsu
   * Muay Thai
   * Kickboxing
