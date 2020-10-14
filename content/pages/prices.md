@@ -45,7 +45,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 - - -
 
-## Age 3-4 Toddler Classes - $135/mo:
+## Age 3-4 Toddler Classes - $155/mo:
 
 * Great for adventurous kids
   * learn Discipline
