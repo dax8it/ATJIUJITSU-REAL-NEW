@@ -11,7 +11,7 @@ tags:
 ---
 # Monthly Subscriptions
 
-We make it easy to attend our classes. Choose one of our monthly subscription plans to get the most bang for your buck. You won't see this type of offer anywhere else in the NYC area. Unlimited classes. You decide.
+We make it easy to attend our classes. Choose one of our monthly subscription plans to get the most bang for your buck. Unlimited classes offered. You decide.
 
 ## Register for classes here:
 
@@ -63,6 +63,6 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 - - -
 
-## Drop In Fee - $35 
+## Drop In Fee - $35
 
 (Per Class)
