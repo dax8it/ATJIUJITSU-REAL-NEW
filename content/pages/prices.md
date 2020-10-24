@@ -60,3 +60,9 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
   * 6 Month Agreement
   * Unlimited Classes
   * $135 Monthly (Compared to $155)
+
+- - -
+
+## Drop In Fee - $35 
+
+(Per Class)
