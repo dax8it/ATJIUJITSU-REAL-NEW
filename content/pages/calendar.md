@@ -9,6 +9,8 @@ home: true
 tags:
   - Other
 ---
+
+
 # Adult and Kids Schedule
 
 ## Get Started Now:
@@ -33,22 +35,22 @@ tags:
 
 ## MONDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **No GI Jiu-Jitsu:** 8:00 am to 8:45 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **Outdoor Kickboxing:** 6:00 to 6:45 pm
 * **Womens Jiu-Jitsu:** 8:00 to 8:45 pm
 
 ## TUESDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **Jiu-Jitsu:** 7:00 am to 8:15 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **No GI Drilling and Sparring:** 5:00 to 5:45 pm
 * **Outdoor Muay Thai:** 6:00 to 6:45 pm
@@ -56,22 +58,22 @@ _**Morning Class**_
 
 ## WEDNESDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **No GI Jiu-Jitsu :** 7:30 am to 8:15 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **Outdoor Kickboxing:** 6:00 to 6:45 pm
 * **Advanced Sparring:** 7:15 to 8:00 pm
 
 ## THURSDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **Jiu-Jitsu:** 7:00 am to 8:15 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **No GI Drilling and Sparring:** 5:00 to 5:45 pm
 * **Outdoor Muay Thai:** 6:00 to 6:45 pm
@@ -125,6 +127,8 @@ _**Morning Class**_
 * **Toddler Jiu-Jitsu (Ages 3 to 4):** 10:00 to 11:00 am
 * **Outdoor Kickboxing (All Ages):** 11:15 to 12:00 pm
 
-## 
-
 - - -
+
+<script src="https://www.maonrails.com/js/widgets.js"></script> 
+
+<div class="maonrails-schedule" attr-gym="DL7vA"></div>
