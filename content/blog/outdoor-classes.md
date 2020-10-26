@@ -12,11 +12,7 @@ tags:
   - Programs
   - Blog
 ---
-## Book for outdoor classes here:
-
-## <https://at-jiujitsu-nyc.maonrails.com/members/schedule>
-
-**_(Classes are held outdoors weather permitting!)_** 
+_**(Classes are held outdoors weather permitting!)**_ 
 
 # Kids Kickboxing
 
