@@ -59,7 +59,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 * Unlimited Classes ($155 x 6 Months)
   * 6 Month Agreement
   * Unlimited Classes
-  * $135 Monthly (Compared to $155)
+  * $155 Monthly (Compared to $175)
 
 - - -
 
