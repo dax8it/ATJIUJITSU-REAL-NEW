@@ -9,7 +9,7 @@ home: true
 tags:
   - Blog
 ---
-Through Martial Arts on Rails, you will be able to book your class sessions in order to limit the amount of people in a class. It is very important that you do so in order to begin. 
+Through Martial Arts on Rails, you will be able to book your class sessions in order to limit the amount of people in a class so you can train safely. 
 
 In the link below, there is a step by step video tutorial for how to register, if you have not yet done so. 
 
