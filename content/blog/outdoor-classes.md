@@ -12,7 +12,7 @@ tags:
   - Programs
   - Blog
 ---
-**_(Due to the weather getting colder, if it is not raining and the weather is above 50 degrees, classes will be held outdoors.)_**
+_**(Due to the weather getting colder, if it is not raining and the weather is above 50 degrees, classes will be held outdoors.)**_
 
 # Kids Kickboxing
 
