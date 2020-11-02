@@ -12,7 +12,7 @@ tags:
   - Programs
   - Blog
 ---
-**_(Classes are held outdoors weather permitting!)_** 
+_**(Classes are held outdoors weather permitting!)**_ 
 
 # Kids Kickboxing
 
