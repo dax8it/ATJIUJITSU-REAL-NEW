@@ -9,11 +9,12 @@ home: true
 tags:
   - Blog
 ---
-We would like to take the time to welcome back AT Jiu-Jitsu NYC members! Through Martial Arts on Rails, you will be able to book your class sessions through our online booking platform. It is very important that you do so in order to take classes.
+Through Martial Arts on Rails, you will be able to book your class sessions in order to limit the amount of people in a class. It is very important that you do so in order to begin.
 
 In the link below, there is a step by step video tutorial for how to register, if you have not yet done so. 
 
 ## <https://www.maonrails.com/signup/member/8s6>
+
 <br>
 
 If you already have an account with us please login below.
