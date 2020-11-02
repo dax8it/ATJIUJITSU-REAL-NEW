@@ -4,15 +4,15 @@ title: Outdoor Kickboxing Classes
 order: 2
 date: 2020-10-07T20:30:05.220Z
 description: >-
-  Our last outdoor class will be on Thursday, October 29th! Thank you to
-  everyone who joined us this year! 
+  Join us outdoors for our Kickboxing and Muay Thai classes for both Kids and
+  Adults!
 thumbnail: /img/dsc08488.jpg
 home: true
 tags:
   - Programs
   - Blog
 ---
-_**(Classes are held outdoors weather permitting!)**_ 
+**_(Classes are held outdoors weather permitting!)_** 
 
 # Kids Kickboxing
 
