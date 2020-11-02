@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Register for classes!
 order: 1
 date: 2020-08-18T22:56:32.594Z
-description: 'Welcome back members! Please read below our plans and actions for reopening. '
+description: 'Please register through our online booking platform, martial arts on rails. '
 thumbnail: /img/img_3045.jpg
 home: true
 tags:
