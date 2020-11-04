@@ -11,6 +11,10 @@ home: false
 tags:
   - Blog
 ---
+## **Thank you to everyone who participated in our Halloween Field Day, filled with games, goodie bags, contests and Halloween festivities, such as pumpkin painting, mummy wrapping, a limbo and hula hoop contest and more! We loved seeing everyone's costumes! Make sure to join us for more Halloween festivities next year!**
+
+- - - 
+
 ![](/img/dsc09581.jpg)
 
 ![](/img/dsc09556.jpg)
