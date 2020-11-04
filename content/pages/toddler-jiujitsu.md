@@ -33,11 +33,11 @@ tags:
 
 - - -
 
+![](/img/dsc08376.jpg)
+
 ![](/img/dsc09448.jpg)
 
 ![](/img/dsc04973.jpg)
-
-![](/img/dsc04961.jpg)
 
 ![](/img/dsc04958.jpg)
 
