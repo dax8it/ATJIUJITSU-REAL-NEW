@@ -14,7 +14,7 @@ tags:
 ---
 ## Classes are held between 81st street and 80th street and 34th Avenue.
 
-_**Due to the weather getting colder, if it is raining and the weather is below 50 degrees, classes will be held inside. Please reserve your spot through martial arts on rails to confirm your spot inside. Please keep in mind, indoor classes are for members only.**_ 
+_**Due to the weather getting colder, if it is raining and the weather is below 50 degrees, classes will be held inside. Please reserve your spot through martial arts on rails to confirm your spot. Please keep in mind, indoor classes are for members only.**_ 
 
 - - -
 
