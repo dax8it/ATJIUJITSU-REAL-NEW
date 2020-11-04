@@ -17,9 +17,11 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 ## <https://www.maonrails.com/signup/member/8s6>
 
-# Get Started Now:
+# Get Started Now with a Trial:
 
-## Three Trial Classes (Within 1 week) - $20
+## \- Three Trial Classes (Within 1 week) - $20
+
+## \- Toddler Trial (Two Consecutive Classes) - $35
 
 - - -
 
