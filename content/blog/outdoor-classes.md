@@ -14,7 +14,7 @@ tags:
 ---
 ## Classes are held between 81st street and 80th street and 34th Avenue.
 
-**_(Due to the weather getting colder, if it is not raining and the weather is above 50 degrees, classes will be held outdoors.)_**
+_**Due to the weather getting colder, if it is raining and the weather is below 50 degrees, classes will be held inside. Please reserve your spot through martial arts on rails to confirm your spot. Please keep in mind, indoor classes are for members or trials only.**_ 
 
 - - -
 
@@ -44,7 +44,7 @@ TUESDAYS AND THURSDAYS (MUAY THAI)- 6:00 pm to 7:00 pm
 
 ![](/img/dsc08761.jpg)
 
-![](/img/dsc08943.jpg)
+![](/img/dsc08890.jpg)
 
 ![](/img/dsc08199.jpg)
 
