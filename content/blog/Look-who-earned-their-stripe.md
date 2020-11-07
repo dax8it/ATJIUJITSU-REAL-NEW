@@ -37,26 +37,14 @@ tags:
 
 ![](/img/dsc07638.jpg)
 
-## Julian
-
 ![](/img/dsc07226.jpg)
-
-## Giovanna
 
 ![](/img/dsc07217.jpg)
 
-## Angel
-
 ![](/img/img_1469.jpg)
-
-## Oliver
 
 ![](/img/dsc05003.jpg)
 
-## Shea
-
 ![](/img/dsc04785.jpg)
-
-## Jennifer
 
 - - -
