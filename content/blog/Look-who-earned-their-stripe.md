@@ -17,33 +17,19 @@ tags:
 
 # **Belt Promotions**
 
-![](/img/dsc07643.jpg)
+![](/img/img_7112.jpg)
 
-## Vida promoted to Grey and White belt!
+![](/img/dsc07643.jpg)
 
 ![](/img/dsc06937.jpg)
 
-## Kaitlyn promoted to Grey and White belt!
-
 ![](/img/img_1570.jpg)
-
-## Dion promoted to Grey belt!
 
 ![](/img/img_1613.png)
 
-## Richard promoted to Blue belt!
-
 ![](/img/dsc05804.jpg)
 
-## Francesca promoted to Grey and Black belt!
-
 ![](/img/dsc05794.jpg)
-
-## Liliom promoted to Grey and White belt!
-
-![](/img/dsc03409.jpg)
-
-## Arianna promoted to Blue belt!!!
 
 - - -
 
