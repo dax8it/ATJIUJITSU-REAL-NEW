@@ -19,6 +19,8 @@ tags:
 
 ![](/img/img_7112.jpg)
 
+![](/img/img_7113.jpg)
+
 ![](/img/dsc07643.jpg)
 
 ![](/img/dsc06937.jpg)
@@ -28,8 +30,6 @@ tags:
 ![](/img/img_1613.png)
 
 ![](/img/dsc05804.jpg)
-
-![](/img/dsc05794.jpg)
 
 - - -
 
