@@ -68,3 +68,5 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 ## Drop In Fee - $35
 
 (Per Class)
+
+- - - 
