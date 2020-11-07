@@ -65,6 +65,10 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 - - -
 
-## Drop In Fee - $35
+## Drop In - $35
+
+## Toddler Drop In - $40
 
 (Per Class)
+
+- - -
