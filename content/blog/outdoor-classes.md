@@ -12,6 +12,8 @@ tags:
   - Programs
   - Blog
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L9bfctgqOtI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Classes are held between 81st street and 80th street and 34th Avenue.
 
 _**Due to the weather getting colder, if it is raining and the weather is below 50 degrees, classes will be held inside. Please reserve your spot through martial arts on rails to confirm your spot. Please keep in mind, indoor classes are for members or trials only.**_ 
