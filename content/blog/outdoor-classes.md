@@ -38,6 +38,8 @@ TUESDAYS AND THURSDAYS (MUAY THAI)- 6:00 pm to 7:00 pm
 
 - - -
 
+![](/img/mvi_4294.mov.00_00_05_26.still001.png)
+
 ![](/img/dsc08802.jpg)
 
 ![](/img/dsc08151.jpg)
@@ -46,11 +48,11 @@ TUESDAYS AND THURSDAYS (MUAY THAI)- 6:00 pm to 7:00 pm
 
 ![](/img/dsc08761.jpg)
 
-![](/img/dsc08890.jpg)
+![](/img/mvi_4303.mov.00_04_32_16.still006.png)
 
 ![](/img/dsc08199.jpg)
 
-![](/img/dsc08676.jpg)
+![](/img/mvi_4301.mov.00_01_28_07.still001.jpg)
 
 ![](/img/dsc08591.jpg)
 
