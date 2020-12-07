@@ -7,7 +7,7 @@ description: >-
   Join us outdoors for our Kickboxing and Muay Thai classes for both Kids and
   Adults!
 thumbnail: /img/dsc08488.jpg
-home: true
+home: false
 tags:
   - Programs
   - Blog
@@ -18,7 +18,7 @@ tags:
 
 **Please keep in mind...**
 
-_**due to the weather getting colder, if it is raining and the weather is below 50 degrees, classes will be held inside. Please reserve your spot through martial arts on rails to confirm your spot. Please keep in mind, indoor classes are for members or trials only due to limited capacity.**_ 
+**_due to the weather getting colder, if it is raining and the weather is below 50 degrees, classes will be held inside. Please reserve your spot through martial arts on rails to confirm your spot. Please keep in mind, indoor classes are for members or trials only due to limited capacity._** 
 
 - - -
 
