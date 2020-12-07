@@ -16,17 +16,7 @@ tags:
 
 - - -
 
-# Kids Kickboxing
-
-## Our outdoor kids kickboxing is available to kids of all ages! Every Monday and Saturday!
-
-MONDAYS- 5:15 pm to 6:00 pm
-
-SATURDAYS- 11:15 am to 12:00 pm
-
-- - -
-
-# Adult Kickboxing and Muay-Thai
+# Kids and Adult Kickboxing & Muay-Thai
 
 ## Our adult program is offered Monday through Thursday with both Kickboxing and Muay Thai classes to choose from! Everyone is welcome to join! All ages, all experience levels!
 
