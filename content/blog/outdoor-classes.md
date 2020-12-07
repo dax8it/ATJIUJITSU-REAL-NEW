@@ -4,8 +4,8 @@ title: Outdoor Kickboxing Classes
 order: 2
 date: 2020-10-07T20:30:05.220Z
 description: >-
-  Join us outdoors for our Kickboxing and Muay Thai classes for both Kids and
-  Adults!
+  Thank you to everyone who joined us this year for our Outdoor Kickboxing
+  classes! 
 thumbnail: /img/dsc08488.jpg
 home: false
 tags:
@@ -18,7 +18,7 @@ tags:
 
 **Please keep in mind...**
 
-_**due to the weather getting colder, if it is raining and the weather is below 50 degrees, classes will be held inside. Please reserve your spot through martial arts on rails to confirm your spot. Please keep in mind, indoor classes are for members or trials only due to limited capacity.**_ 
+**_due to the weather getting colder, if it is raining and the weather is below 50 degrees, classes will be held inside. Please reserve your spot through martial arts on rails to confirm your spot. Please keep in mind, indoor classes are for members or trials only due to limited capacity._** 
 
 - - -
 
