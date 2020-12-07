@@ -7,7 +7,7 @@ description: >-
   Join us outdoors for our Kickboxing and Muay Thai classes for both Kids and
   Adults!
 thumbnail: /img/dsc08488.jpg
-home: true
+home: false
 tags:
   - Programs
   - Blog
