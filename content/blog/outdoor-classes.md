@@ -18,11 +18,7 @@ tags:
 
 # Kids and Adult Kickboxing & Muay-Thai
 
-## Our adult program is offered Monday through Thursday with both Kickboxing and Muay Thai classes to choose from! Everyone is welcome to join! All ages, all experience levels!
-
-MONDAYS AND WEDNESDAYS (KICKBOXING)- 6:00 pm to 7:00 pm
-
-TUESDAYS AND THURSDAYS (MUAY THAI)- 6:00 pm to 7:00 pm
+We hope you all had fun in the outdoor classes with us on 34th Avenue enjoying a good workout with the sun shining down on you 
 
 - - -
 
