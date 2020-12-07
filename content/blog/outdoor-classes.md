@@ -9,7 +9,6 @@ description: >-
 thumbnail: /img/dsc08488.jpg
 home: false
 tags:
-  - Programs
   - Blog
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L9bfctgqOtI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -18,7 +17,7 @@ tags:
 
 # Kids and Adult Kickboxing & Muay-Thai
 
-We hope you all had fun during the outdoor classes with us on 34th Avenue enjoying a good workout with the sun shining down on you. 
+We hope you all had fun during the outdoor classes with us on 34th Avenue, enjoying a good workout with the sun shining down on you. 
 
 - - -
 
