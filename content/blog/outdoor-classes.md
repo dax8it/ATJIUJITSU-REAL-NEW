@@ -9,7 +9,6 @@ description: >-
 thumbnail: /img/dsc08488.jpg
 home: false
 tags:
-  - Programs
   - Blog
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L9bfctgqOtI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
