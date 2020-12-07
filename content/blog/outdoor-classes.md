@@ -17,7 +17,7 @@ tags:
 
 # Kids and Adult Kickboxing & Muay-Thai
 
-We hope you all had fun during the outdoor classes with us on 34th Avenue enjoying a good workout with the sun shining down on you. 
+We hope you all had fun during the outdoor classes with us on 34th Avenue, enjoying a good workout with the sun shining down on you. 
 
 - - -
 
