@@ -18,7 +18,7 @@ tags:
 
 **Please keep in mind...**
 
-**_due to the weather getting colder, if it is raining and the weather is below 50 degrees, classes will be held inside. Please reserve your spot through martial arts on rails to confirm your spot. Please keep in mind, indoor classes are for members or trials only due to limited capacity._** 
+_**due to the weather getting colder, if it is raining and the weather is below 50 degrees, classes will be held inside. Please reserve your spot through martial arts on rails to confirm your spot. Please keep in mind, indoor classes are for members or trials only due to limited capacity.**_ 
 
 - - -
 
