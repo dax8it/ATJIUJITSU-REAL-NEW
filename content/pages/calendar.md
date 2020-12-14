@@ -118,7 +118,3 @@ _**Afternoon Class**_
 * **Kickboxing (All Ages):** 11:15 to 12:00 pm
 
 - - -
-
-<script src="https://www.maonrails.com/js/widgets.js"></script> 
-
-<div class="maonrails-schedule" attr-gym="DL7vA"></div>
