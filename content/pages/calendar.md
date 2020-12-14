@@ -9,8 +9,6 @@ home: true
 tags:
   - Other
 ---
-
-
 # Adult and Kids Schedule
 
 ## Get Started Now:
@@ -31,8 +29,6 @@ tags:
 
 # Adult Classes (Available To Book)
 
-**Outdoor Classes are held on 34th Avenue between 80th and 81st Street! (Weather Permitted)** 
-
 ## MONDAY
 
 **_Morning Class_**
@@ -41,8 +37,8 @@ tags:
 
 _**Afternoon Class**_
 
-* **Outdoor Kickboxing:** 6:00 to 6:45 pm
-* **Womens Jiu-Jitsu:** 8:00 to 8:45 pm
+* **Kickboxing:** 6:00 to 6:45 pm
+* **Jiu-Jitsu:** 7:15 to 8:15 pm
 
 ## TUESDAY
 
@@ -53,7 +49,7 @@ _**Afternoon Class**_
 _**Afternoon Class**_
 
 * **No GI Drilling and Sparring:** 5:00 to 5:45 pm
-* **Outdoor Muay Thai:** 6:00 to 6:45 pm
+* **Muay Thai:** 6:00 to 6:45 pm
 * **Jiu-Jitsu Drilling (GI):** 7:00 to 7:45 pm
 
 ## WEDNESDAY
@@ -64,7 +60,7 @@ _**Afternoon Class**_
 
 _**Afternoon Class**_
 
-* **Outdoor Kickboxing:** 6:00 to 6:45 pm
+* **Kickboxing:** 6:00 to 6:45 pm
 * **Advanced Sparring:** 7:15 to 8:00 pm
 
 ## THURSDAY
@@ -76,7 +72,7 @@ _**Afternoon Class**_
 _**Afternoon Class**_
 
 * **No GI Drilling and Sparring:** 5:00 to 5:45 pm
-* **Outdoor Muay Thai:** 6:00 to 6:45 pm
+* **Muay Thai:** 6:00 to 6:45 pm
 * **Smarter Yoga:** 7:15 to 8:00 pm
 * **Jiu-Jitsu Drilling (GI):** 8:10 to 9:00 pm
 
@@ -96,21 +92,15 @@ _**Afternoon Class**_
 
 <br>
 
-![](/img/img_4887-1-.jpg)
-
 - - -
 
-<br>
-
 # Kids Classes
-
-**Outdoor Classes are held on 34th Avenue between 80th and 81st Street! (Weather Permitted)** 
 
 ### MONDAY
 
 * **Jiu-Jitsu (Ages 5 to 9):** 3:15 to 4:00 pm
 * **Jiu-Jitsu (Ages 10 to 13):** 4:15 to 5:00 pm
-* **Outdoor Kickboxing (All Ages):** 5:15 to 6:00 pm
+* **Kickboxing (All Ages):** 5:15 to 6:00 pm
 
 ### WEDNESDAY
 
@@ -125,10 +115,6 @@ _**Afternoon Class**_
 ### SATURDAY
 
 * **Toddler Jiu-Jitsu (Ages 3 to 4):** 10:00 to 11:00 am
-* **Outdoor Kickboxing (All Ages):** 11:15 to 12:00 pm
+* **Kickboxing (All Ages):** 11:15 to 12:00 pm
 
 - - -
-
-<script src="https://www.maonrails.com/js/widgets.js"></script> 
-
-<div class="maonrails-schedule" attr-gym="DL7vA"></div>
