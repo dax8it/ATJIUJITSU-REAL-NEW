@@ -11,7 +11,7 @@ tags:
 ---
 # Adult and Kids Schedule
 
-_All classes must be booked through Martial Arts on Rails before taking class. Please register through the links provided below._ 
+**_All classes must be booked through Martial Arts on Rails before taking class. Please register through the links provided below._** 
 
 ## Get Started Now:
 
