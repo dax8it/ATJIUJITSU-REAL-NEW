@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: KickBoxing
-order: 1
+order: 4
 date: '2019-05-01'
 description: 'The best Kickboxing program in Jackson Heights, NY!'
 thumbnail: /img/kick-AIS09142.jpg
