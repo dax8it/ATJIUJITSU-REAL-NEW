@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Smarter Yoga
-order: 3
+order: 6
 date: '2019-07-13'
 description: >-
   Instructor Kim discusses the benefits of smarter YOGA to improve your
