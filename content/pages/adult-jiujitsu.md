@@ -35,9 +35,9 @@ tags:
 
 ![](/img/dsc01064.jpg)
 
-![](/img/dsc05582.jpg)
+![](/img/dsc00204.jpg)
 
-![](/img/dsc09815.jpg)
+![](/img/dsc00104.jpg)
 
 ![](/img/dsc06659.jpg)
 
@@ -46,8 +46,6 @@ tags:
 ![](/img/dsc06620.jpg)
 
 ![](/img/dsc04137.jpg)
-
-![](/img/dsc09806.jpg)
 
 ![](/img/dsc06468.jpg)
 
