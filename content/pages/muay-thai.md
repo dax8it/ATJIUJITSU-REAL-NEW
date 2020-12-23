@@ -35,8 +35,6 @@ tags:
 
 ![](/img/dsc07111.jpg)
 
-![](/img/dsc02596.jpg)
-
 ![](/img/dsc05895.jpg)
 
 ![](/img/dsc07751.jpg)
