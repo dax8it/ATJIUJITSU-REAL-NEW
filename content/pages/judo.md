@@ -31,8 +31,6 @@ tags:
 
 <br>
 
-<br>
-
 - - -
 
 ![](/img/dsc01093.jpg)
