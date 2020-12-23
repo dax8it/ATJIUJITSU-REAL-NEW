@@ -35,10 +35,10 @@ tags:
 
 • This type of training is called high-intensity interval training and has been shown to be especially good for burning calories and increasing cardiovascular fitness.
 
-![](/img/dsc02154.jpg)
+![](/img/dsc00260.jpg)
 
-![](/img/dsc02168.jpg)
+![](/img/dsc00289.jpg)
 
-![](/img/dsc02181.jpg)
+![](/img/dsc00224.jpg)
 
-![](/img/dsc02140.jpg)
+![](/img/dsc00244.jpg)
