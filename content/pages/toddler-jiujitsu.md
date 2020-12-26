@@ -47,8 +47,4 @@ tags:
 
 ![](/img/dsc09886.jpg)
 
-![](/img/dsc09880.jpg)
-
 ![](/img/dsc08387.jpg)
-
-![](/img/dsc09254.jpg)
