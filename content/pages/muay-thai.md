@@ -31,8 +31,6 @@ tags:
 
 - - -
 
-![](/img/dsc02721.jpg)
-
 ![](/img/dsc07111.jpg)
 
 ![](/img/dsc05895.jpg)
