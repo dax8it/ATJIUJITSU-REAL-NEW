@@ -52,7 +52,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 * Great for adventurous kids
   * learn Discipline
   * learn Throws (Judo)
-  * learn Self Defense
+  * learn how to fall
 
 - - -
 
