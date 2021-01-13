@@ -72,4 +72,5 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 (Per Class)
 
 - - -
+
 (We offer Military/ Health Care/ Law Enforcement/ Fire Department Discount)
