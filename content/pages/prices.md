@@ -73,4 +73,10 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 - - -
 
+12% OFF FOR  2ND FAMILY/FRIEND 
+
+15% OFF FOR 3RD FAMILY/FRIEND
+
+40% OFF FOR 4TH FAMILY MEMBER
+
 We offer Military/ Health Care/ Law Enforcement/ Fire Department Discount
