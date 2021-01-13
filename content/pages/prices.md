@@ -4,7 +4,7 @@ title: Our Prices
 order: 11
 date: '2019-05-04'
 description: Our pricing makes taking classes affordable!
-thumbnail: /img/blog-index.jpg
+thumbnail: /img/grapplingindustriesais08149.jpg
 home: true
 tags:
   - Other
