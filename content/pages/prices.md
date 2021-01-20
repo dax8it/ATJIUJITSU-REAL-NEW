@@ -25,21 +25,22 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 - - -
 
-## Three Times a Week - $155/mo:
+## Unlimited Classes - $175/mo:
 
-* Working out is always useful even if you do it three times a week! 
-  * Jiu-Jitsu
+* From unlimited access to yoga, jiu jitsu, kickboxing and muay thai for you to take advantage of! 
+  * Unlimited Jiu-Jitsu
   * Muay Thai
   * Kickboxing
   * Outdoor Classes
   * Yoga
 
+
 - - -
 
-## Unlimited Classes - $175/mo:
+## Three Times a Week - $155/mo:
 
-* From unlimited access to yoga, jiu jitsu, kickboxing and muay thai for you to take advantage of! 
-  * Unlimited Jiu-Jitsu
+* Working out is always useful even if you do it three times a week! 
+  * Jiu-Jitsu
   * Muay Thai
   * Kickboxing
   * Outdoor Classes
@@ -52,7 +53,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 * Great for adventurous kids
   * learn Discipline
   * learn Throws (Judo)
-  * learn Self Defense
+  * learn how to fall
 
 - - -
 
