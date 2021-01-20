@@ -23,30 +23,33 @@ tags:
 
 <br>
 
+<script src="https://www.maonrails.com/js/widgets.js"></script>
+
+<div class="maonrails-schedule" attr-gym="DL7vA"></div>
+
+
 - - -
 
-<br>
-
-# Adult Classes 
+# Adult Classes
 
 ## MONDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **No GI Jiu-Jitsu:** 8:00 am to 8:45 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **Kickboxing:** 6:00 to 6:45 pm
 * **Jiu-Jitsu:** 7:15 to 8:15 pm
 
 ## TUESDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **Jiu-Jitsu:** 7:00 am to 8:15 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **No GI Drilling and Sparring:** 5:00 to 5:45 pm
 * **Muay Thai:** 6:00 to 6:45 pm
@@ -54,22 +57,22 @@ _**Morning Class**_
 
 ## WEDNESDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **No GI Jiu-Jitsu :** 7:30 am to 8:15 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **Kickboxing:** 6:00 to 6:45 pm
 * **Advanced Sparring:** 7:15 to 8:00 pm
 
 ## THURSDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **Jiu-Jitsu:** 7:00 am to 8:15 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **No GI Drilling and Sparring:** 5:00 to 5:45 pm
 * **Muay Thai:** 6:00 to 6:45 pm
