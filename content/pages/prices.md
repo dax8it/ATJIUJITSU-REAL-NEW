@@ -26,6 +26,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 - - -
 
 ## Unlimited Classes - $225/mo:
+(+ $10.00 Sign Up Fee)
 
 * From unlimited access to yoga, jiu jitsu, kickboxing and muay thai for you to take advantage of! 
   * Unlimited Jiu-Jitsu
