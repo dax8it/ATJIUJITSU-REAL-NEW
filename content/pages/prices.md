@@ -38,6 +38,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 - - -
 
 ## Three Times a Week - $195/mo:
+(+ $15.00 Sign Up Fee)
 
 * Working out is always useful even if you do it three times a week! 
   * Jiu-Jitsu
