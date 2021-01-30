@@ -50,6 +50,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 - - -
 
 ## Two Times a Week - $175/mo:
+(+ $15.00 Sign Up Fee)
 
   * Jiu-Jitsu
   * Muay Thai
@@ -60,6 +61,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 - - -
 
 ## One Time a Week - $120/mo:
+(+ $15.00 Sign Up Fee)
 
   * Jiu-Jitsu
   * Muay Thai
