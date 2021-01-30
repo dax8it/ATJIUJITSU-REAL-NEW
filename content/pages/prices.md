@@ -25,7 +25,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 - - -
 
-## Unlimited Classes - $175/mo:
+## Unlimited Classes - $225/mo:
 
 * From unlimited access to yoga, jiu jitsu, kickboxing and muay thai for you to take advantage of! 
   * Unlimited Jiu-Jitsu
@@ -37,7 +37,18 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 - - -
 
-## Three Times a Week - $155/mo:
+## Three Times a Week - $195/mo:
+
+* Working out is always useful even if you do it three times a week! 
+  * Jiu-Jitsu
+  * Muay Thai
+  * Kickboxing
+  * Outdoor Classes
+  * Yoga
+
+- - -
+
+## Three Times a Week - $195/mo:
 
 * Working out is always useful even if you do it three times a week! 
   * Jiu-Jitsu
@@ -57,12 +68,12 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 - - -
 
-## Pay In Full (6 Months) - $930:
+## Pay In Full (6 Months) - $1200:
 
 * Unlimited Classes ($155 x 6 Months)
   * 6 Month Agreement
   * Unlimited Classes
-  * $155 Monthly (Compared to $175)
+  * $200 Monthly (Compared to $225)
 
 - - -
 
