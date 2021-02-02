@@ -7,7 +7,7 @@ description: >-
   Please click the link down below. Thank you to everyone who has donated
   already! We would not be able to make it through without your support! 
 thumbnail: /img/unnamed.png
-home: true
+home: false
 tags:
   - Blog
 ---
