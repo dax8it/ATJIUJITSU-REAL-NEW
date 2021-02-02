@@ -8,6 +8,7 @@ thumbnail: /img/virtual-tour.jpg
 home: true
 tags:
   - Other
+  - Blog
 ---
 
 
