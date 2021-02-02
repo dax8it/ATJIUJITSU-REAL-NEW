@@ -26,6 +26,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 - - -
 
 ## Unlimited Classes - $225/mo:
+
 (+ $10.00 Sign Up Fee)
 
 * From unlimited access to yoga, jiu jitsu, kickboxing and muay thai for you to take advantage of! 
@@ -38,6 +39,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 - - -
 
 ## Three Times a Week - $195/mo:
+
 (+ $15.00 Sign Up Fee)
 
 * Working out is always useful even if you do it three times a week! 
@@ -50,28 +52,31 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 - - -
 
 ## Two Times a Week - $175/mo:
+
 (+ $15.00 Sign Up Fee)
 
-  * Jiu-Jitsu
-  * Muay Thai
-  * Kickboxing
-  * Outdoor Classes
-  * Yoga
+* Jiu-Jitsu
+* Muay Thai
+* Kickboxing
+* Outdoor Classes
+* Yoga
 
 - - -
 
 ## One Time a Week - $120/mo:
+
 (+ $15.00 Sign Up Fee)
 
-  * Jiu-Jitsu
-  * Muay Thai
-  * Kickboxing
-  * Outdoor Classes
-  * Yoga
+* Jiu-Jitsu
+* Muay Thai
+* Kickboxing
+* Outdoor Classes
+* Yoga
 
 - - -
 
 ## Age 3-4 Toddler Classes - $155/mo:
+
 (+ $15.00 Sign Up Fee)
 
 * Great for adventurous kids
@@ -98,9 +103,9 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 - - -
 
-12% OFF FOR  2ND FAMILY/FRIEND 
+20% OFF FOR  2ND FAMILY/FRIEND 
 
-15% OFF FOR 3RD FAMILY/FRIEND
+30% OFF FOR 3RD FAMILY/FRIEND
 
 40% OFF FOR 4TH FAMILY MEMBER
 
