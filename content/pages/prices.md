@@ -26,55 +26,77 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 - - -
 
 ## Unlimited Classes - $225/mo:
+
 (+ $10.00 Sign Up Fee)
 
 * From unlimited access to yoga, jiu jitsu, kickboxing and muay thai for you to take advantage of! 
   * Unlimited Jiu-Jitsu
   * Muay Thai
   * Kickboxing
-  * Outdoor Classes
   * Yoga
 
 - - -
 
-## Three Times a Week - $195/mo:
+## Four Times a Week - $195/mo:
+
 (+ $15.00 Sign Up Fee)
 
 * Working out is always useful even if you do it three times a week! 
   * Jiu-Jitsu
   * Muay Thai
   * Kickboxing
-  * Outdoor Classes
   * Yoga
 
 - - -
 
 ## Two Times a Week - $175/mo:
+
 (+ $15.00 Sign Up Fee)
 
-  * Jiu-Jitsu
-  * Muay Thai
-  * Kickboxing
-  * Outdoor Classes
-  * Yoga
+* Jiu-Jitsu
+* Muay Thai
+* Kickboxing
+* Yoga
 
 - - -
 
 ## One Time a Week - $120/mo:
+
 (+ $15.00 Sign Up Fee)
 
+* Jiu-Jitsu
+* Muay Thai
+* Kickboxing
+* Yoga
+
+- - -
+
+## Jiu-Jitsu Package - $200/mo:
+
+(+ $15.00 Sign Up Fee)
+
+* Includes unlimited access to all Jiu-Jitsu classes and Yoga! 
   * Jiu-Jitsu
-  * Muay Thai
+  * Yoga
+
+- - -
+
+## Striking Unlimited - $185/mo:
+
+(+ $15.00 Sign Up Fee)
+
+* Includes unlimited access to Muay Thai, Kickboxing and Yoga! 
   * Kickboxing
-  * Outdoor Classes
+  * Muay Thai
   * Yoga
 
 - - -
 
 ## Age 3-4 Toddler Classes - $155/mo:
+
 (+ $15.00 Sign Up Fee)
 
-* Great for adventurous kids
+* Includes Jiu-Jitsu and Kickboxing! Great for adventurous kids. 
   * learn Discipline
   * learn Throws (Judo)
   * learn how to fall
@@ -90,17 +112,19 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 - - -
 
-## Drop In - $35
+# Drop In Fees:
 
-## Toddler Drop In - $40
+**One Session - $35**
 
-(Per Class)
+**Day Pass - $45**
+
+**Toddler Drop In - $40**
 
 - - -
 
-12% OFF FOR  2ND FAMILY/FRIEND 
+20% OFF FOR  2ND FAMILY/FRIEND 
 
-15% OFF FOR 3RD FAMILY/FRIEND
+30% OFF FOR 3RD FAMILY/FRIEND
 
 40% OFF FOR 4TH FAMILY MEMBER
 
