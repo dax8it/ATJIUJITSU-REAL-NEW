@@ -71,13 +71,12 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 - - -
 
-## Striking Unlimited - $185/mo:
+## Jiu-Jitsu Package - $200/mo:
 
 (+ $15.00 Sign Up Fee)
 
-* Includes unlimited access to Muay Thai, Kickboxing and Yoga! 
-  * Kickboxing
-  * Muay Thai
+* Includes unlimited access to all Jiu-Jitsu classes and Yoga! 
+  * Jiu-Jitsu
   * Yoga
 
 - - -
