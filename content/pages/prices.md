@@ -75,7 +75,18 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 (+ $15.00 Sign Up Fee)
 
-* Unlimited access to Muay Thai, Kickboxing and Yoga! 
+* Includes unlimited access to Muay Thai, Kickboxing and Yoga! 
+  * Kickboxing
+  * Muay Thai
+  * Yoga
+
+- - -
+
+## Striking Unlimited - $185/mo:
+
+(+ $15.00 Sign Up Fee)
+
+* Includes unlimited access to Muay Thai, Kickboxing and Yoga! 
   * Kickboxing
   * Muay Thai
   * Yoga
@@ -86,7 +97,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 (+ $15.00 Sign Up Fee)
 
-* Great for adventurous kids
+* Includes Jiu-Jitsu and Kickboxing! Great for adventurous kids. 
   * learn Discipline
   * learn Throws (Judo)
   * learn how to fall
