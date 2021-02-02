@@ -33,7 +33,6 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
   * Unlimited Jiu-Jitsu
   * Muay Thai
   * Kickboxing
-  * Outdoor Classes
   * Yoga
 
 - - -
@@ -46,7 +45,6 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
   * Jiu-Jitsu
   * Muay Thai
   * Kickboxing
-  * Outdoor Classes
   * Yoga
 
 - - -
@@ -58,7 +56,6 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 * Jiu-Jitsu
 * Muay Thai
 * Kickboxing
-* Outdoor Classes
 * Yoga
 
 - - -
@@ -70,8 +67,18 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 * Jiu-Jitsu
 * Muay Thai
 * Kickboxing
-* Outdoor Classes
 * Yoga
+
+- - -
+
+## Striking Unlimited - $185/mo:
+
+(+ $15.00 Sign Up Fee)
+
+* Unlimited access to Muay Thai, Kickboxing and Yoga! 
+  * Kickboxing
+  * Muay Thai
+  * Yoga
 
 - - -
 
