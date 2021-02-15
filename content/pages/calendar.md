@@ -61,7 +61,7 @@ _**Afternoon Class**_
 
 **_Morning Class_**
 
-* **Jiu-Jitsu:** 7:00 am to 8:15 am
+* **Jiu-Jitsu (Gi):** 7:00 am to 8:15 am
 
 _**Afternoon Class**_
 
