@@ -114,7 +114,9 @@ _**Afternoon Class**_
 ### SATURDAY
 
 * **Toddler Jiu-Jitsu (Ages 3 to 4):** 10:00 to 11:00 am
-* **Kickboxing (All Ages):** 11:15 to 12:00 pm
+* **Kids Jiu-Jitsu (Ages 7 to 13):** 10:15 to 11:00 am
+* **Kids Kickboxing (Ages 3-6):** 11:15 to 12:00 pm
+* **Kids Kickboxing (Ages 7-13):** 11:15 to 12:00 pm
 
 ### SUNDAY
 
