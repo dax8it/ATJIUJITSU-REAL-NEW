@@ -118,7 +118,6 @@ _**Afternoon Class**_
 
 ### SUNDAY
 
-* **Toddler Jiu-Jitsu (Ages 3 to 4):** 10:00 to 11:00 am
-* **Kickboxing (All Ages):** 11:15 to 12:00 pm
+* **Kids Sunday FunDay Drilling (All Ages):** 11:15 to 12:00 pm
 
 - - -
