@@ -108,7 +108,7 @@ Kim has a BS in Biochemistry from Florida State University (2005), is certified 
 
 # Morgan Chen
 
-## Muay-Thai & Kettlebell Instructor
+## Muay-Thai Instructor
 
 Morgan Chen is the Owner and Head Coach of **Astoria_BarbellClub and Crossfit_Astoria**. Morgan is of Taiwanese descent but was born and raised in Rego Park, Queens. He attended P.S. 139, Russel Sage JHS 190, then went onto Forest Hills High School. Morgan received his first nationally recognized personal training certification when he was 18 at NASM_Fitness. Surprisingly, his favorite hobby is eating. He loves to explore new restaurants and learning new cooking techniques.
 
@@ -140,7 +140,7 @@ Born and raised in Astoria, Queens, Rocco is a die-hard New Yorker. A big advoca
 
 ![Natalia Vallebuona - Program Director](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1583298680/STAFF/IMG_9694-Edit_wikw61.png)
 
-# Natalia
+# Natalia V.
 
 ## Program Director
 
@@ -156,7 +156,7 @@ Natalia has always loved caring for children and was studying to become a teache
 
 ![Arianna Calle](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1583298692/STAFF/IMG_9716-Edit_e3mlnh.png)
 
-# Arianna Calle
+# Arianna C.
 
 ## Coach
 
@@ -170,7 +170,7 @@ Arianna has been training Jiu-Jitsu for 4 years now and is currently a blue belt
 
 ![Gabriela](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1583374462/STAFF/IMG_9754-Edit_gts45f.png)
 
-# Gabriela
+# Gabriela V.
 
 ## Coach and Assistant Program Director
 
