@@ -31,7 +31,7 @@ tags:
 
 - - -
 
-![](/img/dsc09804.jpg)
+![](/img/dsc01230.jpg)
 
 ![](/img/dsc00204.jpg)
 
@@ -41,10 +41,6 @@ tags:
 
 ![](/img/dsc06659.jpg)
 
-![](/img/dsc09250.jpg)
-
-![](/img/dsc06620.jpg)
-
-![](/img/dsc04137.jpg)
+![](/img/dsc01225.jpg)
 
 ![](/img/dsc07857.jpg)
