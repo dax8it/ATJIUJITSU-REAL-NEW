@@ -52,7 +52,7 @@ _**Afternoon Class**_
 
 _**Afternoon Class**_
 
-* **Film Study (Drilling):** 5:15 to 6:00 pm
+* **Film Study (Gi Drilling):** 5:15 to 6:00 pm
 * **Kickboxing:** 6:10 to 7:00 pm
 * **Advanced Sparring:** 7:15 to 8:00 pm
 * **Takedown Class (Gi):** 8:15 to 9:00 pm
@@ -100,7 +100,7 @@ _**Afternoon Class**_
 
 * **Kids Kickboxing (All Ages):** 3:30 to 4:15 pm
 * **Jiu-Jitsu (Ages 5 to 9):** 4:30 to 5:15 pm
-* **Kids MMA (Ages 9-13:** 5:15 to 6:00 pm
+* **Kids MMA (Ages 9-13):** 5:15 to 6:00 pm
 
 ### WEDNESDAY
 
