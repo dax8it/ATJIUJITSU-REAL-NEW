@@ -47,6 +47,6 @@ If you already have an account with us please login below.
 
 • Create a buddy system to exclusively train together (No switching partners is allowed)
 
-## AT JIU-JITSU NYC RE-OPENING ACTIONS AND PROTOCOLS:
+## AT JIU-JITSU NYC ACTIONS AND PROTOCOLS:
 
 • Hand sanitizer will be provided by the mats, changing area, lobby and at the entrance of the gym. • Disinfectant area for feet before stepping onto the mats. • Commonly touched surfaces will be wiped down twice before arrival and after dismissal • Allow as much fresh air ventilation as possible between sessions. • Covid-19 specific liability waiver. • Disinfect throughout the day all common and high-traffic areas such as the entrance, gym mats, and restrooms in between classes. • Staff members will be tested twice a month and will provide proof of negative exam after every test. • Staff will maintain social distance amongst each other when possible • We will follow testing policies and procedures required for staff according to the guidelines established by CDC and local government. • Temperature checks will be administered prior to training.
