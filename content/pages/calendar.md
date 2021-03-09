@@ -99,7 +99,8 @@ _**Afternoon Class**_
 ### TUESDAY
 
 * **Kids Kickboxing (All Ages):** 3:30 to 4:15 pm
-* **Jiu-Jitsu (Ages 5 to 9)** 4:30 to 5:15 pm
+* **Jiu-Jitsu (Ages 5 to 9):** 4:30 to 5:15 pm
+* **Kids MMA (Ages 9-13:** 5:15 to 6:00 pm
 
 ### WEDNESDAY
 
