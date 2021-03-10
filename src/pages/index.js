@@ -21,17 +21,20 @@ const BlogIndex = ({ data }, location) => {
         title="Martial Arts & Jiujitsu - BJJ Training in Jackson Heights Queens"
         keywords={[
           `bjj`,
-          `jiujitsu`,
-          `kick boxing`,
+          `Brazilian Jiu Jitsu`,
+          `kickboxing`,
           `muay thai`,
-          `mma`,
+          `MMA`,
           `mixed martial arts`,
           `yoga`,
           `toddler`,
+          `Kids martial arts`,
+          `Kids fitness`,
           `judo`,
           `martial arts`,
           `Jackson Heights`,
           `Queens`,
+          `Queens Jiujitsu`,
           `New York City`,
         ]}
       />
