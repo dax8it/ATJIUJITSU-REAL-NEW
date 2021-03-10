@@ -41,7 +41,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 (+ $15.00 Sign Up Fee)
 
-* Working out is always useful even if you do it four times a week! 
+* Working out is always useful even if you do it four times a week! ($12 per class)
   * Jiu-Jitsu
   * Muay Thai
   * Kickboxing
