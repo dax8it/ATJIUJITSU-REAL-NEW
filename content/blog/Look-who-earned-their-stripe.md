@@ -27,8 +27,6 @@ tags:
 
 ![](/img/img_7113.jpg)
 
-![](/img/dsc07643.jpg)
-
 ![](/img/img_1613.png)
 
 ![](/img/dsc05804.jpg)
