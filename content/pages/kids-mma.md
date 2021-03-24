@@ -4,8 +4,8 @@ title: 'KIDS MMA '
 order: 5
 date: 2021-03-24T20:36:49.923Z
 description: >-
-  For kids who primarily take our Jiu-Jitsu classes this will be a great way to
-  introduce them into mixing the martial arts. 
+  MMA is a full-contact combat sport which includes a mix of striking, grappling
+  and ground fighting.
 thumbnail: /img/dsc01302.jpg
 home: true
 tags:
@@ -13,7 +13,7 @@ tags:
 ---
 - - -
 
-## With a mix of Jiu-Jitsu and Kickboxing combined, when taught in a controlled environment, MMA training is actually safer than other traditional sports and activities available for kids. Because of its real-world effectiveness and applications, your child is not only learning positive aspects that come from training a martial art, but they are learning a true form of self-defense that will stick with them for the rest of their lives.
+## For kids who primarily take our Jiu-Jitsu classes this will be a great way to introduce them into mixing the martial arts. When taught in a controlled environment, MMA training is actually safer than other traditional sports and activities available for kids. Because of its real-world effectiveness and applications, your child is not only learning positive aspects that come from training a martial art, but they are learning a true form of self-defense that will stick with them for the rest of their lives.
 
 **Please keep in mind, this class is for Ages 8-13.** 
 
