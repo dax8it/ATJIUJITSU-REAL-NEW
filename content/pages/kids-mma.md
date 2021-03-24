@@ -42,3 +42,5 @@ We are very excited to have this new addition of class into our school. It will 
 ![](/img/dsc01336.jpg)
 
 ![](/img/dsc01287.jpg)
+
+- - -
