@@ -7,7 +7,7 @@ description: 'For toning and strengthening, try our new Kettlebell class! '
 thumbnail: /img/dsc01419.jpg
 home: false
 tags:
-  - Programs
+  - Other
 ---
 # Kettlebell
 
