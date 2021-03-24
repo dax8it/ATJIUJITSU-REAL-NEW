@@ -11,7 +11,7 @@ home: true
 tags:
   - Programs
 ---
-## With a mix of Jiu-Jitsu and Kickboxing, when taught in a controlled environment, MMA training is actually safer than other traditional sports and activities available for kids. Because of its real-world effectiveness and applications, your child is not only learning positive aspects that come from training a martial art, but they are learning a true form of self-defense that will stick with them for the rest of their lives.
+## With a mix of Jiu-Jitsu and Kickboxing combined, when taught in a controlled environment, MMA training is actually safer than other traditional sports and activities available for kids. Because of its real-world effectiveness and applications, your child is not only learning positive aspects that come from training a martial art, but they are learning a true form of self-defense that will stick with them for the rest of their lives.
 
 **Please keep in mind, this class is for Ages 8-13 and in order to take this class you will need:**
 
