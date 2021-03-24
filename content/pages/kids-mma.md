@@ -4,8 +4,8 @@ title: 'KIDS MMA '
 order: 5
 date: 2021-03-24T20:36:49.923Z
 description: >-
-  For kids who primarily take our Jiu-Jitsu classes this will be a great way to
-  introduce them into mixing the martial arts. 
+  MMA is a full-contact combat sport which includes a mix of striking, grappling
+  and ground fighting.
 thumbnail: /img/dsc01302.jpg
 home: true
 tags:
