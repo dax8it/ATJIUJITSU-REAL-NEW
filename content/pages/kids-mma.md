@@ -21,8 +21,7 @@ tags:
 
 **\- Head Gear**
 
-**\- Shin Guards
- (Muay-Thai Shin guards are allowed)**
+**\- Shin Guards (Muay-Thai Shin guards are allowed)**
 
 These items are a requirement and essential to MMA, you cannot take the class without all of the proper gear. We do sell Kids MMA gloves and shin pads, so please feel free to ask us if you are interested in buying!
 
