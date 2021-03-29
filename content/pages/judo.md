@@ -13,6 +13,10 @@ tags:
 ---
 # Judo
 
+<iframe src="https://www.facebook.com/plugins/video.php?height=315&href=https%3A%2F%2Fwww.facebook.com%2FATjiujitsuNYC%2Fvideos%2F3609156632515118%2F&show_text=false&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+- - -
+
 ## The best Judo program in Jackson Heights, NY!
 
 • Judo is a tremendous and dynamic combat sport that demands both physical prowess and great mental discipline. From a standing position, it involves techniques that allow you to lift and throw your opponents onto their backs.
