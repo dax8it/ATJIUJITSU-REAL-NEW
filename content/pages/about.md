@@ -174,7 +174,7 @@ Arianna has been training Jiu-Jitsu for 4 years now and is currently a blue belt
 
 ## Coach and Assistant Program Director
 
-Gabriela, mainly known as Coach Gaby has been training in Jiu-Jitsu for one year. She is currently a blue belt. Along with Jiu-Jitsu, Gaby also takes kickboxing and is currently studying as a Political Science Major. She is artistic and creative and is now a professional at painting our school’s logo. Gaby can be found assisting Professor Alvaro during the kids classes or at the desk on Thursdays and Fridays. 
+Gabriela, mainly known as Coach Gaby has been training in Jiu-Jitsu for two years. She is currently a blue belt. Along with Jiu-Jitsu, Gaby also takes kickboxing and is currently studying as a Political Science Major. She is artistic and creative and is now a professional at painting our school’s logo. Gaby can be found assisting Professor Alvaro during the kids classes or at the desk on Thursdays and Fridays. 
 
 <br>
 
