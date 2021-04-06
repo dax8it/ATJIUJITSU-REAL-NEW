@@ -3,7 +3,9 @@ templateKey: blog-post
 title: Summer Program 2021
 order: 3
 date: 2020-06-10T00:00:00.000Z
-description: 'Another summer camp season is in the books. '
+description: >-
+  We are very excited to open our doors once again for our 2021 Summer Program
+  here at AT JIU-JITSU NYC! 
 thumbnail: /img/dsc03545.jpg
 home: false
 tags:
