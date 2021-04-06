@@ -2,10 +2,12 @@
 templateKey: blog-post
 title: Summer Program 2021
 order: 3
-date: 2020-06-10T00:00:00.000Z
-description: 'Another summer camp season is in the books. '
+date: 2020-04-07T00:00:00.000Z
+description: >-
+  We are very excited to open our doors once again for our 2021 Summer Program
+  here at AT JIU-JITSU NYC! 
 thumbnail: /img/dsc03545.jpg
-home: false
+home: true
 tags:
   - Blog
 ---
@@ -13,7 +15,7 @@ tags:
 
 - - -
 
-## **We would like to inform you that AT Jiu-Jitsu NYC will be offering a four week summer program filled with endless fun! Each week will be designed to empower and enlighten kids through amusing activities, fascinating and safe field trips, timely lessons in teamwork and so much more! Activities will include Jiu-Jitsu, Kickboxing, Game Time, Arts and Crafts, Hiking trips, water balloon fights and more. All while of course, following the guidelines from the State.**
+## We would like to inform you that AT Jiu-Jitsu NYC will be offering a four week summer program filled with endless fun! Each week will be designed to empower and enlighten kids through amusing activities, fascinating and safe field trips, timely lessons in teamwork and so much more! Activities will include Jiu-Jitsu, Kickboxing, Game Time, Arts and Crafts, Hiking trips, water balloon fights and more. All while of course, following the guidelines from the State.
 
 - - -
 
@@ -40,8 +42,6 @@ Please see below some pictures of our previous summer camp fun!
 ## **Summer 2019**
 
 ![](/img/1.jpg)
-
-![](/img/videocapture_20200818-185408.jpg)
 
 ![](/img/img_7284.jpg)
 
