@@ -13,13 +13,11 @@ tags:
 
 - - -
 
-**Our summer program will begin from July 6th to Aug. 3rd. It will open Tuesday, Wednesday and Friday from 9:00 am to 3 pm.** 
+**Our summer program will begin from July 6th to Aug. 3rd. It will be open Tuesday, Wednesday and Friday from 9:00 am to 3 pm.** 
 
 - - -
 
-**In light of the corona virus, our maximum capacity will be 10 children, and social distancing will be maintained. Children and adults must wear a mask at all times. All equipment is disinfected. Hand sanitation and temperature checks will be implemented everyday.** 
-
-**In light of the corona virus, we will continue to add to our already rigorous health and safety protocols to our Academy as we make decisions about the summer season. We are continuing to monitor the situation and will of course be putting strict safety measures in place before welcoming the kids for the summer.**  **Our first priority is always our children and staff's safety.**
+**In light of the corona virus, our maximum capacity will be 10 children, and social distancing will be maintained. Children and adults must wear a mask at all times. All equipment is disinfected. Hand sanitation and temperature checks will be implemented everyday. We will continue to add to our already rigorous health and safety protocols to our Academy as we make decisions about the summer season. We are continuing to monitor the situation and will of course be putting strict safety measures in place before welcoming the kids for the summer.**  **Our first priority is always our children and staff's safety.**
 
 - - -
 
