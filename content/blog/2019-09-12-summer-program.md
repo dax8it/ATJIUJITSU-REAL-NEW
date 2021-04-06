@@ -9,7 +9,7 @@ home: false
 tags:
   - Blog
 ---
--2019 Summer Camp Bowling Trip
+\-2019 Summer Camp Bowling Trip
 
 - - -
 
@@ -69,11 +69,11 @@ Please see below some pictures of our previous summer camp fun!
 
 ![](/img/4.jpg)
 
+![](/img/img_7395.jpg)
+
 ![](/img/9.jpg)
 
 ![](/img/dsc03295-1-.jpg)
-
-![](/img/8.jpg)
 
 ## **Summer 2020**
 
