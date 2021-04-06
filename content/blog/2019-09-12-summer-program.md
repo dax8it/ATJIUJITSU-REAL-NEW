@@ -13,7 +13,7 @@ tags:
 
 - - -
 
-**Our summer program will begin from July 6th to Aug. 3rd. It will be open Tuesday, Wednesday and Friday from 9:00 am to 3 pm.** 
+**Our summer program will begin from July 6th to Aug. 3rd. It will be open Tuesday, Wednesday and Friday from 9:00 am to 3 pm. It will be available for kids starting from Ages 5-14.**
 
 - - -
 
