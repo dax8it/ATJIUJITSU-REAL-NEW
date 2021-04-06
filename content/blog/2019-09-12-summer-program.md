@@ -4,11 +4,15 @@ title: Summer Program 2021
 order: 3
 date: 2020-06-10T00:00:00.000Z
 description: 'Another summer camp season is in the books. '
-thumbnail: /img/img_1837.jpg
+thumbnail: /img/dsc03545.jpg
 home: false
 tags:
   - Blog
 ---
+-2019 Summer Camp Bowling Trip
+
+- - -
+
 ## **We would like to inform you that AT Jiu-Jitsu NYC will be offering a four week summer program filled with endless fun! Each week will be designed to empower and enlighten kids through amusing activities, fascinating and safe field trips, timely lessons in teamwork and so much more! Activities will include Jiu-Jitsu, Kickboxing, Game Time, Arts and Crafts, Hiking trips, water balloon fights and more. All while of course, following the guidelines from the State.**
 
 - - -
