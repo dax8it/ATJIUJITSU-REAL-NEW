@@ -17,13 +17,17 @@ tags:
 
 - - -
 
-**In light of the corona virus outbreak, we will continue to add to our already rigorous health and safety protocols to our Academy as we make decisions about the summer season. We are continuing to monitor the situation and will of course be putting strict safety measures in place before welcoming the kids for the summer. Information on Pricing**
+**In light of the corona virus outbreak, we will continue to add to our already rigorous health and safety protocols to our Academy as we make decisions about the summer season. We are continuing to monitor the situation and will of course be putting strict safety measures in place before welcoming the kids for the summer.** 
+
+- - -
+
+**Pricing:**
 
 **Register before June 15th - $1,500**
 
 **After June 15th - $1,650**
 
-**Pricing Per Week - $200**
+**Pricing Per Week - $300**
 
 - - -
 
