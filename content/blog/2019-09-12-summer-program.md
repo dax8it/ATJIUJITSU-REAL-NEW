@@ -9,7 +9,7 @@ home: false
 tags:
   - Blog
 ---
-**We would like to inform you that AT Jiu-Jitsu NYC is planning on offering a four week summer program filled with endless fun! Each week will be designed to empower and enlighten kids through amusing activities, fascinating and safe field trips, timely lessons in teamwork and so much more! Activities will include Jiu-Jitsu, Game Time, Shared Reading, Arts and Crafts, Hiking trips, water balloon fights and more. All while of course, following the guidelines from the State.**
+## **We would like to inform you that AT Jiu-Jitsu NYC is planning on offering a four week summer program filled with endless fun! Each week will be designed to empower and enlighten kids through amusing activities, fascinating and safe field trips, timely lessons in teamwork and so much more! Activities will include Jiu-Jitsu, Game Time, Shared Reading, Arts and Crafts, Hiking trips, water balloon fights and more. All while of course, following the guidelines from the State.**
 
 - - -
 
