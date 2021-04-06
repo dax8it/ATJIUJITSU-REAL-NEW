@@ -43,8 +43,6 @@ Please see below some pictures of our previous summer camp fun!
 
 ![](/img/1.jpg)
 
-![](/img/videocapture_20200818-185408.jpg)
-
 ![](/img/img_7284.jpg)
 
 ![](/img/6.jpg)
