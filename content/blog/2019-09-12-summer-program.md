@@ -1,19 +1,41 @@
 ---
 templateKey: blog-post
-title: Summer Program 2020
+title: Summer Program 2021
 order: 3
 date: 2020-06-10T00:00:00.000Z
 description: 'Another summer camp season is in the books. '
-thumbnail: /img/img_1837.jpg
+thumbnail: /img/dsc03545.jpg
 home: false
 tags:
   - Blog
 ---
-**What a wonderful summer – being immersed in nature, exploring new places, making new friends and trying new things. We always end each camp season with an eye toward the future and the excitement that lies ahead. Our heart is full of gratitude for our staff, for our campers and particularly for our camp parents who have entrusted your children to us. what a wonderful summer! Thank you for being an important part of it. We can’t wait to have you back again next year.**
-
-**Check out some photos from our previous summer sessions, with activities such as laser tag, water balloon fights, Mario Kart tournaments, dodgeball, Jiu-Jitsu, arts and crafts, kickboxing, the library and museums, it was a summer we hope they'll never forget!** 
+\-2019 Summer Camp Bowling Trip
 
 - - -
+
+## **We would like to inform you that AT Jiu-Jitsu NYC will be offering a four week summer program filled with endless fun! Each week will be designed to empower and enlighten kids through amusing activities, fascinating and safe field trips, timely lessons in teamwork and so much more! Activities will include Jiu-Jitsu, Kickboxing, Game Time, Arts and Crafts, Hiking trips, water balloon fights and more. All while of course, following the guidelines from the State.**
+
+- - -
+
+**Our summer program will begin from July 6th to Aug. 3rd. It will be open Tuesday, Wednesday and Friday from 9:00 am to 3 pm. It will be available for kids starting from Ages 5-14.**
+
+- - -
+
+**In light of the corona virus, our maximum capacity will be 10 children, and social distancing will be maintained. Children and adults must wear a mask at all times. All equipment is disinfected. Hand sanitation and temperature checks will be implemented everyday. We will continue to add to our already rigorous health and safety protocols to our Academy as we make decisions about the summer season. We are continuing to monitor the situation and will of course be putting strict safety measures in place before welcoming the kids for the summer.**  **Our first priority is always our children and staff's safety.**
+
+- - -
+
+**Pricing:**
+
+**Register before June 15th - $1,500**
+
+**After June 15th - $1,650**
+
+**Pricing Per Week - $300**
+
+- - -
+
+Please see below some pictures of our previous summer camp fun! 
 
 ## **Summer 2019**
 
@@ -47,11 +69,11 @@ tags:
 
 ![](/img/4.jpg)
 
+![](/img/img_7395.jpg)
+
 ![](/img/9.jpg)
 
 ![](/img/dsc03295-1-.jpg)
-
-![](/img/8.jpg)
 
 ## **Summer 2020**
 
