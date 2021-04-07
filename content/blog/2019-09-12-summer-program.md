@@ -6,12 +6,12 @@ date: 2021-04-07T00:00:00.000Z
 description: >-
   We are very excited to open our doors once again for our 2021 Summer Program
   here at AT JIU-JITSU NYC! 
-thumbnail: /img/dsc03545.jpg
+thumbnail: /img/1.jpg
 home: true
 tags:
   - Blog
 ---
-\-2019 Summer Camp Bowling Trip
+\-2019 Summer Camp
 
 - - -
 
@@ -39,7 +39,7 @@ Please see below some pictures of our previous summer camp fun!
 
 ## **Summer 2019**
 
-![](/img/1.jpg)
+![](/img/dsc03545.jpg)
 
 ![](/img/img_7284.jpg)
 
