@@ -23,16 +23,15 @@ tags:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q7Vyr-vlrq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 - - -
 
-**Pricing:**
+## **Pricing:**
 
-**Register before June 15th - $1,500**
+## **Register before June 15th - $1,500**
 
-**After June 15th - $1,650**
+## **After June 15th - $1,650**
 
-**Pricing Per Week - $300**
+## **Pricing Per Week - $300**
 
 - - -
 
