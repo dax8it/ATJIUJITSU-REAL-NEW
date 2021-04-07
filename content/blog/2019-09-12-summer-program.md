@@ -33,7 +33,6 @@ tags:
 
 ## **Pricing Per Week - $300**
 
-
 <div id="smart-button-container">
       <div style="text-align: center;">
         <div id="paypal-button-container"></div>
@@ -70,7 +69,6 @@ tags:
     }
     initPayPalButton();
   </script>
-
 
 - - -
 
