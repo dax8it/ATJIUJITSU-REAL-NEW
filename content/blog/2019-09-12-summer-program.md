@@ -15,9 +15,7 @@ tags:
 
 - - -
 
-# We would like to inform you that AT Jiu-Jitsu NYC will be offering a four week summer program filled with endless fun! Each week will be designed to empower and enlighten kids through amusing activities, fascinating and safe field trips, timely lessons in teamwork and so much more! Activities will include Jiu-Jitsu, Kickboxing, Game Time, Arts and Crafts, Hiking trips, water balloon fights and more. All while of course, following the guidelines from the State.
-
-- - -
+## We would like to inform you that AT Jiu-Jitsu NYC will be offering a four week summer program filled with endless fun! Each week will be designed to empower and enlighten kids through amusing activities, fascinating and safe field trips, timely lessons in teamwork and so much more! Activities will include Jiu-Jitsu, Kickboxing, Game Time, Arts and Crafts, Hiking trips, water balloon fights and more. All while of course, following the guidelines from the State.
 
 ## **Our summer program will begin from July 6th to Aug. 3rd. It will be open Tuesday, Wednesday and Friday from 9:00 am to 3 pm. It will be available for kids starting from Ages 5-14.**
 
