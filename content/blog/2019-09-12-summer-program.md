@@ -33,6 +33,7 @@ tags:
 
 ## **Pricing Per Week - $300**
 
+
 <div id="smart-button-container">
       <div style="text-align: center;">
         <div id="paypal-button-container"></div>
@@ -52,7 +53,7 @@ tags:
 
         createOrder: function(data, actions) {
           return actions.order.create({
-            purchase_units: [{"description":"AT JIU-JITSU NYC KIDS SUMMER PROGRAM","amount":{"currency_code":"USD","value":1.09,"breakdown":{"item_total":{"currency_code":"USD","value":1},"shipping":{"currency_code":"USD","value":0},"tax_total":{"currency_code":"USD","value":0.09}}}}]
+            purchase_units: [{"description":"AT JIU-JITSU NYC KIDS SUMMER PROGRAM","amount":{"currency_code":"USD","value":1633.13,"breakdown":{"item_total":{"currency_code":"USD","value":1500},"shipping":{"currency_code":"USD","value":0},"tax_total":{"currency_code":"USD","value":133.13}}}}]
           });
         },
 
