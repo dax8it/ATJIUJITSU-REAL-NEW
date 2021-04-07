@@ -11,7 +11,7 @@ home: true
 tags:
   - Blog
 ---
-\-2019 Summer Camp Bowling Trip
+\-2019 Summer Camp Water Balloon Fight
 
 - - -
 
