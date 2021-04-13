@@ -71,8 +71,8 @@ const Layout = props => {
       <Footer2 />
       <footer className="site-foot">
         &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
-        JACKSON HEIGHTS • QUEENS • JIUJITSU • JUDO • MUAY THAI • SMARTER YOGA •
-        KICKBOXING • TODDLER JIU-JITSU{" "}
+        JACKSON HEIGHTS • QUEENS • JIUJITSU • KETTLEBELL • JUDO • MUAY THAI • SMARTER YOGA •
+        KICKBOXING • KIDS MMA • TODDLER JIU-JITSU{" "}
         {/* <a
           href="https://alexcovo.com"
           target="_blank"
