@@ -27,48 +27,17 @@ tags:
 
 ## **Pricing:**
 
-## **Register before June 15th - $1,500**
+## **Register before June 15th - $1,450**
 
-## **After June 15th - $1,650**
+## **After June 15th - $1,500**
 
-## **Pricing Per Week - $300**
+(Friends/Family Discount: 15%)
 
-<div id="smart-button-container">
-      <div style="text-align: center;">
-        <div id="paypal-button-container"></div>
-      </div>
-    </div>
-  <script src="https://www.paypal.com/sdk/js?client-id=ATdPFT3afgZUKg_dM-HSk1FA5-iINUFHq7QSXMY2kbmufGeOjz8FsPWb-lrDxtFmPikAVIgabGlJJZQD&currency=USD" data-sdk-integration-source="button-factory"></script>
-  <script>
-    function initPayPalButton() {
-      paypal.Buttons({
-        style: {
-          shape: 'pill',
-          color: 'gold',
-          layout: 'vertical',
-          label: 'checkout',
-          
-        },
+## **Pricing Per Week - $200**
 
-        createOrder: function(data, actions) {
-          return actions.order.create({
-            purchase_units: [{"description":"AT JIU-JITSU NYC KIDS SUMMER PROGRAM","amount":{"currency_code":"USD","value":1633.13,"breakdown":{"item_total":{"currency_code":"USD","value":1500},"shipping":{"currency_code":"USD","value":0},"tax_total":{"currency_code":"USD","value":133.13}}}}]
-          });
-        },
+To register your child, please select **'Kids Summer Program Early Registration'** below in order to reserve your child's spot now:
 
-        onApprove: function(data, actions) {
-          return actions.order.capture().then(function(details) {
-            alert('Transaction completed by ' + details.payer.name.given_name + '!');
-          });
-        },
-
-        onError: function(err) {
-          console.log(err);
-        }
-      }).render('#paypal-button-container');
-    }
-    initPayPalButton();
-  </script>
+<https://at-jiujitsu-nyc.maonrails.com/pricing>
 
 - - -
 
