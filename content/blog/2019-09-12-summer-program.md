@@ -25,7 +25,7 @@ tags:
 
 - - -
 
-## **Pricing:**
+# **Pricing:**
 
 ## **Register before June 15th - $1,450**
 
