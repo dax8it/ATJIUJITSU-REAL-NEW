@@ -33,7 +33,7 @@ tags:
 
 ## **Pricing Per Week - $300**
 
-To register your child, please select Kids Summer Early Registration in Pricing below:
+To register your child, please select **'Kids Summer Early Registration'** below in order to reserve your child's spot now:
 
 <https://at-jiujitsu-nyc.maonrails.com/pricing>
 
