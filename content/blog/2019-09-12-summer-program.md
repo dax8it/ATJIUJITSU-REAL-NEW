@@ -29,9 +29,11 @@ tags:
 
 ## **Register before June 15th - $1,450**
 
-## **After June 15th - $1,650**
+## **After June 15th - $1,500**
 
-## **Pricing Per Week - $300**
+(Friends/Family Discount: 15%)
+
+## **Pricing Per Week - $200**
 
 To register your child, please select **'Kids Summer Early Registration'** below in order to reserve your child's spot now:
 
