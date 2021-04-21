@@ -29,7 +29,7 @@ tags:
 
 ## **Register before June 15th - $1,450**
 
-## **After June 15th - $1,500**
+## **After June 15th - $1,650**
 
 (Friends/Family Discount: 15%)
 
