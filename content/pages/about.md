@@ -92,7 +92,7 @@ Having been raised in Jackson Heights his whole life, Professor Alvaro dreamt ab
 
 # Kim-Lien Kendall
 
-## Smarter Yoga Instructor and Kettlebell Instructor
+## Smarter Yoga and Kettlebell Instructor
 
 Kim has been teaching yoga classes, one on one sessions, workshops, seminars, retreats and teacher trainings since 2005. She has studied several styles of yoga under many well-known teachers and combined her background in exercise physiology and kinesiology to co-create Smarter Yoga (TM), an individualized movement practice rooted in exercise science without the dogma of traditional yoga practice. She is the CEO of Smarter Bodies and the co-author of "Exposing Yoga Myths".
 
@@ -124,7 +124,7 @@ Morgan admits to being a diehard **NY Knicks** and **New York Mets** fan, and re
 
 # Rocco Giambrone
 
-## Kickboxing Instructor
+## Kickboxing and Kids MMA Instructor
 
 Rocco is a lifelong competitive athlete. Starting with martial arts (Taekwondo) at the age of 7, he has played nearly every organized sport under the sun. Football however, was where he decided to devote his efforts for a majority of his younger years. From pop warner to playing at the collegiate level, he developed the grit, a love for the daily grind and the dedication needed to transition well into the combative sport lifestyle.
 
