@@ -11,7 +11,9 @@ tags:
 ---
 # Brazilian Jiu Jitsu
 
-## The best Jiu-Jitsu program in Jackson Heights, NY!
+## The best Jiu-Jitsu program in Jackson Heights, NY! 
+
+## Offering both Gi and No Gi classes.
 
 • BJJ is a grappling-based martial art whose central theme is the skill of controlling a resisting opponent in ways that force them to submit. BJJ does not feature kicking or punching. Techniques of BJJ are centered round the skill of taking an opponent down to the ground and wrestling for dominant control positions from where the opponent can be rendered harmless.
 
