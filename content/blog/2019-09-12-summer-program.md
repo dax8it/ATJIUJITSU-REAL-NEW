@@ -19,7 +19,7 @@ tags:
 
 ## **Our summer program will begin from July 6th to Jul. 30th. It will be open Tuesday, Wednesday, Thursday and every other Friday from 9:00 am to 3 pm. It will be available for kids starting from Ages 5-14.**
 
-## **In light of the corona virus, our maximum capacity will be 10 children, and social distancing will be maintained, therefore spots are limited. Children and adults must wear a mask at all times. All equipment is disinfected. Hand sanitation and temperature checks will be implemented everyday. We will continue to add to our already rigorous health and safety protocols to our Academy as we make decisions about the summer season. We are continuing to monitor the situation and will of course be putting strict safety measures in place before welcoming the kids for the summer.**  **Our first priority is always our children and staff's safety.**
+## **In light of the corona virus, our maximum capacity will be 10 children, and social distancing will be maintained, therefore spots are limited. Children and adults must wear a mask at all times. All equipment is disinfected. Hand sanitation and temperature checks will be implemented everyday. We are continuing to monitor the situation and will of course be putting strict safety measures in place before welcoming the kids for the summer.**  **Our first priority is always our children and staff's safety.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q7Vyr-vlrq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
