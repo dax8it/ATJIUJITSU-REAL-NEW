@@ -124,7 +124,7 @@ Morgan admits to being a diehard **NY Knicks** and **New York Mets** fan, and re
 
 # Rocco Giambrone
 
-## Kickboxing Instructor
+## Kickboxing and Kids MMA Instructor
 
 Rocco is a lifelong competitive athlete. Starting with martial arts (Taekwondo) at the age of 7, he has played nearly every organized sport under the sun. Football however, was where he decided to devote his efforts for a majority of his younger years. From pop warner to playing at the collegiate level, he developed the grit, a love for the daily grind and the dedication needed to transition well into the combative sport lifestyle.
 
