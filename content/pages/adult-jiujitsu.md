@@ -11,7 +11,7 @@ tags:
 ---
 # Brazilian Jiu Jitsu
 
-## The best Jiu-Jitsu program in Jackson Heights, NY! 
+## The best Jiu-Jitsu program in Jackson Heights, NY!
 
 ## Offering both Gi and No Gi classes.
 
