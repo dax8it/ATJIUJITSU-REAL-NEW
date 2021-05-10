@@ -92,7 +92,7 @@ Having been raised in Jackson Heights his whole life, Professor Alvaro dreamt ab
 
 # Kim-Lien Kendall
 
-## Smarter Yoga Instructor and Kettlebell Instructor
+## Smarter Yoga and Kettlebell Instructor
 
 Kim has been teaching yoga classes, one on one sessions, workshops, seminars, retreats and teacher trainings since 2005. She has studied several styles of yoga under many well-known teachers and combined her background in exercise physiology and kinesiology to co-create Smarter Yoga (TM), an individualized movement practice rooted in exercise science without the dogma of traditional yoga practice. She is the CEO of Smarter Bodies and the co-author of "Exposing Yoga Myths".
 
