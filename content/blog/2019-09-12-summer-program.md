@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Summer Program 2021
+title: Kids Summer Program 2021
 order: 3
 date: 2021-04-07T00:00:00.000Z
 description: 'Register now for our 2021 Summer Program here at AT JIU-JITSU NYC! '
@@ -13,7 +13,7 @@ tags:
 
 - - -
 
-![](/img/summer-camp-itinerary-2021.png)
+![](/img/summer-camp-flyer.jpg)
 
 ## We would like to inform you that AT Jiu-Jitsu NYC will be offering a four week summer program filled with endless fun! Each week will be designed to empower and enlighten kids through amusing activities, fascinating and safe field trips, timely lessons in teamwork and so much more! Activities will include Jiu-Jitsu, Kickboxing, Game Time, Arts and Crafts, Hiking trips, water balloon fights and more. All while of course, following the guidelines from the State.
 
@@ -22,6 +22,8 @@ tags:
 ## **In light of the corona virus, our maximum capacity will be 10 children, and social distancing will be maintained, therefore spots are limited. Children and adults must wear a mask at all times. All equipment is disinfected. Hand sanitation and temperature checks will be implemented everyday. We are continuing to monitor the situation and will of course be putting strict safety measures in place before welcoming the kids for the summer.** **Our first priority is always our children and staff's safety.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q7Vyr-vlrq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![](/img/summer-camp-itinerary-2021.png)
 
 - - -
 
