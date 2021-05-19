@@ -9,7 +9,7 @@ home: false
 tags:
   - Blog
 ---
-A big congrats to Yvonne who took home gold in the Open Class division and of course Professor Alvaro who placed 3rd in the Gi! Things will only get better from here! 🥇🥈🥉
+**A big congrats to Yvonne who took home gold in the Open Class division and of course Professor Alvaro who placed 3rd in the Gi! Things will only get better from here!** 🥇🥈🥉
 
 ![](/img/20210509_150623.jpg)
 
