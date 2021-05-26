@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Outdoor Kickboxing Classes
-order: 2
+order: 4
 date: 2021-05-22T20:30:05.220Z
 description: Outdoor classes are back!!! Every Saturday!
 thumbnail: /img/dsc08488.jpg
