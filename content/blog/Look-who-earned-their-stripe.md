@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 'Belt Promotions '
 order: 1
-date: 2021-01-13T00:00:00.000Z
+date: 2021-03-01T00:00:00.000Z
 description: >-
   Here are some of our students, who with hard work and determination have
   earned their stripe or new belt!
@@ -33,7 +33,7 @@ tags:
 
 - - -
 
-# Stripes! 
+# Stripes!
 
 ![](/img/img_4558.jpg)
 
