@@ -36,6 +36,8 @@ tags:
 
 ![](/img/dsc02219.jpg)
 
+![](/img/dsc02375.jpg)
+
 - - -
 
 ## **Summer 2020**
