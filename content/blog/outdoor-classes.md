@@ -5,9 +5,10 @@ order: 2
 date: 2020-10-07T20:30:05.220Z
 description: Outdoor classes are back!!! Every Saturday!
 thumbnail: /img/dsc08488.jpg
-home: false
+home: true
 tags:
   - Blog
+  - Programs
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L9bfctgqOtI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -41,10 +42,6 @@ tags:
 
 ![](/img/dsc08199.jpg)
 
-![](/img/mvi_4301.mov.00_01_28_07.still001.jpg)
-
 ![](/img/dsc08591.jpg)
-
-![](/img/dsc08814.jpg)
 
 ![](/img/dsc08770.jpg)
