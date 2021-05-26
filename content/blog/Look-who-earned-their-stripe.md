@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Belt Promotions '
+title: Belt Promotions and Stripes
 order: 1
 date: 2021-01-13T00:00:00.000Z
 description: >-
