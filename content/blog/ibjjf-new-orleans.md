@@ -9,7 +9,7 @@ home: false
 tags:
   - Blog
 ---
-**A big congrats to Yvonne who took home gold in the Open Class division and of course Professor Alvaro who placed 3rd in the Gi! Things will only get better from here!** 🥇🥈🥉
+**A big congrats to Yvonne who took home gold in the Open Class division and of course Professor Alvaro who placed 3rd in the Gi! This is the first of more IBJJF tournaments to come!** 🥇🥈🥉
 
 - - -
 
