@@ -16,7 +16,7 @@ tags:
 
 # Kids Outdoor Kickboxing
 
-**AT JIU-JITSU NYC would like to invite you all to join our outdoor Kickboxing class for Kids! Every Saturday, we will have our outdoor Kickboxing class which will be held on 34th Avenue, between 80th and 81st Street from 11:15 AM to 12:00 PM. Please keep in mind this class is for Ages 5-14 and everyone is welcome!**
+**AT JIU-JITSU NYC would like to invite you all to join our outdoor Kickboxing class for Kids! Every Saturday, we will have our outdoor Kickboxing class which will be held on 34th Avenue, between 80th and 81st Street from 11:15 AM to 12:00 PM. Please keep in mind this class is for Ages 5-14 only.**
 
 **It will be held outside weather permitting. If it rains, class will be held inside the gym. Although it is not necessary to book the class, we ask you book class anyways because on rainy days, class will be held inside and only those who booked class will be allowed inside to take class.**
 
