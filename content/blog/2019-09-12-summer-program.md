@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Kids Summer Program 2021
 order: 3
-date: 2021-04-07T00:00:00.000Z
+date: 2021-06-03T00:00:00.000Z
 description: 'Register now for our 2021 Summer Program here at AT JIU-JITSU NYC! '
 thumbnail: /img/1.jpg
 home: true
