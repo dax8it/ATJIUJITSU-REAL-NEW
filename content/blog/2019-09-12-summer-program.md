@@ -37,7 +37,43 @@ tags:
 
 To register your child, please select **'Kids Summer Program Early Registration'** below in order to reserve your child's spot now:
 
-<https://at-jiujitsu-nyc.maonrails.com/pricing>
+<div style="
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  width: 258.96px;
+  background: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: -2px 10px 5px rgba(0, 0, 0, 0);
+  border-radius: 10px;
+  font-family: SQ Market, SQ Market, Helvetica, Arial, sans-serif;
+  ">
+  <div style="padding: 20px;">
+  <p style="
+    font-size: 18px;
+    line-height: 20px;
+  ">Kids Summer Program (Early Registration)</p>
+  <p style="
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: 600;
+  ">$1,450.00</p>
+  <a target="_blank" href="https://checkout.square.site/merchant/029SPHATQHNVN/checkout/BOP7V36NKUWFARHQR5JUQXDV?src=embed" style="
+    display: inline-block;
+    font-size: 18px;
+    line-height: 48px;
+    height: 48px;
+    color: #ffffff;
+    min-width: 212px;
+    background-color: #006aff;
+    text-align: center;
+    box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
+    border-radius: 0px;
+  ">Pay now</a>
+  </div>
+</div>
 
 - - -
 
