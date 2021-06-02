@@ -21,12 +21,6 @@ tags:
 
 ## **In light of the corona virus, our maximum capacity will be 10 children, and social distancing will be maintained, therefore spots are limited. Children and adults must wear a mask at all times. All equipment is disinfected. Hand sanitation and temperature checks will be implemented everyday. We are continuing to monitor the situation and will of course be putting strict safety measures in place before welcoming the kids for the summer.** **Our first priority is always our children and staff's safety.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q7Vyr-vlrq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-![](/img/summer-camp-itinerary-2021.png)
-
-- - -
-
 # **Pricing:**
 
 ## **Register before June 15th - $1,450**
@@ -74,6 +68,12 @@ To register your child, please select **'Kids Summer Program Early Registration'
   ">Pay now</a>
   </div>
 </div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q7Vyr-vlrq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- - -
+
+![](/img/summer-camp-itinerary-2021.png)
 
 - - -
 
