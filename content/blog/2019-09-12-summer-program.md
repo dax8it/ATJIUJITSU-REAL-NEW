@@ -42,7 +42,7 @@ To register your child, please select **'Kids Summer Program Early Registration'
   border: 1px solid rgba(0, 0, 0, 0.1);
   box-shadow: -2px 10px 5px rgba(0, 0, 0, 0);
   border-radius: 10px;
-  font-family: SQ Market, SQ Market, Helvetica, Arial, sans-serif;
+  font-family: Source Serif Pro, SQ Market, Helvetica, Arial, sans-serif;
   ">
   <div style="padding: 20px;">
   <p style="
@@ -61,13 +61,15 @@ To register your child, please select **'Kids Summer Program Early Registration'
     height: 48px;
     color: #ffffff;
     min-width: 212px;
-    background-color: #006aff;
+    background-color: #2693ff;
     text-align: center;
     box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
-    border-radius: 0px;
+    border-radius: 6px;
   ">Pay now</a>
   </div>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source Serif Pro">
 </div>
+
 
 - - -
 
