@@ -13,9 +13,7 @@ tags:
 
 ## VIRTUAL SCHEDULE:
 
-## <https://at-jiujitsu-nyc.maonrails.com/members/schedule>
-
-<br>
+## <https://at-jiujitsu-nyc.maonrails.com/schedule>
 
 Please arrive 10 minutes prior to class starting. 
 
