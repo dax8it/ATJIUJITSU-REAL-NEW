@@ -13,7 +13,7 @@ tags:
 
 ## VIRTUAL SCHEDULE:
 
-## <https://at-jiujitsu-nyc.maonrails.com/members/schedule>
+## <https://at-jiujitsu-nyc.maonrails.com/schedule>
 
 <br>
 
@@ -25,11 +25,11 @@ Please arrive 10 minutes prior to class starting.
 
 ## MONDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **No GI Jiu-Jitsu:** 8:00 am to 8:45 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **Kickboxing:** 6:10 to 7:00 pm
 * **Kettlebell:** 7:15 to 8:15 pm
@@ -37,11 +37,11 @@ _**Morning Class**_
 
 ## TUESDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **Jiu-Jitsu (Gi) :** 7:00 am to 8:15 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **No GI Drilling and Sparring:** 5:00 to 5:45 pm
 * **Muay Thai:** 6:00 to 6:45 pm
@@ -49,11 +49,11 @@ _**Morning Class**_
 
 ## WEDNESDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **No GI Jiu-Jitsu :** 7:30 am to 8:15 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **Film Study (No Gi Drilling):** 5:15 to 6:00 pm
 * **Kickboxing:** 6:10 to 7:00 pm
@@ -62,11 +62,11 @@ _**Morning Class**_
 
 ## THURSDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **Jiu-Jitsu (Gi):** 7:00 am to 8:15 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **No Gi Drilling and Sparring:** 5:00 to 5:45 pm
 * **Muay Thai:** 6:10 to 7:00 pm
