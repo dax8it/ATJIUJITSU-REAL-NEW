@@ -33,13 +33,19 @@ We are very excited to have this new addition of class into our school. It will 
 
 - - -
 
-![](/img/dsc01321.jpg)
+![](/img/dsc02760.jpg)
+
+![](/img/dsc02663.jpg)
 
 ![](/img/dsc01279.jpg)
 
-![](/img/dsc01246.jpg)
+![](/img/dsc02556.jpg)
+
+![](/img/dsc02714.jpg)
 
 ![](/img/dsc01336.jpg)
+
+![](/img/dsc02699.jpg)
 
 ![](/img/dsc01287.jpg)
 
