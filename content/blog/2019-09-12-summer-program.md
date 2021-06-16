@@ -31,6 +31,7 @@ tags:
 
 To register your child, please select **'Kids Summer Program Early Registration'** below in order to reserve your child's spot now:
 
+
 <div style="
   overflow: auto;
   display: flex;
@@ -45,6 +46,10 @@ To register your child, please select **'Kids Summer Program Early Registration'
   font-family: Source Serif Pro, SQ Market, Helvetica, Arial, sans-serif;
   ">
   <div style="padding: 20px;">
+  <p style="
+    font-size: 18px;
+    line-height: 20px;
+  ">Kids Summer Program (Early Registration)</p>
   <a target="_blank" href="https://checkout.square.site/merchant/029SPHATQHNVN/checkout/BOP7V36NKUWFARHQR5JUQXDV?src=embed" style="
     display: inline-block;
     font-size: 18px;
@@ -56,10 +61,51 @@ To register your child, please select **'Kids Summer Program Early Registration'
     text-align: center;
     box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
     border-radius: 0px;
-  ">Early Registration</a>
+  ">4 Week Summer Program</a>
   </div>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source Serif Pro">
 </div>
+
+
+
+<div style="
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  width: 258.96px;
+  background: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: -2px 10px 5px rgba(0, 0, 0, 0);
+  border-radius: 10px;
+  font-family: Source Serif Pro, SQ Market, Helvetica, Arial, sans-serif;
+  ">
+  <div style="padding: 20px;">
+  <p style="
+    font-size: 18px;
+    line-height: 20px;
+  ">Single Week Availability</p>
+  <a target="_blank" href="https://checkout.square.site/merchant/029SPHATQHNVN/checkout/UXOACAHOLMU5OCU5LDMPWR7F?src=embed" style="
+    display: inline-block;
+    font-size: 18px;
+    line-height: 48px;
+    height: 48px;
+    color: #ffffff;
+    min-width: 212px;
+    background-color: #006aff;
+    text-align: center;
+    box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
+    border-radius: 0px;
+  ">Single Week</a>
+  </div>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source Serif Pro">
+</div>
+
+
+
+
+
 
 - - -
 
