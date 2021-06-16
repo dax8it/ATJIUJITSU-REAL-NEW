@@ -68,9 +68,6 @@ To register your child, please select **'Kids Summer Program Early Registration'
 
 
 
-
-
-
 <div style="
   overflow: auto;
   display: flex;
@@ -100,7 +97,7 @@ To register your child, please select **'Kids Summer Program Early Registration'
     text-align: center;
     box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
     border-radius: 0px;
-  ">Pay now</a>
+  ">Single Week</a>
   </div>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source Serif Pro">
 </div>
