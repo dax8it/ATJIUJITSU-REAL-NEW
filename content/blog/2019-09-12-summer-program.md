@@ -31,6 +31,7 @@ tags:
 
 To register your child, please select **'Kids Summer Program Early Registration'** below in order to reserve your child's spot now:
 
+
 <div style="
   overflow: auto;
   display: flex;
@@ -45,6 +46,10 @@ To register your child, please select **'Kids Summer Program Early Registration'
   font-family: Source Serif Pro, SQ Market, Helvetica, Arial, sans-serif;
   ">
   <div style="padding: 20px;">
+  <p style="
+    font-size: 18px;
+    line-height: 20px;
+  ">Kids Summer Program (Early Registration)</p>
   <a target="_blank" href="https://checkout.square.site/merchant/029SPHATQHNVN/checkout/BOP7V36NKUWFARHQR5JUQXDV?src=embed" style="
     display: inline-block;
     font-size: 18px;
@@ -56,10 +61,15 @@ To register your child, please select **'Kids Summer Program Early Registration'
     text-align: center;
     box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
     border-radius: 0px;
-  ">Early Registration</a>
+  ">4 Week Summer Program</a>
   </div>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source Serif Pro">
 </div>
+
+
+
+
+
 
 <div style="
   overflow: auto;
