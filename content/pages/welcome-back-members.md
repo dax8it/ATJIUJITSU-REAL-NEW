@@ -9,7 +9,7 @@ home: true
 tags:
   - Blog
 ---
-Through Martial Arts on Rails, you will be able to book your class sessions in order to limit the amount of people in a class so you can train safely. 
+Through Martial Arts on Rails, you will be able to book your class sessions ahead of time.
 
 In the link below, there is a step by step video tutorial for how to register, if you have not yet done so. 
 
@@ -44,8 +44,6 @@ If you already have an account with us please login below.
 • Bring your own face towel to dry any perspiration.
 
 • Be thoughtful of any early symptoms before training. (Do not attend training sessions if you exhibit any of the following symptoms: Fever or chills, Cough, Shortness of breath or difficulty breathing, Fatigue, Muscle or body aches, Headache, loss of taste or smell, Sore throat, Congestion or runny nose, Nausea or vomiting, Diarrhea)
-
-• Create a buddy system to exclusively train together (No switching partners is allowed)
 
 ## AT JIU-JITSU NYC ACTIONS AND PROTOCOLS:
 
