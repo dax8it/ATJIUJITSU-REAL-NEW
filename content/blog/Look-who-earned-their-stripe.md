@@ -17,6 +17,8 @@ tags:
 
 # **Belt Promotions**
 
+![](/img/dsc03739.jpg)
+
 ![](/img/dsc02988.jpg)
 
 ![](/img/dsc02789.jpg)
@@ -30,8 +32,6 @@ tags:
 ![](/img/dsc01338.jpg)
 
 ![](/img/img_1800.jpg)
-
-![](/img/img_1801.jpg)
 
 - - -
 
