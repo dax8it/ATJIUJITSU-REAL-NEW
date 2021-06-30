@@ -31,7 +31,6 @@ tags:
 
 To register your child, please select **'Kids Summer Program Early Registration'** below in order to reserve your child's spot now:
 
-
 <div style="
   overflow: auto;
   display: flex;
@@ -92,7 +91,6 @@ To register your child, please select **'Kids Summer Program Early Registration'
   </div>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source Serif Pro">
 </div>
-
 
 - - -
 
