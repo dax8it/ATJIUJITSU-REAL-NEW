@@ -23,9 +23,9 @@ tags:
 
 # **Pricing:**
 
-## **Register before June 15th - $1,450**
+## **Full four Weeks - $900**
 
-## **After June 15th - $1,650**
+## **Individual Week - $225**
 
 (Friends/Family Discount: 15%)
 
@@ -60,7 +60,6 @@ To register your child, please select **'Kids Summer Program Early Registration'
   </div>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source Serif Pro">
 </div>
-
 
 <div style="
   overflow: auto;
