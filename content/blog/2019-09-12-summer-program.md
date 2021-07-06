@@ -29,7 +29,7 @@ tags:
 
 (Friends/Family Discount: 15%)
 
-To register your child, please select **'Kids Summer Program Early Registration'** below in order to reserve your child's spot now:
+To register your child, please select **'Kids Summer Program'** below in order to reserve your child's spot now:
 
 <div style="
   overflow: auto;
