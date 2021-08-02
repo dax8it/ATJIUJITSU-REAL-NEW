@@ -10,6 +10,8 @@ tags:
 ---
 Despite conditions being awful at the tournament, our students stay focused and did what they came do to, no matter the results! We couldn't be prouder of everyone who put themselves out there and took the time to compete! Now time to keep training and work harder for the next tournament. 💪
 
+\- - -
+
 ![](/img/img_6640.jpg)
 
 ![](/img/img_6641.jpg)
