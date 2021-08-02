@@ -3,6 +3,9 @@ templateKey: blog-post
 title: 'Grappling Industries Connecticut, July'
 order: 30
 date: 2021-07-18T20:08:37.553Z
+description: >-
+  Thank you to everyone who came out to Connecticut to compete, despite
+  conditions being rough! 
 thumbnail: /img/img_7354.jpg
 home: false
 tags:
