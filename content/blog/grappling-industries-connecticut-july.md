@@ -13,7 +13,7 @@ work harder for the next tournament. 💪
 
 - - -
 
-![](/img/img_6640.jpg)
+![](/img/20210717_124933.jpg)
 
 ![](/img/img_6641.jpg)
 
