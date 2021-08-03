@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Rocco Wins his Title Fight! '
+title: 'Rocco Wins the Title! '
 order: 30
 date: 2021-08-02T22:04:46.046Z
 description: >-
