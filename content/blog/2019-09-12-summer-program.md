@@ -13,87 +13,15 @@ tags:
 
 - - -
 
-![](/img/summer-camp-flyer.jpg)
-
-## We would like to inform you that AT Jiu-Jitsu NYC will be offering a four week summer program filled with endless fun! Each week will be designed to empower and enlighten kids through amusing activities, fascinating and safe field trips, timely lessons in teamwork and so much more! Activities will include Jiu-Jitsu, Kickboxing, Game Time, Arts and Crafts, Hiking trips, water balloon fights and more. All while of course, following the guidelines from the State.
-
-## **Our summer program will begin from July 6th to July. 30th. It will be open Tuesday, Wednesday, Thursday and every other Friday from 11:00 am to 3:30 pm. It will be available for kids starting from Ages 5-14.**
-
-## **Children and adults must wear a mask at all times. All equipment is disinfected. Hand sanitation and temperature checks will be implemented everyday. We are continuing to monitor the situation and will of course be putting strict safety measures in place before welcoming the kids for the summer.** **Our first priority is always our children and staff's safety.**
-
-# **Pricing:**
-
-## **Full four Weeks - $900**
-
-## **Individual Week - $225**
-
-(Friends/Family Discount: 15%)
-
-To register your child, please select **'Kids Summer Program'** below in order to reserve your child's spot now:
-
-<div style="
-  overflow: auto;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
-  align-items: center;
-  width: 258.96px;
-  background: #FFFFFF;
-  border: 1px solid rgba(0, 0, 0, 0.1);
-  box-shadow: -2px 10px 5px rgba(0, 0, 0, 0);
-  border-radius: 10px;
-  font-family: Source Serif Pro, SQ Market, Helvetica, Arial, sans-serif;
-  ">
-  <div style="padding: 20px;">
-  <a target="_blank" href="https://checkout.square.site/merchant/029SPHATQHNVN/checkout/BOP7V36NKUWFARHQR5JUQXDV?src=embed" style="
-    display: inline-block;
-    font-size: 18px;
-    line-height: 48px;
-    height: 48px;
-    color: #ffffff;
-    min-width: 212px;
-    background-color: #006aff;
-    text-align: center;
-    box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
-    border-radius: 0px;
-  ">4 Week Registration</a>
-  </div>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source Serif Pro">
-</div>
-
-<div style="
-  overflow: auto;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
-  align-items: center;
-  width: 258.96px;
-  background: #FFFFFF;
-  border: 1px solid rgba(0, 0, 0, 0.1);
-  box-shadow: -2px 10px 5px rgba(0, 0, 0, 0);
-  border-radius: 10px;
-  font-family: Source Serif Pro, SQ Market, Helvetica, Arial, sans-serif;
-  ">
-  <div style="padding: 20px;">
-  <a target="_blank" href="https://checkout.square.site/merchant/029SPHATQHNVN/checkout/UXOACAHOLMU5OCU5LDMPWR7F?src=embed" style="
-    display: inline-block;
-    font-size: 18px;
-    line-height: 48px;
-    height: 48px;
-    color: #ffffff;
-    min-width: 212px;
-    background-color: #006aff;
-    text-align: center;
-    box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
-    border-radius: 0px;
-  ">Single Week Registration</a>
-  </div>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source Serif Pro">
-</div>
+**What a wonderful summer – being immersed in nature, exploring new places, making new friends and trying new things. We always end each camp season with an eye toward the future and the excitement that lies ahead. Our heart is full of gratitude for our staff, for our campers and particularly for our camp parents who have entrusted your children to us. what a wonderful summer! Thank you for being an important part of it. We can’t wait to have you back again next year.**
 
 - - -
 
-![](/img/summer-camp-itinerary-2021.png)
+**Check out some photos from our previous summer sessions, with activities such as laser tag, water balloon fights, Mario Kart tournaments, dodgeball, Jiu-Jitsu, arts and crafts, kickboxing, the library and museums, it was a summer we hope they'll never forget!**
+
+- - -
+
+## Check out some photos from our previous summer sessions, with activities such as laser tag, water balloon fights, Mario Kart tournaments, dodgeball, Jiu-Jitsu, arts and crafts, kickboxing, the library and museums, it was a summer we hope they'll never forget!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q7Vyr-vlrq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
