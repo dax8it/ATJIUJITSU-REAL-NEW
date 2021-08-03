@@ -35,6 +35,8 @@ tags:
 
 # Stripes!
 
+![]()
+
 ![](/img/dsc04809.jpg)
 
 ![](/img/dsc04804.jpg)
@@ -44,5 +46,3 @@ tags:
 ![](/img/img_5865.jpg)
 
 ![](/img/img_5858-copy.jpg)
-
-![](/img/img_5855-copy.jpg)
