@@ -9,7 +9,7 @@ home: true
 tags:
   - Blog
 ---
-\-2021 Summer Camp
+\-Hall of Science Trip
 
 - - -
 
