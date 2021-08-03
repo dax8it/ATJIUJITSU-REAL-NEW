@@ -21,3 +21,5 @@ work harder for the next tournament. 💪
 ![](/img/img_6641.jpg)
 
 ![](/img/img_7353.jpg)
+
+![](/img/20210717_194942.jpg)
