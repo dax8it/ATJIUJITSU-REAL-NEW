@@ -31,11 +31,11 @@ tags:
 
 ![](/img/162858391_3689344474496333_8003898421614302856_n.jpg)
 
-![](/img/dsc01338.jpg)
-
 - - -
 
 # Stripes!
+
+![]()
 
 ![](/img/dsc04809.jpg)
 
@@ -46,5 +46,3 @@ tags:
 ![](/img/img_5865.jpg)
 
 ![](/img/img_5858-copy.jpg)
-
-![](/img/img_5855-copy.jpg)
