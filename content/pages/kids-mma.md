@@ -13,6 +13,10 @@ tags:
 
 ## MMA is a full-contact combat sport which includes a mix of striking, grappling and ground fighting. For kids who primarily take our Jiu-Jitsu classes this will be a great way to introduce them into mixing the martial arts. When taught in a controlled environment, MMA training is actually safer than other traditional sports and activities available for kids. Because of its real-world effectiveness and applications, your child is not only learning positive aspects that come from training a martial art, but they are learning a true form of self-defense that will stick with them for the rest of their lives.
 
+> **Tuesday: 5:15 p.m. - 6:00 p.m.**
+>
+> **Thursday: 5:15 p.m. - 6:00 p.m.**
+
 **Please keep in mind, this class is for Ages 9-13 and 8 year old grey belts.** 
 
 **In order to take this class you will need:**
