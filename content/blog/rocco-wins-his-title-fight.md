@@ -3,9 +3,7 @@ templateKey: blog-post
 title: 'Rocco Wins the Title! '
 order: 30
 date: 2021-07-10T22:04:46.046Z
-description: >-
-  A big congrats to our very own Coach Rocco for giving it his all and winning
-  the title!
+description: A big congrats to Coach Rocco for giving it his all and winning the title!
 thumbnail: /img/20210710_201728.jpg
 home: false
 tags:
