@@ -19,7 +19,9 @@ tags:
 >
 > **Thursday: 5:15 p.m. - 6:00 p.m.**
 
-**Please keep in mind, this class is for Ages 9-13 and 8 year old grey belts.** 
+- - -
+
+**Please keep in mind, this class is for Ages 9-13 and 8 year old grey belts only.** 
 
 **In order to take this class you will need:**
 
