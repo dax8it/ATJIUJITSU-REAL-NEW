@@ -121,6 +121,15 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 - - -
 
+## Pay In Full, 2x's A Week (6 Months) - $999:
+
+* **Two times a Week ($166 x 6 Months)**
+  * 6 Month Agreement
+  * Unlimited Classes
+  * $166 Monthly (Compared to $175)
+
+- - -
+
 # Drop In Fees:
 
 **One Session - $35**
