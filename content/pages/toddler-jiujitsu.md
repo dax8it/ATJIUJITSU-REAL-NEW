@@ -41,7 +41,7 @@ tags:
 
 ![](/img/dsc00210.jpg)
 
-![](/img/dsc08321.jpg)
+![](/img/dsc05769.jpg)
 
 ![](/img/dsc09851.jpg)
 
