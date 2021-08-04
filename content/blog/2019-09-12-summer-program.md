@@ -21,7 +21,7 @@ tags:
 
 - - -
 
-**Check out some photos from our recent and previous summer sessions, with activities such as laser tag, water balloon fights, Mario Kart tournaments, dodgeball, Jiu-Jitsu, arts and crafts, kickboxing, the library and museums, it was a summer we hope they'll never forget!**
+**Check out some photos from our recent and previous summer sessions, with activities such as tie-dying, water balloon fights, Mario Kart tournaments, dodgeball, Jiu-Jitsu, arts and crafts, kickboxing, the library and museums, it was a summer we hope they'll never forget!**
 
 ## **\-Summer 2021**
 
