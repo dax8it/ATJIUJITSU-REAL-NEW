@@ -15,7 +15,7 @@ tags:
 
 - - -
 
-**Check out the 49 seconds win!**
+**Check out the 49 seconds win below!**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sHcTFgZ7iHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
