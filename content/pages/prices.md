@@ -116,7 +116,6 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 * **Three times a Week ($178 x 6 Months)**
   * 6 Month Agreement
-  * Unlimited Classes
   * $178 Monthly (Compared to $195)
 
 - - -
@@ -125,7 +124,6 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 * **Two times a Week ($166 x 6 Months)**
   * 6 Month Agreement
-  * Unlimited Classes
   * $166 Monthly (Compared to $175)
 
 - - -
