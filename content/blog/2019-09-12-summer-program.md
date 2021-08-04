@@ -19,10 +19,7 @@ tags:
 
 <br>
 
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/due_uL4FLCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 - - -
 
@@ -36,11 +33,15 @@ tags:
 
 ![](/img/dsc05645.jpg)
 
+![](/img/img_7142.jpg)
+
 ![](/img/dsc05880.jpg)
 
 ![](/img/img_7376.jpg)
 
 ![](/img/dsc05652.jpg)
+
+![](/img/dsc05963.jpg)
 
 ![](/img/dsc05628.jpg)
 
@@ -50,11 +51,7 @@ tags:
 
 ## **\-Summer 2019**
 
-
-
 <br>
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q7Vyr-vlrq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
