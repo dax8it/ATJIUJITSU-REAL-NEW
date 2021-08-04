@@ -9,7 +9,7 @@ home: false
 tags:
   - Blog
 ---
-**A huge milestone for our very own Coach Rocco! After a year of not being back in the ring, he took home the Bantamweight title and put up a great action packed fight! We are very lucky to have him on our team and to be learning from a champ as great as him!**  
+## **A huge milestone for our very own Coach Rocco! After a year of not being back in the ring, he took home the Bantamweight title and put up a great action packed fight! We are very lucky to have him on our team and to be learning from a champ as great as him!**  
 
 - - -
 
