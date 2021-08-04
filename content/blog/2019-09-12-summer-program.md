@@ -94,6 +94,8 @@ tags:
 
 ## **Summer 2020**
 
+<br>
+
 ![](/img/img_1831.jpg)
 
 ![](/img/videocapture_20200818-191038.jpg)
