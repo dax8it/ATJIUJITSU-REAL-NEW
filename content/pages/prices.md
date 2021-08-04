@@ -103,7 +103,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 - - -
 
-## Pay In Full (6 Months) - $1200:
+## Pay In Full, Unlimited (6 Months) - $1200:
 
 * **Unlimited Classes ($200 x 6 Months)**
   * 6 Month Agreement
@@ -112,12 +112,19 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 - - -
 
-## Pay In Full (6 Months) - $1070:
+## Pay In Full, 3x's A Week (6 Months) - $1070:
 
-* **3x's A Week ($178 x 6 Months)**
+* **Three times a Week ($178 x 6 Months)**
   * 6 Month Agreement
-  * Unlimited Classes
   * $178 Monthly (Compared to $195)
+
+- - -
+
+## Pay In Full, 2x's A Week (6 Months) - $999:
+
+* **Two times a Week ($166 x 6 Months)**
+  * 6 Month Agreement
+  * $166 Monthly (Compared to $175)
 
 - - -
 
