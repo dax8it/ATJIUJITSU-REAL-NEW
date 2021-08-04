@@ -4,8 +4,8 @@ title: Kids Summer Program 2021
 order: 3
 date: 2021-07-31T00:00:00.000Z
 description: >-
-  Thank you for being an important part of our summer program. Be sure to join
-  us again next year!
+  Thank you to everyone who joined us this summer, be sure to join us again next
+  year!
 thumbnail: /img/20210716_132815.jpg
 home: true
 tags:
