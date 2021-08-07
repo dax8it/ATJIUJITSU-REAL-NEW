@@ -29,8 +29,6 @@ tags:
 
 <br>
 
-<br>
-
 - - -
 
 ![](/img/dsc01230.jpg)
