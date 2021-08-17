@@ -4,7 +4,7 @@ title: Brazilian Jiu Jitsu
 order: 5
 date: '2019-05-01'
 description: 'Jiu Jitsu is so much more than a sport, it’s a way of life.'
-thumbnail: /img/dsc09646.jpg
+thumbnail: /img/fb_img_1621261403650.jpg
 home: true
 tags:
   - Programs
