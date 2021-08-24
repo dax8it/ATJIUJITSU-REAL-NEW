@@ -27,11 +27,11 @@ Please arrive 10 minutes prior to class starting.
 
 ## MONDAY
 
-**_Morning Class_**
+_**Morning Class**_
 
 * **No Gi Jiu-Jitsu:** 8:00 am to 8:45 am
 
-_**Afternoon Class**_
+**_Afternoon Class_**
 
 * **Kickboxing:** 6:10 to 7:00 pm
 * **Kettlebell:** 7:15 to 8:15 pm
@@ -39,24 +39,25 @@ _**Afternoon Class**_
 
 ## TUESDAY
 
-**_Morning Class_**
+_**Morning Class**_
 
 * **Jiu-Jitsu (Gi) :** 7:00 am to 8:15 am
 * **No Gi Jiu-Jitsu:** 8:15 am to 9:15 am
 
-_**Afternoon Class**_
+**_Afternoon Class_**
 
-* **No Gi Drilling and Sparring:** 5:00 to 5:45 pm
-* **Muay Thai:** 6:00 to 6:45 pm
-* **Jiu-Jitsu Drilling (Gi):** 7:00 to 7:45 pm
+* **No Gi Drilling and Sparring:** 5:00 to 6:00 pm
+* **Muay Thai:** 6:10 to 7:00 pm
+* **Jiu-Jitsu Drilling (Gi):** 7:15 to 8:00 pm
+* **No Gi Jiu-Jitsu:** 8:15 to 9:00 pm
 
 ## WEDNESDAY
 
-**_Morning Class_**
+_**Morning Class**_
 
 * **No Gi Jiu-Jitsu :** 7:30 am to 8:15 am
 
-_**Afternoon Class**_
+**_Afternoon Class_**
 
 * **Film Study (No Gi Drilling):** 5:15 to 6:00 pm
 * **Kickboxing:** 6:10 to 7:00 pm
@@ -65,14 +66,14 @@ _**Afternoon Class**_
 
 ## THURSDAY
 
-**_Morning Class_**
+_**Morning Class**_
 
 * **Jiu-Jitsu (Gi):** 7:00 am to 8:15 am
 
-_**Afternoon Class**_
+**_Afternoon Class_**
 
-* **No Gi Drilling and Sparring:** 5:00 to 5:45 pm
 * **Muay Thai:** 6:10 to 7:00 pm
+* **No Gi Drilling and Sparring:** 6:15 to 7:00 pm
 * **Smarter Yoga:** 7:15 to 8:00 pm
 * **Jiu-Jitsu Drilling (Gi):** 8:10 to 9:00 pm
 
@@ -113,6 +114,13 @@ _**Afternoon Class**_
 * **Jiu-Jitsu (Ages 5 to 9):** 3:15 to 4:00 pm
 * **Jiu-Jitsu (Ages 10 to 13)** 4:15 to 5:00 pm
 
+### THURSDAY
+
+* **No Gi Jiu-Jitsu Advanced (Ages 7 to 14):** 4:15 to 5:00 pm 
+  * **THIS CLASS IS OPEN TO 7 YEAR OLD GREY BELTS ONLY**
+* **Kids MMA (Ages 8-13):** 5:15 to 6:00 pm 
+  * **THIS CLASS IS OPEN TO 8 YEAR OLD GREY BELTS ONLY**
+
 ### FRIDAY
 
 * **Jiu-Jitsu (Ages 5 to 9):** 3:15 to 4:00 pm
@@ -127,6 +135,6 @@ _**Afternoon Class**_
 
 ### SUNDAY
 
-* **Kids Sunday FunDay Drilling (All Ages):** 11:15 to 12:00 pm
+* **ON PAUSE UNTIL SEPTEMBER - Kids Sunday FunDay Drilling (All Ages):** 11:15 to 12:00 pm
 
 - - -
