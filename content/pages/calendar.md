@@ -116,9 +116,9 @@ _**Morning Class**_
 ### THURSDAY
 
 * **No Gi Jiu-Jitsu Advanced (Ages 7 to 14):** 4:15 to 5:00 pm 
-  * **This class is open to 7 year old Grey belts ONLY**
+  * **THIS CLASS IS OPEN TO 7 YEAR OLD GREY BELTS ONLY**
 * **Kids MMA (Ages 8-13):** 5:15 to 6:00 pm 
-  * **This class is open to 8 year old Grey belts ONLY**
+  * **THIS CLASS IS OPEN TO 8 YEAR OLD GREY BELTS ONLY**
 
 ### FRIDAY
 
