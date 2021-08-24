@@ -134,6 +134,6 @@ _**Afternoon Class**_
 
 ### SUNDAY
 
-* **Kids Sunday FunDay Drilling (All Ages):** 11:15 to 12:00 pm
+* **ON PAUSE UNTIL SEPTEMBER - Kids Sunday FunDay Drilling (All Ages):** 11:15 to 12:00 pm
 
 - - -
