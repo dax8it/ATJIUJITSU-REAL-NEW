@@ -47,8 +47,9 @@ _**Morning Class**_
 **_Afternoon Class_**
 
 * **No Gi Drilling and Sparring:** 5:00 to 5:45 pm
-* **Muay Thai:** 6:00 to 6:45 pm
-* **Jiu-Jitsu Drilling (Gi):** 7:00 to 7:45 pm
+* **Muay Thai:** 6:10 to 7:00 pm
+* **Jiu-Jitsu Drilling (Gi):** 7:15 to 8:00 pm
+* **No Gi Jiu-Jitsu:** 8:15 to 9:00 pm
 
 ## WEDNESDAY
 
@@ -71,8 +72,8 @@ _**Morning Class**_
 
 **_Afternoon Class_**
 
-* **No Gi Drilling and Sparring:** 5:00 to 5:45 pm
 * **Muay Thai:** 6:10 to 7:00 pm
+* **No Gi Drilling and Sparring:** 6:15 to 7:00 pm
 * **Smarter Yoga:** 7:15 to 8:00 pm
 * **Jiu-Jitsu Drilling (Gi):** 8:10 to 9:00 pm
 
