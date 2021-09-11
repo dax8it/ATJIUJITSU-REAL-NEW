@@ -19,15 +19,27 @@ tags:
 
 ![](/img/img_8961.jpg)
 
+Big congratulations to Martin, Jason and Mohammed!
+
 ![](/img/dsc04850.jpg)
+
+Congratulations Kara!
 
 ![](/img/dsc03739.jpg)
 
+Congratulations Ian!
+
 ![](/img/dsc02789.jpg)
+
+Congratulations Liliom!
 
 ![](/img/dsc02201.jpg)
 
+Congratulations Elek!
+
 ![](/img/162858391_3689344474496333_8003898421614302856_n.jpg)
+
+Congratulations Gaby and Manuela! 
 
 - - -
 
