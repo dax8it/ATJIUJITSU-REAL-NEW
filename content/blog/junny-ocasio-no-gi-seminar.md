@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Junny Ocasio No Gi Seminar
-order: 30
+order: 3
 date: 2021-10-03T16:00:00.000Z
 description: Register Now! Limited Spots available!
 thumbnail: /img/nyc-seminar-oct-3.png
