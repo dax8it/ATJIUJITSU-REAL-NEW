@@ -9,14 +9,19 @@ home: true
 tags:
   - Blog
 ---
-We'd like to invite you all to join us for a No GI seminar hosted by Junny Ocasio. We encourage you all to attend this seminar featuring Junny Ocasio, a Kasai 155 Pro Qualifier Champion, (as a purple belt) a KASAI PRO / EBI Veteran, 2017 IBJJF no gi pan-am purple light- feather champion, 11x Multiple IBJJF Gold Medalist 2016 & 2017 UAE New York National pro Champion purple belt 62 KG and more.  Be sure to take advantage of this special class to be able to expand your knowledge in Jiu-Jitsu from a different perspective. Please speak to the front desk or dm us if you would like to attend or have any questions. 
+## We'd like to invite you all to join us for a No GI seminar hosted by Junny Ocasio. We encourage you all to attend this seminar featuring Junny Ocasio, a Kasai 155 Pro Qualifier Champion, (as a purple belt) a KASAI PRO / EBI Veteran, 2017 IBJJF no gi pan-am purple light- feather champion, 11x Multiple IBJJF Gold Medalist 2016 & 2017 UAE New York National pro Champion purple belt 62 KG and more.  Be sure to take advantage of this special class to be able to expand your knowledge in Jiu-Jitsu from a different perspective. We hope to see you all there!
 
+**Pricing for Members (Before September 27th):**
 
+\- $40
 
-Please keep in mind, if you register before September 27th, the price for members will be $40. We hope to see you all there!
+Please book through martial arts on rails:
 
+<https://at-jiujitsu-nyc.maonrails.com/book>
 
+**Pricing For Non-Members:**
 
+\- $55
 
 <div style="
   overflow: auto;
@@ -43,7 +48,7 @@ We'd like to invite you all to join us for a No GI seminar hosted by Junny Ocasi
     text-align: center;
     box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
     border-radius: 0px;
-  ">Pay now</a>
+  ">Non-Member Registration</a>
   </div>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source Serif Pro">
 </div>
