@@ -7,7 +7,7 @@ description: >-
   Thank you to everyone who joined us this summer, be sure to join us again next
   year!
 thumbnail: /img/20210716_132815.jpg
-home: true
+home: false
 tags:
   - Blog
 ---
