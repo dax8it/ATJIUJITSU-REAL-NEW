@@ -25,6 +25,8 @@ Please book through martial arts on rails:
 
 \- $55
 
+Please register through the link below:
+
 <div style="
   overflow: auto;
   display: flex;
