@@ -34,6 +34,7 @@ _**Morning Class**_
 **_Afternoon Class_**
 
 * **Kickboxing:** 6:10 to 7:00 pm
+* **Beginners Jiu-Jitsu:** 6:15 to 7:10 pm
 * **Kettlebell:** 7:15 to 8:15 pm
 * **No Gi Jiu-Jitsu:** 8:15 to 9:15 pm
 
@@ -98,20 +99,21 @@ _**Morning Class**_
 
 ### MONDAY
 
-* **Jiu-Jitsu (Ages 5 to 9):** 3:15 to 4:00 pm
-* **Kids Kickboxing (Ages 3-6):** 4:15 to 5:00 pm
-* **Kids Kickboxing (Ages 7-13):** 4:15 to 5:00 pm
-* **Jiu-Jitsu (Ages 10 to 13):** 5:15 to 6:00 pm
+* **Jiu-Jitsu (Ages 5 to 9):** 3:30 to 4:15 pm
+* **Kids Kickboxing (Ages 3-6):** 4:20 to 5:10 pm
+* **Kids Kickboxing (Ages 7-13):** 4:20 to 5:10 pm
+* **Jiu-Jitsu (Ages 10 to 13):** 5:15 to 6:10 pm
 
 ### TUESDAY
 
 * **Kids Kickboxing (All Ages):** 3:30 to 4:15 pm
 * **Jiu-Jitsu (Ages 5 to 9):** 4:30 to 5:15 pm
-* **Kids MMA (Ages 9-13):** 5:15 to 6:00 pm
+* **Kids MMA (Ages 9-13):** 5:15 to 6:00 pm 
+  * **THIS CLASS IS OPEN TO 8 YEAR OLD GREY BELTS ONLY**
 
 ### WEDNESDAY
 
-* **Jiu-Jitsu (Ages 5 to 9):** 3:15 to 4:00 pm
+* **Jiu-Jitsu (Ages 5 to 9):** 3:30 to 4:10 pm
 * **Jiu-Jitsu (Ages 10 to 13)** 4:15 to 5:00 pm
 
 ### THURSDAY
@@ -123,7 +125,7 @@ _**Morning Class**_
 
 ### FRIDAY
 
-* **Jiu-Jitsu (Ages 5 to 9):** 3:15 to 4:00 pm
+* **Jiu-Jitsu (Ages 5 to 9):** 3:30 to 4:10 pm
 * **No Gi Jiu-Jitsu (Ages 10 to 13)** 4:15 to 5:00 pm
 
 ### SATURDAY
@@ -135,6 +137,6 @@ _**Morning Class**_
 
 ### SUNDAY
 
-* **ON PAUSE UNTIL SEPTEMBER - Kids Sunday FunDay Drilling (All Ages):** 11:15 to 12:00 pm
+* **ON PAUSE UNTIL FURTHER NOTICE - Kids Sunday FunDay Drilling (All Ages):** 11:15 to 12:00 pm
 
 - - -
