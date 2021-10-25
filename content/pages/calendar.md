@@ -27,24 +27,25 @@ Please arrive 10 minutes prior to class starting.
 
 ## MONDAY
 
-**_Morning Class_**
+_**Morning Class**_
 
 * **No Gi Jiu-Jitsu:** 8:00 am to 8:45 am
 
-_**Afternoon Class**_
+**_Afternoon Class_**
 
 * **Kickboxing:** 6:10 to 7:00 pm
+* **Beginners Jiu-Jitsu:** 6:15 to 7:10 pm
 * **Kettlebell:** 7:15 to 8:15 pm
 * **No Gi Jiu-Jitsu:** 8:15 to 9:15 pm
 
 ## TUESDAY
 
-**_Morning Class_**
+_**Morning Class**_
 
 * **Jiu-Jitsu (Gi) :** 7:00 am to 8:15 am
 * **No Gi Jiu-Jitsu:** 8:15 am to 9:15 am
 
-_**Afternoon Class**_
+**_Afternoon Class_**
 
 * **No Gi Drilling and Sparring:** 5:00 to 6:00 pm
 * **Muay Thai:** 6:10 to 7:00 pm
@@ -53,11 +54,11 @@ _**Afternoon Class**_
 
 ## WEDNESDAY
 
-**_Morning Class_**
+_**Morning Class**_
 
 * **No Gi Jiu-Jitsu :** 7:30 am to 8:15 am
 
-_**Afternoon Class**_
+**_Afternoon Class_**
 
 * **Film Study (No Gi Drilling):** 5:15 to 6:00 pm
 * **Kickboxing:** 6:10 to 7:00 pm
@@ -66,11 +67,11 @@ _**Afternoon Class**_
 
 ## THURSDAY
 
-**_Morning Class_**
+_**Morning Class**_
 
 * **Jiu-Jitsu (Gi):** 7:00 am to 8:15 am
 
-_**Afternoon Class**_
+**_Afternoon Class_**
 
 * **Muay Thai:** 6:10 to 7:00 pm
 * **No Gi Drilling and Sparring:** 6:15 to 7:00 pm
