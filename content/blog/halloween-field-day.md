@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Halloween Field Day
+title: Halloween Field Day 2020
 order: 30
 date: 2020-10-31T14:00:00.000Z
 description: >-
