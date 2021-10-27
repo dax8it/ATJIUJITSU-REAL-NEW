@@ -21,6 +21,7 @@ tags:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/due_uL4FLCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 - - -
 
 **Check out some photos from our recent and previous summer sessions, with activities such as tie-dying, water balloon fights, Mario Kart tournaments, dodgeball, Jiu-Jitsu, arts and crafts, kickboxing, the library and museums, it was a summer we hope they'll never forget!**
