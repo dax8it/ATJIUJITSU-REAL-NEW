@@ -17,15 +17,11 @@ tags:
 
 # Kids Outdoor Kickboxing
 
-**AT JIU-JITSU NYC would like to invite you all to join our outdoor Kickboxing class for Kids! Every Saturday, we will have our outdoor Kickboxing class which will be held on 34th Avenue, between 80th and 81st Street from 11:15 AM to 12:00 PM. Please keep in mind this class is for Ages 5-14 only.**
+**Throughout the pandemic, we were unable to hold our regular instructional indoor classes, therefore we made it work with our outdoor classes program. The kids and adults got to experience Kickboxing and Muay-Thai in the outdoors on 34th avenue open streets. Thank you to all the kids who joined us and were out there with us running a mile every Saturday morning! You all put in that work and we hope it was all worth it! Be sure to join us for our regular instructional kickboxing and muay-thai classes indoor now.** 
 
-**It will be held outside weather permitting. If it rains, class will be held inside the gym. Although it is not necessary to book the class, we ask you book class anyways because on rainy days, class will be held inside and only those who booked class will be allowed inside to take class.**
+**Register Here:**
 
-**Please make sure to bring your gloves and shin guards with you if you have them, and of course, a face mask! Don't forget to wear sunscreen!**
-
-**Anyone is welcome to participate in these classes, so if you have a friend or family member you want to bring along, you are welcome to do so!**
-
-**We look forward to seeing you there!**
+****[**https://at-jiujitsu-nyc.maonrails.com/signup**](https://at-jiujitsu-nyc.maonrails.com/signup)****
 
 - - -
 
