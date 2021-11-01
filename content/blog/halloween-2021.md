@@ -4,7 +4,7 @@ title: Halloween 2021
 order: 30
 date: 2021-10-31T14:00:00.000Z
 description: >-
-  Thank you for stopping by and parking your brooms and joining us this year for
+  Thank you for stopping by, parking your brooms and joining us this year for
   our spooky Halloween event! We hope you all had a Spooktacular time
 thumbnail: /img/dsc09460.jpg
 home: false
