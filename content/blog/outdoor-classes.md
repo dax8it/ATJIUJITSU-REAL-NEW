@@ -4,7 +4,7 @@ title: Kids Outdoor Kickboxing Classes
 order: 4
 date: 2021-05-22T20:30:05.220Z
 description: >-
-  Are outdoor program was fun while it lasted! We hope you had the chance to
+  Our outdoor program was fun while it lasted! We hope you had the chance to
   catch us outside in action
 thumbnail: /img/dsc08488.jpg
 home: false
