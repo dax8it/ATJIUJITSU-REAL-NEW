@@ -11,8 +11,6 @@ home: false
 tags:
   - Blog
 ---
-- - -
-
 **We hope the kids had a blast this Halloween at our Halloween event. Thank you to everyone who joined us, at our event filled with mummy wrapping, pumpkin painting, musical chairs, and more! We loved everyone's costume from Pikachu to Zombie chef to skeletons and even Frida Kahlo. Be sure to join us again next year for more Halloween tricks and treats!** 🎃👻💀
 
 - - -
