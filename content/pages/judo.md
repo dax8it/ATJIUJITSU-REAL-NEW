@@ -39,6 +39,8 @@ tags:
 
 - - -
 
+![](/img/dsc09610.jpg)
+
 ![](/img/dsc09550.jpg)
 
 ![](/img/dsc01093.jpg)
