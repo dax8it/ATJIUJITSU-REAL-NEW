@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Halloween 2021
+title: Halloween Party 2021
 order: 30
 date: 2021-10-31T14:00:00.000Z
 description: >-
