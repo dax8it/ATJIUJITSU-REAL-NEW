@@ -10,7 +10,7 @@ tags:
 ---
 - - -
 
-Thank you to all the brave competitors who competed at our very first In-House Tournament! Everyone had some tough matches but still fought their heart out and did their best! You either win or your learn. We hope to see you all there in the next one! 
+Thank you to everyone who signed up for our very first In-House tournament! We couldn't be prouder of everyone who was brave and decided to compete for the first time ever! Everyone got a little taste of what a real tournament feels like and we hope it makes you determined to keep training and keep putting in the hard work in every class! We hope to see you all again for the next one! 💪
 
 # Matches 🏆🥋
 
