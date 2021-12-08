@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'In-House Tournament '
+title: 'Kids In-House Tournament '
 order: 30
 date: 2021-11-20T15:00:00.000Z
 thumbnail: /img/dsc01856.jpg
