@@ -17,29 +17,23 @@ tags:
 
 # **Belt Promotions**
 
-![](/img/img_8961.jpg)
+![](/img/dsc01419.jpg)
 
-Big congratulations to Martin, Jason and Mohammed!
+![](/img/dsc02031.jpg)
 
-![](/img/dsc04850.jpg)
+![](/img/dsc00698.jpg)
 
-Congratulations Kara!
+![](/img/dsc00712.jpg)
 
-![](/img/dsc03739.jpg)
+![](/img/dsc00730.jpg)
 
-Congratulations Ian!
+![](/img/dsc00739.jpg)
 
-![](/img/dsc02789.jpg)
+![](/img/dsc02042.jpg)
 
-Congratulations Liliom!
+![](/img/dsc02071.jpg)
 
-![](/img/dsc02201.jpg)
-
-Congratulations Elek!
-
-![](/img/162858391_3689344474496333_8003898421614302856_n.jpg)
-
-Congratulations Gaby and Manuela! 
+![](/img/dsc02090.jpg)
 
 - - -
 
