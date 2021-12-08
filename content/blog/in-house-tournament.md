@@ -16,6 +16,8 @@ Thank you to all the brave competitors who competed at our very first In-House T
 
 ![](/img/dsc00839.jpg)
 
+![](/img/67b260de-e522-437a-835b-937555bd2d7f.jpg)
+
 ![](/img/dsc00493.jpg)
 
 ![](/img/dsc00580.jpg)
@@ -30,7 +32,7 @@ Thank you to all the brave competitors who competed at our very first In-House T
 
 ![](/img/dsc01718.jpg)
 
-![](/img/67b260de-e522-437a-835b-937555bd2d7f.jpg)
+- - -
 
 # Placement 🥉🥈🥇
 
