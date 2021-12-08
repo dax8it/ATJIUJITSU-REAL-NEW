@@ -8,6 +8,8 @@ home: false
 tags:
   - Blog
 ---
+Thank you to all the brave competitors who competed at our very first In-House Tournament! 
+
 # Matches
 
 ![](/img/dsc00839.jpg)
