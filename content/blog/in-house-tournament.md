@@ -8,6 +8,8 @@ home: false
 tags:
   - Blog
 ---
+- - -
+
 Thank you to all the brave competitors who competed at our very first In-House Tournament! Everyone had some tough matches but still fought their heart out and did their best! You either win or your learn. We hope to see you all there in the next one! 
 
 # Matches 🏆🥋
