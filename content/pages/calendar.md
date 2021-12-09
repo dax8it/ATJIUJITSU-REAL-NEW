@@ -137,6 +137,8 @@ _**Morning Class**_
 
 ### SUNDAY
 
-* **ON PAUSE UNTIL FURTHER NOTICE - Kids Sunday FunDay Drilling (All Ages):** 11:15 to 12:00 pm
+* **STARTING JANUARY 16th, 2022**
+
+   **\- Kids Sunday FunDay Drilling (All Ages):** 10:00 to 11:30 am
 
 - - -
