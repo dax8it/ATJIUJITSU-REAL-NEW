@@ -126,11 +126,11 @@ _**Morning Class**_
 ### FRIDAY
 
 * **Jiu-Jitsu (Ages 5 to 9):** 3:30 to 4:10 pm
-* **No Gi Jiu-Jitsu (Ages 10 to 13)** 4:15 to 5:00 pm
+* **No Gi Jiu-Jitsu (Ages 10 to 14)** 4:15 to 5:00 pm
 
 ### SATURDAY
 
-* **Toddler Jiu-Jitsu (Ages 3 to 4):** 10:00 to 11:00 am
+* **Toddler Jiu-Jitsu (Ages 3 to 6):** 10:00 to 11:00 am
 * **Kids Jiu-Jitsu (Ages 7 to 13):** 10:15 to 11:00 am
 * **Kids Kickboxing (Ages 3-6):** 11:10 to 11:50 pm
 * **Kids Kickboxing (Ages 7-13):** 11:15 to 12:00 pm
