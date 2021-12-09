@@ -47,10 +47,9 @@ _**Morning Class**_
 
 **_Afternoon Class_**
 
-* **No Gi Drilling and Sparring:** 5:00 to 6:00 pm
 * **Muay Thai:** 6:10 to 7:00 pm
-* **Jiu-Jitsu Drilling (Gi):** 7:15 to 8:00 pm
-* **No Gi Jiu-Jitsu:** 8:15 to 9:00 pm
+* **No Gi Drilling and Sparring:** 6:15 to 7:00 pm
+* **Jiu-Jitsu Drilling and Sparring (Gi):** 7:15 to 8:00 pm
 
 ## WEDNESDAY
 
@@ -99,44 +98,46 @@ _**Morning Class**_
 
 ### MONDAY
 
-* **Jiu-Jitsu (Ages 5 to 9):** 3:30 to 4:15 pm
-* **Kids Kickboxing (Ages 3-6):** 4:20 to 5:10 pm
-* **Kids Kickboxing (Ages 7-13):** 4:20 to 5:10 pm
-* **Jiu-Jitsu (Ages 10 to 13):** 5:15 to 6:10 pm
+* **Kids Kickboxing (Ages 5-14):** 3:30 to 4:10 pm
+* **Kids Jiu-Jitsu (Ages 5-9):** 4:15 to 5:00 pm
+* **Kids Jiu-Jitsu (Ages 10-14):** 5:15 to 6:00 pm
 
 ### TUESDAY
 
-* **Kids Kickboxing (All Ages):** 3:30 to 4:15 pm
-* **Jiu-Jitsu (Ages 5 to 9):** 4:30 to 5:15 pm
-* **Kids MMA (Ages 9-13):** 5:15 to 6:00 pm 
+* **Kids Kickboxing (5-14):** 3:30 to 4:15 pm
+* **Jiu-Jitsu (Ages 5-9):** 4:30 to 5:15 pm
+* **Advanced Kids MMA (Ages 8-13):** 5:15 to 6:00 pm 
   * **THIS CLASS IS OPEN TO 8 YEAR OLD GREY BELTS ONLY**
 
 ### WEDNESDAY
 
-* **Jiu-Jitsu (Ages 5 to 9):** 3:30 to 4:10 pm
-* **Jiu-Jitsu (Ages 10 to 13)** 4:15 to 5:00 pm
+* **Kids Kickboxing (Ages 5-14):** 3:30 to 4:10 pm
+* **Kids Jiu-Jitsu (Ages 5-9):** 4:15 to 5:00 pm
+* **Kids Jiu-Jitsu (Ages 10-14):** 5:15 to 6:00 pm
 
 ### THURSDAY
 
-* **No Gi Jiu-Jitsu Advanced (Ages 7 to 14):** 4:15 to 5:00 pm 
-  * **THIS CLASS IS OPEN TO 7 YEAR OLD GREY BELTS ONLY**
-* **Kids MMA (Ages 8-13):** 5:15 to 6:00 pm 
+* **Advanced Kids No Gi Jiu-Jitsu (Ages 8-14):** 4:15 to 5:00 pm 
+  * **THIS CLASS IS OPEN TO 8 YEAR OLD GREY BELTS ONLY**
+* **Advanced Kids MMA (Ages 8-13):** 5:15 to 6:00 pm 
   * **THIS CLASS IS OPEN TO 8 YEAR OLD GREY BELTS ONLY**
 
 ### FRIDAY
 
 * **Jiu-Jitsu (Ages 5 to 9):** 3:30 to 4:10 pm
-* **No Gi Jiu-Jitsu (Ages 10 to 13)** 4:15 to 5:00 pm
+* **No Gi Jiu-Jitsu (Ages 10 to 14)** 4:15 to 5:00 pm
 
 ### SATURDAY
 
-* **Toddler Jiu-Jitsu (Ages 3 to 4):** 10:00 to 11:00 am
-* **Kids Jiu-Jitsu (Ages 7 to 13):** 10:15 to 11:00 am
+* **Toddler Jiu-Jitsu (Ages 3-5):** 10:00 to 11:00 am
+* **Kids Jiu-Jitsu (Ages 6-14):** 10:15 to 11:00 am
 * **Kids Kickboxing (Ages 3-6):** 11:10 to 11:50 pm
 * **Kids Kickboxing (Ages 7-13):** 11:15 to 12:00 pm
 
 ### SUNDAY
 
-* **ON PAUSE UNTIL FURTHER NOTICE - Kids Sunday FunDay Drilling (All Ages):** 11:15 to 12:00 pm
+* **STARTING JANUARY 16th, 2022**
+
+   **\- Kids Sunday FunDay Drilling (All Ages):** 10:00 to 11:30 am
 
 - - -
