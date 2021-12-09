@@ -27,11 +27,11 @@ Please arrive 10 minutes prior to class starting.
 
 ## MONDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **No Gi Jiu-Jitsu:** 8:00 am to 8:45 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **Kickboxing:** 6:10 to 7:00 pm
 * **Beginners Jiu-Jitsu:** 6:15 to 7:10 pm
@@ -40,12 +40,12 @@ _**Morning Class**_
 
 ## TUESDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **Jiu-Jitsu (Gi) :** 7:00 am to 8:15 am
 * **No Gi Jiu-Jitsu:** 8:15 am to 9:15 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **No Gi Drilling and Sparring:** 5:00 to 6:00 pm
 * **Muay Thai:** 6:10 to 7:00 pm
@@ -54,11 +54,11 @@ _**Morning Class**_
 
 ## WEDNESDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **No Gi Jiu-Jitsu :** 7:30 am to 8:15 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **Film Study (No Gi Drilling):** 5:15 to 6:00 pm
 * **Kickboxing:** 6:10 to 7:00 pm
@@ -67,11 +67,11 @@ _**Morning Class**_
 
 ## THURSDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **Jiu-Jitsu (Gi):** 7:00 am to 8:15 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **Muay Thai:** 6:10 to 7:00 pm
 * **No Gi Drilling and Sparring:** 6:15 to 7:00 pm
@@ -99,20 +99,20 @@ _**Morning Class**_
 
 ### MONDAY
 
-* **Jiu-Jitsu (Ages 5 to 9):** 3:30 to 4:15 pm
-* **Kids Kickboxing (Ages 3-6):** 4:20 to 5:10 pm
-* **Kids Kickboxing (Ages 7-13):** 4:20 to 5:10 pm
-* **Jiu-Jitsu (Ages 10 to 13):** 5:15 to 6:10 pm
+* **Kids Kickboxing (Ages 5 to 14):** 3:30 to 4:10 pm
+* **Kids Jiu-Jitsu (Ages 5-9):** 4:15 to 5:00 pm
+* **Kids Jiu-Jitsu (Ages 10 to 14):** 5:15 to 6:00 pm
 
 ### TUESDAY
 
-* **Kids Kickboxing (All Ages):** 3:30 to 4:15 pm
+* **Kids Kickboxing (5-14):** 3:30 to 4:15 pm
 * **Jiu-Jitsu (Ages 5 to 9):** 4:30 to 5:15 pm
-* **Kids MMA (Ages 9-13):** 5:15 to 6:00 pm 
+* **Advanced Kids MMA (Ages 8-13):** 5:15 to 6:00 pm 
   * **THIS CLASS IS OPEN TO 8 YEAR OLD GREY BELTS ONLY**
 
 ### WEDNESDAY
 
+* **Kids Kickboxing (Ages 5-14)** 
 * **Jiu-Jitsu (Ages 5 to 9):** 3:30 to 4:10 pm
 * **Jiu-Jitsu (Ages 10 to 13)** 4:15 to 5:00 pm
 
