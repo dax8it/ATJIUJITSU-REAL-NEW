@@ -130,8 +130,8 @@ _**Morning Class**_
 
 ### SATURDAY
 
-* **Toddler Jiu-Jitsu (Ages 3 to 5):** 10:00 to 11:00 am
-* **Kids Jiu-Jitsu (Ages 6 to 14):** 10:15 to 11:00 am
+* **Toddler Jiu-Jitsu (Ages 3-5):** 10:00 to 11:00 am
+* **Kids Jiu-Jitsu (Ages 6-14):** 10:15 to 11:00 am
 * **Kids Kickboxing (Ages 3-6):** 11:10 to 11:50 pm
 * **Kids Kickboxing (Ages 7-13):** 11:15 to 12:00 pm
 
