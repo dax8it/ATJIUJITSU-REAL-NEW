@@ -39,14 +39,10 @@ tags:
 
 # Stripes!
 
-![](/img/img_7407.jpg)
+![](/img/img_1932.jpg)
 
 ![]()
 
 ![](/img/dsc04809.jpg)
 
 ![](/img/dsc04804.jpg)
-
-![](/img/img_5878.jpg)
-
-![](/img/img_5865.jpg)
