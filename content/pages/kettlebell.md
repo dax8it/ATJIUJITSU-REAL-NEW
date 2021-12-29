@@ -4,7 +4,7 @@ title: KettleBell
 order: 8
 date: 2020-01-06T22:49:38.439Z
 description: 'For toning and strengthening, try our new Kettlebell class! '
-thumbnail: /img/dsc01419.jpg
+thumbnail: /img/dsc05705.jpg
 home: true
 tags:
   - Programs
@@ -33,8 +33,6 @@ tags:
 ![](/img/dsc04886.jpg)
 
 ![](/img/dsc06371.jpg)
-
-![](/img/dsc05705.jpg)
 
 ![](/img/dsc06318.jpg)
 
