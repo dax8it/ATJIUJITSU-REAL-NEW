@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: About Us
-order: 13
+order: 12
 date: '2019-05-03'
 description: Meet our staff and crew that make all of our classes possible.
 thumbnail: /img/dsc06203-1-.jpg
