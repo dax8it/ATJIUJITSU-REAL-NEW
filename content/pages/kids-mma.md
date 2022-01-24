@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'KIDS MMA '
-order: 4
+order: 7
 date: 2021-03-24T20:36:49.923Z
 description: Kids MMA every Tuesday and Thursday!
 thumbnail: /img/dsc04936.jpg
@@ -20,8 +20,6 @@ tags:
 > **Thursday: 5:15 p.m. - 6:00 p.m.**
 
 - - -
-
-**Please keep in mind, this class is for Ages 9-13 and 8 year old grey belts only.** 
 
 **In order to take this class you will need:**
 
