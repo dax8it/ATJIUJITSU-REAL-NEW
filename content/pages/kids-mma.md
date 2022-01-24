@@ -21,8 +21,6 @@ tags:
 
 - - -
 
-**Please keep in mind, this class is for Ages 9-13 and 8 year old grey belts only.** 
-
 **In order to take this class you will need:**
 
 **\- MMA Gloves**
