@@ -148,13 +148,13 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 **ONE 1/2 HOUR PRIVATE SESSION - $50**
 
+
+
 **Coach Rocco:** 
 
 **3 ONE HOUR PRIVATE SESSIONS - $225**
 
 **1 ONE HOUR PRIVATE SESSION - $80**
-
-****
 
 - - -
 
