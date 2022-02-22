@@ -11,7 +11,7 @@ tags:
 ---
 # Monthly Subscriptions
 
-We make it easy to attend our classes. Choose one of our monthly subscription plans to get the most bang for your buck. We offer classes from $15 to $27 depending on the program you choose. You decide.
+We make it easy to attend our classes. Choose one of our monthly subscription plans to get the most bang for your buck. We offer classes from $12 to $27 depending on the program you choose. You decide.
 
 ## Register for classes here:
 
@@ -135,6 +135,25 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 **Day Pass - $45**
 
 **Toddler Drop In - $40**
+
+- - -
+
+# Private Sessions:
+
+Available for purchase below:
+
+<https://at-jiujitsu-nyc.gymdesk.com/pricing>
+
+**Professor Alvaro:**
+
+* **3 ONE HOUR PRIVATE SESSIONS - $230**
+* **1 ONE HOUR PRIVATE SESSION - $80**
+* **ONE 1/2 HOUR PRIVATE SESSION - $50**
+
+**Coach Rocco:** 
+
+* **3 ONE HOUR PRIVATE SESSIONS - $225**
+* **1 ONE HOUR PRIVATE SESSION - $80**
 
 - - -
 
