@@ -140,6 +140,10 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 # Private Sessions:
 
+Available for purchase below:
+
+<https://at-jiujitsu-nyc.gymdesk.com/pricing>
+
 **Professor Alvaro:**
 
 **3 ONE HOUR PRIVATE SESSIONS - $230**
@@ -147,8 +151,6 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 **1 ONE HOUR PRIVATE SESSION - $80**
 
 **ONE 1/2 HOUR PRIVATE SESSION - $50**
-
-
 
 **Coach Rocco:** 
 
