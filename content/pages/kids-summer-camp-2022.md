@@ -3,14 +3,14 @@ templateKey: blog-post
 title: KIDS SUMMER CAMP 2022
 order: 3
 date: 2022-03-17T21:20:19.558Z
-description: Summer Camp Registration is now open!
+description: Registration is now open!
 home: true
 tags:
   - Programs
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/due_uL4FLCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-****
+- - -
 
 **We are happy to inform you that AT Jiu-Jitsu NYC is bringing back our annual summer program filled with endless fun this summer 2022! Is your child ready for a summer full of flips and fun? Join us for our Jiu-Jitsu camp!** 
 
@@ -26,22 +26,18 @@ tags:
 
 **Drop off will run between 10:45 AM - 11:00 AM and pick up will be at 3:00 PM. Our summer program is for kids starting from Ages 5-14. It is open to members and non-members, so be sure to tell a friend, cousin, sibling whoever you may know to join us this summer for endless fun!**
 
-Information on Pricing
+## Information on Pricing:
 
-Register before June 1st - $1,500 (Save $150)
+**Register before June 1st - $1,500 (Save $150)**
 
-After June 1st - $1,650
+**After June 1st - $1,650**
 
-Weekly Price: $275
+**Weekly Price: $275**
 
-Day Price: $95
+**Day Price: $95**
 
 If you have any questions or concerns please email us right away. Please keep in mind that spots are limited so if you are interested, let us know as soon as possible to begin planning future arrangements.
 
-Thank you to everyone once again.
+Thank you to everyone once again. We hope to see you there this summer! 🌞🌈🌺
 
-We hope to see you there this summer! 🌞🌈🌺
-
-Sincerely,
-
-AT Jiu-Jitsu NYC
+- - - 
