@@ -18,7 +18,9 @@ tags:
 
 **Each week will be designed to empower and enlighten kids through amusing activities, fascinating and safe field trips, timely lessons in teamwork and so much more! Activities will include Jiu-Jitsu, Game Time, Shared Reading, Arts and Crafts, Hiking trips and more.**
 
-- - -
+# 
+
+# Information: 
 
 ## **Our summer session will run for 6 weeks and will begin on Tuesday, July 5th and last through Friday, August 12th. The days will be every Tuesday, Wednesday, Thursday and every other Friday, with every Friday being a Trip Day!**
 
@@ -40,4 +42,4 @@ If you have any questions or concerns please email us right away. Please keep in
 
 Thank you to everyone once again. We hope to see you there this summer! 🌞🌈🌺
 
-- - - 
+- - -
