@@ -38,7 +38,7 @@ tags:
 
 # Pricing:
 
-**Register before June 1st - $1,500 (Save $150)**
+## **Register before June 1st - $1,500 (Save $150)**
 
 **After June 1st - $1,650**
 
@@ -49,5 +49,9 @@ tags:
 If you have any questions or concerns please email us right away. Please keep in mind that spots are limited so if you are interested, let us know as soon as possible to begin planning future arrangements.
 
 Thank you to everyone once again. We hope to see you there this summer! 🌞🌈🌺
+
+# Register Now:
+
+<https://at-jiujitsu-nyc.gymdesk.com/book>
 
 - - -
