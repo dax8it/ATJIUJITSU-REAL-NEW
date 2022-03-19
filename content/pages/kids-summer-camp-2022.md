@@ -23,12 +23,12 @@ tags:
 # Information:
 
 * ## **6 Week Program**
+* ## **Ages 5-14**
 * ## **11:00 AM - 3:00 PM**
 * ## **July 5th - August 12th**
 * ## **Tuesday, Wednesday, Thursday & Every Other Friday**
 * ## Friday Trip Days!
   * **July 15th, 29th and August 12th.**
-* ## **Ages 5-14**
 
 - - -
 
