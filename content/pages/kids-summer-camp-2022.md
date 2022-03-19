@@ -18,7 +18,7 @@ tags:
 
 **Each week will be designed to empower and enlighten kids through amusing activities, fascinating and safe field trips, timely lessons in teamwork and so much more! Activities will include Jiu-Jitsu, Game Time, Shared Reading, Arts and Crafts, Hiking trips and more.**
 
-# 
+- - -
 
 # Information: 
 
