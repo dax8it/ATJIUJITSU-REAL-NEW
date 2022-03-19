@@ -29,9 +29,10 @@ tags:
 * ## Friday Trip Days!
   * **July 15th, 29th and August 12th.**
 * ## **Ages 5-14**
-  **It is open to members and non-members, so be sure to tell a friend, cousin, sibling whoever you may know to join us this summer for endless fun!**
 
-## Information on Pricing:
+- - -
+
+# Pricing:
 
 **Register before June 1st - $1,500 (Save $150)**
 
