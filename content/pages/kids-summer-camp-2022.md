@@ -20,13 +20,16 @@ tags:
 
 - - -
 
-# Information: 
+# Information:
 
-## **Our summer session will run for 6 weeks and will begin on Tuesday, July 5th and last through Friday, August 12th. The days will be every Tuesday, Wednesday, Thursday and every other Friday, with every Friday being a Trip Day!**
-
-## **Friday Trip Dates -** July 15th, 29th and August 12th.
-
-**Drop off will run between 10:45 AM - 11:00 AM and pick up will be at 3:00 PM. Our summer program is for kids starting from Ages 5-14. It is open to members and non-members, so be sure to tell a friend, cousin, sibling whoever you may know to join us this summer for endless fun!**
+* ## **6 Week Program**
+* ## **11:00 AM - 3:00 PM**
+* ## **July 5th - August 12th**
+* ## **Tuesday, Wednesday, Thursday & Every Other Friday**
+* ## Friday Trip Days!
+  * **July 15th, 29th and August 12th.**
+* ## **Ages 5-14**
+  **It is open to members and non-members, so be sure to tell a friend, cousin, sibling whoever you may know to join us this summer for endless fun!**
 
 ## Information on Pricing:
 
