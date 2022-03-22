@@ -142,25 +142,11 @@ Born and raised in Astoria, Queens, Rocco is a die-hard New Yorker. A big advoca
 
 # Natalia V.
 
-## Program Director
+## Coach and Program Director
 
 Natalia was born and raised in Jackson Heights and as such shares the love for the community. Natalia obtained an Associate Degree in Criminal Justice from Queensborough Community College in 2018 and is currently studying to obtain her BS in Criminal Justice. During her free time, you can find Natalia on the mats taking our Kickboxing classes where she has been training for two years.
 
 Natalia has always loved caring for children and was studying to become a teacher for elementary school aged children prior to changing her major. While her major has changed, her dedication to the well-being of children has remained.
-
-<br>
-
-- - -
-
-<br>
-
-![Arianna Calle](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1583298692/STAFF/IMG_9716-Edit_e3mlnh.png)
-
-# Arianna C.
-
-## Coach
-
-Arianna has been training Jiu-Jitsu for 4 years now and is currently a blue belt. She received her blue belt through Professor Alvaro under Lotus Club. She is highly motivated and a big participator in all of our classes including Muay Thai, Kickboxing, Yoga and Jiu-Jitsu. On her free time, Arianna's hobby includes deadlifting. You can also find her on the mats during the kids classes assisting Professor Alvaro and during the adults classes where she is constantly training.
 
 <br>
 
