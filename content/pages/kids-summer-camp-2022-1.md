@@ -9,6 +9,8 @@ home: true
 tags:
   - Programs
 ---
+![]()
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/due_uL4FLCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - - -
@@ -46,6 +48,22 @@ tags:
 **Weekly Price: $275**
 
 **Day Price: $95**
+
+- - -
+
+# AT JIU-JITSU NYC KIDS SUMMER CAMP PROUDLY SPONSORED BY LYFT!
+
+![](/img/lyft-logo-collab.jpg)
+
+**We are very pleased to inform you all that AT JIU-JITSU NYC'S KIDS SUMMER CAMP is being sponsored by LYFT!**
+
+**LYFT is providing us with transportation access to go on all of our field trips! This means more adventurous trips to broader destinations to places such as amusement parks, beach trips, museum trips and more!**
+
+**We cannot wait to take advantage of this amazing opportunity and we'd like to thank Lyft for partnering with us!**
+
+**Join Us Now For Our Best Summer Camp Yet!**
+
+- - -
 
 If you have any questions or concerns please email us right away. Please keep in mind that spots are limited so if you are interested, let us know as soon as possible to begin planning future arrangements.
 
