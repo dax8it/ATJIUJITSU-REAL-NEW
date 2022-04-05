@@ -8,6 +8,7 @@ thumbnail: /img/img_7365.jpg
 home: true
 tags:
   - Programs
+  - Blog
 ---
 ![]()
 
