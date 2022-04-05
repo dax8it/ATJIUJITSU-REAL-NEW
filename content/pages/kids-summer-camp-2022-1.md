@@ -7,7 +7,6 @@ description: Summer Camp Registration is now open!
 thumbnail: /img/img_7365.jpg
 home: true
 tags:
-  - Programs
   - Blog
 ---
 ![]()
