@@ -29,6 +29,8 @@ tags:
 
 # Information:
 
+![](/img/adult-poster-jan-2021.jpg)
+
 * ## **6 Week Program**
 * ## **Ages 5-14**
 * ## **11:00 AM - 3:00 PM**
