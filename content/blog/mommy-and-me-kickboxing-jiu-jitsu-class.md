@@ -8,7 +8,7 @@ home: false
 tags:
   - Blog
 ---
-## We'd like to thank all the Mommy's who joined us for the Mommy and Me Jiu-Jitsu and Kickboxing class! This was a class to give thanks to the mommy's for all the effort and hard work you do for your child/children. We hope you all enjoyed the chance to work with your little one as your helper and also got a good workout in! You were able to see a glimpse of what it is your child learns and does in class. There were plenty of beautiful bonding moments which was a pleasure to see. We were able to catch a few on camera, check them out below and once again we wish all the Mommy's and Mother figures a very happy mothers day!
+## We'd like to thank all the Mommy's who joined us for the Mommy and Me Jiu-Jitsu and Kickboxing class! This was a class to give thanks to the mommy's for all the effort and hard work you do for your child/children. We hope you all enjoyed the chance to work with your little one as your helper and also got a good workout in! You were able to see a glimpse of what it is your child learns and does in class. There were plenty of beautiful bonding moments which was a pleasure to see. We were able to catch a few on camera, check them out below and once again we wish all the Mommy's and Mommy figures a very happy mothers day!
 
 - - -
 
