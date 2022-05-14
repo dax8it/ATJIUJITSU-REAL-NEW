@@ -3,6 +3,9 @@ templateKey: blog-post
 title: Mommy And Me Kickboxing & Jiu-Jitsu Class
 order: 30
 date: 2022-05-07T14:21:48.234Z
+description: >-
+  Thank you to all the Mommy's who attended our Mommy and Me Jiu-Jitsu and
+  Kickboxing class!
 thumbnail: /img/dsc06501.jpg
 home: false
 tags:
