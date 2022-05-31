@@ -11,7 +11,7 @@ tags:
 ---
 ![]()
 
-`https://youtu.be/due_uL4FLCI`
+`youtube: https://youtu.be/due_uL4FLCI`
 
 - - -
 
