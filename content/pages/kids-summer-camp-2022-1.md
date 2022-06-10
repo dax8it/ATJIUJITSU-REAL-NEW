@@ -23,7 +23,7 @@ tags:
 
 ![](/img/summer-camp-schedule-.jpg)
 
-**Campers of all levels are welcome, from beginners to advanced! Our coaches will help build your child's skills in Jiu-Jitsu, while engaging and inspiring them to learn new skills. Each week will be designed to empower and enlighten kids through amusing activities, fascinating and safe field trips, timely lessons in teamwork and so much more! Activities will include Jiu-Jitsu, Game Time, Shared Reading, Arts and Crafts, Hiking trips and more. Join us now!**
+**Our coaches will help build your child's skills in Jiu-Jitsu, while engaging and inspiring them to learn new skills. Each week will be designed to empower and enlighten kids through amusing activities, fascinating and safe field trips, timely lessons in teamwork and so much more! Join us now!**
 
 
 
