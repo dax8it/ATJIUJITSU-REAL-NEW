@@ -19,13 +19,13 @@ tags:
 
 **This year our summer will be focused on a crash course jiu-jitsu based program! Whether you’re looking to improve your Jiu-Jitsu game, or your competition skills, learn self defense, improve your fitness or just see what BJJ is all about, we’d love to welcome you to our Academy. Our BJJ Summer Camp is for kids ages 5-14. This weekly summer camp is great for beginners, as well as experienced bjj practitioners. Campers will have a blast learning and practicing jiu jitsu in Gi and No Gi, in addition to other fun activities such as judo, kickboxing, arts and crafts, obstacle courses and more!**
 
-****
-
 **Our days will include a variety of ground based jiu-jitsu techniques as well as takedowns, and agility workouts that will improve your child’s fitness level and athletic ability. Campers will have fun learning jiu-jitsu alongside our staff members and making new friends. Check out our hourly schedule below.**
+
+![](/img/summer-camp-schedule-.jpg)
 
 **Campers of all levels are welcome, from beginners to advanced! Our coaches will help build your child's skills in Jiu-Jitsu, while engaging and inspiring them to learn new skills. Each week will be designed to empower and enlighten kids through amusing activities, fascinating and safe field trips, timely lessons in teamwork and so much more! Activities will include Jiu-Jitsu, Game Time, Shared Reading, Arts and Crafts, Hiking trips and more. Join us now!**
 
-****
+- - -
 
 # **Register Now:**
 
