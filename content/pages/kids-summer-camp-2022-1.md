@@ -47,7 +47,7 @@ tags:
 * ## **July 5th - August 5th**
 * ## **Tuesday, Wednesday, Thursday & Every Other Friday**
 * ## Friday Trip Days!
-  * **July 15th, 29th and August 12th.**
+  * **July 15th, 29th and August 5th.**
 
 - - -
 
