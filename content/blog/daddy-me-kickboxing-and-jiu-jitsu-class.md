@@ -11,7 +11,7 @@ home: false
 tags:
   - Blog
 ---
-**We’d like to thank all the Dad's who joined us for the Daddy and Me Jiu-Jitsu and Kickboxing class! This was a great bonding class with the children to give thanks to the strong father figures in our lives! We hope you all enjoyed the chance to work with your little one as your helper and also got a good workout in! There were some competitive moments such as the father sprawl contest which got intense, dads got to roll with the coaches, and kids got the chance to roll with their dads! We were able to catch a few funny moments on camera, check them out below and once again we wish all the Dads and Father figures a very happy fathers day!**
+**We’d like to thank all the Dad's who joined us for the Daddy and Me Jiu-Jitsu and Kickboxing class! This was a great bonding class with the children to give thanks to the strong father figures in our lives! There were some competitive moments such as the father sprawl contest which got intense, dads got to roll with the coaches, and kids got the chance to roll with their dads! We were able to catch a few funny moments on camera, check them out below and once again we wish all the Dads and Father figures a very happy fathers day!**
 
 <bh>
 
