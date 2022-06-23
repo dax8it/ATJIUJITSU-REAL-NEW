@@ -9,8 +9,6 @@ home: true
 tags:
   - Blog
 ---
-![]()
-
 `youtube: https://youtu.be/due_uL4FLCI`
 
 - - -
@@ -31,15 +29,13 @@ tags:
 
 <https://at-jiujitsu-nyc.gymdesk.com/book>
 
-
-
 <br>
 
 - - -
 
 # Information:
 
-![](/img/adult-poster-jan-2021.jpg)
+![](/img/s.cflyer.jpg)
 
 * ## **6 Week Program**
 * ## **Ages 5-14**
