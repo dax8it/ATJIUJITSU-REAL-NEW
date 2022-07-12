@@ -49,10 +49,6 @@ tags:
 
 # Pricing:
 
-## **Register before June 1st - $1,500 (Save $150)**
-
-**After June 1st - $1,650**
-
 **Weekly Price: $275**
 
 **Day Price: $95**
