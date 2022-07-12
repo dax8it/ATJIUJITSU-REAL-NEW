@@ -8,7 +8,7 @@ home: false
 tags:
   - Blog
 ---
-Thank you to 'Americas Finest Karate Kickboxing Academy' for hosting a Kickboxing tournament and inviting AT Jiu-Jitsu NYC to our first ever Kickboxing Tournament! Everything Coach Rocco and Professor Alvaro have taught were put to the test. No matter the outcome, we are so proud of our students who were brave and put themselves out there to fight. We hope to have more Kickboxing Tournaments soon. Check out the action packed matches below!
+**Thank you to 'Americas Finest Karate Kickboxing Academy' for hosting a Kickboxing tournament and inviting AT Jiu-Jitsu NYC to our first ever Kickboxing Tournament! Everything Coach Rocco and Professor Alvaro have taught were put to the test. No matter the outcome, we are so proud of our students who were brave and put themselves out there to fight. We hope to have more Kickboxing Tournaments soon. Check out the action packed matches below!**
 
 - - -
 
