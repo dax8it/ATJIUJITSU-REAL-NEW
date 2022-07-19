@@ -8,4 +8,4 @@ home: false
 tags:
   - Blog
 ---
-Field Day 2022
+**Scavenger Hunt, tug-o-war, limbo contest, 3-legged race, and an Egg balancing race, it was an unforgettable field day! It was fun, entertaining, competive and good vibes all around. Thank you to the AT Jiu-Jitsu NYC Kids, parents for participating and of course the Coaches for always taking time for the kids!**
