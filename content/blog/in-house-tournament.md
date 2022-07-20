@@ -34,7 +34,7 @@ Thank you to everyone who signed up for our very first In-House tournament! We c
 
 - - -
 
-# Placement 🥉🥈🥇
+# Medal Ceremony 🥇🥈🥉
 
 ![](/img/dsc00757.jpg)
 
