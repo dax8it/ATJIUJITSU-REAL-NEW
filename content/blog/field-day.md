@@ -10,3 +10,44 @@ tags:
 ---
 **Scavenger Hunt, tug-o-war, limbo contest, 3-legged race, and an Egg balancing race, it was an unforgettable field day! It was fun, entertaining, competive and good vibes all around. Thank you to the AT Jiu-Jitsu NYC Kids, parents for participating and of course the Coaches for always taking time for the kids!**
 
+- - -
+
+![](/img/dsc08047.jpg)
+
+![](/img/dsc08058.jpg)
+
+![](/img/dsc08058.jpg)
+
+![](/img/dsc08255.jpg)
+
+![](/img/dsc08332.jpg)
+
+![](/img/img-9542.jpg)
+
+![](/img/img-9543.jpg)
+
+- - -
+
+# Placement 🏆
+
+# 1st Place 🥇
+
+## **TEAM BIG LEAGUE**
+
+![](/img/dsc08412.jpg)
+
+# 2nd Place 🥈
+
+## **MIGHTY DUCKS🐥**
+
+![](/img/dsc08401.jpg)
+
+- - -
+
+# **3rd Place 🥉**
+
+## **BAD NEWS BEARS** 
+
+![](/img/dsc08373.jpg)
+
+- - -
