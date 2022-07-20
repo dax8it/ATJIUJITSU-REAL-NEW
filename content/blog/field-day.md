@@ -32,9 +32,11 @@ tags:
 
 # 1st Place 🥇
 
-## **TEAM BIG LEAGUE**
+## **TEAM BIG LEAGUE 💪**
 
 ![](/img/dsc08412.jpg)
+
+<bh>
 
 # 2nd Place 🥈
 
@@ -42,11 +44,11 @@ tags:
 
 ![](/img/dsc08401.jpg)
 
-- - -
+<bh>
 
 # **3rd Place 🥉**
 
-## **BAD NEWS BEARS** 
+## **BAD NEWS BEARS 🐻**
 
 ![](/img/dsc08373.jpg)
 
