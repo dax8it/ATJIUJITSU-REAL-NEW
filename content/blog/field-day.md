@@ -16,7 +16,7 @@ tags:
 
 ![](/img/dsc08058.jpg)
 
-![](/img/dsc08058.jpg)
+![](/img/dsc08062.jpg)
 
 ![](/img/dsc08255.jpg)
 
