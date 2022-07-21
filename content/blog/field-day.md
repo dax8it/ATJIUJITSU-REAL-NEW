@@ -10,7 +10,11 @@ tags:
 ---
 **Scavenger Hunt, tug-o-war, limbo contest, 3-legged race, and an Egg balancing race, it was an unforgettable field day! It was fun, entertaining, competive and good vibes all around. Thank you to the AT Jiu-Jitsu NYC Kids, parents for participating and of course the Coaches for always taking time for the kids!**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Xd5QVKuDzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - - -
+
+<bh>
 
 ![](/img/dsc08047.jpg)
 
