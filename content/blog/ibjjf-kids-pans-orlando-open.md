@@ -17,4 +17,4 @@ Our very own Francesca took second place!
 
 ![](/img/294618039_723478062426740_5690541540169456131_n.jpg)
 
-These two warriors trained and fought their hearts out, no fear, no hesitation, and ready to go. We hope that this experience is filled with good memories and live with them forever. Congrats Shea & Emma!!!!!!
+## **These two warriors trained and fought their hearts out, no fear, no hesitation, and ready to go. We hope that this experience is filled with good memories and live with them forever. Congrats Shea & Emma!!!!!!**
