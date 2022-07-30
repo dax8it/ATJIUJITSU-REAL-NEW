@@ -13,7 +13,7 @@ Our very own Francesca took second place!
 
 - - -
 
-## This young lady is amazing! A true Jiu-Jitsu athlete 🥋 and a dangerous competitor ☢️. No word can begin to express the joy and pride she has brought us. She played her game and did her job!!!!! Congrats Cesca!
+## This young lady is amazing! A true Jiu-Jitsu athlete 🥋 and a dangerous competitor ☢️. No words can begin to express the joy and pride she has brought us. She played her game and did her job!!!!! Congrats Cesca!
 
 ![](/img/294618039_723478062426740_5690541540169456131_n.jpg)
 
