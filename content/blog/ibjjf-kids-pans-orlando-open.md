@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: IBJJF Kids Pans/ Orlando Open
 order: 30
-date: 2022-07-16T23:28:34.894Z
+date: 2022-07-23T23:28:34.894Z
 description: 'When one of us win, we all win! Congrats to all the competitors! '
 thumbnail: /img/294752331_723478059093407_389128402297144778_n.jpg
 home: false
@@ -28,3 +28,7 @@ Our very own Francesca took second place at her first Kids Pans!
 ![](/img/295285540_722856922488854_2775917236185101339_n.jpg)
 
 ![](/img/294439718_722856919155521_2161375921020216163_n.jpg)
+
+<bh>
+
+
