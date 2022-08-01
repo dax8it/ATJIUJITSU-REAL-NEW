@@ -9,7 +9,7 @@ home: false
 tags:
   - Blog
 ---
-Our very own Francesca took second place!
+Our very own Francesca took second place at her first Kids Pans!
 
 - - -
 
