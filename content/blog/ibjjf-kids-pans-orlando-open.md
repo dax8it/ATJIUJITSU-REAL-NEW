@@ -20,3 +20,7 @@ Our very own Francesca took second place at her first Kids Pans!
 ## **These two warriors trained and fought their hearts out, no fear, no hesitation, and ready to go. We hope that this experience is filled with good memories and live with them forever. Congrats Shea & Emma!!!!!!**
 
 ![](/img/294487044_722856925822187_1668246772421478879_n.jpg)
+
+![](/img/295285540_722856922488854_2775917236185101339_n.jpg)
+
+![](/img/294439718_722856919155521_2161375921020216163_n.jpg)
