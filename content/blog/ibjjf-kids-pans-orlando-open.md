@@ -29,4 +29,8 @@ tags:
 
 - - -
 
+WHEN ONE OF US WINS, WE ALL WIN!!!!! Congrats to Coach Mo on his bronze medal at the IBJJF Orlando Open!
+
 ![](/img/293934304_5147235912040508_7542910919177541224_n.jpg)
+
+![](/img/294409789_5147235908707175_6070791767732697734_n.jpg)
