@@ -6,7 +6,7 @@ date: 2021-11-20T00:00:00.000Z
 description: >-
   Here are some of our students, who with hard work and determination have
   earned their stripe or new belt!
-thumbnail: /img/dsc03373.jpg
+thumbnail: /img/dsc08627.jpg
 home: false
 tags:
   - Blog
