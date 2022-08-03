@@ -2,11 +2,11 @@
 templateKey: blog-post
 title: 'Belt Promotions '
 order: 1
-date: 2021-11-20T00:00:00.000Z
+date: 2022-07-29T23:00:00.000Z
 description: >-
   Here are some of our students, who with hard work and determination have
   earned their stripe or new belt!
-thumbnail: /img/dsc03373.jpg
+thumbnail: /img/dsc08627.jpg
 home: false
 tags:
   - Blog
@@ -17,38 +17,28 @@ tags:
 
 # **Belt Promotions**
 
+![](/img/dsc08502.jpg)
+
+![](/img/dsc08512.jpg)
+
+![](/img/dsc08590.jpg)
+
+![](/img/dsc08496.jpg)
+
 ![](/img/dsc03456.jpg)
-
-![](/img/dsc01419.jpg)
-
-![](/img/dsc02031.jpg)
-
-![](/img/dsc00698.jpg)
-
-![](/img/dsc00712.jpg)
-
-![](/img/dsc00730.jpg)
-
-![](/img/dsc00739.jpg)
-
-![](/img/dsc02042.jpg)
-
-![](/img/dsc02071.jpg)
-
-![](/img/dsc02090.jpg)
 
 - - -
 
 # Stripes!
 
+![](/img/dsc08456.jpg)
+
+![](/img/dsc08448.jpg)
+
+![](/img/dsc08464.jpg)
+
 ![](/img/img_1932.jpg)
 
 ![](/img/img_1936.jpg)
-
-![](/img/img_1938.jpg)
-
-![](/img/img_1940.jpg)
-
-![](/img/dsc02116.jpg)
 
 - - -
