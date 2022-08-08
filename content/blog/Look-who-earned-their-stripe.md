@@ -39,6 +39,4 @@ tags:
 
 ![](/img/dsc08464.jpg)
 
-![](/img/img_1932.jpg)
-
 - - -
