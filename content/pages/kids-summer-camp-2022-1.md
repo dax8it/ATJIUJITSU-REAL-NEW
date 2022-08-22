@@ -5,7 +5,7 @@ order: 3
 date: 2022-07-05T21:20:19.558Z
 description: Summer Camp Registration is now open!
 thumbnail: /img/img_7365.jpg
-home: true
+home: false
 tags:
   - Blog
 ---
