@@ -13,7 +13,15 @@ tags:
 ---
 `youtube: https://youtu.be/due_uL4FLCI`
 
+# What a wonderful summer – being immersed in nature, exploring new places, making new friends and trying new things. We always end each camp season with an eye toward the future and the excitement that lies ahead. Our heart is full of gratitude for our staff, for our campers and particularly for our camp parents who have entrusted your children to us. what a wonderful summer! Thank you for being an important part of it. Be sure to join us again next year!
+
 - - -
+
+**Check out some photos from our recent and previous summer sessions, with activities such as tie-dying, water balloon fights, Mario Kart tournaments, dodgeball, Jiu-Jitsu, arts and crafts, kickboxing, the library and museums, it was a summer we hope they’ll never forget!**
+
+
+
+****
 
 **We are happy to inform you that AT Jiu-Jitsu NYC is bringing back our annual summer program filled with endless fun this summer 2022! But this year, we are making it a little different than the previous years. Is your child ready to have a blast this summer learning and practicing jiu jitsu in Gi and No Gi, in addition to other fun activities such as judo, kickboxing, arts and crafts, obstacle courses and more!? Then join us now for our Jiu-Jitsu based summer camp!** 
 
