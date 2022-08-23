@@ -19,9 +19,17 @@ tags:
 
 **Check out some photos from our recent and previous summer sessions, with activities such as tie-dying, water balloon fights, Mario Kart tournaments, dodgeball, Jiu-Jitsu, arts and crafts, kickboxing, the library and museums, it was a summer we hope they’ll never forget!**
 
+![](/img/dsc07941.jpg)
 
+![](/img/dsc07784.jpg)
 
-****
+![](/img/dsc07969.jpg)
+
+![](/img/dsc07899.jpg)
+
+![](/img/dsc07997.jpg)
+
+- - -
 
 **We are happy to inform you that AT Jiu-Jitsu NYC is bringing back our annual summer program filled with endless fun this summer 2022! But this year, we are making it a little different than the previous years. Is your child ready to have a blast this summer learning and practicing jiu jitsu in Gi and No Gi, in addition to other fun activities such as judo, kickboxing, arts and crafts, obstacle courses and more!? Then join us now for our Jiu-Jitsu based summer camp!** 
 
