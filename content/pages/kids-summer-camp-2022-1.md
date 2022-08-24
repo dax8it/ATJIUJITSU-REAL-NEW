@@ -3,13 +3,31 @@ templateKey: blog-post
 title: Kids BJJ Summer Camp 2022
 order: 3
 date: 2022-07-05T21:20:19.558Z
-description: Summer Camp Registration is now open!
-thumbnail: /img/img_7365.jpg
+description: >-
+  Thank you to everyone who joined us this summer, be sure to join us again next
+  year!
+thumbnail: /img/75536d88-83d5-4a8f-ab55-d5b5323356e4.jpg
 home: false
 tags:
   - Blog
 ---
 `youtube: https://youtu.be/due_uL4FLCI`
+
+# What a wonderful summer – being immersed in nature, exploring new places, making new friends and trying new things. We always end each camp season with an eye toward the future and the excitement that lies ahead. Our heart is full of gratitude for our staff, for our campers and particularly for our camp parents who have entrusted your children to us. what a wonderful summer! Thank you for being an important part of it. Be sure to join us again next year!
+
+- - -
+
+**Check out some photos from our recent and previous summer sessions, with activities such as tie-dying, water balloon fights, Mario Kart tournaments, dodgeball, Jiu-Jitsu, arts and crafts, kickboxing, the library and museums, it was a summer we hope they’ll never forget!**
+
+![](/img/dsc07941.jpg)
+
+![](/img/dsc07784.jpg)
+
+![](/img/dsc07969.jpg)
+
+![](/img/dsc07899.jpg)
+
+![](/img/dsc07997.jpg)
 
 - - -
 
@@ -75,6 +93,6 @@ tags:
 
 If you have any questions or concerns please email us right away. Please keep in mind that spots are limited so if you are interested, let us know as soon as possible to begin planning future arrangements.
 
-Thank you to everyone once again. We hope to see you there this summer!🌞🌈🌺
+Thank you to everyone once again. We hope to see you there next summer!🌞🌈🌺
 
 - - -
