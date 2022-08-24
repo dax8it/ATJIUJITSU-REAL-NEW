@@ -19,7 +19,7 @@ tags:
 
 - - -
 
-**Check out some photos from our 2022 summer camp below, with activities such as board games, water balloon fights, Mario Kart tournaments, bowling, Jiu-Jitsu, arts and crafts, it was a summer we hope they’ll never forget!**
+**Check out some photos from our 2022 summer camp below, with activities such as board games, water balloon fights, Mario Kart tournaments, bowling, arts and crafts, and of course, plenty of Jiu-Jitsu, we hope it was a summer we hope they’ll never forget!**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z1BX3ig6iQw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
