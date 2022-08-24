@@ -10,7 +10,7 @@ tags:
 ---
 - - -
 
-![](/img/20220814_174133.jpg)
+![](/img/screenshot_20220814-055643_instagram.jpg)
 
 ![](/img/20220813_191612.jpg)
 
