@@ -19,8 +19,6 @@ tags:
 
 <iframe width="455" height="809" src="https://www.youtube.com/embed/CgAuLe2gxmQ" title="Yvonne Purple Belt Promotion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
 ![](/img/20220814_174133.jpg)
 
 ![](/img/dsc08502.jpg)
