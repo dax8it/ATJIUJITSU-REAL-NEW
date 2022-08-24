@@ -13,7 +13,9 @@ tags:
 ---
 - - -
 
-# What a wonderful summer – being immersed in nature, exploring new places, making new friends and trying new things. We always end each camp season with an eye toward the future and the excitement that lies ahead. Our heart is full of gratitude for our staff, for our campers and particularly for our camp parents who have entrusted your children to us. what a wonderful summer! Thank you for being an important part of it. Be sure to join us again next year!
+## What a wonderful summer filled **with a variety of ground based jiu-jitsu techniques as well as takedowns, and agility workouts that we hope improved your child’s fitness level and athletic ability. Campers had fun learning jiu-jitsu alongside our staff members and making new friends!** 
+
+## We always end each camp season with an eye toward the future and the excitement that lies ahead. Our heart is full of gratitude for our staff, for our campers and particularly for our camp parents who have entrusted your children to us. what a wonderful summer! Thank you for being an important part of it. Be sure to join us again next year!
 
 - - -
 
