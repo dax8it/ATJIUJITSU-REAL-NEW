@@ -6,7 +6,7 @@ date: 2022-07-05T21:20:19.558Z
 description: >-
   Thank you to everyone who joined us this summer, be sure to join us again next
   year!
-thumbnail: /img/img_7365.jpg
+thumbnail: /img/75536d88-83d5-4a8f-ab55-d5b5323356e4.jpg
 home: false
 tags:
   - Blog
