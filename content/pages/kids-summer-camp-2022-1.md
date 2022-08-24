@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Kids BJJ Summer Camp 2022
 order: 3
-date: 2022-07-05T21:20:19.558Z
+date: 2022-07-19T21:20:19.558Z
 description: >-
   Thank you to everyone who joined us this summer, be sure to join us again next
   year!
