@@ -11,7 +11,7 @@ home: false
 tags:
   - Blog
 ---
-- - - 
+- - -
 
 # What a wonderful summer – being immersed in nature, exploring new places, making new friends and trying new things. We always end each camp season with an eye toward the future and the excitement that lies ahead. Our heart is full of gratitude for our staff, for our campers and particularly for our camp parents who have entrusted your children to us. what a wonderful summer! Thank you for being an important part of it. Be sure to join us again next year!
 
@@ -24,8 +24,6 @@ tags:
 ![](/img/dsc07941.jpg)
 
 ![](/img/dsc07784.jpg)
-
-![](/img/dsc07969.jpg)
 
 ![](/img/dsc07899.jpg)
 
