@@ -19,11 +19,11 @@ tags:
 
 <iframe width="455" height="809" src="https://www.youtube.com/embed/CgAuLe2gxmQ" title="Yvonne Purple Belt Promotion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![](/img/20220814_174133.jpg)
-
 **Truly an honor to award Yvonne her purple belt this weekend @ibjjf New Haven Open. An amazing performance, never taking a loss over the weekend Gi, No-Gi, and No-Gi open class champion, while being there to support her teammates through it all. Could not be prouder for the type of competitor, training partner, and person Yvonne is.** 
 
 **First AT Jiu-Jitsu NYC student from white ⚪to purple 🟣belt! 👏🏾👏🏾👏🏾 Amazing!**
+
+![](/img/20220814_174133.jpg)
 
 ![](/img/dsc08502.jpg)
 
