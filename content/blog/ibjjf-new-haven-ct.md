@@ -12,6 +12,8 @@ tags:
 
 ![](/img/screenshot_20220814-055643_instagram.jpg)
 
+**Congratulations to our very own Coach Kim for double gold in her weight class & absolute!** 🥇🥇
+
 ![](/img/20220813_191612.jpg)
 
 ![](/img/20220814_093214.jpg)
