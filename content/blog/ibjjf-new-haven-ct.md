@@ -12,7 +12,7 @@ tags:
 
 ![](/img/screenshot_20220814-055643_instagram.jpg)
 
-**Congratulations to our very own Coach Kim for double gold in her weight class & absolute!** 🥇🥇
+**Congratulations to our very own Coach Kim for getting double gold in her weight class & absolute!** 🥇🥇
 
 ![](/img/20220813_191612.jpg)
 
@@ -28,9 +28,9 @@ tags:
 
 ![](/img/20220813_155045.jpg)
 
-![](/img/20220814_094633.jpg)
+**Steven in the zone!**
 
-![](/img/whatsapp-image-2022-08-24-at-5.19.04-pm-9-.jpeg)
+![](/img/20220814_094633.jpg)
 
 ![](/img/20220813_131152.jpg)
 
