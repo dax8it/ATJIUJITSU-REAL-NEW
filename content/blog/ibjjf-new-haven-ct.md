@@ -32,13 +32,21 @@ tags:
 
 ![](/img/20220814_094633.jpg)
 
+**Congrats to Professor Alvaro for placing 3rd! 🥉**
+
 ![](/img/20220813_131152.jpg)
 
 ![](/img/20220814_164335.jpg)
 
+**Congrats again to Julian for placing 2nd in No Gi!** 🥈
+
 ![](/img/whatsapp-image-2022-08-24-at-5.19.04-pm-9-.jpeg)
 
+**We're so proud of Allehia for placing 3rd in her first ever tournament!** 
+
 ![](/img/20220814_115004.jpg)
+
+**AT Jiu-Jitsu Family representing in New Haven!** 
 
 ![](/img/20220814_174518.jpg)
 
