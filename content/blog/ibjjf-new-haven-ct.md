@@ -28,6 +28,8 @@ tags:
 
 ![](/img/20220813_155045.jpg)
 
+Steven in the zone!
+
 ![](/img/20220814_094633.jpg)
 
 ![](/img/whatsapp-image-2022-08-24-at-5.19.04-pm-9-.jpeg)
