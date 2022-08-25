@@ -24,7 +24,7 @@ tags:
 
 ![](/img/20220814_093822.jpg)
 
-**Congratulations to Julian for getting 2nd place in his division!** 
+**Congratulations to Julian for getting 2nd place in his division!** 🥈
 
 ![](/img/20220813_155045.jpg)
 
