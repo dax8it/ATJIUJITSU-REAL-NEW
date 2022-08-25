@@ -23,7 +23,7 @@ tags:
 
 **Truly an honor to award Yvonne her purple belt this weekend @ibjjf New Haven Open. An amazing performance, never taking a loss over the weekend Gi, No-Gi, and No-Gi open class champion, while being there to support her teammates through it all. Could not be prouder for the type of competitor, training partner, and person Yvonne is.** 
 
-**First AT Jiu-Jitsu student from white to purple belt! 👏🏾👏🏾👏🏾 Amazing!**
+**First AT Jiu-Jitsu student from white ⚪to purple 🟣belt! 👏🏾👏🏾👏🏾 Amazing!**
 
 ![](/img/dsc08502.jpg)
 
