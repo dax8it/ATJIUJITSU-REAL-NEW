@@ -8,6 +8,8 @@ home: false
 tags:
   - Blog
 ---
+## AT Jiu-Jitsu NYC took an army out to New Haven, CT and came in strong! With many first time competitors, new belt promotion, double gold medals all around, it was a competition we will truly never forget! AT Jiu-Jitsu NYC is blessed to have wonderful people in it and great Jiu-Jitsu plays. Everybody won, that's a fact!
+
 - - -
 
 ![](/img/screenshot_20220814-055643_instagram.jpg)
