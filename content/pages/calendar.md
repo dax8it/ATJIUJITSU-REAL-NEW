@@ -89,7 +89,7 @@ _**Afternoon Class**_
 
 ## SATURDAY
 
-* **No GI Drilling and Sparring:** 12:15 to 1:00 pm
+* **No Gi Drilling and Sparring:** 12:15 to 1:00 pm
 
 ## SUNDAY
 
