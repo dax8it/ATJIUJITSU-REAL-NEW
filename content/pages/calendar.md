@@ -15,7 +15,7 @@ tags:
 
 ## <https://at-jiujitsu-nyc.maonrails.com/schedule>
 
-Please arrive 10 minutes prior to class starting. 
+Please arrive ontime to class or 10 minutes prior to class starting!  
 
 <script src="https://www.maonrails.com/js/widgets.js"></script>
 
@@ -77,12 +77,19 @@ _**Afternoon Class**_
 
 ## FRIDAY
 
+**_Morning Class_**
+
+* **No Gi Jiu-Jitsu :** 7:30 am to 8:30 am
+
+_**Afternoon Class**_
+
 * **Kickboxing Sparring Class:** 6:15 to 7:00 pm
+* **Beginners Jiu-Jitsu Class (Gi):** 6:15 to 7:00 pm
 * **Drilling and Sparring (Gi):** 7:15 to 8:00 pm
 
 ## SATURDAY
 
-* **No GI Drilling and Sparring:** 12:15 to 1:00 pm
+* **No Gi Drilling and Sparring:** 12:15 to 1:00 pm
 
 ## SUNDAY
 
