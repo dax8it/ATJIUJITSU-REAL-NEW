@@ -12,6 +12,8 @@ tags:
 
 - - -
 
+**Congrats to Yvonne for getting gold in her division! 🥇**
+
 ![](/img/screenshot_20220814-055643_instagram.jpg)
 
 **Congratulations to our very own Coach Kim for getting double gold in her weight class & absolute!** 🥇🥇
