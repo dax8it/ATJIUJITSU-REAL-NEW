@@ -23,6 +23,14 @@ tags:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z1BX3ig6iQw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+![](/img/13b69159-d26b-4eff-8111-89ae9ed86cd8.jpg)
+
+![](/img/92d29ce9-3c3f-4bf9-84ff-e0ea1fc8e052.jpg)
+
+![](/img/4cec25ec-388f-4f73-a200-c75422e5c47e.jpg)
+
+![]()
+
 ![](/img/dsc07941.jpg)
 
 ![](/img/dsc07784.jpg)
