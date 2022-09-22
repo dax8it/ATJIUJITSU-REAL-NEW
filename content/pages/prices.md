@@ -134,7 +134,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 **Day Pass - $45**
 
-**Toddler Drop In - $40**
+**Toddler Drop In - $45**
 
 - - -
 
