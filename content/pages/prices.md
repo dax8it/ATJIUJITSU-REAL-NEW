@@ -130,11 +130,11 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 # Drop In Fees:
 
-**One Session - $35**
+**One Session - $30**
 
 **Day Pass - $45**
 
-**Toddler Drop In - $40**
+**Toddler Drop In - $45**
 
 - - -
 
@@ -146,13 +146,13 @@ Available for purchase below:
 
 **Professor Alvaro:**
 
-* **3 ONE HOUR PRIVATE SESSIONS - $230**
-* **1 ONE HOUR PRIVATE SESSION - $80**
-* **ONE 1/2 HOUR PRIVATE SESSION - $50**
+* **3 ONE HOUR PRIVATE SESSIONS - $350**
+* **1 ONE HOUR PRIVATE SESSION - $120**
+* **ONE 1/2 HOUR PRIVATE SESSION - $60**
 
 **Coach Rocco:** 
 
-* **3 ONE HOUR PRIVATE SESSIONS - $225**
+* **3 ONE HOUR PRIVATE SESSIONS - $300**
 * **1 ONE HOUR PRIVATE SESSION - $80**
 
 - - -
