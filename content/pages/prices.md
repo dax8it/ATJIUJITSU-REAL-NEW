@@ -130,7 +130,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 # Drop In Fees:
 
-**One Session - $35**
+**One Session - $30**
 
 **Day Pass - $45**
 
