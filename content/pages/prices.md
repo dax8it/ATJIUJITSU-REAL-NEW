@@ -130,9 +130,9 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 # Drop In Fees:
 
-**One Session - $30**
+**One Session - $40**
 
-**Day Pass - $45**
+**Day Pass - $50**
 
 **Toddler Drop In - $45**
 
