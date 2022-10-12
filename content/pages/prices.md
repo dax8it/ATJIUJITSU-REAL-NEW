@@ -60,7 +60,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 - - -
 
-## One Time a Week - $120/mo:
+## One Time a Week - $140/mo:
 
 (+ $15.00 Sign Up Fee)
 
@@ -130,9 +130,9 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 # Drop In Fees:
 
-**One Session - $40**
+**One Session - $35**
 
-**Day Pass - $50**
+**Day Pass - $45**
 
 **Toddler Drop In - $45**
 
@@ -154,6 +154,10 @@ Available for purchase below:
 
 * **3 ONE HOUR PRIVATE SESSIONS - $300**
 * **1 ONE HOUR PRIVATE SESSION - $80**
+
+**Kids Private Sessions:**
+
+* **45 MINUTES - $45**
 
 - - -
 
