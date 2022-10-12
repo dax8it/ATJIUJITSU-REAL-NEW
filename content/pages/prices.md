@@ -155,7 +155,7 @@ Available for purchase below:
 * **3 ONE HOUR PRIVATE SESSIONS - $300**
 * **1 ONE HOUR PRIVATE SESSION - $80**
 
-**Kids Private Sessions:**
+**Kids Private Session with a Coach:** 
 
 * **45 MINUTES - $45**
 
