@@ -60,7 +60,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 - - -
 
-## One Time a Week - $120/mo:
+## One Time a Week - $140/mo:
 
 (+ $15.00 Sign Up Fee)
 
@@ -130,9 +130,9 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 # Drop In Fees:
 
-**One Session - $40**
+**One Session - $35**
 
-**Day Pass - $50**
+**Day Pass - $45**
 
 **Toddler Drop In - $45**
 
@@ -144,6 +144,8 @@ Available for purchase below:
 
 <https://at-jiujitsu-nyc.gymdesk.com/pricing>
 
+**Please give us a phone call, send an email, or speak to the front desk at your next visit to schedule a time for the private sessions.** 
+
 **Professor Alvaro:**
 
 * **3 ONE HOUR PRIVATE SESSIONS - $350**
@@ -154,6 +156,10 @@ Available for purchase below:
 
 * **3 ONE HOUR PRIVATE SESSIONS - $300**
 * **1 ONE HOUR PRIVATE SESSION - $80**
+
+**Kids Private Session with a Coach:** 
+
+* **45 MINUTES - $45**
 
 - - -
 
