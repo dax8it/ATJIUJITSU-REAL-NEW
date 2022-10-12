@@ -144,6 +144,8 @@ Available for purchase below:
 
 <https://at-jiujitsu-nyc.gymdesk.com/pricing>
 
+**Please give us a phone call, send an email, or speak to the front desk at your next visit to schedule a time for the private sessions.** 
+
 **Professor Alvaro:**
 
 * **3 ONE HOUR PRIVATE SESSIONS - $350**
