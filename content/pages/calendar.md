@@ -34,7 +34,7 @@ Please arrive ontime to class or 10 minutes prior to class starting!
 _**Afternoon Class**_
 
 * **Kickboxing:** 6:15 to 7:00 pm
-* **Beginners Jiu-Jitsu:** 6:10 to 7:10 pm
+* **Beginners Jiu-Jitsu (No Gi):** 6:10 to 7:10 pm
 * **Kettlebell:** 7:10 to 8:00 pm
 * **No Gi Jiu-Jitsu:** 7:15 to 8:15 pm
 
@@ -59,7 +59,7 @@ _**Afternoon Class**_
 _**Afternoon Class**_
 
 * **Kickboxing:** 6:15 to 7:00 pm
-* **Film Study (No Gi Drilling):** 6:15 to 7:10 pm
+* **Beginners Jiu-Jitsu (Gi):** 6:15 to 7:10 pm
 * **Advanced Sparring:** 7:15 to 8:00 pm
 
 ## THURSDAY
@@ -73,7 +73,7 @@ _**Afternoon Class**_
 * **Muay Thai:** 6:15 to 7:00 pm
 * **No Gi Drilling and Sparring:** 6:15 to 7:00 pm
 * **Smarter Yoga:** 7:15 to 8:00 pm
-* **Jiu-Jitsu Drilling (Gi):** 8:10 to 9:00 pm
+* **Jiu-Jitsu Drilling (Gi):** 7:15 to 8:15 pm
 
 ## FRIDAY
 
@@ -83,13 +83,13 @@ _**Afternoon Class**_
 
 _**Afternoon Class**_
 
-* **Kickboxing Sparring Class:** 6:15 to 7:00 pm
-* **Beginners Jiu-Jitsu Class (Gi):** 6:15 to 7:00 pm
-* **Drilling and Sparring (Gi):** 7:15 to 8:00 pm
+* **Kickboxing Sparring:** 6:15 to 7:00 pm
+* **Beginners Jiu-Jitsu (Gi):** 6:15 to 7:00 pm
+* **Drilling and Sparring (Gi):** 7:15 to 8:15 pm
 
 ## SATURDAY
 
-* **No Gi Drilling and Sparring:** 12:15 to 1:00 pm
+* **No Gi Drilling and Sparring:** 12:15 to 1:15 pm
 
 ## SUNDAY
 
@@ -131,8 +131,12 @@ _**Afternoon Class**_
 
 ### SATURDAY
 
-* **Toddler Jiu-Jitsu (Ages 3-5):** 10:00 to 11:00 am
-* **Kids Jiu-Jitsu (Ages 6-14):** 10:15 to 11:00 am
+* **Toddler Jiu-Jitsu (Ages 3-5):** 9:30 to 10:15 am
+* **Kids Jiu-Jitsu (Ages 6-9):** 10:00 to 11:00 am
+* **Kids Jiu-Jitsu (Ages 10-14):** 10:15 to 11:15 am
+
+<bh>
+
 * **Kids Kickboxing (Ages 3-6):** 11:10 to 11:50 pm
 * **Kids Kickboxing (Ages 7-13):** 11:15 to 12:00 pm
 
