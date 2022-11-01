@@ -25,7 +25,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 - - -
 
-## Unlimited Classes - $225/mo:
+## Unlimited Classes - $250/mo:
 
 (+ $10.00 Sign Up Fee)
 
@@ -35,21 +35,15 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
   * Kickboxing
   * Yoga
 
-- - -
+**\- OR -** 
 
-## Four Times a Week - $195/mo:
+## Pay In Full, Unlimited (6 Months) - $1400:
 
-(+ $15.00 Sign Up Fee)
-
-* Working out is always useful even if you do it four times a week! ($12 per class)
-  * Jiu-Jitsu
-  * Muay Thai
-  * Kickboxing
-  * Yoga
+* ## Save $100!
 
 - - -
 
-## Two Times a Week - $175/mo:
+## Four Times a Week - $225/mo:
 
 (+ $15.00 Sign Up Fee)
 
@@ -57,6 +51,46 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 * Muay Thai
 * Kickboxing
 * Yoga
+
+**\- OR -** 
+
+## Pay In Full, 4x's A Week (6 Months) - $1300:
+
+* ## **Save $50!**
+
+- - -
+
+## Three Times a Week - $215/mo:
+
+(+ $15.00 Sign Up Fee)
+
+* Jiu-Jitsu
+* Muay Thai
+* Kickboxing
+* Yoga
+
+**\- OR -** 
+
+## Pay In Full, 3x's A Week (6 Months) - $1230:
+
+* ## **Save $60!**
+
+- - -
+
+## Two Times a Week - $200/mo:
+
+(+ $15.00 Sign Up Fee)
+
+* Jiu-Jitsu
+* Muay Thai
+* Kickboxing
+* Yoga
+
+**\- OR -** 
+
+## Pay In Full, 2x's A Week (6 Months) - $1150:
+
+* ## **Save $50!**
 
 - - -
 
@@ -69,15 +103,27 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 * Kickboxing
 * Yoga
 
+**\- OR -** 
+
+## Pay In Full, 1x A Week (6 Months) - $800:
+
+* ## **Save $40!**
+
 - - -
 
-## Jiu-Jitsu Package - $200/mo:
+## Jiu-Jitsu Package - $225/mo:
 
 (+ $15.00 Sign Up Fee)
 
 * Includes unlimited access to all Jiu-Jitsu classes and Yoga! 
   * Jiu-Jitsu
   * Yoga
+
+**\- OR -** 
+
+## Pay In Full, BJJ Unlimited (6 Months) - $1300:
+
+* ## **Save $50!**
 
 - - -
 
@@ -90,9 +136,15 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
   * Muay Thai
   * Yoga
 
+**\- OR -** 
+
+## Pay In Full, BJJ Unlimited (6 Months) - $1060:
+
+* ## **Save $50!**
+
 - - -
 
-## Age 3-4 Toddler Classes - $155/mo:
+## Age 3-4 Toddler Classes - $180/mo:
 
 (+ $15.00 Sign Up Fee)
 
@@ -103,36 +155,11 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 - - -
 
-## Pay In Full, Unlimited (6 Months) - $1200:
-
-* **Unlimited Classes ($200 x 6 Months)**
-  * 6 Month Agreement
-  * Unlimited Classes
-  * $200 Monthly (Compared to $225)
-
-- - -
-
-## Pay In Full, 3x's A Week (6 Months) - $1070:
-
-* **Three times a Week ($178 x 6 Months)**
-  * 6 Month Agreement
-  * $178 Monthly (Compared to $195)
-
-- - -
-
-## Pay In Full, 2x's A Week (6 Months) - $999:
-
-* **Two times a Week ($166 x 6 Months)**
-  * 6 Month Agreement
-  * $166 Monthly (Compared to $175)
-
-- - -
-
 # Drop In Fees:
 
-**One Session - $35**
+**One Session - $60**
 
-**Day Pass - $45**
+**Day Pass - $80**
 
 **Toddler Drop In - $45**
 
