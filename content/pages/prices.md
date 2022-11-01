@@ -86,6 +86,12 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 * Kickboxing
 * Yoga
 
+**\- OR -** 
+
+## Pay In Full, 2x's A Week (6 Months) - $1150:
+
+* ## **Save $50!**
+
 - - -
 
 ## One Time a Week - $140/mo:
@@ -96,6 +102,12 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 * Muay Thai
 * Kickboxing
 * Yoga
+
+**\- OR -** 
+
+## Pay In Full, 1x A Week (6 Months) - $800:
+
+* ## **Save $40!**
 
 - - -
 
