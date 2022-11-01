@@ -136,6 +136,12 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
   * Muay Thai
   * Yoga
 
+**\- OR -** 
+
+## Pay In Full, BJJ Unlimited (6 Months) - $1060:
+
+* ## **Save $50!**
+
 - - -
 
 ## Age 3-4 Toddler Classes - $180/mo:
