@@ -37,7 +37,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 **\- OR -** 
 
-## Pay In Full, Unlimited (6 Months) - $1400:
+## Pay In Full, Unlimited (6 Months) - $1,400:
 
 * ## Save $100!
 
@@ -54,7 +54,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 **\- OR -** 
 
-## Pay In Full, 4x's A Week (6 Months) - $1300:
+## Pay In Full, 4x's A Week (6 Months) - $1,300:
 
 * ## **Save $50!**
 
@@ -71,7 +71,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 **\- OR -** 
 
-## Pay In Full, 3x's A Week (6 Months) - $1230:
+## Pay In Full, 3x's A Week (6 Months) - $1,230:
 
 * ## **Save $60!**
 
@@ -88,7 +88,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 **\- OR -** 
 
-## Pay In Full, 2x's A Week (6 Months) - $1150:
+## Pay In Full, 2x's A Week (6 Months) - $1,150:
 
 * ## **Save $50!**
 
@@ -121,7 +121,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 **\- OR -** 
 
-## Pay In Full, BJJ Unlimited (6 Months) - $1300:
+## Pay In Full, BJJ Unlimited (6 Months) - $1,300:
 
 * ## **Save $50!**
 
@@ -138,7 +138,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 **\- OR -** 
 
-## Pay In Full, BJJ Unlimited (6 Months) - $1060:
+## Pay In Full, BJJ Unlimited (6 Months) - $1,060:
 
 * ## **Save $50!**
 
