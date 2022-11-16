@@ -188,6 +188,13 @@ Available for purchase below:
 
 * **45 MINUTES - $45**
 
+**Mommy/Daddy & Me Private:**
+
+(Book a private Jiu-Jitsu or Kickboxing session with your little one)
+
+* **45 MINUTES - $100**
+* **ONE HOUR - $120**
+
 - - -
 
 20% OFF FOR  2ND FAMILY/FRIEND 
