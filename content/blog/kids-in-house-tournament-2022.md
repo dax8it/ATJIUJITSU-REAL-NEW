@@ -13,7 +13,7 @@ tags:
 ---
 - - -
 
-## Matches 🥋🏆
+# Matches 🥋🏆
 
 ![](/img/dsc04046.jpg)
 
@@ -37,7 +37,7 @@ tags:
 
 - - -
 
-## Medal/Trophy Ceremony 🥇🥈🥉
+# Medal/Trophy Ceremony 🥇🥈🥉
 
 ![](/img/dsc03133.jpg)
 
@@ -53,4 +53,4 @@ tags:
 
 ![](/img/dsc05374.jpg)
 
-- - - 
+- - -
