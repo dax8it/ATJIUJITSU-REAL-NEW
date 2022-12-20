@@ -17,9 +17,15 @@ tags:
 
 # **Belt Promotions**
 
+![](/img/dsc05500.jpg)
 
+![](/img/dsc05253.jpg)
 
-![]()
+![](/img/dsc05131.jpg)
+
+![](/img/dsc03186.jpg)
+
+![](/img/dsc03150.jpg)
 
 <iframe width="455" height="809" src="https://www.youtube.com/embed/CgAuLe2gxmQ" title="Yvonne Purple Belt Promotion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -37,13 +43,11 @@ tags:
 
 ![](/img/dsc08590.jpg)
 
-![](/img/dsc08496.jpg)
-
-![](/img/dsc03456.jpg)
-
 - - -
 
 # Stripes!
+
+![](/img/dsc03175.jpg)
 
 ![](/img/img-1238.jpg)
 
