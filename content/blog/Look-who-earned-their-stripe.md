@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 'Belt Promotions '
 order: 1
-date: 2022-08-03T23:00:00.000Z
+date: 2022-12-12T00:00:00.000Z
 description: >-
   Here are some of our students, who with hard work and determination have
   earned their stripe or new belt!
