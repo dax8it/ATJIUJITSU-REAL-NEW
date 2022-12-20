@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 'Belt Promotions '
 order: 1
-date: 2022-08-03T23:00:00.000Z
+date: 2022-12-12T00:00:00.000Z
 description: >-
   Here are some of our students, who with hard work and determination have
   earned their stripe or new belt!
@@ -17,6 +17,8 @@ tags:
 
 # **Belt Promotions**
 
+
+
 ![](/img/dsc05500.jpg)
 
 ![](/img/dsc05253.jpg)
@@ -29,17 +31,7 @@ tags:
 
 <iframe width="455" height="809" src="https://www.youtube.com/embed/CgAuLe2gxmQ" title="Yvonne Purple Belt Promotion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<bh>
-
-**Truly an honor to award Yvonne her purple belt this weekend @ibjjf New Haven Open. An amazing performance, never taking a loss over the weekend Gi, No-Gi, and No-Gi open class champion, while being there to support her teammates through it all. Could not be prouder for the type of competitor, training partner, and person Yvonne is.** 
-
-**First AT Jiu-Jitsu NYC student from white ⚪to purple 🟣belt! 👏🏾👏🏾👏🏾 Amazing!**
-
 ![](/img/20220814_174133.jpg)
-
-![](/img/dsc08512.jpg)
-
-![](/img/dsc08590.jpg)
 
 - - -
 
@@ -47,8 +39,12 @@ tags:
 
 ![](/img/dsc03175.jpg)
 
-![](/img/img-1238.jpg)
+![](/img/dsc05643.jpg)
 
-![](/img/dsc08464.jpg)
+![](/img/dsc05613.jpg)
+
+![](/img/dsc05585.jpg)
+
+![](/img/dsc05599.jpg)
 
 - - -
