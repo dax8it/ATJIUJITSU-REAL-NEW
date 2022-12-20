@@ -37,8 +37,6 @@ tags:
 
 ![](/img/20220814_174133.jpg)
 
-![](/img/dsc08502.jpg)
-
 ![](/img/dsc08512.jpg)
 
 ![](/img/dsc08590.jpg)
