@@ -19,6 +19,8 @@ tags:
 
 ![](/img/img-0456.jpg)
 
+![](/img/dsc05500.jpg)
+
 ![](/img/dsc05253.jpg)
 
 ![](/img/dsc05131.jpg)
