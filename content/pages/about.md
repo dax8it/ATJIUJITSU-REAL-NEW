@@ -181,3 +181,14 @@ As Co-Owner and Assistant Program Director of AT Jiu-Jitsu NYC, Daniela has work
 Daniela is a 2nd Degree Brown Belt in Shotokan Karate through Sensei Kai Leung and is currently a purple belt in Brazilian Jiu-Jitsu.
 
 - - -
+
+<!-- Google tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4799639-6">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-4799639-6');
+</script>
