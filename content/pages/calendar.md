@@ -141,3 +141,14 @@ _**Afternoon Class**_
 * **Kids Kickboxing (Ages 8-14):** 11:15 to 12:00 pm
 
 - - -
+
+<!-- Google tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4799639-6">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-4799639-6');
+</script>
