@@ -11,9 +11,15 @@ home: false
 tags:
   - Blog
 ---
-## **Congratulations to Daniel Orama, winner of the fastest sub in only 39 seconds at the LIJJN Tournament! Thank you for running an excellent event that allows NYC area grapplers to shine. We hope this is the first of many more to come!**
+<br>
 
 <iframe width="1280" height="721" src="https://www.youtube.com/embed/FyKRnVYz3W0" title="Daniel Orama - LIJJN Super Fight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## 
+
+## **Congratulations to Daniel Orama, winner of the fastest sub in only 39 seconds at the LIJJN Tournament! Thank you for running an excellent event that allows NYC area grapplers to shine. We hope this is the first of many more to come!**
+
+<br>
 
 - - -
 
