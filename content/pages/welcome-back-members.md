@@ -27,7 +27,7 @@ If you already have an account with us please login below.
 
 # **Academy Protocols:**
 
-Students are required to follow training protocols for safety and the safety of others. Please read the following as it contains important information to follow at our gym.
+Please read the following as it contains important information to follow at our gym. Students are required to follow training protocols for safety and the safety of others. 
 
 * Students are expected to remove their shoes BEFORE stepping onto the mats. NO SHOES on the mats. 
 * Wash hands prior to training and/or sanitize hands (RECOMMENDED).
