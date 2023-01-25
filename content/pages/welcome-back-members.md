@@ -27,24 +27,4 @@ If you already have an account with us please login below.
 
 # **Academy Protocols:**
 
-## Students are recommended to:
-
-**• Get Covid tested every month**
-
-• Wear a clean mask at all times during training (Breaks allowed in between if needed)
-
-• Wash your hands with soap and water or use hand sanitizer frequently in and outside the gym.
-
-• Avoid touching your face.
-
-• Sneeze or cough into a tissue, or in the inside of their elbow. (Wash hands or use hand sanitizer immediately after)
-
-• Disinfect and wash frequently used items and surfaces as much as possible, such as: gear bag, water bottle, mouth guard, belt, and gym footwear.
-
-• Bring your own face towel to dry any perspiration.
-
-• Be thoughtful of any early symptoms before training. (Do not attend training sessions if you exhibit any of the following symptoms: Fever or chills, Cough, Shortness of breath or difficulty breathing, Fatigue, Muscle or body aches, Headache, loss of taste or smell, Sore throat, Congestion or runny nose, Nausea or vomiting, Diarrhea)
-
-## AT JIU-JITSU NYC ACTIONS AND PROTOCOLS:
-
-• Hand sanitizer will be provided by the mats, changing area, lobby and at the entrance of the gym. • Disinfectant area for feet before stepping onto the mats. • Commonly touched surfaces will be wiped down twice before arrival and after dismissal • Allow as much fresh air ventilation as possible between sessions. • Covid-19 specific liability waiver. • Disinfect throughout the day all common and high-traffic areas such as the entrance, gym mats, and restrooms in between classes. • Staff members will be tested twice a month and will provide proof of negative exam after every test. • Staff will maintain social distance amongst each other when possible • We will follow testing policies and procedures required for staff according to the guidelines established by CDC and local government. • Temperature checks will be administered prior to training.
+##
