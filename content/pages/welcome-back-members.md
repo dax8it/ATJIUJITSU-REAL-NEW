@@ -33,6 +33,9 @@ Students are required to follow training protocols for safety and the safety of 
 * Wash hands prior to training and/or sanitize hands (RECOMMENDED).
 * Arrive to class ON TIME. Arriving late is a disrespect to the Professor/Instructor.
 * Booking Class online is a REQUIREMENT in order to keep track of the attendance for the day.
-* Register early for class
+* Register early for classes.
 * Respect the WAITLIST, if you are put on a class waitlist, you cannot take class. You are welcome to attend and observe the class, but not to take class. This follows the importance of registering early for class!
-* If you cannot attend class, CANCEL your class booking so that if someone is on the waitlist, they can take your spot in class.
+* If you cannot attend class, CANCEL your class booking so that if someone is on the waitlist, they can take your spot in class. 
+* Students are expected to help spray & mop the mats after class, this goes for Kids and Adults. 
+* Students that used any academy equipment is expected to spray down the gear and return to where it belongs. Please DO NOT leave any used equipment on the mats. 
+* Clean up after yourself in the changing rooms, do not leave any discarded tissues, empty water bottles, tape on the floor or counter tops.
