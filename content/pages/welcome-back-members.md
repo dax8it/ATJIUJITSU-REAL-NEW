@@ -27,4 +27,12 @@ If you already have an account with us please login below.
 
 # **Academy Protocols:**
 
-##
+Students are required to follow training protocols for safety and the safety of others.
+
+* Students are expected to remove their shoes BEFORE stepping onto the mats. NO SHOES on the mats. 
+* Wash hands prior to training and/or sanitize hands (RECOMMENDED).
+* Arrive to class ON TIME. Arriving late is a disrespect to the Professor/Instructor.
+* Booking Class online is a REQUIREMENT in order to keep track of the attendance for the day.
+* Register early for class
+* Respect the WAITLIST, if you are put on a class waitlist, you cannot take class. You are welcome to attend and observe the class, but not to take class. This follows the importance of registering early for class!
+* If you cannot attend class, CANCEL your class booking so that if someone is on the waitlist, they can take your spot in class.
