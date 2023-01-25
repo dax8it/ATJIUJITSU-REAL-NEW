@@ -38,10 +38,8 @@ Please read the following as it contains important information to follow at our 
 * Register early for classes.
 * Respect the WAITLIST, if you are put on a class waitlist, you cannot take class. You are welcome to attend and observe the class, but not to take class. This follows the importance of registering early for class!
 * If you cannot attend class, CANCEL your class booking so that if someone is on the waitlist, they can take your spot in class. 
-* Students are expected to help spray & mop the mats after class, this goes for Kids and Adults. 
 * Students that used any academy equipment is expected to spray down the gear and return to where it belongs. Please DO NOT leave any used equipment on the mats. 
 * Students must clean up after themselves in the changing rooms, do not leave any discarded tissues, empty water bottles, tape, sweaty clothes on the floor or counter tops. 
 * Students are required to own their own Kickboxing gear and Jiu-Jitsu Gi once enrolled for a monthly program. Gis & Kickboxing gear are meant for students on trial only. 
 * If you do not have a Gi for the class, students must pay a $5 rental fee. 
 * Students are encouraged to bring flip flops to leave at the gym.
-*
