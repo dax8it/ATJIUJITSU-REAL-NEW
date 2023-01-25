@@ -17,11 +17,16 @@ tags:
 
 ## Offering both Gi and No Gi classes.
 
-• BJJ is a grappling-based martial art whose central theme is the skill of controlling a resisting opponent in ways that force them to submit. BJJ does not feature kicking or punching. Techniques of BJJ are centered round the skill of taking an opponent down to the ground and wrestling for dominant control positions from where the opponent can be rendered harmless.
+• We offer a variety of Gi and No Gi classes, Beginners and Advanced. 
 
-• BJJ teaches one to defend themselves especially with opponents who might be bigger or stronger. This is done by utilizing superior leverage, grip and position upon your opponent.
-
-• Students benefit from greatly increased physical fitness, problem-solving ability, self-knowledge of their body and mind and the many social benefits of working and growing with your classmates.
+> **Beginners No Gi: Mondays 6:15 p.m. - 7:00 p.m.**
+>
+> \
+>
+>
+> **Beginners Gi: Wednesdays & Fridays 6:15 p.m. - 7:00 p.m.**
+>
+>  
 
 # Get Started Now:
 
@@ -33,25 +38,19 @@ tags:
 
 - - -
 
-![](/img/dsc01230.jpg)
+![](/img/dsc06555.jpg)
 
-![](/img/dsc06340.jpg)
+![](/img/dsc05957.jpg)
 
-![](/img/dsc06199.jpg)
-
-![](/img/dsc00104.jpg)
-
-![](/img/dsc06416.jpg)
-
-![](/img/dsc01225.jpg)
-
-![](/img/dsc07857.jpg)
+![](/img/dsc00137.jpg)
 
 - - -
 
 <!-- Google tag (gtag.js) - Google Analytics -->
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-4799639-6">
 </script>
+
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
