@@ -13,13 +13,21 @@ Through Martial Arts on Rails, you will be able to book your class sessions ahea
 
 In the link below, there is a step by step video tutorial for how to register, if you have not yet done so. 
 
-## <https://www.maonrails.com/signup/member/8s6>
+>
+>
+> <https://www.maonrails.com/signup/member/8s6>
+>
+>
 
 <br>
 
 If you already have an account with us please login below.
 
-## <https://at-jiujitsu-nyc.maonrails.com/login>
+>
+>
+> <https://at-jiujitsu-nyc.maonrails.com/login>
+>
+>
 
 <br>
 
