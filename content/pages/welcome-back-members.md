@@ -15,6 +15,8 @@ In the link below, there is a step by step video tutorial for how to register, i
 
 ## <https://www.maonrails.com/signup/member/8s6>
 
+<br>
+
 If you already have an account with us please login below.
 
 ## <https://at-jiujitsu-nyc.maonrails.com/login>
@@ -46,4 +48,4 @@ Please read the following as it contains important information to follow at our 
 
 If you have any questions or concerns on any of our policies, please speak to us as soon as possible. Thank you.
 
-- - - 
+- - -
