@@ -35,8 +35,6 @@ tags:
 
 - - -
 
-## **Adult Program:**
-
 ![](/img/dsc06555.jpg)
 
 ![](/img/dsc05957.jpg)
