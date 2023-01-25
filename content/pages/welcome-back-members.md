@@ -31,6 +31,7 @@ Students are required to follow training protocols for safety and the safety of 
 
 * Students are expected to remove their shoes BEFORE stepping onto the mats. NO SHOES on the mats. 
 * Wash hands prior to training and/or sanitize hands (RECOMMENDED).
+* Wipe your feet in the footbucket everytime before stepping onto the mats.
 * Arrive to class ON TIME. Arriving late is a disrespect to the Professor/Instructor.
 * Booking Class online is a REQUIREMENT in order to keep track of the attendance for the day.
 * Register early for classes.
