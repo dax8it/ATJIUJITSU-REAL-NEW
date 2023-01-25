@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: KettleBell
-order: 9
+order: 8
 date: 2020-01-06T22:49:38.439Z
 description: 'For toning and strengthening, try our new Kettlebell class! '
 thumbnail: /img/dsc05705.jpg
