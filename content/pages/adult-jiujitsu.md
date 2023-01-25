@@ -39,6 +39,8 @@ tags:
 
 ![](/img/dsc05957.jpg)
 
+![](/img/dsc07773.jpg)
+
 ![](/img/whatsapp-image-2023-01-23-at-7.00.13-pm-1-.jpeg)
 
 ![](/img/dsc06568.jpg)
