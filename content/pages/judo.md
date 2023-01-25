@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Judo
-order: 5
+order: 11
 date: '2019-05-01'
 description: >-
   The martial art involves several holds, locks and throws. Learning balance,
