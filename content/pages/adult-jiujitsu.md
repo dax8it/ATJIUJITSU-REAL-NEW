@@ -22,6 +22,8 @@ tags:
 > **Beginners No Gi: Mondays 6:15 p.m. - 7:00 p.m.**
 >
 > **Beginners Gi: Wednesdays & Fridays 6:15 p.m. - 7:00 p.m.**
+>
+> **Advanced Gi: Wednesdays 7:15 p.m. - 8:30 p.m.**
 
 # Get Started Now:
 
