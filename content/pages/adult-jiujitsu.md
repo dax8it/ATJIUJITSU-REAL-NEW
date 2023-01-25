@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Brazilian Jiu Jitsu
-order: 5
+order: 0
 date: '2019-05-01'
 description: 'Jiu Jitsu is so much more than a sport, it’s a way of life.'
 thumbnail: /img/fb_img_1621261403650.jpg
