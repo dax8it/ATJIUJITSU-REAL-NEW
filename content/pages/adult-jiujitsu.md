@@ -17,7 +17,7 @@ tags:
 
 ## Offering both Gi and No Gi classes.
 
-• We offer a variety of Gi and No Gi classes, Beginners and Advanced. 
+• We offer a variety of Gi & No Gi classes, Beginners & Advanced classes, and morning, afternoon & evening classes which can fit all schedules! 
 
 > **Beginners No Gi: Mondays 6:15 p.m. - 7:00 p.m.**
 >
@@ -35,9 +35,15 @@ tags:
 
 - - -
 
+## **Adult Program:**
+
 ![](/img/dsc06555.jpg)
 
 ![](/img/dsc05957.jpg)
+
+![](/img/whatsapp-image-2023-01-23-at-7.00.13-pm-1-.jpeg)
+
+![](/img/dsc06568.jpg)
 
 ![](/img/dsc00137.jpg)
 
