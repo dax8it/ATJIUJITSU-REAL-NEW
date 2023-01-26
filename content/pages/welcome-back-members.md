@@ -43,3 +43,9 @@ Students are required to follow training protocols for safety and the safety of 
 * If you do not have a Gi for the day, you will be required to pay a $5 rental fee.
 * Any borrowed gear, must be sprayed down and returned to its place. DO NOT leave any used gear on the mats.
 * Students are recomended to bring their own flip flops to leave here at the gym. Please avoid walking barefoot throught the gym, unless on the mats.
+
+Please do your best to follow our policies and if you have any questions or concerns, pleas do not hesitate to reach out. Thank you.
+
+\-AT JIU-JITSU NYC STAFF
+
+- - -
