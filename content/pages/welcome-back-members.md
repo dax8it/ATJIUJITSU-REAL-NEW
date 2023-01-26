@@ -29,4 +29,9 @@ If you already have an account with us please login below.
 
 # **Academy Protocols:**
 
-##
+Students are required to follow training protocols for safety and the safety of others. 
+
+* Students must remove their shoes before stepping onto the mat. NO SHOES on the mat.
+* Students must arrive ON TIME to class. Arriving late is disrespectful to the Professor/Instructor.
+* Students MUST BOOK every class ahead of time.
+*
