@@ -39,4 +39,4 @@ Students are required to follow training protocols for safety and the safety of 
 * Students are REQUIRED to have their own Gi, and Kickboxing Gear once enrolled in a monthly membership.
 * Academy gear is available to students on trial only.
 * If you do not have a Gi for the day, you will be required to pay a $5 rental fee.
-*
+* Any borrowed gear, must be sprayed down and returned to its place. DO NOT leave any used gear on the mats.
