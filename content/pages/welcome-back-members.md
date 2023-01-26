@@ -33,5 +33,5 @@ Students are required to follow training protocols for safety and the safety of 
 
 * Students must remove their shoes before stepping onto the mat. NO SHOES on the mat.
 * Students must arrive ON TIME to class. Arriving late is disrespectful to the Professor/Instructor.
-* Students MUST BOOK every class ahead of time.
-*
+* Students are REQUIRED to book every class ahead of time. This is to have an attendance for the day. 
+* If a student is put on a WAITLIST, you must respect the list. If you are put on the waitlist, you CANNOT take class. You can still attend class but only to observe. This refers back to booking class on time.
