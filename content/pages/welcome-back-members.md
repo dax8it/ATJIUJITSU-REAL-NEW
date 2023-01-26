@@ -32,6 +32,7 @@ If you already have an account with us please login below.
 Students are required to follow training protocols for safety and the safety of others. 
 
 * Students must remove their shoes before stepping onto the mat. NO SHOES on the mat.
+* Students MUST wipe their feet in the footbucket before stepping onto the mats each time.
 * Wash hands prior to training and/or sanitize hands (RECOMMENDED).
 * Students must arrive ON TIME to class. Arriving late is disrespectful to the Professor/Instructor.
 * Students are REQUIRED to book every class ahead of time. This is to have an attendance for the day. 
@@ -41,4 +42,3 @@ Students are required to follow training protocols for safety and the safety of 
 * If you do not have a Gi for the day, you will be required to pay a $5 rental fee.
 * Any borrowed gear, must be sprayed down and returned to its place. DO NOT leave any used gear on the mats.
 * Students are recomended to bring their own flip flops to leave here at the gym. Please avoid walking barefoot throught the gym, unless on the mats.
-* Students must wipe their feet on the foot bucket, after stepping off the mats EACH TIME.
