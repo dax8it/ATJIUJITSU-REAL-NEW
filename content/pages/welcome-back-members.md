@@ -31,7 +31,7 @@ If you already have an account with us please login below.
 
 Students are required to follow training protocols for safety and the safety of others. 
 
-* Students must remove their shoes before stepping onto the mat. NO SHOES on the mat.
+* Students must remove their shoes before stepping onto the mat. NO SHOES allowed on the mat.
 * Students MUST wipe their feet in the footbucket before stepping onto the mats each time.
 * Wash hands prior to training and/or sanitize hands (RECOMMENDED).
 * If you do not feel well and/or are nursing any injuries, please stay home and rest.
