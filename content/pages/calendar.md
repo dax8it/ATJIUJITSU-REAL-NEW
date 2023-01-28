@@ -145,6 +145,10 @@ _**Afternoon Class**_
 * **Kids Jiu-Jitsu (Ages 10-15):** 10:15 to 11:15 am
 * **Kids Kickboxing (Ages 8-15):** 11:15 to 12:00 pm
 
+### SUNDAY
+
+* **Kids Sunday Funday Drilling & Sparring (Ages 5-15):** 11:30 to 12:30 pm
+
 
 
 - - -
