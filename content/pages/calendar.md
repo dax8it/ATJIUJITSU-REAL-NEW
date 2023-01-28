@@ -61,7 +61,7 @@ _**Afternoon Class**_
 
 * **Kickboxing:** 6:15 to 7:00 pm
 * **Beginners Jiu-Jitsu (Gi):** 6:15 to 7:00 pm
-* **Jiu-Jitsu Advanced Sparring:** 7:15 to 8:00 pm
+* **Jiu-Jitsu Advanced Sparring (Gi):** 7:15 to 8:00 pm
 
 ## THURSDAY
 
