@@ -127,7 +127,7 @@ _**Afternoon Class**_
 ### THURSDAY
 
 * **Kids No Gi Jiu-Jitsu (Ages 7-15):** 4:15 to 5:00 pm 
-* **Kids MMA (Ages 7-14):** 5:15 to 6:00 pm 
+* **Kids MMA (Ages 7-15):** 5:15 to 6:00 pm 
 
 ### FRIDAY
 
