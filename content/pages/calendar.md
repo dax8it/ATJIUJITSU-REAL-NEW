@@ -132,7 +132,7 @@ _**Afternoon Class**_
 ### FRIDAY
 
 * **Jiu-Jitsu (Ages 5 to 9):** 3:30 to 4:10 pm
-* **No Gi Jiu-Jitsu (Ages 10 to 15)** 4:15 to 5:00 pm
+* **No Gi Jiu-Jitsu (Ages 10 to 15):** 4:15 to 5:00 pm
 
 ### SATURDAY
 
