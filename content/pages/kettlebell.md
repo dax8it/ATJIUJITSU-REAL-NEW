@@ -26,20 +26,18 @@ tags:
 
 - - -
 
-![](/img/dsc00634.jpg)
+![](/img/dsc06725.jpg)
 
-![](/img/dsc04047.jpg)
+![](/img/dsc06758.jpg)
 
-![](/img/dsc04886.jpg)
+![](/img/dsc06762.jpg)
 
-![](/img/dsc06371.jpg)
+![](/img/dsc06916.jpg)
 
-![](/img/dsc06318.jpg)
+![](/img/dsc06809.jpg)
 
-![](/img/dsc04081.jpg)
+![](/img/dsc06842.jpg)
 
-![](/img/dsc04938.jpg)
+![](/img/dsc06944.jpg)
 
-![](/img/dsc01451.jpg)
-
-![](/img/dsc06396.jpg)
+- - -
