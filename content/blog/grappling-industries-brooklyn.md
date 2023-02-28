@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Grappling Industries Brooklyn
 order: 30
 date: 2023-02-18T23:33:48.185Z
-thumbnail: /img/whatsapp-image-2023-02-19-at-2.38.25-pm.jpeg
+thumbnail: /img/whatsapp-image-2023-02-19-at-2.38.39-pm.jpeg
 home: false
 tags:
   - Blog
