@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'IBJJF New Orleans, LA'
+title: 'IBJJF New Orleans, LA - May. 9, 21'
 order: 30
 date: 2021-05-09T21:54:31.334Z
 description: 'Congrats to our first time IBJJF competitors. You made us all very proud! '
