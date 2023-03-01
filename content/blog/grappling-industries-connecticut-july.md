@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Grappling Industries Connecticut, July'
+title: 'Grappling Industries Connecticut - Jul. 17, 21'
 order: 30
 date: 2021-07-18T20:08:37.553Z
 description: >-
