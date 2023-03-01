@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Kids In House Tournament 2022
+title: 'Kids In House Tournament - Dec. 9, 22'
 order: 30
 date: 2022-12-10T15:00:00.000Z
 description: >-
