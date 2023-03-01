@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Rocco Wins the Title! '
+title: 'Rocco Wins the Title! - Jul. 10, 21'
 order: 30
 date: 2021-07-10T22:04:46.046Z
 description: A big congrats to Coach Rocco for giving it his all and winning the title!
