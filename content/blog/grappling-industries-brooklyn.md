@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Grappling Industries Brooklyn
+title: Grappling Industries Brooklyn 2.18.23
 order: 1
 date: 2023-02-18T22:49:02.647Z
 description: >-
