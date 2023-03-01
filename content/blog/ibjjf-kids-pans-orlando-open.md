@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: IBJJF Kids Pans/ Orlando Open
+title: 'IBJJF Kids Pans/ Orlando Open - Jul.28, 22'
 order: 30
 date: 2022-07-23T23:28:34.894Z
 description: 'When one of us win, we all win! Congrats to all the competitors! '
