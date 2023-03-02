@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Grappling Industries Tournament, September 2019'
+title: 'Grappling Industries Tournament - Sep. 28, 19'
 order: 30
 date: 2019-09-28T00:00:00.000Z
 description: >-
