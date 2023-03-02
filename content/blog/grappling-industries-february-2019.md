@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Grappling Industries, February 2019'
+title: 'Grappling Industries, - Feb. 21, 19'
 order: 30
 date: 2019-02-22T00:00:00.000Z
 description: >-

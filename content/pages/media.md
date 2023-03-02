@@ -25,18 +25,11 @@ tags:
 
 ## AT Jiu-Jitsu BJJ Academy
 
+<iframe width="1280" height="721" src="https://www.youtube.com/embed/FyKRnVYz3W0" title="Daniel Orama - LIJJN Super Fight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VkIFBXUWu1M?start=12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TStxToBdjI0?start=12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3EYNqqJ-lBQ?start=12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br>
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yKzfq2AnD1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

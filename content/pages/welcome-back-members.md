@@ -15,6 +15,8 @@ In the link below, there is a step by step video tutorial for how to register, i
 
 ## <https://www.maonrails.com/signup/member/8s6>
 
+<br>
+
 If you already have an account with us please login below.
 
 ## <https://at-jiujitsu-nyc.maonrails.com/login>
@@ -27,24 +29,23 @@ If you already have an account with us please login below.
 
 # **Academy Protocols:**
 
-## Students are recommended to:
+Students are required to follow training protocols for safety and the safety of others. 
 
-**• Get Covid tested every month**
+* Students must remove their shoes before stepping onto the mat. NO SHOES allowed on the mat.
+* Students MUST wipe their feet in the footbucket before stepping onto the mats each time.
+* Wash hands prior to training and/or sanitize hands (RECOMMENDED).
+* If you do not feel well and/or are nursing any injuries, please stay home and rest.
+* Students must arrive ON TIME to class. Arriving late is disrespectful to the Professor/Instructor.
+* Students are REQUIRED to book every class ahead of time. This is to keep track of attendance for the day. 
+* If a student is put on a WAITLIST, you must respect the list. If you are put on the waitlist, you CANNOT take class. You can still attend class, but only to observe. This refers back to booking class on time.
+* Students are REQUIRED to have their own Gi, and Kickboxing Gear once enrolled in a monthly membership.
+* Academy gear is available to students on trial only.
+* If you do not have a Gi for the day, you will be required to pay a $5 rental fee each time.
+* Any borrowed gear, must be sprayed down and returned to its place. DO NOT leave any used gear on the mats.
+* Students are recomended to bring their own flip flops to leave here at the gym. Please avoid walking barefoot throughtout the gym, unless on the mats.
 
-• Wear a clean mask at all times during training (Breaks allowed in between if needed)
+Please do your best to follow our policies and if you have any questions or concerns, please do not hesitate to reach out. Thank you.
 
-• Wash your hands with soap and water or use hand sanitizer frequently in and outside the gym.
+\-AT JIU-JITSU NYC STAFF
 
-• Avoid touching your face.
-
-• Sneeze or cough into a tissue, or in the inside of their elbow. (Wash hands or use hand sanitizer immediately after)
-
-• Disinfect and wash frequently used items and surfaces as much as possible, such as: gear bag, water bottle, mouth guard, belt, and gym footwear.
-
-• Bring your own face towel to dry any perspiration.
-
-• Be thoughtful of any early symptoms before training. (Do not attend training sessions if you exhibit any of the following symptoms: Fever or chills, Cough, Shortness of breath or difficulty breathing, Fatigue, Muscle or body aches, Headache, loss of taste or smell, Sore throat, Congestion or runny nose, Nausea or vomiting, Diarrhea)
-
-## AT JIU-JITSU NYC ACTIONS AND PROTOCOLS:
-
-• Hand sanitizer will be provided by the mats, changing area, lobby and at the entrance of the gym. • Disinfectant area for feet before stepping onto the mats. • Commonly touched surfaces will be wiped down twice before arrival and after dismissal • Allow as much fresh air ventilation as possible between sessions. • Covid-19 specific liability waiver. • Disinfect throughout the day all common and high-traffic areas such as the entrance, gym mats, and restrooms in between classes. • Staff members will be tested twice a month and will provide proof of negative exam after every test. • Staff will maintain social distance amongst each other when possible • We will follow testing policies and procedures required for staff according to the guidelines established by CDC and local government. • Temperature checks will be administered prior to training.
+- - -

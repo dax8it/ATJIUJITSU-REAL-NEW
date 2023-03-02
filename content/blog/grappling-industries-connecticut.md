@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Grappling Industries Connecticut, May'
+title: 'Grappling Industries Connecticut - May. 1, 21'
 order: 30
 date: 2021-05-02T21:40:51.110Z
 description: 'Congrats to our first time competitors and our veteran competitors! '
