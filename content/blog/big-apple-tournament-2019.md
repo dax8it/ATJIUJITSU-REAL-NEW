@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Big Apple Tournament 2019
+title: Big Apple Tournament - May 19, 2019
 order: 30
 date: 2019-05-19
 description: |-
