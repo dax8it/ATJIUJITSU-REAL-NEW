@@ -1,11 +1,10 @@
 ---
 templateKey: blog-post
-title: Big Apple Tournament - May 19, 2019
+title: Big Apple Tournament - May 19, 19
 order: 30
 date: 2019-05-19
-description: |-
-  Great tournament results for our kids. Congrats to all the kids and adults who
-    participated.
+description: Great tournament results for our kids. Congrats to all the kids and
+  adults who participated.
 thumbnail: /img/big-apple-pic-04.png
 home: false
 tags:
