@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Grappling Industries Tournament, January 2020'
+title: 'Grappling Industries Tournament - Jan. 18, 20'
 order: 30
 date: 2020-01-19T00:00:00.000Z
 description: 'Great performances, good learning experience. That''s a "W" in our book! '
