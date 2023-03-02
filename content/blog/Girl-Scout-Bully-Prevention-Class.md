@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Girl Scout Bully Prevention Class
+title: 'Girl Scout Bully Prevention Class - Jan. 13, 19'
 order: 30
 date: 2019-01-04T00:00:00.000Z
 description: >-
@@ -15,7 +15,7 @@ tags:
 
 Bullying is a big problem that can be resolved with confidence and skill. We teach the girl scouts self defense in Brazilian Jiu-Jitsu. We never start fights, but we always defend ourselves and each other!
 
----
+- - -
 
 ![AT JIUJITSU NYC Girl Scout Bully Prevention Class](/img/girl-scouts-01.png "AT JIUJITSU NYC Girl Scout Bully Prevention Class")
 
