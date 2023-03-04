@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Mommy And Me Kickboxing & Jiu-Jitsu Class
+title: 'Mommy And Me Kickboxing & Jiu-Jitsu Class - May 7, 22'
 order: 1
 date: 2022-05-07T14:21:48.234Z
 description: >-
