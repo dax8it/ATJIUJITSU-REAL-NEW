@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Kids Kickboxing Tournament
+title: 'Kids Kickboxing Tournament - July 9, 22'
 order: 30
 date: 2022-07-09T20:28:35.429Z
 thumbnail: /img/20220709_144526.jpg
