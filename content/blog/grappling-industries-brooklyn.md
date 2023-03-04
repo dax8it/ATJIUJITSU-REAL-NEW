@@ -19,8 +19,9 @@ tags:
 
 <bh>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLdyR8mvQmCdQwKsiit0hxgSO1G0htwAUL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLdyR8mvQmCdQwKsiit0hxgSO1G0htwAUL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ![](/img/whatsapp-image-2023-02-19-at-2.38.25-pm.jpeg)
 
