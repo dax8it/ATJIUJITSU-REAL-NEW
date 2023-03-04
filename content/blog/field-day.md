@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Field Day
+title: 'Field Day - July 16, 22'
 order: 30
 date: 2022-07-16T23:28:34.894Z
 thumbnail: /img/dsc08428.jpg
