@@ -144,7 +144,7 @@ Born and raised in Astoria, Queens, Rocco is a die-hard New Yorker. A big advoca
 
 ## Coach and Program Director
 
-Natalia was born and raised in Jackson Heights and as such shares the love for the community. Natalia obtained an Associate Degree in Criminal Justice from Queensborough Community College in 2018 and is currently studying to obtain her BS in Criminal Justice. During her free time, you can find Natalia on the mats taking our Kickboxing classes where she has been training for two years.
+Natalia was born and raised in Jackson Heights and as such shares the love for the community. Natalia obtained an Associate Degree in Criminal Justice from Queensborough Community College in 2018 and is currently studying to obtain her BS in Criminal Justice. During her free time, you can find Natalia on the mats taking our Kickboxing classes where she has been training for four years.
 
 Natalia has always loved caring for children and was studying to become a teacher for elementary school aged children prior to changing her major. While her major has changed, her dedication to the well-being of children has remained.
 
