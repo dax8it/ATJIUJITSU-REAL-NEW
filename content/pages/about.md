@@ -160,7 +160,7 @@ Natalia has always loved caring for children and was studying to become a teache
 
 ## Coach
 
-Gabriela, mainly known as Coach Gaby has been training in Jiu-Jitsu for two years. She is currently a blue belt. Along with Jiu-Jitsu, Gaby also takes kickboxing and is currently studying as a Political Science Major. She is artistic and creative and is now a professional at painting our school’s logo. Gaby can be found assisting Professor Alvaro during the kids classes or at the desk on Thursdays and Fridays. 
+Gabriela, mainly known as Coach Gaby has been training in Jiu-Jitsu for 4 years. She is currently a blue belt. Along with Jiu-Jitsu, Gaby also takes kickboxing and is currently studying as a Computer Science Major. She is artistic and creative and is now a professional at painting our school’s logo. Any mural design drawn inside/throughout of @Jiu-Jitsu NYC will most definitley have been painted by her. Make sure to check it out when inside the gym.
 
 <br>
 
@@ -183,8 +183,10 @@ Daniela is a 2nd Degree Brown Belt in Shotokan Karate through Sensei Kai Leung a
 - - -
 
 <!-- Google tag (gtag.js) - Google Analytics -->
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-4799639-6">
 </script>
+
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
