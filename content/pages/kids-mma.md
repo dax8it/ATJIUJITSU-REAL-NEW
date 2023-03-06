@@ -19,6 +19,12 @@ tags:
 
 > **Friday: 6:15 p.m. - 7:00 p.m.**
 
+**Kids MMA Schedule:**
+
+> **Tuesday: 5:15 p.m. - 6:00 p.m.**
+>
+> **Thursday: 5:15 p.m. - 6:00 p.m.**
+
 - - -
 
 **In order to take this class you will need:**
