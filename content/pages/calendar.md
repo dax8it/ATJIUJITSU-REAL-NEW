@@ -147,7 +147,7 @@ _**Morning Class**_
 
 ### SUNDAY
 
-* **Kids Sunday Funday Drilling & Sparring (Ages 5-15):** 11:30 to 12:30 pm
+* **Kids Sunday Funday Advanced Drilling & Sparring (Ages 5-15):** 11:30 to 12:30 pm
 
 <bh>
 
