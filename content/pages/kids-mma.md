@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
-title: 'KIDS MMA '
+title: 'MMA '
 order: 7
 date: 2021-03-24T20:36:49.923Z
 description: Kids MMA every Tuesday and Thursday!
-thumbnail: /img/dsc04936.jpg
+thumbnail: /img/dsc09063.jpg
 home: true
 tags:
   - Programs
