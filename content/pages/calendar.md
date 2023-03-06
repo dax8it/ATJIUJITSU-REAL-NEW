@@ -84,7 +84,7 @@ _**Morning Class**_
 
 **_Afternoon Class_**
 
-* **Kickboxing Sparring:** 6:15 to 7:00 pm
+* **Beginners MMA:** 6:15 to 7:00 pm
 * **Beginners Jiu-Jitsu (Gi):** 6:15 to 7:00 pm
 * **Drilling and Sparring (Gi):** 7:15 to 8:15 pm
 
@@ -137,7 +137,7 @@ _**Morning Class**_
 ### SATURDAY
 
 * **Toddler Jiu-Jitsu (Ages 3-5):** 9:30 to 10:15 am
-* **Toddler Kickboxing (Ages 3-7):** 11:10 to 11:50 pm
+* **Toddler Kickboxing (Ages 3-7):** 11:10 to 11:55 am
 
 <bh>
 
@@ -147,7 +147,7 @@ _**Morning Class**_
 
 ### SUNDAY
 
-* **Kids Sunday Funday Drilling & Sparring (Ages 5-15):** 11:30 to 12:30 pm
+* **Kids Sunday Funday Advanced Drilling & Sparring (Ages 5-15):** 11:30 to 12:30 pm
 
 <bh>
 
