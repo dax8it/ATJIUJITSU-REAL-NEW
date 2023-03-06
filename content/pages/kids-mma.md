@@ -15,7 +15,7 @@ tags:
 
 - - -
 
-## MMA is a full-contact combat sport which includes a mix of striking, grappling and ground fighting. For adults and kids who take both our Jiu-Jitsu and Kickboxing classes, this will be a great way to introduce them into mixing the martial arts. Because of its real-world effectiveness and applications, you'll not only be learning positive aspects that come from training a martial art, but they are learning a true form of self-defense that will stick with them for the rest of their lives.
+## MMA is a full-contact combat sport which includes a mix of striking, grappling and ground fighting. For adults and kids who take both our Jiu-Jitsu and Kickboxing classes, this will be a great way to introduce them into mixing the martial arts. Because of its real-world effectiveness and applications, you'll not only be learning positive aspects that come from training a martial art, but you'll be learning a true form of self-defense that will stick with you for the rest of your lives.
 
 _**Adult MMA Schedule:**_
 
