@@ -31,17 +31,19 @@ _**Kids MMA Schedule:**_
 
 **In order to take this class you will need:**
 
-**\- MMA Gloves**
+**\- Both MMA Gloves / Kickboxing Gloves**
 
 **\- A Mouthpiece**
 
-**\- Head Gear**
+**\- Head Gear (Optional)**
 
 **\- Shin Guards (Muay-Thai Shin guards are allowed)**
 
-These items are a requirement and essential to MMA, you cannot take the class without all of the proper gear. We do sell Kids MMA gloves and shin pads, so please feel free to ask us if you are interested in buying!
+**(We will be requiring elbow pads soon so best to purchase some ahead of time.)**
 
-We are very excited to have this new addition of class into our school. It will be a different experience and new learning perspective. If you have any questions, please do not hesitate to ask!
+These items are a requirement and essential to MMA, you cannot take the class without all of the proper gear. We do sell MMA gloves and shin pads, so please feel free to ask us if you are interested in buying!
+
+We are very excited to have this new program into our school. It will be a different experience and new learning perspective. If you have any questions, please do not hesitate to ask!
 
 - - -
 
