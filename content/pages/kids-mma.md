@@ -3,7 +3,9 @@ templateKey: blog-post
 title: 'MMA '
 order: 7
 date: 2021-03-24T20:36:49.923Z
-description: Kids MMA every Tuesday and Thursday!
+description: >-
+  Join Coach Rocco for our Adult Intro to MMA Class or Kids MMA program and
+  learn from the Champ!
 thumbnail: /img/dsc09063.jpg
 home: true
 tags:
@@ -13,9 +15,13 @@ tags:
 
 - - -
 
-## MMA is a full-contact combat sport which includes a mix of striking, grappling and ground fighting. For kids who primarily take our Jiu-Jitsu classes this will be a great way to introduce them into mixing the martial arts. When taught in a controlled environment, MMA training is actually safer than other traditional sports and activities available for kids. Because of its real-world effectiveness and applications, your child is not only learning positive aspects that come from training a martial art, but they are learning a true form of self-defense that will stick with them for the rest of their lives.
+## MMA is a full-contact combat sport which includes a mix of striking, grappling and ground fighting. For adults and kids who take both our Jiu-Jitsu and Kickboxing classes, this will be a great way to introduce them into mixing the martial arts. Because of its real-world effectiveness and applications, you'll not only be learning positive aspects that come from training a martial art, but you'll be learning a true form of self-defense that will stick with you for the rest of your lives.
 
-**MMA Schedule:**
+_**Adult MMA Schedule:**_
+
+> **Friday: 6:15 p.m. - 7:00 p.m.**
+
+_**Kids MMA Schedule:**_
 
 > **Tuesday: 5:15 p.m. - 6:00 p.m.**
 >
@@ -25,17 +31,19 @@ tags:
 
 **In order to take this class you will need:**
 
-**\- MMA Gloves**
+**\- Both MMA Gloves / Kickboxing Gloves**
 
 **\- A Mouthpiece**
 
-**\- Head Gear**
+**\- Head Gear (Optional)**
 
 **\- Shin Guards (Muay-Thai Shin guards are allowed)**
 
-These items are a requirement and essential to MMA, you cannot take the class without all of the proper gear. We do sell Kids MMA gloves and shin pads, so please feel free to ask us if you are interested in buying!
+**(We will be requiring elbow pads soon so best to purchase some ahead of time.)**
 
-We are very excited to have this new addition of class into our school. It will be a different experience and new learning perspective. If you have any questions, please do not hesitate to ask!
+These items are a requirement and essential to MMA, you cannot take the class without all of the proper gear. We do sell MMA gloves and shin pads, so please feel free to ask us if you are interested in buying!
+
+We are very excited to have this new program into our school. It will be a different experience and new learning perspective. If you have any questions, please do not hesitate to ask!
 
 - - -
 
