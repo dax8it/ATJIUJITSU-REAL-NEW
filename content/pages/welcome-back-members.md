@@ -9,6 +9,8 @@ home: true
 tags:
   - Blog
 ---
+- - -
+
 Through Martial Arts on Rails, you will be able to book your class sessions ahead of time.
 
 In the link below, there is a step by step video tutorial for how to register, if you have not yet done so. 
@@ -20,6 +22,10 @@ In the link below, there is a step by step video tutorial for how to register, i
 If you already have an account with us please login below.
 
 ## <https://at-jiujitsu-nyc.maonrails.com/login>
+
+* _\*TODDLER TRIAL/PROGRAM IS CURRENTLY CLOSED TO NEW REGISTRATIONS B/C WE ARE CURRENTLY AT CAPACITY. PLEASE JOIN OUR WAITING LIST_  
+
+Please give us a call at (917) 745-1772 or send us an email at atjiujitsunyc@gmail.com letting us know you would like to be added to the Waiting List. We apologize for the inconvenience.
 
 <br>
 
