@@ -21,7 +21,9 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 ## \- Three Trial Classes (Within 1 week) - $35
 
-## \- Toddler Trial (Two Consecutive Classes) - $35
+## \- \*WAITING LIST \* Toddler Trial (Two Consecutive Classes) - $35 
+
+**Please do not register for the Toddler Trial as we are currently at capacity. Please give us a call at (917) 745-1772 or send us an email at atjiujitsunyc@gmail.com letting us know you would like to be added to the Waiting List. We apologize for the inconvenience.** 
 
 - - -
 
