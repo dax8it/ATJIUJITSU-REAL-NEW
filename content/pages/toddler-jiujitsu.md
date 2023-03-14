@@ -11,6 +11,10 @@ home: true
 tags:
   - Programs
 ---
+## **\*CLOSED REGSTRATION\***
+
+> Please do not register for the Toddler Trial as we are currently at capacity. Please give us a call at (917) 745-1772 or send us an email at atjiujitsunyc@gmail.com letting us know you would like to be added to the Waiting List. We apologize for the inconvenience.
+
 # Toddler Jiu-Jitsu
 
 ## The best Jiu-Jitsu program for toddlers in Jackson Heights, NY!
