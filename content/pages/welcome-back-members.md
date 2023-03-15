@@ -23,7 +23,7 @@ If you already have an account with us please login below.
 
 ## <https://at-jiujitsu-nyc.maonrails.com/login>
 
-* **_\*TODDLER TRIAL/PROGRAM IS CURRENTLY CLOSED TO NEW REGISTRATIONS B/C WE ARE CURRENTLY AT CAPACITY. PLEASE JOIN OUR WAITING LIST_  **
+* **TODDLER TRIAL/MONTHLY PROGRAM IS CURRENTLY CLOSED TO NEW REGISTRATIONS B/C WE ARE CURRENTLY AT CAPACITY. PLEASE JOIN OUR WAITING LIST_  **
 
 Please give us a call at (917) 745-1772 or send us an email at atjiujitsunyc@gmail.com letting us know you would like to be added to the Waiting List. We apologize for the inconvenience.
 
