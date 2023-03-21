@@ -162,6 +162,12 @@ Natalia has always loved caring for children and was studying to become a teache
 
 Gabriela, mainly known as Coach Gaby has been training in Jiu-Jitsu for 4 years. She is currently a blue belt. Along with Jiu-Jitsu, Gaby also takes kickboxing and is currently studying as a Computer Science Major. She is artistic and creative and is now a professional at painting our school’s logo. Any mural design drawn inside/throughout of @Jiu-Jitsu NYC will most definitley have been painted by her. Make sure to check it out when inside the gym.
 
+```
+
+```
+
+![]()
+
 <br>
 
 - - -
@@ -179,12 +185,6 @@ Daniela obtained her Masters in Social Work from Adelphi University in 2018 and 
 As Co-Owner and Assistant Program Director of AT Jiu-Jitsu NYC, Daniela has worked closely with Professor Alvaro to ensure that the programs offered at our school are tailored to the needs of every child and adult, with the goal of assisting our members in working to build confidence.
 
 Daniela is a 2nd Degree Brown Belt in Shotokan Karate through Sensei Kai Leung and is currently a purple belt in Brazilian Jiu-Jitsu.
-
-- - -
-
-![]()
-
-
 
 - - -
 
