@@ -4,7 +4,7 @@ title: 'LIJJN Astoria - Mar. 19, 23'
 order: 30
 date: 2023-02-28T22:49:02.647Z
 description: An amazing team effort by the team taking in 3 wins
-thumbnail: /img/march-2023-lijjn.jpg
+thumbnail: /img/whatsapp-image-2023-03-21-at-5.39.24-pm.jpeg
 home: false
 tags:
   - Blog
