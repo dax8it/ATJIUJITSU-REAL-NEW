@@ -162,13 +162,13 @@ Natalia has always loved caring for children and was studying to become a teache
 
 Gabriela, mainly known as Coach Gaby has been training in Jiu-Jitsu for 4 years. She is currently a blue belt. Along with Jiu-Jitsu, Gaby also takes kickboxing and is currently studying as a Computer Science Major. She is artistic and creative and is now a professional at painting our school’s logo. Any mural design drawn inside/throughout of @Jiu-Jitsu NYC will most definitley have been painted by her. Make sure to check it out when inside the gym.
 
-```
+- - -
 
-```
+![](/img/template_primary-removebg-preview-1-.png)
 
-![]()
+# Yvonne Tautiva
 
-<br>
+## Coach
 
 - - -
 
