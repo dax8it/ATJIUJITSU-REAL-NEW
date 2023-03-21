@@ -182,6 +182,12 @@ Daniela is a 2nd Degree Brown Belt in Shotokan Karate through Sensei Kai Leung a
 
 - - -
 
+![]()
+
+
+
+- - -
+
 <!-- Google tag (gtag.js) - Google Analytics -->
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-4799639-6">
