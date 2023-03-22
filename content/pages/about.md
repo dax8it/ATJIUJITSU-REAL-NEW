@@ -124,7 +124,7 @@ Morgan admits to being a diehard **NY Knicks** and **New York Mets** fan, and re
 
 # Rocco Giambrone
 
-## Kickboxing and Kids MMA Instructor
+## Kickboxing and MMA Instructor
 
 Rocco is a lifelong competitive athlete. Starting with martial arts (Taekwondo) at the age of 7, he has played nearly every organized sport under the sun. Football however, was where he decided to devote his efforts for a majority of his younger years. From pop warner to playing at the collegiate level, he developed the grit, a love for the daily grind and the dedication needed to transition well into the combative sport lifestyle.
 
@@ -169,6 +169,8 @@ Gabriela, mainly known as Coach Gaby has been training in Jiu-Jitsu for 4 years.
 # Yvonne Tautiva
 
 ## Coach
+
+Yvonne is currently a purple belt in Jiu-Jitsu under Professor Alvaro and the instructor of the Beginners No Gi classes held on Mondays and the Beginners Gi class on Fridays. 
 
 - - -
 
