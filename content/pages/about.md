@@ -164,7 +164,7 @@ Gabriela, mainly known as Coach Gaby has been training in Jiu-Jitsu for 4 years.
 
 - - -
 
-![](/img/template_primary-1-.jpg)
+![](/img/coach-yvonne.jpg)
 
 # Yvonne Tautiva
 
