@@ -162,15 +162,43 @@ Natalia has always loved caring for children and was studying to become a teache
 
 Gabriela, mainly known as Coach Gaby has been training in Jiu-Jitsu for 4 years. She is currently a blue belt. Along with Jiu-Jitsu, Gaby also takes kickboxing and is currently studying as a Computer Science Major. She is artistic and creative and is now a professional at painting our school’s logo. Any mural design drawn inside/throughout of @Jiu-Jitsu NYC will most definitley have been painted by her. Make sure to check it out when inside the gym.
 
+<br>
+
 - - -
 
-![](/img/template_primary-1-.jpg)
+<br>
+
+![](/img/coach-yvonne.jpg)
 
 # Yvonne Tautiva
 
 ## Coach
 
 Yvonne is currently a purple belt in Jiu-Jitsu under Professor Alvaro and the instructor of the Beginners No Gi classes held on Mondays and the Beginners Gi class on Fridays. 
+
+- - -
+
+<br>
+
+![](/img/coach-david.jpg)
+
+# David Best
+
+## Coach
+
+<br>
+
+- - -
+
+<br>
+
+![](/img/coach-julian.jpg)
+
+# Julian Diaz
+
+## Coach
+
+<br>
 
 - - -
 
@@ -184,9 +212,11 @@ Yvonne is currently a purple belt in Jiu-Jitsu under Professor Alvaro and the in
 
 Daniela obtained her Masters in Social Work from Adelphi University in 2018 and currently works as a Foster Care Case Planner. Having been raised in Jackson Heights and being the daughter of immigrant parents, Daniela works closely with families with the goal of providing permanency and safety of their children.
 
-As Co-Owner and Assistant Program Director of AT Jiu-Jitsu NYC, Daniela has worked closely with Professor Alvaro to ensure that the programs offered at our school are tailored to the needs of every child and adult, with the goal of assisting our members in working to build confidence.
+As the Co-Owner,, Daniela has worked closely with Professor Alvaro to ensure that the programs offered at our school are tailored to the needs of every child and adult, with the goal of assisting our members in working to build confidence.
 
 Daniela is a 2nd Degree Brown Belt in Shotokan Karate through Sensei Kai Leung and is currently a purple belt in Brazilian Jiu-Jitsu.
+
+<br>
 
 - - -
 
