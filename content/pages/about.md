@@ -162,7 +162,11 @@ Natalia has always loved caring for children and was studying to become a teache
 
 Gabriela, mainly known as Coach Gaby has been training in Jiu-Jitsu for 4 years. She is currently a blue belt. Along with Jiu-Jitsu, Gaby also takes kickboxing and is currently studying as a Computer Science Major. She is artistic and creative and is now a professional at painting our school’s logo. Any mural design drawn inside/throughout of @Jiu-Jitsu NYC will most definitley have been painted by her. Make sure to check it out when inside the gym.
 
+<br>
+
 - - -
+
+<br>
 
 ![](/img/coach-yvonne.jpg)
 
@@ -171,6 +175,30 @@ Gabriela, mainly known as Coach Gaby has been training in Jiu-Jitsu for 4 years.
 ## Coach
 
 Yvonne is currently a purple belt in Jiu-Jitsu under Professor Alvaro and the instructor of the Beginners No Gi classes held on Mondays and the Beginners Gi class on Fridays. 
+
+- - -
+
+<br>
+
+![](/img/coach-david.jpg)
+
+# David Best
+
+## Coach
+
+<br>
+
+- - -
+
+<br>
+
+![](/img/coach-julian.jpg)
+
+# Julian Diaz
+
+## Coach
+
+<br>
 
 - - -
 
