@@ -212,7 +212,7 @@ Yvonne is currently a purple belt in Jiu-Jitsu under Professor Alvaro and the in
 
 Daniela obtained her Masters in Social Work from Adelphi University in 2018 and currently works as a Foster Care Case Planner. Having been raised in Jackson Heights and being the daughter of immigrant parents, Daniela works closely with families with the goal of providing permanency and safety of their children.
 
-As Co-Owner and Assistant Program Director of AT Jiu-Jitsu NYC, Daniela has worked closely with Professor Alvaro to ensure that the programs offered at our school are tailored to the needs of every child and adult, with the goal of assisting our members in working to build confidence.
+As the Co-Owner,, Daniela has worked closely with Professor Alvaro to ensure that the programs offered at our school are tailored to the needs of every child and adult, with the goal of assisting our members in working to build confidence.
 
 Daniela is a 2nd Degree Brown Belt in Shotokan Karate through Sensei Kai Leung and is currently a purple belt in Brazilian Jiu-Jitsu.
 
