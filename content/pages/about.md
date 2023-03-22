@@ -220,6 +220,20 @@ Daniela is a 2nd Degree Brown Belt in Shotokan Karate through Sensei Kai Leung a
 
 - - -
 
+<br>
+
+![](/img/coach-mo.jpg)
+
+# Mohammed Elbouanani
+
+## Coach
+
+<br>
+
+- - -
+
+<br>
+
 <!-- Google tag (gtag.js) - Google Analytics -->
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-4799639-6">
