@@ -54,6 +54,6 @@ Students are required to follow training protocols for safety and the safety of 
 
 Please do your best to follow our policies and if you have any questions or concerns, please do not hesitate to reach out. Thank you.
 
-\-AT JIU-JITSU NYC STAFF
+\-@JIU-JITSU NYC STAFF
 
 - - -
