@@ -24,11 +24,11 @@ tags:
 
 - - -
 
-# Welcome to ATJIUJITSUNYC - Jackson Heights
+# Welcome to @JIU-JITSU NYC - Jackson Heights
 
 ## Martial Arts for Adults and Kids
 
-Through classes focusing on mixed martial arts such as Brazilian Jiu-Jitsu, Judo, Muay Thai, Yoga, and Kickboxing. The goal of AT Jiu-Jitsu NYC is to provide members the opportunity to be able to grow as individuals by gaining a better sense of themselves in both mind and body, all while learning about the sport and self-defense aspects of these martial arts. Members will walk out of at Jiu-Jitsu NYC feeling empowered and confident. AT Jiu-Jitsu NYC will work with members to set personalized goals and prove that these set objections can be reached, despite any existing limitations.
+Through classes focusing on mixed martial arts such as Brazilian Jiu-Jitsu, Judo, Muay Thai, Yoga, and Kickboxing. The goal of @Jiu-Jitsu NYC is to provide members the opportunity to be able to grow as individuals by gaining a better sense of themselves in both mind and body, all while learning about the sport and self-defense aspects of these martial arts. Members will walk out of @Jiu-Jitsu NYC feeling empowered and confident. @Jiu-Jitsu NYC will work with members to set personalized goals and prove that these set objections can be reached, despite any existing limitations.
 
 # Get started now!
 
@@ -96,7 +96,7 @@ Having been raised in Jackson Heights his whole life, Professor Alvaro dreamt ab
 
 Kim has been teaching yoga classes, one on one sessions, workshops, seminars, retreats and teacher trainings since 2005. She has studied several styles of yoga under many well-known teachers and combined her background in exercise physiology and kinesiology to co-create Smarter Yoga (TM), an individualized movement practice rooted in exercise science without the dogma of traditional yoga practice. She is the CEO of Smarter Bodies and the co-author of "Exposing Yoga Myths".
 
-Kim has a BS in Biochemistry from Florida State University (2005), is certified by Yoga Union, has completed training and an ongoing education at the Breathing Project, is certified as a Redcord Active instructor and is a MET Master Facilitator. Kim is also an active competitor in Brazilian Jiu-Jitsu and currently a purple belt. She is known for creating sport-specific mobility programs and has created a program specifically for grapplers that will be taught exclusively at AT Jiu-Jitsu NYC.
+Kim has a BS in Biochemistry from Florida State University (2005), is certified by Yoga Union, has completed training and an ongoing education at the Breathing Project, is certified as a Redcord Active instructor and is a MET Master Facilitator. Kim is also an active competitor in Brazilian Jiu-Jitsu and currently a purple belt. She is known for creating sport-specific mobility programs and has created a program specifically for grapplers that will be taught exclusively at @Jiu-Jitsu NYC.
 
 <br>
 
