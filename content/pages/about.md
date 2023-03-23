@@ -128,7 +128,7 @@ Morgan admits to being a diehard **NY Knicks** and **New York Mets** fan, and re
 
 Rocco is a lifelong competitive athlete. Starting with martial arts (Taekwondo) at the age of 7, he has played nearly every organized sport under the sun. Football however, was where he decided to devote his efforts for a majority of his younger years. From pop warner to playing at the collegiate level, he developed the grit, a love for the daily grind and the dedication needed to transition well into the combative sport lifestyle.
 
-Finding martial arts (Brazilian jiu jitsu) again at the age of 27, he quickly embraced the joy it brought back into his life and sought to embark on his Mixed Martial Arts journey. A few short years later, he has made his way onto the prestigious MMA team at the world renown Renzo Gracie Academy in NYC, where he trains daily. He is currently a bjj blue belt and has had several fights in his young career, including an amateur title fight. Rocco is hopeful on turning pro in 2020.
+Finding martial arts (Brazilian jiu jitsu) again at the age of 27, he quickly embraced the joy it brought back into his life and sought to embark on his Mixed Martial Arts journey. A few short years later, he has made his way onto the prestigious MMA team at the world renown Renzo Gracie Academy in NYC, where he trains daily. He is currently a bjj purple belt and has had several fights in his young career, including an amateur title fight. Rocco is hopeful on turning pro in 2020.
 
 Born and raised in Astoria, Queens, Rocco is a die-hard New Yorker. A big advocate of the phrase "eat, drink and be merry", he has fused his passion for life and training with his teaching to create a fun and upbeat atmosphere during his classes.
 
