@@ -105,6 +105,8 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 * Kickboxing
 * Yoga
 
+**\*Excluded for Toddler Classes**
+
 **\- OR -** 
 
 ## Pay In Full, 1x A Week (6 Months) - $800:
