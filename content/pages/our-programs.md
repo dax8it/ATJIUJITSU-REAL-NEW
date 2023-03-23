@@ -9,11 +9,10 @@ home: false
 tags:
   - Other
 ---
-
 <br>
 <br>
 
----
+- - -
 
 # Brazilian Jiu-Jitsu
 
@@ -27,7 +26,7 @@ tags:
 
 <br>
 
----
+- - -
 
 <br>
 
@@ -39,13 +38,11 @@ tags:
 
 • Judo does not involve kicking, punching, or striking techniques of any kind.
 
-• JInstead, judo simply involves two individuals who, by gripping the judo uniform, use the forces of balance, power, and movement to attempt to subdue each other. Thus,it is simple and basic. however, judo techniques often take considerable time, effort, and energy
-
-• JJudo is offered to Ages 5 to 7 only
+• Instead, judo simply involves two individuals who, by gripping the judo uniform, use the forces of balance, power, and movement to attempt to subdue each other. Thus, it is simple and basic. however, judo techniques often take considerable time, effort, and energy
 
 <br>
 
----
+- - -
 
 # Muay Thai
 
@@ -59,7 +56,7 @@ tags:
 
 <br>
 
----
+- - -
 
 <br>
 
@@ -73,7 +70,7 @@ tags:
 
 <br>
 
----
+- - -
 
 <br>
 
@@ -85,4 +82,4 @@ tags:
 
 • In Brazilian Jiu Jitsu classes, children will meet many new friends and share common experiences like drilling techniques, playing games, and live rolling.
 
-• Classes begin at ages 3-4
+• Classes begin at ages 3-5
