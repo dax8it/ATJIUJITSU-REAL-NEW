@@ -5,7 +5,8 @@ order: 30
 date: 2023-02-28T22:49:02.647Z
 description: >-
   AT Jiu-Jitsu NYC filled the house at LIJJN Superfights located in our home
-  turf, Queens! 
+  turf, Queens! Three of our four competitors took gold while being cheered on
+  by their teammates. 
 thumbnail: /img/whatsapp-image-2023-03-23-at-5.30.18-pm.jpeg
 home: false
 tags:
