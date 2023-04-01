@@ -27,14 +27,14 @@ tags:
 
 # Stripes!
 
+![](/img/img-5454.jpg)
+
+![](/img/img-5462.jpg)
+
 ![](/img/img-3393.jpg)
 
 ![](/img/img-4618.jpg)
 
 ![](/img/dsc05643.jpg)
-
-![](/img/dsc05613.jpg)
-
-![](/img/dsc05585.jpg)
 
 - - -
