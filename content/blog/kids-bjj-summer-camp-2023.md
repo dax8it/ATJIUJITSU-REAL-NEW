@@ -19,8 +19,6 @@ tags:
 
 **Our coaches will help build your child's skills in Jiu-Jitsu, while engaging and inspiring them to learn new skills. Each week will be designed to empower and enlighten kids through amusing activities, fascinating and safe field trips, timely lessons in teamwork and so much more! Join us now!**
 
-<br>
-
 # **Register Now:**
 
 <https://at-jiujitsu-nyc.gymdesk.com/book>
