@@ -3,6 +3,7 @@ templateKey: blog-post
 title: Kids BJJ Summer Camp 2023
 order: 30
 date: 2023-04-04T19:39:08.339Z
+thumbnail: /img/dsc07916.jpg
 home: false
 tags:
   - Blog
