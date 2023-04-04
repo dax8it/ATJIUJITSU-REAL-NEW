@@ -54,7 +54,7 @@ tags:
 
 # Register Now:
 
-<https://at-jiujitsu-nyc.gymdesk.com/book>
+# <https://at-jiujitsu-nyc.gymdesk.com/book>
 
 If you have any questions or concerns please email us right away. Please keep in mind that spots are limited so if you are interested, let us know as soon as possible to begin planning future arrangements.
 
