@@ -46,7 +46,9 @@ tags:
 
 # Pricing:
 
-**Full 6 Weeks: $1,650**
+**Full 6 Weeks: $1,500**
+
+**REGISTER BEFORE June 1st, Save $150!** 
 
 **Weekly Price: $275**
 
@@ -54,7 +56,7 @@ tags:
 
 # Register Now:
 
-<https://at-jiujitsu-nyc.gymdesk.com/book>
+# <https://at-jiujitsu-nyc.gymdesk.com/book>
 
 If you have any questions or concerns please email us right away. Please keep in mind that spots are limited so if you are interested, let us know as soon as possible to begin planning future arrangements.
 
