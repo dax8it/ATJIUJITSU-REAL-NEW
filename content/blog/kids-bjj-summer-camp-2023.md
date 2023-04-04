@@ -11,6 +11,8 @@ tags:
 ---
 - - -
 
+<br>
+
 **Many have asked, and we're happy to deliver. Our Summer Camp will return for the summer of 2023! Is your child ready to have a blast this summer learning and practicing jiu jitsu in Gi and No Gi, in addition to other fun activities such as judo, kickboxing, arts and crafts, obstacle courses and more!? Then join us now for our Jiu-Jitsu based summer camp!** 
 
 **This year our summer will be focused on a crash course jiu-jitsu based program! Whether you’re looking to improve your Jiu-Jitsu game, or your competition skills, learn self defense, improve your fitness or just see what BJJ is all about, we’d love to welcome you to our Academy. Our BJJ Summer Camp is for kids ages 5-14. This weekly summer camp is great for beginners, as well as experienced bjj practitioners. Campers will have a blast learning and practicing jiu jitsu in Gi and No Gi, in addition to other fun activities such as judo, kickboxing, arts and crafts, obstacle courses and more!**
