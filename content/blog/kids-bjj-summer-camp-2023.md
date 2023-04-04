@@ -25,7 +25,7 @@ tags:
 
 # **Register Now:**
 
-<https://at-jiujitsu-nyc.gymdesk.com/book>
+# <https://at-jiujitsu-nyc.gymdesk.com/book>
 
 <br>
 
