@@ -31,15 +31,14 @@ tags:
 
 # Information:
 
-![](/img/s.cflyer.jpg)
+![](/img/adult-poster-jan-2021.jpg)
 
 * ## **6 Week Program**
 * ## **Ages 5-14**
 * ## **11:00 AM - 3:00 PM**
-* ## **July 5th - August 5th**
-* ## **Tuesday, Wednesday, Thursday & Every Other Friday**
+* ## **July - August**
+* ## **Every Tuesday, Wednesday, Thursday & Every Other Friday**
 * ## Friday Trip Days!
-  * **July 15th and August 5th.**
 
 - - -
 
