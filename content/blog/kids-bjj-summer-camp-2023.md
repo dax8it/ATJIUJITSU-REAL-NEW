@@ -46,7 +46,9 @@ tags:
 
 # Pricing:
 
-**Full 6 Weeks: $1,650**
+**Full 6 Weeks: $1,500**
+
+**REGISTER BEFORE June 1st, Save $150!** 
 
 **Weekly Price: $275**
 
