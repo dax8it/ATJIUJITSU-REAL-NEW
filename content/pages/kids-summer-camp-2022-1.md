@@ -13,8 +13,6 @@ tags:
 ---
 - - -
 
-<br>
-
 ## What a wonderful summer filled **with a wide base of Jiu-Jitsu knowledge & adventure! Our days consisted of arts and crafts, lots of board games, trips to the park, library, museum and more! Along with ground based jiu-jitsu techniques such as takedowns, and agility workouts that we hope improved your child’s fitness level and athletic ability! Campers had fun learning jiu-jitsu alongside our staff members and making new friends!**
 
 ## We always end each camp season with an eye toward the future and the excitement that lies ahead. Our heart is full of gratitude for our staff, for our campers and particularly for our camp parents who have entrusted your children to us. what a wonderful summer! Thank you for being an important part of it. Be sure to join us again next year!
