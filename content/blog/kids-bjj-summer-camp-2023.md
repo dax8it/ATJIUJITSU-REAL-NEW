@@ -44,6 +44,8 @@ tags:
 
 # Pricing:
 
+**Full 6 Weeks: $1,650**
+
 **Weekly Price: $275**
 
 **Day Price: $95**
