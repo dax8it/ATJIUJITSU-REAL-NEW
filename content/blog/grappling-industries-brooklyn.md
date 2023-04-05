@@ -27,6 +27,8 @@ tags:
 
 ![](/img/whatsapp-image-2023-02-19-at-2.38.30-pm.jpeg)
 
+![](/img/331235443_1401032400650332_4158308558826813328_n.jpg)
+
 ![](/img/whatsapp-image-2023-02-19-at-2.17.21-pm.jpeg)
 
 ![](/img/whatsapp-image-2023-02-19-at-2.38.37-pm-1-.jpeg)
