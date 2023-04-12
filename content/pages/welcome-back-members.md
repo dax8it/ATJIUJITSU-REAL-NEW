@@ -11,12 +11,6 @@ tags:
 ---
 - - -
 
-* **TODDLER TRIAL/PROGRAM IS CURRENTLY CLOSED TO NEW REGISTRATIONS B/C WE ARE CURRENTLY AT CAPACITY. PLEASE JOIN OUR WAITING LIST**  
-
-Please give us a call at (917) 745-1772 or send us an email at atjiujitsunyc@gmail.com letting us know you would like to be added to the Waiting List. We apologize for the inconvenience.
-
-- - -
-
 Through Martial Arts on Rails, you will be able to book your class sessions ahead of time.
 
 In the link below, there is a step by step video tutorial for how to register, if you have not yet done so. 
