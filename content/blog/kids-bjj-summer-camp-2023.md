@@ -37,7 +37,7 @@ tags:
 
 * ## **6 Week Program**
 * ## **Ages 5-14**
-* ## **10:00 AM - 3:00 PM**
+* ## **11:00 AM - 3:00 PM**
 * ## **July - August**
 * ## **Every Tuesday, Wednesday, Thursday & Every Other Friday**
 * ## Friday Trip Days!
@@ -46,13 +46,11 @@ tags:
 
 # Pricing:
 
-**Full 6 Weeks: $1,500**
+**Full 6 Weeks: $1,650**
 
-**REGISTER BEFORE June 1st, Save $150!** 
+**Weekly Price: $349**
 
-**Weekly Price: $275**
-
-**Day Price: $95**
+**Day Price: $125**
 
 # Register Now:
 
