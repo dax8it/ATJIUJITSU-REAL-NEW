@@ -11,6 +11,6 @@ tags:
 ---
 W﻿e had a blast at our Mommy & Me Kickboxing class this year. It was a fun bonding experience with the little ones where we threw combos, got some cardio in and our little ones assisted us in some pad holding and punching! Thank you to all the mommy's and mother figures that help make all of this possible. We are grateful for everything our mom's & mommy figures do for us  ! Be sure to join us again next year.
 
+- - -
 
-
-\-﻿ - -
+<﻿br>
