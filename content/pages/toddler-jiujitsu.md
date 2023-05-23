@@ -2,21 +2,14 @@
 templateKey: blog-post
 title: Toddler Jiujitsu
 order: 8
-date: '2019-05-01'
-description: >-
-  In Toddler BJJ, children will meet many new friends and share common
-  experiences like drilling techniques, playing games, and live rolling
+date: 2019-05-01
+description: In Toddler BJJ, children will meet many new friends and share
+  common experiences like drilling techniques, playing games, and live rolling
 thumbnail: /img/dsc09945.jpg
 home: true
 tags:
   - Programs
 ---
-## **\*CLOSED REGSTRATION\***
-
-> Please do not register for the Toddler Trial as we are currently at capacity. Please give us a call at (917) 745-1772 or send us an email at atjiujitsunyc@gmail.com letting us know you would like to be added to the Waiting List. We apologize for the inconvenience.
-
-- - -
-
 # Toddler Jiu-Jitsu
 
 ## The best Jiu-Jitsu program for toddlers in Jackson Heights, NY!
