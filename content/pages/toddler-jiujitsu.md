@@ -20,6 +20,26 @@ tags:
 
 • Our toddler class are for Ages 3-4. Recommended for active children who are eager to learn. Limited spots available!
 
+> ## T﻿oddler Monthly Program:
+>
+> **$﻿180 - Includes 1 Jiu-Jitsu Session & 1 Kickboxing Session** 
+>
+> ## **Toddler Classes Schedule:**
+>
+> **T﻿hursdays (Members Only)** 
+>
+> Toddler Jiu-Jitsu: 3:45 p.m. - 4:30 p.m. 
+>
+> **S﻿aturdays**
+>
+> T﻿oddler Jiu-Jitsu: 9:30 a.m. - 10:15 a.m.
+>
+> T﻿oddler Kickboxing: 11:10 a.m. - 11:55 a.m. 
+>
+>
+
+
+
 # Get Started Now:
 
 ## Register for classes here:
