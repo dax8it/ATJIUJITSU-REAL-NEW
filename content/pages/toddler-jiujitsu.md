@@ -22,7 +22,10 @@ tags:
 
 > ## T﻿oddler Monthly Program:
 >
-> **$﻿180 - Includes 1 Jiu-Jitsu Session & 1 Kickboxing Session** 
+> **$﻿180 - Includes 1 Jiu-Jitsu Session & 1 Kickboxing Session Weekly**
+
+<br> 
+
 >
 > ## **Toddler Classes Schedule:**
 >
@@ -35,10 +38,6 @@ tags:
 > T﻿oddler Jiu-Jitsu: 9:30 a.m. - 10:15 a.m.
 >
 > T﻿oddler Kickboxing: 11:10 a.m. - 11:55 a.m. 
->
->
-
-
 
 # Get Started Now:
 
