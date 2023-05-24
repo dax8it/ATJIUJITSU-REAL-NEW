@@ -26,7 +26,6 @@ tags:
 
 <br> 
 
->
 > ## **Toddler Classes Schedule:**
 >
 > **T﻿hursdays (Members Only)** 
@@ -38,6 +37,8 @@ tags:
 > T﻿oddler Jiu-Jitsu: 9:30 a.m. - 10:15 a.m.
 >
 > T﻿oddler Kickboxing: 11:10 a.m. - 11:55 a.m. 
+
+
 
 # Get Started Now:
 
