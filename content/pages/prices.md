@@ -145,7 +145,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 **\- OR -** 
 
-## Pay In Full, BJJ Unlimited (6 Months) - $1,060:
+## Pay In Full, Striking Unlimited (6 Months) - $1,060:
 
 * ## **Save $50!**
 
