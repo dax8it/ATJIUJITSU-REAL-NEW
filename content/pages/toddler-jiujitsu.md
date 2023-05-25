@@ -24,7 +24,7 @@ tags:
 >
 > **$﻿180 - Includes 2 Sessions Weekly** 
 >
-> **$﻿200 - Includes 3 Sessions Weekly** 
+> **$﻿215 - Includes 3 Sessions Weekly** 
 
 <br> 
 
