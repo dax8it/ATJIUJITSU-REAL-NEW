@@ -18,7 +18,7 @@ tags:
 
 • In Brazilian Jiu Jitsu classes, children will meet many new friends and share common experiences like drilling techniques, playing games, and live rolling.
 
-• Our toddler class are for Ages 3-4. Recommended for active children who are eager to learn. Limited spots available!
+• Our toddler class are for Ages 3-5. Recommended for active children who are eager to learn. Limited spots available!
 
 > ## T﻿oddler Monthly Program:
 >
