@@ -30,11 +30,11 @@ tags:
 
 > ## **Toddler Classes Schedule:**
 >
-> **T﻿hursday**
+> **T﻿hursday:**
 >
 > Toddler Jiu-Jitsu: 3:45 p.m. - 4:30 p.m. 
 >
-> **S﻿aturdays**
+> **S﻿aturday:**
 >
 > T﻿oddler Jiu-Jitsu: 9:30 a.m. - 10:15 a.m.
 >
