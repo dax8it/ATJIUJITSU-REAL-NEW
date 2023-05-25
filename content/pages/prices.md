@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Our Prices
 order: 13
-date: '2019-05-04'
+date: 2019-05-04
 description: Our pricing makes taking classes affordable!
 thumbnail: /img/grapplingindustriesais08149.jpg
 home: true
@@ -32,6 +32,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 (+ $10.00 Sign Up Fee)
 
 * From unlimited access to yoga, jiu jitsu, kickboxing and muay thai for you to take advantage of! 
+
   * Unlimited Jiu-Jitsu
   * Muay Thai
   * Kickboxing
@@ -120,6 +121,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 (+ $15.00 Sign Up Fee)
 
 * Includes unlimited access to all Jiu-Jitsu classes and Yoga! 
+
   * Jiu-Jitsu
   * Yoga
 
@@ -136,6 +138,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 (+ $15.00 Sign Up Fee)
 
 * Includes unlimited access to Muay Thai, Kickboxing and Yoga! 
+
   * Kickboxing
   * Muay Thai
   * Yoga
@@ -148,14 +151,27 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 - - -
 
-## Age 3-5 Toddler Program - $180/mo:
+## Age 3-5 Toddler Program 
+
+  * l﻿earn discipline
+  * l﻿earn throws (Judo)
+  * learn how to fall
+  * Great for adventurous kids   
+
+## $200/mo:
 
 (+ $15.00 Sign Up Fee)
 
-* Includes Jiu-Jitsu and Kickboxing! Great for adventurous kids. 
-  * learn Discipline
-  * learn Throws (Judo)
-  * learn how to fall
+* 3 Sessions a Week. Includes all Toddler classes. 2 Jiu-Jitsu classes and 1 Kickboxing class weekly.
+
+  **\- OR -**
+
+## $180/mo:
+
+(+ $15.00 Sign Up Fee)
+
+* 2 Sessions a Week. Pick two classes weekly. Either 2 Jiu-Jitsu classes a week/ or 1  jiu-jitsu class & 1 Kickboxing class.
+
 
 - - -
 
