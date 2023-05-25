@@ -158,7 +158,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
   * learn how to fall
   * Great for adventurous kids   
 
-## $200/mo:
+## $215/mo:
 
 (+ $15.00 Sign Up Fee)
 
