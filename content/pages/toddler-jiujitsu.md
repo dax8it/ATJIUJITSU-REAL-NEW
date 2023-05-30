@@ -20,6 +20,16 @@ tags:
 
 • Our toddler class are for Ages 3-5. Recommended for active children who are eager to learn. Limited spots available!
 
+<br>
+
+## \*\*TODDLER MONTHLY PROGRAM IS CURRENTLY CLOSED TO NEW REGISTRATIONS B/C WE ARE CURRENTLY AT CAPACITY.
+
+* **YOU MAY STILL ENROLL YOUR CHILD FOR THE TODDLER TRIAL, BUT TO ENROLL FOR OUR MONTHLY PROGRAM, PLEASE JOIN OUR WAIT LIST.**
+
+  Please give us a call at (917) 745-1772 or send us an email at [atjiujitsunyc@gmail.com](mailto:atjiujitsunyc@gmail.com) letting us know you would like to be added to the Wait List. We apologize for the inconvenience.
+
+<br>
+
 > ## T﻿oddler Monthly Program:
 >
 > **$﻿180 - Includes 2 Sessions Weekly** 
@@ -30,7 +40,9 @@ tags:
 
 > ## **Toddler Classes Schedule:**
 >
-> **T﻿hursday:**
+> **T﻿hursday:** 
+>
+> **(NO TRIALS/ MEMBERS ONLY CLASS)**
 >
 > Toddler Jiu-Jitsu: 3:45 p.m. - 4:30 p.m. 
 >
