@@ -22,9 +22,9 @@ tags:
 
 <br>
 
-- - -
+## \*\*TODDLER MONTHLY PROGRAM IS CURRENTLY CLOSED TO NEW REGISTRATIONS B/C WE ARE CURRENTLY AT CAPACITY.
 
-* **TODDLER MONTHLY PROGRAM IS CURRENTLY CLOSED TO NEW REGISTRATIONS B/C WE ARE CURRENTLY AT CAPACITY. PLEASE JOIN OUR WAITING LIST**
+* **YOU MAY STILL ENROLL YOUR CHILD FOR THE TODDLER TRIAL, BUT TO ENROLL FOR OUR MONTHLY PROGRAM, PLEASE JOIN OUR WAIT LIST.**
 
   Please give us a call at (917) 745-1772 or send us an email at [atjiujitsunyc@gmail.com](mailto:atjiujitsunyc@gmail.com) letting us know you would like to be added to the Waiting List. We apologize for the inconvenience.
 
@@ -40,7 +40,7 @@ tags:
 
 > ## **Toddler Classes Schedule:**
 >
-> **T﻿hursday:**
+> **T﻿hursday: (NO TRIALS/ MEMBERS ONLY CLASS)**
 >
 > Toddler Jiu-Jitsu: 3:45 p.m. - 4:30 p.m. 
 >
