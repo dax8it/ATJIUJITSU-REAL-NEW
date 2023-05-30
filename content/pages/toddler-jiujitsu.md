@@ -20,6 +20,8 @@ tags:
 
 • Our toddler class are for Ages 3-5. Recommended for active children who are eager to learn. Limited spots available!
 
+<br>
+
 - - -
 
 **We are currently at capacity to enroll in our Toddler monthly membership. Please give us a call at (917) 745-1772 or send us an email at [atjiujitsunyc@gmail.com](mailto:atjiujitsunyc@gmail.com) letting us know you would like to be added to the Waiting List. We apologize for the inconvenience.** 
