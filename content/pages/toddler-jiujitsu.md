@@ -24,9 +24,9 @@ tags:
 
 - - -
 
-**We are currently at capacity to enroll in our Toddler monthly membership. Please give us a call at (917) 745-1772 or send us an email at [atjiujitsunyc@gmail.com](mailto:atjiujitsunyc@gmail.com) letting us know you would like to be added to the Waiting List. We apologize for the inconvenience.** 
-
 * **TODDLER MONTHLY PROGRAM IS CURRENTLY CLOSED TO NEW REGISTRATIONS B/C WE ARE CURRENTLY AT CAPACITY. PLEASE JOIN OUR WAITING LIST**
+
+  Please give us a call at (917) 745-1772 or send us an email at [atjiujitsunyc@gmail.com](mailto:atjiujitsunyc@gmail.com) letting us know you would like to be added to the Waiting List. We apologize for the inconvenience.
 
 <br>
 
