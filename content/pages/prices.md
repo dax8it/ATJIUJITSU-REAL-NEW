@@ -151,12 +151,20 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 - - -
 
-## Age 3-5 Toddler Program 
+## Age 3-5 Toddler Program
 
-  * l﻿earn discipline
-  * l﻿earn throws (Judo)
-  * learn how to fall
-  * Great for adventurous kids   
+* l﻿earn discipline
+* l﻿earn throws (Judo)
+* learn how to fall
+* Great for adventurous kids   
+
+## \*\*TODDLER MONTHLY PROGRAM IS CURRENTLY CLOSED TO NEW REGISTRATIONS B/C WE ARE CURRENTLY AT CAPACITY.
+
+* **YOU MAY STILL ENROLL YOUR CHILD FOR THE TODDLER TRIAL, BUT TO ENROLL FOR OUR MONTHLY PROGRAM, PLEASE JOIN OUR WAIT LIST.**
+
+  Please give us a call at (917) 745-1772 or send us an email at [atjiujitsunyc@gmail.com](mailto:atjiujitsunyc@gmail.com) letting us know you would like to be added to the Wait List. We apologize for the inconvenience.
+
+
 
 ## $215/mo: ($18 Per Class)
 
@@ -171,7 +179,6 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 (+ $15.00 Sign Up Fee)
 
 * 2 Sessions a Week. Pick two classes weekly. Either 2 Jiu-Jitsu classes a week/ or 1  jiu-jitsu class & 1 Kickboxing class.
-
 
 - - -
 
