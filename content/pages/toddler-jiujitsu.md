@@ -20,7 +20,7 @@ tags:
 
 • Our toddler class are for Ages 3-5. Recommended for active children who are eager to learn. Limited spots available!
 
-<br>
+- - -
 
 ## \*\*TODDLER MONTHLY PROGRAM IS CURRENTLY CLOSED TO NEW REGISTRATIONS B/C WE ARE CURRENTLY AT CAPACITY.
 
