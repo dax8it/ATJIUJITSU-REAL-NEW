@@ -17,7 +17,8 @@ tags:
 
   Please give us a call at (917) 745-1772 or send us an email at [atjiujitsunyc@gmail.com](mailto:atjiujitsunyc@gmail.com) letting us know you would like to be added to the Wait List. We apologize for the inconvenience.
 
-<﻿br>
+
+<br>
 
 - - -
 
