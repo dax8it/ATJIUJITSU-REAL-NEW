@@ -11,7 +11,7 @@ tags:
 ---
 - - -
 
-### \*\*TODDLER MONTHLY PROGRAM IS CURRENTLY CLOSED TO NEW REGISTRATIONS B/C WE ARE CURRENTLY AT CAPACITY.
+#### \*\*TODDLER MONTHLY PROGRAM IS CURRENTLY CLOSED TO NEW REGISTRATIONS B/C WE ARE CURRENTLY AT CAPACITY.
 
 * **YOU MAY STILL ENROLL YOUR CHILD FOR THE TODDLER TRIAL, BUT TO ENROLL FOR OUR MONTHLY PROGRAM, PLEASE JOIN OUR WAIT LIST.**
 
@@ -30,7 +30,6 @@ In the link below, there is a step by step video tutorial for how to register, i
 If you already have an account with us please login below.
 
 ## <https://at-jiujitsu-nyc.maonrails.com/login>
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pna2MyGY56A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
