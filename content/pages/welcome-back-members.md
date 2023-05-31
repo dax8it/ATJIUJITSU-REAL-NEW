@@ -11,6 +11,14 @@ tags:
 ---
 - - -
 
+### \*\*TODDLER MONTHLY PROGRAM IS CURRENTLY CLOSED TO NEW REGISTRATIONS B/C WE ARE CURRENTLY AT CAPACITY.
+
+* **YOU MAY STILL ENROLL YOUR CHILD FOR THE TODDLER TRIAL, BUT TO ENROLL FOR OUR MONTHLY PROGRAM, PLEASE JOIN OUR WAIT LIST.**
+
+  Please give us a call at (917) 745-1772 or send us an email at [atjiujitsunyc@gmail.com](mailto:atjiujitsunyc@gmail.com) letting us know you would like to be added to the Wait List. We apologize for the inconvenience.
+
+- - -
+
 Through Martial Arts on Rails, you will be able to book your class sessions ahead of time.
 
 In the link below, there is a step by step video tutorial for how to register, if you have not yet done so. 
@@ -23,17 +31,6 @@ If you already have an account with us please login below.
 
 ## <https://at-jiujitsu-nyc.maonrails.com/login>
 
-
-- - -
-
-
-### \*\*TODDLER MONTHLY PROGRAM IS CURRENTLY CLOSED TO NEW REGISTRATIONS B/C WE ARE CURRENTLY AT CAPACITY.
-
-* **YOU MAY STILL ENROLL YOUR CHILD FOR THE TODDLER TRIAL, BUT TO ENROLL FOR OUR MONTHLY PROGRAM, PLEASE JOIN OUR WAIT LIST.**
-
-  Please give us a call at (917) 745-1772 or send us an email at [atjiujitsunyc@gmail.com](mailto:atjiujitsunyc@gmail.com) letting us know you would like to be added to the Wait List. We apologize for the inconvenience.
-
-<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pna2MyGY56A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
