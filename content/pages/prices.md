@@ -158,13 +158,15 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 * learn how to fall
 * Great for adventurous kids   
 
-## \*\*TODDLER MONTHLY PROGRAM IS CURRENTLY CLOSED TO NEW REGISTRATIONS B/C WE ARE CURRENTLY AT CAPACITY.
+##### \*\*ONLY ONE SPOT LEFT FOR OUR TODDLER MONTHLY PROGRAM
 
-* **YOU MAY STILL ENROLL YOUR CHILD FOR THE TODDLER TRIAL, BUT TO ENROLL FOR OUR MONTHLY PROGRAM, PLEASE JOIN OUR WAIT LIST.**
+##### **ONCE ALL SPOTS ARE FILLED, YOU MAY STILL ENROLL YOUR CHILD FOR THE TODDLER TRIAL, BUT TO ENROLL FOR OUR MONTHLY PROGRAM, PLEASE JOIN OUR WAIT LIST.** 
 
-  Please give us a call at (917) 745-1772 or send us an email at [atjiujitsunyc@gmail.com](mailto:atjiujitsunyc@gmail.com) letting us know you would like to be added to the Wait List. We apologize for the inconvenience.
+* Please give us a call at (917) 745-1772 or send us an email at [atjiujitsunyc@gmail.com](mailto:atjiujitsunyc@gmail.com) letting us know you would like to be added to the Wait List. We apologize for the inconvenience.
 
+<br>
 
+- - -
 
 ## $215/mo: ($18 Per Class)
 
