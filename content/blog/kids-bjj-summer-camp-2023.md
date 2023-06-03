@@ -27,17 +27,17 @@ tags:
 
 # <https://at-jiujitsu-nyc.gymdesk.com/book>
 
-**Week 1 (July 11-13th) -** 4 spots left
+**Week 1 (July 11-13th) -** 3 spots left
 
 **Week 2 (July 18-21st) -** 2 spots left
 
-**Week 3 (July 25-27th) -** 3 spots left
+**Week 3 (July 25-27th) -** 2 spots left
 
-**Week 4 (August 1-4th) -** 5 spots left
+**Week 4 (August 1-4th) -** 4 spots left
 
-**Week 5 (August 8-10th) -** 4 spots left
+**Week 5 (August 8-10th) -** 3 spots left
 
-**Week 6 (August 15-18th) -** 7 spots left
+**Week 6 (August 15-18th) -** 6 spots left
 
 <br>
 
