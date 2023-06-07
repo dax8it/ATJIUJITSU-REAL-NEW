@@ -204,17 +204,17 @@ Available for purchase below:
 
 **Professor Alvaro:**
 
-* (1) 30 minute Session: $60
-* (3) 30 minute Sessions: $165
-* (5) 30 minute Sessions:  $275
-* (10) 30 minute Sessions: $550
+* (1) Session(s) 30 minutes: $60
+* (3) Session(s) 30 minutes: $165
+* (5) Session(s) 30 minutes: $275
+* (10) Session(s) 30 minutes: $550
 
 <br>
 
-* (1) 1 hour Session: $120
-* (3) 1 hour Session: $350
-* (5) 1 hour Session:  $499
-* (10) 1 hour Session: $999
+* (1) Session(s) 1 hour: $120
+* (3) Session(s) 1 hour: $350
+* (5) Session(s) 1 hour:  $499
+* (10) Session(s) 1 hour: $999
 
 **Coach Rocco:** 
 
