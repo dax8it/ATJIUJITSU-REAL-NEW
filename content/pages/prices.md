@@ -211,7 +211,7 @@ Available for purchase below:
 
 <br>
 
-* (3) Session(s) 1 hour: $120
+* (1) Session(s) 1 hour: $120
 * (3) Session(s) 1 hour: $350
 * (5) Session(s) 1 hour:  $499
 * (10) Session(s) 1 hour: $999
