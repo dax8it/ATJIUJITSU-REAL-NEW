@@ -160,7 +160,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 ##### \*\*ONLY ONE SPOT LEFT FOR OUR TODDLER MONTHLY PROGRAM
 
-##### **ONCE ALL SPOTS ARE FILLED, YOU MAY STILL ENROLL YOUR CHILD FOR THE TODDLER TRIAL, BUT TO ENROLL FOR OUR MONTHLY PROGRAM, PLEASE JOIN OUR WAIT LIST.** 
+##### **ONCE ALL SPOTS ARE FILLED, YOU MAY STILL ENROLL YOUR CHILD FOR THE TODDLER TRIAL, BUT TO ENROLL FOR OUR MONTHLY PROGRAM, PLEASE JOIN OUR WAIT LIST.**
 
 * Please give us a call at (917) 745-1772 or send us an email at [atjiujitsunyc@gmail.com](mailto:atjiujitsunyc@gmail.com) letting us know you would like to be added to the Wait List. We apologize for the inconvenience.
 
@@ -204,18 +204,26 @@ Available for purchase below:
 
 **Professor Alvaro:**
 
-* **3 ONE HOUR PRIVATE SESSIONS - $350**
-* **1 ONE HOUR PRIVATE SESSION - $120**
-* **ONE 1/2 HOUR PRIVATE SESSION - $60**
+* (1) Session(s) 30 minutes: $60
+* (3) Session(s) 30 minutes: $165
+* (5) Session(s) 30 minutes: $275
+* (10) Session(s) 30 minutes: $550
+
+<br>
+
+* (1) Session(s) 1 hour: $120
+* (3) Session(s) 1 hour: $350
+* (5) Session(s) 1 hour:  $499
+* (10) Session(s) 1 hour: $999
 
 **Coach Rocco:** 
 
-* **3 ONE HOUR PRIVATE SESSIONS - $300**
-* **1 ONE HOUR PRIVATE SESSION - $80**
+* (3) ONE HOUR PRIVATE SESSIONS - $300
+* (1) ONE HOUR PRIVATE SESSION - $120
 
 **Kids Private Session with a Coach:** 
 
-* **45 MINUTES - $45**
+* 45 MINUTES - $45
 
 **Mommy/Daddy & Me Private:**
 
