@@ -23,7 +23,15 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 ## \- Toddler Trial (Two Consecutive Saturdays) - $35
 
-<br>
+##### \*\*ONLY ONE SPOT LEFT FOR OUR TODDLER MONTHLY PROGRAM
+
+##### **ONCE ALL SPOTS ARE FILLED, YOU MAY STILL ENROLL YOUR CHILD FOR THE TODDLER TRIAL, BUT TO ENROLL FOR OUR MONTHLY PROGRAM, PLEASE JOIN OUR WAIT LIST.**
+
+* Please give us a call at (917) 745-1772 or send us an email at [atjiujitsunyc@gmail.com](mailto:atjiujitsunyc@gmail.com) letting us know you would like to be added to the Wait List. We apologize for the inconvenience.
+
+
+
+ <br>
 
 - - -
 
@@ -158,21 +166,11 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 * learn how to fall
 * Great for adventurous kids   
 
-##### \*\*ONLY ONE SPOT LEFT FOR OUR TODDLER MONTHLY PROGRAM
-
-##### **ONCE ALL SPOTS ARE FILLED, YOU MAY STILL ENROLL YOUR CHILD FOR THE TODDLER TRIAL, BUT TO ENROLL FOR OUR MONTHLY PROGRAM, PLEASE JOIN OUR WAIT LIST.**
-
-* Please give us a call at (917) 745-1772 or send us an email at [atjiujitsunyc@gmail.com](mailto:atjiujitsunyc@gmail.com) letting us know you would like to be added to the Wait List. We apologize for the inconvenience.
-
-<br>
-
-- - -
-
 ## $215/mo: ($18 Per Class)
 
 (+ $15.00 Sign Up Fee)
 
-* 3 Sessions a Week. Includes all Toddler classes. 2 Jiu-Jitsu classes and 1 Kickboxing class weekly.
+* 3 Sessions a Week. Includes  all Toddler classes. 2 Jiu-Jitsu classes and 1 Kickboxing class weekly.
 
   **\- OR -**
 
