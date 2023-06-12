@@ -9,3 +9,5 @@ tags:
   - Blog
 ---
 C﻿heck out the heat these adults and kids packed this Grappling Industries Tournament!
+
+https://www.youtube.com/playlist?list=PLdyR8mvQmCdTZl2L-HXegkstNq0zLAqH_
