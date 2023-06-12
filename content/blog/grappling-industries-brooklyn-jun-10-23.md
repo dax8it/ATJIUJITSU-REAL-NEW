@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Grappling Industries Brooklyn - Jun. 10, 23
 order: 30
 date: 2023-06-10T21:08:38.983Z
-thumbnail: /img/bed7a74a-a923-48b8-bb74-04e461d3e25e.jpg
+thumbnail: /img/771d55ad-d1cb-47d4-a294-381ede666699.jpg
 home: false
 tags:
   - Blog
