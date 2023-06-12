@@ -3,6 +3,8 @@ templateKey: blog-post
 title: Grappling Industries Brooklyn - Jun. 10, 23
 order: 30
 date: 2023-06-10T21:08:38.983Z
+description: C﻿heck out the heat these adults and kids packed this Grappling
+  Industries Tournament!
 thumbnail: /img/771d55ad-d1cb-47d4-a294-381ede666699.jpg
 home: false
 tags:
