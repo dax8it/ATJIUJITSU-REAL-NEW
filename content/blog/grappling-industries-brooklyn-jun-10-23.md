@@ -10,7 +10,7 @@ home: false
 tags:
   - Blog
 ---
-### **C﻿heck out the heat these adults and kids packed this Grappling Industries Tournament!**
+### **C﻿heck out the photos and videos below:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLdyR8mvQmCdTZl2L-HXegkstNq0zLAqH_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>''
 
@@ -25,8 +25,6 @@ tags:
 ![](/img/img_2889.jpg)
 
 ![](/img/img_2347.jpg)
-
- ﻿
 
 ![](/img/img_2727.jpg)
 
