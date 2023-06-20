@@ -1,11 +1,10 @@
 ---
 templateKey: blog-post
-title: 'Belt Promotions '
+title: "Belt Promotions "
 order: 1
 date: 2022-12-10T00:00:00.000Z
-description: >-
-  Here are some of our students, who with hard work and determination have
-  earned their stripe or new belt!
+description: Here are some of our students, who with hard work and determination
+  have earned their stripe or new belt!
 thumbnail: /img/dsc08627.jpg
 home: false
 tags:
@@ -16,6 +15,8 @@ tags:
 - - -
 
 # **Belt Promotions**
+
+![](/img/img-9406.jpg)
 
 ![](/img/img-5417.jpg)
 
