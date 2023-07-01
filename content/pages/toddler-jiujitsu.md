@@ -14,6 +14,8 @@ tags:
 
 ## The best Jiu-Jitsu program for toddlers in Jackson Heights, NY!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7D8fZIneMkQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 • Brazilian Jiu-Jitsu is THE BEST non-violent self defense for children and teens. Our toddlers learn takedowns, throws, falling, controls. Through demonstration, students learn a series of techniques each class.
 
 • In Brazilian Jiu Jitsu classes, children will meet many new friends and share common experiences like drilling techniques, playing games, and live rolling.
@@ -22,9 +24,9 @@ tags:
 
 - - -
 
-##### \*\*ONLY ONE SPOT LEFT FOR OUR TODDLER MONTHLY PROGRAM
+##### \*\*PLEASE CHECK AVAILABILITY BEFORE ENROLLING IN OUR TODDLER PROGRAM AS SPOTS ARE LIMITED FOR THAT CLASS
 
-##### **ONCE ALL SPOTS ARE FILLED, YOU MAY STILL ENROLL YOUR CHILD FOR THE TODDLER TRIAL, BUT TO ENROLL FOR OUR MONTHLY PROGRAM, PLEASE JOIN OUR WAIT LIST.** 
+##### **ONCE ALL SPOTS ARE FILLED, YOU MAY STILL ENROLL YOUR CHILD FOR THE TODDLER TRIAL, BUT TO ENROLL FOR OUR MONTHLY PROGRAM, PLEASE JOIN OUR WAIT LIST.**
 
 * Please give us a call at (917) 745-1772 or send us an email at [atjiujitsunyc@gmail.com](mailto:atjiujitsunyc@gmail.com) letting us know you would like to be added to the Wait List. We apologize for the inconvenience.
 
