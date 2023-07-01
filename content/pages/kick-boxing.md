@@ -15,7 +15,7 @@ tags:
 
 ## The best kickboxing program in Jackson Heights, NY!
 
-`youtube: https://youtu.be/YEhrXn8-qeU`
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X6dwmXiMe60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 • Kickboxing is a form of martial arts derived from karate. It borrows moves from multiple types of martial arts including full-contact karate, Muay Thai, and boxing.
 
