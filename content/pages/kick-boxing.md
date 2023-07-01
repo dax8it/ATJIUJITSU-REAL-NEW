@@ -2,28 +2,20 @@
 templateKey: blog-post
 title: KickBoxing
 order: 5
-date: '2019-05-01'
-description: 'The best Kickboxing program in Jackson Heights, NY!'
+date: 2019-05-01
+description: The best Kickboxing program in Jackson Heights, NY!
 thumbnail: /img/kick-AIS09142.jpg
 home: true
 tags:
   - Programs
 ---
-`youtube: https://youtu.be/YEhrXn8-qeU`
-
-# Get Started Now:
-
-## Register for classes here:
-
-## <https://www.maonrails.com/signup/member/8s6>
-
-<br>
-
 - - -
 
 # Kickboxing
 
 ## The best kickboxing program in Jackson Heights, NY!
+
+`youtube: https://youtu.be/YEhrXn8-qeU`
 
 • Kickboxing is a form of martial arts derived from karate. It borrows moves from multiple types of martial arts including full-contact karate, Muay Thai, and boxing.
 
