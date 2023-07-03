@@ -16,11 +16,15 @@ tags:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7D8fZIneMkQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<br>
+
 • Brazilian Jiu-Jitsu is THE BEST non-violent self defense for children and teens. Our toddlers learn takedowns, throws, falling, controls. Through demonstration, students learn a series of techniques each class.
 
 • In Brazilian Jiu Jitsu classes, children will meet many new friends and share common experiences like drilling techniques, playing games, and live rolling.
 
 • Our toddler class are for Ages 3-5. Recommended for active children who are eager to learn. Limited spots available!
+
+<br>
 
 - - -
 
