@@ -30,7 +30,7 @@ tags:
 
 **In order to take this class, you must have Kickboxing & Jiu-Jitsu experience.** 
 
-
+<br>
 
 **F﻿or this class it is required to have:**
 
