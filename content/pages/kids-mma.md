@@ -1,11 +1,10 @@
 ---
 templateKey: blog-post
-title: 'MMA '
+title: "MMA "
 order: 7
 date: 2021-03-24T20:36:49.923Z
-description: >-
-  Join Coach Rocco for our Adult Intro to MMA Class or Kids MMA program and
-  learn from the Champ!
+description: Join Coach Rocco for our Adult Intro to MMA Class or Kids MMA
+  program and learn from the Champ!
 thumbnail: /img/dsc09063.jpg
 home: true
 tags:
@@ -17,11 +16,11 @@ tags:
 
 ## MMA is a full-contact combat sport which includes a mix of striking, grappling and ground fighting. For adults and kids who take both our Jiu-Jitsu and Kickboxing classes, this will be a great way to introduce them into mixing the martial arts. Because of its real-world effectiveness and applications, you'll not only be learning positive aspects that come from training a martial art, but you'll be learning a true form of self-defense that will stick with you for the rest of your lives.
 
-_**Adult MMA Schedule:**_
+***Adult MMA Schedule:***
 
 > **Friday: 6:15 p.m. - 7:00 p.m.**
 
-_**Kids MMA Schedule:**_
+***Kids MMA Schedule:***
 
 > **Tuesday: 5:15 p.m. - 6:00 p.m.**
 >
@@ -29,7 +28,11 @@ _**Kids MMA Schedule:**_
 
 - - -
 
-**In order to take this class you will need:**
+**In order to take this class, you must have Kickboxing & Jiu-Jitsu experience.** 
+
+
+
+**F﻿or this class it is required to have:**
 
 **\- Both MMA Gloves / Kickboxing Gloves**
 
