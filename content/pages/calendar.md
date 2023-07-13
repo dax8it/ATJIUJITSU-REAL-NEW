@@ -60,7 +60,7 @@ Please arrive on time to class or 10 minutes prior to class starting!  If you ar
 
 * **Kickboxing:** 6:15 to 7:00 pm
 * **Beginners Jiu-Jitsu (Gi):** 6:15 to 7:00 pm
-* **Jiu-Jitsu Advanced Sparring (Gi):** 7:15 to 8:00 pm
+* **No Gi Jiu-Jitsu Advanced Sparring:** 7:15 to 8:00 pm
 
 ## THURSDAY
 
@@ -129,13 +129,13 @@ Please arrive on time to class or 10 minutes prior to class starting!  If you ar
 
 ### FRIDAY
 
-* **Jiu-Jitsu (Ages 5 to 9):** 3:30 to 4:10 pm
-* **No Gi Jiu-Jitsu (Ages 10 to 15):** 4:15 to 5:00 pm
+* **Kids Jiu-Jitsu (Ages 5 to 9):** 3:30 to 4:10 pm
+* **Kids No Gi Jiu-Jitsu (Ages 10 to 15):** 4:15 to 5:00 pm
 
 ### SATURDAY
 
 * **Toddler Jiu-Jitsu (Ages 3-5):** 9:30 to 10:15 am
-* **Toddler Kickboxing/Beginners (Ages 3-9):** 11:10 to 11:55 am
+* **Toddler Kickboxing/Beginners (Ages 3-9):** 11:10 to 11:50 am
 
 <br>
 
