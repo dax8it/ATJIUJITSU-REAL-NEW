@@ -135,13 +135,13 @@ Please arrive on time to class or 10 minutes prior to class starting!  If you ar
 ### SATURDAY
 
 * **Toddler Jiu-Jitsu (Ages 3-5):** 9:30 to 10:15 am
-* **Toddler Kickboxing/Beginners (Ages 3-8):** 11:10 to 11:55 am
+* **Toddler Kickboxing/Beginners (Ages 3-9):** 11:10 to 11:55 am
 
 <br>
 
 * **Kids Jiu-Jitsu (Ages 6-9):** 10:00 to 11:00 am
 * **Kids Jiu-Jitsu (Ages 10-15):** 10:15 to 11:15 am
-* **Kids MMA (Ages 9-15):** 11:15 to 12:00 pm
+* **Kids MMA (Ages 10-15):** 11:15 to 12:00 pm
 
 ### SUNDAY
 
