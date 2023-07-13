@@ -108,19 +108,24 @@ Please arrive on time to class or 10 minutes prior to class starting!  If you ar
 
 ### TUESDAY
 
-* **Kids Kickboxing (Ages 5-15):** 4:00 to 4:45 pm
-* **Kids Jiu-Jitsu (Ages 5-15):** 5:00 to 5:45 pm
+* **Kids Kickboxing (Ages 5-15):** 3:30 to 4:10 pm
+* **K﻿ids Jiu-Jitsu (Ages 5-9):** 4:30 to 5:10 pm
+* **Kids MMA Advanced (Ages 7-15):** 5:15 to 6:00 pm
+
+  (﻿To take MMA, your child must have Kickboxing & Striking experience)
 
 ### WEDNESDAY
 
-* **Kids Kickboxing (Ages 5-15):** 4:00 to 4:45 pm
+* **Kids Kickboxing Advanced Sparring (Ages 5-15):** 4:00 to 4:45 pm
 * **Kids Jiu-Jitsu (Ages 5-15):** 5:00 to 5:45 pm
 
 ### THURSDAY
 
-* **Toddler Jiu-Jitsu (Ages 3-5): 3:45 to 4:30 pm  -﻿ (Members Only)**
+* **Toddler Jiu-Jitsu (Ages 3-5):** 3:45 to 4:30 pm 
 * **Kids No Gi Jiu-Jitsu (Ages 7-15):** 4:15 to 5:00 pm 
-* **Kids MMA (Ages 7-15):** 5:15 to 6:00 pm 
+* **Kids MMA Advanced (Ages 7-15):** 5:15 to 6:00 pm 
+
+  (﻿To take MMA, your child must have Kickboxing & Striking experience)
 
 ### FRIDAY
 
@@ -130,13 +135,13 @@ Please arrive on time to class or 10 minutes prior to class starting!  If you ar
 ### SATURDAY
 
 * **Toddler Jiu-Jitsu (Ages 3-5):** 9:30 to 10:15 am
-* **Toddler Kickboxing (Ages 3-7):** 11:10 to 11:55 am
+* **Toddler Kickboxing/Beginners (Ages 3-9):** 11:10 to 11:55 am
 
 <br>
 
 * **Kids Jiu-Jitsu (Ages 6-9):** 10:00 to 11:00 am
 * **Kids Jiu-Jitsu (Ages 10-15):** 10:15 to 11:15 am
-* **Kids Kickboxing (Ages 8-15):** 11:15 to 12:00 pm
+* **Kids MMA (Ages 10-15):** 11:15 to 12:00 pm
 
 ### SUNDAY
 
