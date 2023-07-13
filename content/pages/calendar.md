@@ -112,6 +112,8 @@ Please arrive on time to class or 10 minutes prior to class starting!  If you ar
 * **K﻿ids Jiu-Jitsu (Ages 5-9):** 4:30 to 5:10 pm
 * **Kids MMA Advanced (Ages 7-15):** 5:15 to 6:00 pm
 
+  (﻿To take MMA, your child must have Kickboxing & Striking experience)
+
 ### WEDNESDAY
 
 * **Kids Kickboxing Advanced Sparring (Ages 5-15):** 4:00 to 4:45 pm
