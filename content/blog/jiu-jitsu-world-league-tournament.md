@@ -17,8 +17,6 @@ tags:
 
 ![](/img/whatsapp-image-2023-07-31-at-6.09.08-pm.jpeg)
 
-![](/img/whatsapp-image-2023-07-31-at-6.09.15-pm.jpeg)
-
 ![](/img/899a6776.jpg)
 
 ![](/img/899a6944.jpg)
@@ -28,3 +26,5 @@ tags:
 ![](/img/899a6896.jpg)
 
 ![](/img/whatsapp-image-2023-07-31-at-6.29.57-pm.jpeg)
+
+![](/img/photo-2023-07-31-14-50-13.jpg)
