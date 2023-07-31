@@ -9,8 +9,6 @@ home: false
 tags:
   - Blog
 ---
-
-
 - - -
 
 ## C﻿heck out the action shots and highlights reel below!
@@ -28,5 +26,7 @@ tags:
 ![](/img/899a6944.jpg)
 
 ![](/img/whatsapp-image-2023-07-31-at-6.09.33-pm.jpeg)
+
+![](/img/899a6895.jpg)
 
 ![](/img/whatsapp-image-2023-07-31-at-6.29.57-pm.jpeg)
