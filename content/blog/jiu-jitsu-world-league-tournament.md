@@ -9,9 +9,18 @@ home: false
 tags:
   - Blog
 ---
- -﻿  -  - 
 
-## C﻿heck out the action shots and highlights reel below! 
 
+- - -
+
+## C﻿heck out the action shots and highlights reel below!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_wRMMrxUIAU?si=WGUZQRP8KMtUfGN5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+![](/img/whatsapp-image-2023-07-31-at-6.09.45-pm.jpeg)
+
+![](/img/whatsapp-image-2023-07-31-at-6.09.08-pm.jpeg)
+
+![](/img/whatsapp-image-2023-07-31-at-6.09.15-pm.jpeg)
+
+![](/img/whatsapp-image-2023-07-31-at-6.09.33-pm.jpeg)
