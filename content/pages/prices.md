@@ -23,7 +23,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 ## \- Toddler Trial (Two Consecutive Saturdays) - $35
 
-#### \*\*Limited Spots available for our Toddler Program! 
+##### \*\*Limited Spots available for our Toddler Program!
 
  <br>
 
