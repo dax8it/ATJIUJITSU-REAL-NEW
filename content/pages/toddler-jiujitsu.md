@@ -46,8 +46,6 @@ tags:
 >
 > **T﻿hursday:** 
 >
-> **(NO TRIALS/ MEMBERS ONLY CLASS)**
->
 > Toddler Jiu-Jitsu: 3:45 p.m. - 4:30 p.m. 
 >
 > **S﻿aturday:**
