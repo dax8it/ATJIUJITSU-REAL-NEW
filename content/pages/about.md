@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Our Team
 order: 12
-date: '2019-05-03'
+date: 2019-05-03
 description: Meet our staff and crew that make all of our classes possible.
 thumbnail: /img/dsc06203-1-.jpg
 home: true
@@ -204,6 +204,18 @@ Yvonne is currently a purple belt in Jiu-Jitsu under Professor Alvaro and the in
 
 <br>
 
+![](/img/coach-mo.jpg)
+
+# Mohammed Elbouanani
+
+## Coach
+
+<br>
+
+- - -
+
+<br>
+
 ![Daniela Tautiva M.S.WCo-Owner and Assistant Program Director](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1583298673/STAFF/IMG_9722-Edit_xhvhqb.png "Daniela Tautiva M.S.WCo-Owner and Assistant Program Director")
 
 # Daniela Tautiva M.S.W
@@ -215,22 +227,6 @@ Daniela obtained her Masters in Social Work from Adelphi University in 2018 and 
 As the Co-Owner,, Daniela has worked closely with Professor Alvaro to ensure that the programs offered at our school are tailored to the needs of every child and adult, with the goal of assisting our members in working to build confidence.
 
 Daniela is a 2nd Degree Brown Belt in Shotokan Karate through Sensei Kai Leung and is currently a purple belt in Brazilian Jiu-Jitsu.
-
-<br>
-
-- - -
-
-<br>
-
-![](/img/coach-mo.jpg)
-
-# Mohammed Elbouanani
-
-## Coach
-
-<br>
-
-- - -
 
 <br>
 
