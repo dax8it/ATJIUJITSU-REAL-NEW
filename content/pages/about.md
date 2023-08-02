@@ -140,7 +140,7 @@ Born and raised in Astoria, Queens, Rocco is a die-hard New Yorker. A big advoca
 
 ![Natalia Vallebuona - Program Director](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1583298680/STAFF/IMG_9694-Edit_wikw61.png)
 
-# Natalia 
+# Natalia
 
 ## Coach and Program Director
 
@@ -156,7 +156,7 @@ Natalia has always loved caring for children and was studying to become a teache
 
 ![Gabriela](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1583374462/STAFF/gabynew_rwthqj.png)
 
-# Gabriela 
+# Gabriela
 
 ## Coach
 
@@ -170,7 +170,7 @@ Gabriela, mainly known as Coach Gaby has been training in Jiu-Jitsu for 4 years.
 
 ![](/img/coach-yvonne.jpg)
 
-# Yvonne 
+# Yvonne
 
 ## Coach
 
@@ -194,7 +194,7 @@ Yvonne is currently a purple belt in Jiu-Jitsu under Professor Alvaro and the in
 
 ![](/img/coach-julian.jpg)
 
-# Julian 
+# Julian
 
 ## Coach
 
@@ -218,7 +218,7 @@ Yvonne is currently a purple belt in Jiu-Jitsu under Professor Alvaro and the in
 
 ![Daniela Tautiva M.S.WCo-Owner and Assistant Program Director](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1583298673/STAFF/IMG_9722-Edit_xhvhqb.png "Daniela Tautiva M.S.WCo-Owner and Assistant Program Director")
 
-# Daniela 
+# Daniela
 
 ## Co-Owner and Coach
 
@@ -242,3 +242,9 @@ Daniela is a 2nd Degree Brown Belt in Shotokan Karate through Sensei Kai Leung a
 
   gtag('config', 'UA-4799639-6');
 </script>
+
+
+
+
+
+![](/img/atjiujitsu-icon.png)
