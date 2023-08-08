@@ -3,7 +3,8 @@ templateKey: blog-post
 title: IBJJF New York - Aug. 6, 23
 order: 30
 date: 2023-08-06T22:25:28.435Z
-thumbnail: /img/whatsapp-image-2023-08-08-at-4.20.07-pm.jpeg
+description: "Ladies getting the job done! "
+thumbnail: /img/42f7a705-f5f1-42a6-9601-ceaa46e58717-2.jpg
 home: false
 tags:
   - Blog
@@ -16,12 +17,12 @@ tags:
 
 - - -
 
-![](/img/whatsapp-image-2023-08-08-at-4.20.07-pm-3-.jpeg)
+![](/img/img_2009.jpeg)
 
 ![](/img/whatsapp-image-2023-08-08-at-4.20.07-pm-1-.jpeg)
 
 ![](/img/whatsapp-image-2023-08-08-at-4.20.07-pm-2-.jpeg)
 
+![](/img/img_2010.jpeg)
+
 - - -
-
-
