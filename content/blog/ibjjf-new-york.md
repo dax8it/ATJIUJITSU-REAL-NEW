@@ -3,7 +3,7 @@ templateKey: blog-post
 title: IBJJF New York - Aug. 6, 23
 order: 30
 date: 2023-08-06T22:25:28.435Z
-description: "Ladies getting the job done! "
+description: "Ladies getting the job done earning gold, silver & bronze! "
 thumbnail: /img/42f7a705-f5f1-42a6-9601-ceaa46e58717-2.jpg
 home: false
 tags:
