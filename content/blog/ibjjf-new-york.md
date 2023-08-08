@@ -17,11 +17,19 @@ tags:
 
 - - -
 
+## C﻿ongrats to our two ladies, Kim-lien and Alee for stepping up and competing at the IBJJF Tournament in New York! 
+
 ![](/img/img_2009.jpeg)
+
+### K﻿im earned Gold in her division! 
 
 ![](/img/whatsapp-image-2023-08-08-at-4.20.07-pm-1-.jpeg)
 
+### A﻿lee earned Third place! 
+
 ![](/img/whatsapp-image-2023-08-08-at-4.20.07-pm-2-.jpeg)
+
+### K﻿im-lien earned second place in Absolute! 
 
 ![](/img/img_2010.jpeg)
 
