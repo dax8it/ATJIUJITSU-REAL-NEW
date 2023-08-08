@@ -11,13 +11,13 @@ tags:
 ---
 - - -
 
+### Our ladies Alee and Kim have shown what it means to be champions at the IBJJF Tournament in New York. Alee fought hard and earned a well-deserved 3rd place among 8 girls in her division. Kim-lien, dominated the competition by winning gold in her division in both Gi & No Gi and earning a silver medal in the absolute division. We are beyond proud of their achievements and can't wait to see what the future holds for these two amazing athletes.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a8pw2o0zDe0?si=g1M2FPDPCWo8nTQC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I_UvHf06uz0?si=d4bXzKa_BEBs2XbL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - - -
-
-### Our ladies Alee and Kim have shown what it means to be champions at the IBJJF Tournament in New York. Alee fought hard and earned a well-deserved 3rd place among 8 girls in her division. Kim-lien, dominated the competition by winning gold in her division in both Gi & No Gi and earning a silver medal in the absolute division. We are beyond proud of their achievements and can't wait to see what the future holds for these two amazing athletes.
 
 ![](/img/img_2009.jpeg)
 
