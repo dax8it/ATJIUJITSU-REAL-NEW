@@ -76,7 +76,8 @@ Having been raised in Jackson Heights his whole life, Professor Alvaro dreamt ab
 
 <br>
 
-![Alex Castro Morning Class Jiu-Jitsu Instructor](/img/professor-alex.jpg)
+![Alex Castro Morning Class Jiu-Jitsu Instructor]
+(https://res.cloudinary.com/dax8it/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1692916368/atjiujitsunyc/professor-alex.jpg)
 
 # Alex Castro
 
@@ -152,7 +153,7 @@ Gabriela, mainly known as Coach Gaby has been training in Jiu-Jitsu for 4 years.
 
 <br>
 
-![](/img/coach-yvonne.jpg)
+![Coach Yvonne](https://res.cloudinary.com/dax8it/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1692916368/atjiujitsunyc/coach-yvonne.jpg)
 
 # Yvonne
 
@@ -164,7 +165,7 @@ Yvonne is currently a purple belt in Jiu-Jitsu under Professor Alvaro and the in
 
 <br>
 
-![](/img/coach-david.jpg)
+![Coach David](https://res.cloudinary.com/dax8it/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1692916368/atjiujitsunyc/coach-david.jpg)
 
 # David
 
@@ -176,7 +177,7 @@ Yvonne is currently a purple belt in Jiu-Jitsu under Professor Alvaro and the in
 
 <br>
 
-![](/img/coach-julian.jpg)
+![Coach Julian](https://res.cloudinary.com/dax8it/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1692916368/atjiujitsunyc/coach-julian.jpg)
 
 # Julian
 
@@ -188,7 +189,8 @@ Yvonne is currently a purple belt in Jiu-Jitsu under Professor Alvaro and the in
 
 <br>
 
-![](/img/coach-mo.jpg)
+![Coach Mo]
+(https://res.cloudinary.com/dax8it/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1692916368/atjiujitsunyc/coach-mo.jpg)
 
 # Moe
 
@@ -200,7 +202,7 @@ Yvonne is currently a purple belt in Jiu-Jitsu under Professor Alvaro and the in
 
 <br>
 
-![Daniela Tautiva M.S.WCo-Owner and Assistant Program Director](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1583298673/STAFF/IMG_9722-Edit_xhvhqb.png "Daniela Tautiva M.S.WCo-Owner and Assistant Program Director")
+![Daniela Tautiva M.S.W Co-Owner and Assistant Program Director](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1583298673/STAFF/IMG_9722-Edit_xhvhqb.png "Daniela Tautiva M.S.WCo-Owner and Assistant Program Director")
 
 # Daniela
 
