@@ -60,3 +60,5 @@ Please do your best to follow our policies and if you have any questions or conc
 \-@JIU-JITSU NYC STAFF
 
 - - -
+
+google-site-verification=e0fMsGIyNLTzliaz_MLS8CbzIJMuHF-Qi1srbZWprmI
