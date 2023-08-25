@@ -136,7 +136,6 @@ A die-hard New Yorker, Rocco combines his passion for life with his expertise in
 
 <br>
 
-
 - - -
 
 <br>
@@ -195,11 +194,11 @@ Yvonne is currently a purple belt in Jiu-Jitsu under Professor Alvaro and the in
 
 ## Co-Owner and Coach
 
-Daniela obtained her Masters in Social Work from Adelphi University in 2018 and currently works as a Foster Care Case Planner. Having been raised in Jackson Heights and being the daughter of immigrant parents, Daniela works closely with families with the goal of providing permanency and safety of their children.
+Meet Daniela, a dedicated Foster Care Case Planner and the Co-Owner of our Martial Arts school. With a Masters in Social Work from Adelphi University, Daniela brings a unique blend of compassion and expertise to her role. Raised in Jackson Heights and the daughter of immigrant parents, she is deeply committed to the safety and permanency of children in her community.
 
-As the Co-Owner,, Daniela has worked closely with Professor Alvaro to ensure that the programs offered at our school are tailored to the needs of every child and adult, with the goal of assisting our members in working to build confidence.
+Working closely with Professor Alvaro, Daniela ensures that our programs are tailored to meet the individual needs of both children and adults. Her focus is on building Self-Confidence and instilling Discipline in our members, aligning perfectly with the school's mission to improve Fitness and Mental Toughness.
 
-Daniela is a 2nd Degree Brown Belt in Shotokan Karate through Sensei Kai Leung and is currently a purple belt in Brazilian Jiu-Jitsu.
+A 2nd Degree Brown Belt in Shotokan Karate and a Purple Belt in Brazilian Jiu-Jitsu, Daniela's Martial Arts credentials are impeccable. Trained by Sensei Kai Leung, she embodies the principles of Self-Respect and Self Defense, making her an ideal mentor for those looking to embark on their own Martial Arts journey.
 
 <br>
 
