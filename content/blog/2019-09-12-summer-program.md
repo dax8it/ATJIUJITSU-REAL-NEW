@@ -3,9 +3,8 @@ templateKey: blog-post
 title: Kids Summer Program 2021
 order: 3
 date: 2021-07-31T00:00:00.000Z
-description: >-
-  Thank you to everyone who joined us this summer, be sure to join us again next
-  year!
+description: Thank you to everyone who joined us this summer, be sure to join us
+  again next year!
 thumbnail: /img/dsc06004.jpg
 home: false
 tags:
@@ -15,7 +14,13 @@ tags:
 
 - - -
 
-## **What a wonderful summer – being immersed in nature, exploring new places, making new friends and trying new things. We always end each camp season with an eye toward the future and the excitement that lies ahead. Our heart is full of gratitude for our staff, for our campers and particularly for our camp parents who have entrusted your children to us. what a wonderful summer! Thank you for being an important part of it. Be sure to join us again next year!**
+### **An Unforgettable Summer with Our Brazilian Jiu-Jitsu for Kids!**
+
+### **What a fantastic summer it's been, filled with the joy of learning Brazilian Jiu-Jitsu, Muay Thai, and even some MMA basics! We're all about Fitness, Mental Toughness, and Self-Defense, but in a family-friendly environment that kids absolutely love. As we wrap up this camp season, we're already buzzing with excitement for what's to come next year.**
+
+### **A heartfelt thank you goes out to our incredible staff and, of course, our young campers who brought so much energy and enthusiasm. But our deepest gratitude is for you, the parents. Thank you for entrusting your children to us and for valuing the Discipline and Self-Confidence that martial arts bring into their lives.**
+
+### **Don't miss out on the fun and learning next summer! We promise another season packed with techniques, strategies, and the chance to earn those first belts in Brazilian Jiu-Jitsu or Muay Thai. See you next year for another summer full of Martial Arts excitement!**
 
 <br>
 
