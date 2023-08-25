@@ -94,11 +94,11 @@ Having been raised in Jackson Heights his whole life, Professor Alvaro dreamt ab
 
 ## Smarter Yoga and Kettlebell Instructor
 
-Kim has been teaching yoga classes, one on one sessions, workshops, seminars, retreats and teacher trainings since 2005. She has studied several styles of yoga under many well-known teachers and combined her background in exercise physiology and kinesiology to co-create Smarter Yoga (TM), an individualized movement practice rooted in exercise science without the dogma of traditional yoga practice. She is the CEO of Smarter Bodies and the co-author of "Exposing Yoga Myths".
+Meet Kim, a seasoned expert in both Yoga and Martial Arts, particularly Brazilian Jiu-Jitsu, where she holds a Purple Belt. Since 2005, Kim has been elevating the Fitness and Self-Confidence of individuals through Yoga classes, one-on-one sessions, workshops, and seminars. Her unique approach combines her background in exercise physiology and kinesiology to form Smarter Yoga™, a personalized movement practice rooted in exercise science. As the CEO of Smarter Bodies, she co-authored the book 'Exposing Yoga Myths.'
 
-Kim has a BS in Biochemistry from Florida State University (2005), is certified by Yoga Union, has completed training and an ongoing education at the Breathing Project, is certified as a Redcord Active instructor and is a MET Master Facilitator. Kim is also an active competitor in Brazilian Jiu-Jitsu and currently a purple belt. She is known for creating sport-specific mobility programs and has created a program specifically for grapplers that will be taught exclusively at @Jiu-Jitsu NYC.
+Kim holds a BS in Biochemistry from Florida State University and is certified by Yoga Union. She's also a MET Master Facilitator and a certified Redcord Active instructor. Her ongoing education at the Breathing Project further solidifies her commitment to enhancing Mental Toughness and Discipline in her students.
 
-<br>
+An active competitor in Brazilian Jiu-Jitsu, Kim specializes in creating sport-specific mobility programs. She has developed a unique program tailored for grapplers, which will be exclusively taught at @Jiu-Jitsu NYC. Her multifaceted expertise makes her an ideal mentor for those looking to improve their Self-Respect and Self Defense skills.<br>
 
 - - -
 
