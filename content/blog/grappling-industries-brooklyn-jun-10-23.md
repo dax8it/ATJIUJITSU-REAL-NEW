@@ -35,10 +35,10 @@ tags:
 
 What an exhilarating day it was for our Brazilian Jiu-Jitsu family at the Grappling Industries Tournament in Brooklyn! Both our young champs and adult warriors showcased incredible Mental Toughness and Discipline, making us all proud. For kids, competing is about much more than just winning or losing; it's a fantastic way to build Self-Confidence and learn the value of teamwork. For adults, it's a chance to test your skills, improve your Fitness level, and even discover new Self-Defense techniques.
 
-The Power of Community and Mutual Support
+**The Power of Community and Mutual Support**
 The atmosphere was electric, and the support from teammates and parents was heartwarming to see. One of the most beautiful aspects of Brazilian Jiu-Jitsu and MMA is the sense of community it fosters. Whether you're a child taking your first steps into Martial Arts or an adult looking to elevate your game, there's a place for you here. Our team's unity and mutual encouragement were the true victories of the day, proving that we're stronger together.
 
-Join Us for an Unforgettable Martial Arts Journey
+**Join Us for an Unforgettable Martial Arts Journey**
 If you've been contemplating enrolling in a Brazilian Jiu-Jitsu or Muay Thai class, there's no better time than now. Our doors are open to newcomers of all ages, and we offer a range of classes to suit every skill level. Don't miss out on the chance to improve your Mental Toughness, Fitness, and Self-Defense skills while being part of an amazing community. See you on the mat!
 
 - - -
