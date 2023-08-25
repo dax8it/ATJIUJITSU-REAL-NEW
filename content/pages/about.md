@@ -52,9 +52,9 @@ Through classes focusing on mixed martial arts such as Brazilian Jiu-Jitsu, Judo
 
 [atautivajr@gmail.com](mailto://alvarotautiva@gmail.com)
 
-Professor Alvaro is currently a Black belt in Brazilian Jiu-Jitsu and a Brown belt in Judo. Professor Alvaro obtained his black belt in Brazilian Jiu-Jitsu on December 2017 from Vitor Shaolin in NYC. Prior to Jiu-jitsu, he has trained and continues to train in Muay Thai, was a certified trainer through the National Academy of Sports Medicine (N.A.S.M.) and obtained an Associate Degree in Speech Pathology through LaGuardia Community College.
+Meet Professor Alvaro, a certified expert in Martial Arts with a Black Belt in Brazilian Jiu-Jitsu and a Brown Belt in Judo. Trained by Vitor Shaolin in NYC, he achieved his Brazilian Jiu-Jitsu Black Belt in December 2017. Beyond Jiu-Jitsu, Professor Alvaro is skilled in Muay Thai and was a certified Fitness trainer through the National Academy of Sports Medicine (N.A.S.M.). He also holds an Associate Degree in Speech Pathology from LaGuardia Community College.
 
-An active competitor in the BJJ scene, Professor Alvaro has competed and medaled in several tournaments in the United States, ranging from New York, Boston, Miami, and Las Vegas. In 2015, as a purple belt, Professor Alvaro was runner-up in the IBJJF Masters Worlds championship and soon after took 1st place in the no-gi Pan-Ams championship.
+As an active competitor in the Martial Arts scene, particularly in Brazilian Jiu-Jitsu, Professor Alvaro has showcased his Discipline and Mental Toughness by medaling in several U.S. tournaments, including events in New York, Boston, Miami, and Las Vegas. In 2015, he earned runner-up status in the IBJJF Masters Worlds championship and later secured 1st place in the no-gi Pan-Ams championship. His commitment to Fitness, Self-Confidence, and Self-Respect makes him an ideal mentor for individuals at all levels seeking to elevate their skills in Self Defense and Martial Arts.
 
 **Some current titles include:**
 
@@ -76,8 +76,7 @@ Having been raised in Jackson Heights his whole life, Professor Alvaro dreamt ab
 
 <br>
 
-![Alex Castro Morning Class Jiu-Jitsu Instructor]
-(https://res.cloudinary.com/dax8it/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1692916368/atjiujitsunyc/professor-alex.jpg)
+![Alex Castro Morning Class Jiu-Jitsu Instructor](https://res.cloudinary.com/dax8it/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1692916368/atjiujitsunyc/professor-alex.jpg)
 
 # Alex Castro
 
@@ -189,8 +188,7 @@ Yvonne is currently a purple belt in Jiu-Jitsu under Professor Alvaro and the in
 
 <br>
 
-![Coach Mo]
-(https://res.cloudinary.com/dax8it/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1692916368/atjiujitsunyc/coach-mo.jpg)
+![Coach Mo](https://res.cloudinary.com/dax8it/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1692916368/atjiujitsunyc/coach-mo.jpg)
 
 # Moe
 
