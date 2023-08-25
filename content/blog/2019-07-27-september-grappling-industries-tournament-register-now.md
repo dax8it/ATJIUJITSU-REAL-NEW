@@ -17,11 +17,9 @@ home: false
 tags:
   - Blog
 ---
-We're happy and proud of everyone who put their jiu-jitsu skills out on the line and tested themselves. Great learning tool for all of us, win or lose. This tournament gave us the opportunity to analyze our jiu-jitsu and study the game. But the biggest thing that came out of the Grappling Industries Tournament was our team strength, resolve, and our tremendous support for each other. You guys rock!!
-
-- - -
-
 ![](/img/ais07937_easy-resize.com.jpg)
+
+We couldn't be happier with the courage and skill everyone showed at the Grappling Industries Tournament. Putting your Jiu-Jitsu techniques to the test is a valuable learning experience, regardless of the outcome. This event offered a unique lens to scrutinize and enhance our Jiu-Jitsu strategies. More than anything, the tournament highlighted our team's unity, resilience, and mutual encouragement. Your support for each other was the true victory of the day. Kudos to each one of you—you're all amazing!
 
 ![](/img/dsc07168_easy-resize.com.jpg)
 
