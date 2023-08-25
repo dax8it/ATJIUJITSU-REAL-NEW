@@ -136,19 +136,6 @@ A die-hard New Yorker, Rocco combines his passion for life with his expertise in
 
 <br>
 
-- - -
-
-<br>
-
-![Gabriela](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1583374462/STAFF/gabynew_rwthqj.png)
-
-# Gabriela
-
-## Coach
-
-Gabriela, mainly known as Coach Gaby has been training in Jiu-Jitsu for 4 years. She is currently a blue belt. Along with Jiu-Jitsu, Gaby also takes kickboxing and is currently studying as a Computer Science Major. She is artistic and creative and is now a professional at painting our school’s logo. Any mural design drawn inside/throughout of @Jiu-Jitsu NYC will most definitley have been painted by her. Make sure to check it out when inside the gym.
-
-<br>
 
 - - -
 
