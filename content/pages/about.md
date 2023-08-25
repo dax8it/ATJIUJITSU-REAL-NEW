@@ -110,9 +110,11 @@ An active competitor in Brazilian Jiu-Jitsu, Kim specializes in creating sport-s
 
 ## Muay-Thai Instructor
 
-Morgan Chen is the Owner and Head Coach of **Astoria_BarbellClub and Crossfit_Astoria**. Morgan is of Taiwanese descent but was born and raised in Rego Park, Queens. He attended P.S. 139, Russel Sage JHS 190, then went onto Forest Hills High School. Morgan received his first nationally recognized personal training certification when he was 18 at NASM_Fitness. Surprisingly, his favorite hobby is eating. He loves to explore new restaurants and learning new cooking techniques.
+Meet Morgan Chen, the Owner and Head Coach of **Astoria BarbellClub and Crossfit Astoria.** Born and raised in Rego Park, Morgan is deeply rooted in the local community. He attended P.S. 139, Russel Sage JHS 190, and Forest Hills High School, solidifying his connection to Queens. At just 18, Morgan earned his first nationally recognized personal training certification from NASM Fitness, showcasing his early commitment to Discipline and Self-Confidence.
 
-Morgan admits to being a diehard **NY Knicks** and **New York Mets** fan, and remembers going to Shea Stadium every summer as a kid. Morgan states that he wants to give back to Queens by making personal training and qualified fitness advice affordable for everyone. His vision for Queens is to have complimentary fitness classes in every public NYC Parks(s). Although extremely busy between multiple ventures, Morgan spends his most important time as a dad not a coach.
+A food enthusiast, Morgan loves exploring new restaurants and honing his cooking techniques. He's also a diehard **NY Knicks** and **New York Mets** fan, fondly recalling summers spent at Shea Stadium. But Morgan's vision goes beyond personal interests; he aims to give back to Queens by making personal training and qualified fitness advice affordable for everyone. His ultimate goal is to offer complimentary fitness classes in every public NYC Park, enhancing community Self-Respect and Self Defense skills.
+
+Though juggling multiple ventures, Morgan's most cherished role is being a dad, proving that balance is key in achieving a fulfilling life.
 
 <br>
 
@@ -126,11 +128,11 @@ Morgan admits to being a diehard **NY Knicks** and **New York Mets** fan, and re
 
 ## Kickboxing and MMA Instructor
 
-Rocco is a lifelong competitive athlete. Starting with martial arts (Taekwondo) at the age of 7, he has played nearly every organized sport under the sun. Football however, was where he decided to devote his efforts for a majority of his younger years. From pop warner to playing at the collegiate level, he developed the grit, a love for the daily grind and the dedication needed to transition well into the combative sport lifestyle.
+Meet Rocco, a lifelong competitive athlete and a dedicated practitioner of Martial Arts, including Taekwondo and Brazilian Jiu-Jitsu. Born and raised in Astoria, Queens, Rocco embodies the grit and Mental Toughness that comes from years of disciplined training. Starting his athletic journey at the age of 7, he has explored various sports but found his true calling in Football and later, Mixed Martial Arts.
 
-Finding martial arts (Brazilian jiu jitsu) again at the age of 27, he quickly embraced the joy it brought back into his life and sought to embark on his Mixed Martial Arts journey. A few short years later, he has made his way onto the prestigious MMA team at the world renown Renzo Gracie Academy in NYC, where he trains daily. He is currently a bjj purple belt and has had several fights in his young career, including an amateur title fight. Rocco is hopeful on turning pro in 2020.
+Rekindling his love for Martial Arts at 27, Rocco quickly embraced the Discipline and Self-Confidence that Brazilian Jiu-Jitsu brought back into his life. He trains daily at the world-renowned Renzo Gracie Academy in NYC and holds a BJJ Purple Belt. With several fights under his belt, including an amateur title fight, Rocco is on the path to turning pro.
 
-Born and raised in Astoria, Queens, Rocco is a die-hard New Yorker. A big advocate of the phrase "eat, drink and be merry", he has fused his passion for life and training with his teaching to create a fun and upbeat atmosphere during his classes.
+A die-hard New Yorker, Rocco combines his passion for life with his expertise in Fitness and Self Defense to create an upbeat and engaging atmosphere in his classes. His teaching style is designed to elevate your Self-Respect while providing a fun and effective training experience.
 
 <br>
 
