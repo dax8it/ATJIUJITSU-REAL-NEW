@@ -18,13 +18,15 @@ tags:
 
 Wow, what an incredible day for our Brazilian Jiu-Jitsu enthusiasts at the Grappling Industries Tournament in Brooklyn! We're bursting with pride as our kids' team clinched a 3rd place team trophy, showcasing their Mental Toughness and Discipline. But the benefits of competing go beyond the medals. For kids, it's a golden opportunity to build Self-Confidence and teamwork skills. Adults, you're not left out! Competing offers you a unique platform to test your Jiu-Jitsu techniques, elevate your Fitness levels, and hone your Self-Defense skills.
 
-## More Than a Team, We're a Family
+### More Than a Team, We're a Family
 
 The camaraderie at the tournament was truly heartwarming. Our community spirit shone through, proving that Brazilian Jiu-Jitsu is more than just a sport; it's a lifestyle that brings people together. Whether you're a child eager to learn or an adult seeking a new challenge, our dojo is a welcoming space for all.
 
-### Take the First Step in Your Martial Arts Journey
+### **Embark on Your Martial Arts Journey Near You**
 
-If you've been on the fence about trying Brazilian Jiu-Jitsu or branching into MMA and Muay Thai, let our recent success be your inspiration. We welcome newcomers of all ages to join our award-winning team. Experience firsthand the life-changing benefits of enhanced Fitness, increased Self-Confidence, and a strong sense of community. We can't wait to welcome you!Check out everyone's matches below:
+If you've been thinking about starting your Martial Arts journey, there's no better time than now. Our award-winning team is eager to welcome newcomers of all ages. Come experience the transformative benefits of Martial Arts, including enhanced Fitness, greater Self-Confidence, and a vibrant community spirit. We're right here, near you, and can't wait to meet you!
+
+## **Check out everyone's matches below:**
 
 <br>
 
