@@ -15,6 +15,8 @@ tags:
 
 - - -
 
+Embark on an incredible journey with Brazilian Jiu-Jitsu, a martial art form that started in Brazil and has now taken the world by storm. Offering a plethora of benefits like self-defense, mental toughness, and fitness, BJJ is more than just a sport. It's a lifestyle that welcomes individuals of all ages.
+
 #### FAQ:
 
 **Q:** How did Brazilian Jiu-Jitsu originate?\
