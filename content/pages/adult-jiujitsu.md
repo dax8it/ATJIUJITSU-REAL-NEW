@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: history-benefits-brazilian-jiu-jitsu
+title: History and Benefits of Brazilian Jiu-Jitsu
 order: 4
 date: 2019-05-01
 description: Discover the rich history and numerous benefits of Brazilian
