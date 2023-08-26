@@ -33,9 +33,7 @@ Exciting news for parents looking to enrich their kids' summer—our Jiu-Jitsu-b
 
 ### A Crash Course in Brazilian Jiu-Jitsu and More for Kids Ages 5-14
 
-This year, we're taking a deep dive into Brazilian Jiu-Jitsu, offering a crash course that's perfect for beginners and experienced practitioners alike. Whether your child is looking to improve their Jiu-Jitsu techniques, boost their Fitness levels, or learn essential Self-Defense skills, our Academy is the place to be. Our BJJ Summer Camp is designed for kids ages 5-14 and includes a variety of activities like Kickboxing, Judo, Arts and Crafts, chess, tennis and salsa lessons
-
-and even Obstacle Courses!
+This year, we're taking a deep dive into Brazilian Jiu-Jitsu, offering a crash course that's perfect for beginners and experienced practitioners alike. Whether your child is looking to improve their Jiu-Jitsu techniques, boost their Fitness levels, or learn essential Self-Defense skills, our Academy is the place to be. Our BJJ Summer Camp is designed for kids ages 5-14 and includes a variety of activities like Kickboxing, Judo, Arts and Crafts, chess, tennis and salsa lessons and even Obstacle Courses!
 
 ### Ground-Based Techniques, Takedowns, and Agility Workouts
 
