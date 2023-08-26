@@ -25,6 +25,8 @@ Fast forward to today, and Brazilian Jiu-Jitsu is rocking the world! Not only is
 
 So, if you're thinking about enrolling yourself or your kiddo in a Martial Arts school, why not pick one that offers this incredible art form? From Discipline to Self-Confidence, the benefits are endless. Come join our Martial Arts family near you and be part of this amazing journey that started over a century ago in Brazil!
 
+![](/img/dsc06555.jpg)
+
 ### Top 10 Perks of Diving into Brazilian Jiu-Jitsu: More Than Just a Sport!
 
 Hey there, future Martial Arts enthusiasts! Ever wondered why Brazilian Jiu-Jitsu (BJJ) is taking the world by storm? Well, it's not just about the cool moves and Self-Defense skills. There's a whole lot more to gain, and we're here to spill the beans! Ready to find out what's in it for you and your kiddos?
