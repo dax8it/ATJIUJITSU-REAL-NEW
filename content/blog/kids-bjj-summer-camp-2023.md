@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 2023-jiu-jitsu-summer-camp-kids-activities
+title: 2023 Jiu-Jitsu Summer Camp Kids Activities
 order: 3
 date: 2023-07-11T19:39:08.339Z
 description: Enroll your child in our 2023 Jiu-Jitsu Summer Camp for a blend of
@@ -27,15 +27,13 @@ Discover the ultimate summer experience with our 2023 Jiu-Jitsu Summer Camp. Des
 **Q:** What skills will my child gain from the Jiu-Jitsu Summer Camp?\
 **A:** Your child will gain valuable skills in Brazilian Jiu-Jitsu techniques, fitness levels, and essential self-defense skills. The camp also focuses on mental toughness and discipline.
 
-
-
 ### Get Ready for an Unforgettable Summer: Jiu-Jitsu and More at Our 2023 Summer Camp Near You!
 
 Exciting news for parents looking to enrich their kids' summer—our Jiu-Jitsu-based Summer Camp is back for 2023! Imagine a summer where your child not only has fun but also gains valuable skills in Brazilian Jiu-Jitsu, both in Gi and No Gi. But that's not all; we've got a whole range of activities, from Kickboxing and Judo to Arts and Crafts and Obstacle Courses. It's the perfect blend of Martial Arts, Fitness, and Mental Toughness, all rolled into one incredible summer experience!
 
 ### A Crash Course in Brazilian Jiu-Jitsu and More for Kids Ages 5-14
 
-This year, we're taking a deep dive into Brazilian Jiu-Jitsu, offering a crash course that's perfect for beginners and experienced practitioners alike. Whether your child is looking to improve their Jiu-Jitsu techniques, boost their Fitness levels, or learn essential Self-Defense skills, our Academy is the place to be. Our BJJ Summer Camp is designed for kids ages 5-14 and includes a variety of activities like Kickboxing, Judo, Arts and Crafts, and even Obstacle Courses!
+This year, we're taking a deep dive into Brazilian Jiu-Jitsu, offering a crash course that's perfect for beginners and experienced practitioners alike. Whether your child is looking to improve their Jiu-Jitsu techniques, boost their Fitness levels, or learn essential Self-Defense skills, our Academy is the place to be. Our BJJ Summer Camp is designed for kids ages 5-14 and includes a variety of activities like Kickboxing, Judo, Arts and Crafts, chess, tennis and salsa lessons and even Obstacle Courses!
 
 ### Ground-Based Techniques, Takedowns, and Agility Workouts
 
@@ -82,7 +80,7 @@ Our camp days are packed with engaging activities that go beyond traditional Mar
 
 If you have any questions or concerns please email us right away. Please keep in mind that spots are limited so if you are interested, let us know as soon as possible to begin planning future arrangements.
 
-Thank you to everyone once again. We hope to see you there this summer!🌞🌈🌺
+Thank you to everyone once again. We hope to see you there next summer!🌞🌈🌺
 
 <br>
 
