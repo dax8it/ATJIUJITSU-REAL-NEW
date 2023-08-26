@@ -1,6 +1,6 @@
 module.exports = {
-  name: "AT JIUJITSU NYC",
-  shortName: "AT Jiu-Jitsu NYC",
+  name: "@JiuJitsuNYC",
+  shortName: "@JiuJitsuNYC",
   description: "Jiujitsu is for Everyone.",
   url: "https://atjiujitsunyc.com", // Domain of your site without prefix!
   prefix: "/",
