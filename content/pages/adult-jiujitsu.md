@@ -3,7 +3,9 @@ templateKey: blog-post
 title: Brazilian Jiu Jitsu
 order: 4
 date: 2019-05-01
-description: Jiu Jitsu is so much more than a sport, it’s a way of life.
+description: Discover the rich history and numerous benefits of Brazilian
+  Jiu-Jitsu. From its origins in Brazil to its impact on mental toughness and
+  self-defense, learn why BJJ is more than just a sport.
 thumbnail: /img/fb_img_1621261403650.jpg
 home: true
 tags:
