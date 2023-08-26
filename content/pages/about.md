@@ -44,7 +44,7 @@ Through classes focusing on mixed martial arts such as Brazilian Jiu-Jitsu, Judo
 
 <br>
 
-![Professor Alvaro Tautiva Owner and Head Instructor](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1583371368/STAFF/IMG_9755-Edit_bd76av.png)
+![Professor-Alvaro-Tautiva-Owner-and-Head-Instructor, Jiujitsu, Black Belt, Martial Arts, Self Defense, Adults, Kids, Teacher, MMA, Kickboxing](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1583371368/STAFF/IMG_9755-Edit_bd76av.png)
 
 # Professor Alvaro Tautiva
 
