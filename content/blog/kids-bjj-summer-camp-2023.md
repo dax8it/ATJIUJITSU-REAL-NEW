@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 2023-jiu-jitsu-summer-camp-kids-activities
+title: 2023 Jiu-Jitsu Summer Camp Kids Activities
 order: 3
 date: 2023-07-11T19:39:08.339Z
 description: Enroll your child in our 2023 Jiu-Jitsu Summer Camp for a blend of
