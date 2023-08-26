@@ -1,9 +1,10 @@
 ---
 templateKey: blog-post
-title: Kids BJJ Summer Camp 2023
+title: 2023-jiu-jitsu-summer-camp-kids-activities
 order: 3
 date: 2023-07-11T19:39:08.339Z
-description: Register your child now for our 2023 bjj summer camp!
+description: Enroll your child in our 2023 Jiu-Jitsu Summer Camp for a blend of
+  Martial Arts, Fitness, and Mental Toughness. Suitable for kids ages 5-14.
 thumbnail: /img/dsc07916.jpg
 home: true
 tags:
@@ -11,7 +12,22 @@ tags:
 ---
 - - -
 
-<br>
+# 2﻿023 Kids Jiu-Jitsu Summer Camp
+
+Discover the ultimate summer experience with our 2023 Jiu-Jitsu Summer Camp. Designed for kids ages 5-14, the camp offers a diverse range of activities like Brazilian Jiu-Jitsu, Kickboxing, and Judo. It's more than just fun; it's an opportunity to boost fitness levels, learn self-defense, and build mental toughness.
+
+#### FAQs:
+
+**Q:** What activities are included in the 2023 Jiu-Jitsu Summer Camp?\
+**A:** The 2023 Jiu-Jitsu Summer Camp offers a variety of activities including Brazilian Jiu-Jitsu in both Gi and No Gi, Kickboxing, Judo, Arts and Crafts, and Obstacle Courses.
+
+**Q:** Who is the target age group for the Jiu-Jitsu Summer Camp?\
+**A:** The camp is designed for kids ages 5-14 and is suitable for beginners and experienced practitioners alike.
+
+**Q:** What skills will my child gain from the Jiu-Jitsu Summer Camp?\
+**A:** Your child will gain valuable skills in Brazilian Jiu-Jitsu techniques, fitness levels, and essential self-defense skills. The camp also focuses on mental toughness and discipline.
+
+
 
 ### Get Ready for an Unforgettable Summer: Jiu-Jitsu and More at Our 2023 Summer Camp Near You!
 
@@ -24,8 +40,6 @@ This year, we're taking a deep dive into Brazilian Jiu-Jitsu, offering a crash c
 ### Ground-Based Techniques, Takedowns, and Agility Workouts
 
 Our camp days are packed with engaging activities that go beyond traditional Martial Arts. We'll cover ground-based Jiu-Jitsu techniques, takedowns, and even include agility workouts to enhance your child's athletic ability and Fitness levels. It's not just about learning; it's about having a blast with our dedicated staff and making new friends in a Discipline-focused environment.
-
-
 
 ![](/img/summer-camp-schedule-.jpg)
 
