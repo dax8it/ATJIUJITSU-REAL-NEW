@@ -76,7 +76,7 @@ Having been raised in Jackson Heights his whole life, Professor Alvaro dreamt ab
 
 <br>
 
-![Alex Castro Morning Class Jiu-Jitsu Instructor](https://res.cloudinary.com/dax8it/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1692916368/atjiujitsunyc/professor-alex.jpg)
+![Alex Castro Morning Class Jiu-Jitsu Instructor](https://res.cloudinary.com/dax8it/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1692916368/atjiujitsunyc/professor-alex.png)
 
 # Alex Castro
 
@@ -140,7 +140,7 @@ A die-hard New Yorker, Rocco combines his passion for life with his expertise in
 
 <br>
 
-![Coach Yvonne](https://res.cloudinary.com/dax8it/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1692916368/atjiujitsunyc/coach-yvonne.jpg)
+![Coach Yvonne](https://res.cloudinary.com/dax8it/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1692916368/atjiujitsunyc/coach-yvonne.png)
 
 # Yvonne
 
@@ -152,7 +152,7 @@ Yvonne is currently a purple belt in Jiu-Jitsu under Professor Alvaro and the in
 
 <br>
 
-![Coach David](https://res.cloudinary.com/dax8it/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1692916368/atjiujitsunyc/coach-david.jpg)
+![Coach David](https://res.cloudinary.com/dax8it/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1692916368/atjiujitsunyc/coach-david.png)
 
 # David
 
@@ -164,7 +164,7 @@ Yvonne is currently a purple belt in Jiu-Jitsu under Professor Alvaro and the in
 
 <br>
 
-![Coach Julian](https://res.cloudinary.com/dax8it/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1692916368/atjiujitsunyc/coach-julian.jpg)
+![Coach Julian](https://res.cloudinary.com/dax8it/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1692916368/atjiujitsunyc/coach-julian.png)
 
 # Julian
 
@@ -176,7 +176,7 @@ Yvonne is currently a purple belt in Jiu-Jitsu under Professor Alvaro and the in
 
 <br>
 
-![Coach Mo](https://res.cloudinary.com/dax8it/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1692916368/atjiujitsunyc/coach-mo.jpg)
+![Coach Mo](https://res.cloudinary.com/dax8it/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1692916368/atjiujitsunyc/coach-mo.png)
 
 # Moe
 
