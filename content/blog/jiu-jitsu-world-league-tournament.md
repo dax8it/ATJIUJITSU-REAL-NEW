@@ -1,14 +1,17 @@
 ---
 templateKey: blog-post
-title: Jiu-Jitsu World League Tournament
+title: Jiu-Jitsu World League 2023 Academy Highlights
 order: 30
 date: 2023-07-30T21:20:43.478Z
-description: "Another tournament in the books! "
+description: Highlighting our academy's proud representation at the Jiu-Jitsu
+  World League Tournament 2023.
 thumbnail: /img/whatsapp-image-2023-07-31-at-6.09.45-pm.jpeg
 home: false
 tags:
   - Blog
 ---
+ Discover the transformative benefits of competing in martial arts.
+
 - - -
 
 **What is the Jiu-Jitsu World League Tournament?** 
