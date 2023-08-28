@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: IBJJF New York - Aug. 6, 23
+title: IBJJF Tournament 2023 Women Champions on August 6, 2023
 order: 30
 date: 2023-08-06T22:25:28.435Z
 description: "Ladies getting the job done earning gold, silver & bronze! "
