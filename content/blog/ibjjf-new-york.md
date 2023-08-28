@@ -32,7 +32,7 @@ Alee, with her unwavering determination, battled fiercely against seven other ta
 
 - - -
 
-**Kim-lien, on the other hand, was a force to be reckoned with. Dominating her division, she secured gold in both Gi & No Gi categories. But she didn't stop there. Demonstrating her versatility and prowess, Kim-lien also earned a silver medal in the absolute division. Her performance was a brilliant example of the discipline, respect for the sport, and the overarching benefits of martial arts.**
+Kim-lien, on the other hand, was a force to be reckoned with. Dominating her division, she secured gold in both Gi & No Gi categories. But she didn't stop there. Demonstrating her versatility and prowess, Kim-lien also earned a silver medal in the absolute division. Her performance was a brilliant example of the discipline, respect for the sport, and the overarching benefits of martial arts.
 
 ![](/img/img_2009.jpeg)
 
