@@ -25,6 +25,7 @@ const BlogIndex = ({ data }, location) => {
           `kickboxing`,
           `muay thai`,
           `MMA`,
+          `kids MMA`,
           `mixed martial arts`,
           `yoga`,
           `Kids martial arts`,
@@ -39,6 +40,7 @@ const BlogIndex = ({ data }, location) => {
           `Kickboxing Queens`,
           `Jiu Jitsu Jackson Heights`,
           `Kids Martial Arts`,
+          `Kids Jiu Jitsu`,
           `Adult Kickboxing`,
           `Adult Jiu Jitsu Classes`,
           `Kids Jiu Jitsu Classes`,
@@ -71,7 +73,7 @@ const BlogIndex = ({ data }, location) => {
           <p class="post-content-excerpt">
             {" "}
           Where can you find top-notch BJJ & Martial Arts training in Jackson Heights, Queens?<br /><br />
-          @JIUJITSUNYC in Jackson Heights, Queens, offers a unique blend of traditional and modern martial arts training in a community-driven environment.
+          @JIUJITSUNYC offers Martial arts training in Jackson Heights, Queens, combining traditional and contemporary techniques for kids and adults, emphasizing a community-centric approach.
           </p>
          <br></ br>
           <p></p>
@@ -85,7 +87,7 @@ const BlogIndex = ({ data }, location) => {
                   rel="noopener noreferrer"> 
                   Sign Up</a>
               </div>
-              <div id="button-container-1">
+              <div id="button-container-2">
                   <a 
                   href="https://at-jiujitsu-nyc.gymdesk.com/schedule"
                   className="subscribe-button"
@@ -113,7 +115,12 @@ const BlogIndex = ({ data }, location) => {
           </h2>
           <hr />
 
+          <h3>Why should kids practice martial arts?</h3>
+          <p>Kids should practice martial arts to enhance their physical health, boost mental resilience, develop discipline, and acquire valuable life skills like respect and self-defense.</p>
+
        
+
+
         <h3>Our Results Speak for Themselves</h3>
         <p>The world of martial arts is ever-evolving, with new techniques and philosophies emerging regularly. @JIUJITSUNYC stays ahead of the curve. We've distilled decades of martial arts evolution to offer you training that's both traditional and cutting-edge.</p>
         <p>Our commitment to the Jackson Heights community has birthed a new generation of martial artists. These individuals are not just physically adept but also mentally resilient, embodying the harmony of body, mind, and spirit. They stand as a testament to our quality training, community engagement, and the transformative power of martial arts.</p>
@@ -151,6 +158,20 @@ const BlogIndex = ({ data }, location) => {
             <dt> Is Jiu-Jitsu safe for kids?</dt>
             <dd>Yes, Jiu-Jitsu is designed to emphasize technique over brute strength, making it safe for kids. Proper instruction and supervision ensure that kids learn in a controlled environment.</dd>
        
+            <dt>What are the physical benefits of martial arts for kids?</dt>
+            <dd>Martial arts offer kids a full-body workout, enhancing cardiovascular health, muscle strength, flexibility, and coordination, making it an all-encompassing fitness regimen.</dd>
+
+            <dt>How does martial arts training improve mental well-being in children?</dt>
+            <dd>Martial arts training sharpens focus, improves concentration, and reduces stress in children. It teaches them to remain calm under pressure, fostering resilience and mental strength.</dd>
+
+            <dt>Can martial arts boost confidence and self-esteem in kids?</dt>
+            <dd>Yes, martial arts can significantly boost confidence in kids. As they master new techniques and progress through ranks, they experience a sense of achievement, enhancing their self-esteem.</dd>
+
+            <dt>How do martial arts disciplines like MMA and Jiu-Jitsu teach self-defense to kids?</dt>
+            <dd>Martial arts disciplines like MMA and Jiu-Jitsu equip kids with practical techniques and strategies, ensuring they can defend themselves effectively in challenging situations.</dd>
+
+            <dt>Why is discipline a crucial aspect of martial arts training for children?</dt>
+            <dd>Discipline in martial arts teaches children punctuality, dedication, and respect. Regular practice and adherence to dojo rules instill a strong sense of commitment and responsibility.</dd>
         </dl>
 
    {/*                 <h3 id="definition">
