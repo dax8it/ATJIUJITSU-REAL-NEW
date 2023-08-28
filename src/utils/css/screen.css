@@ -30,7 +30,9 @@ production stylesheet in assets/built/screen.css using gulp dev
   background-position: center center;
   background-repeat: no-repeat;
   color: white; /* Set text color */
-  padding: 20px 0;
+  max-width: 70%;
+  margin: 0 auto;
+  padding: 2vw 0;
 }
 
 .page-head::before {
