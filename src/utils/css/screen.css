@@ -605,7 +605,7 @@ body {
 }
 
 .post-content-excerpt {
-  margin: -2vw 0 3vw;
+  margin: -2vw 0 -2vw;
   font-size: 2.2rem;
   line-height: 1.6em;
   color: var(--color-base);
