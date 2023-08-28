@@ -24,10 +24,28 @@ production stylesheet in assets/built/screen.css using gulp dev
 /* ---------------------------------------------------------- */
 
 .page-head {
+  position: relative;
   background-image: url('/img/ais07937_easy-resize.com.jpg');
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
+  color: white; /* Set text color */
+  padding: 20px 0;
+}
+
+.page-head::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('/img/ais07937_easy-resize.com.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  filter: brightness(0.5); /* Adjust the value as needed (0.5 makes it darker) */
+  z-index: -1;
 }
 
 
