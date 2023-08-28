@@ -272,6 +272,7 @@ body {
   padding-top: 20px; /* Adjust the padding value as needed */
 }
 
+ /* 
 .subscribe-button {
   display: block;
   padding: 4px 10px;
@@ -282,6 +283,19 @@ body {
   border-radius: 10px;
   opacity: 0.8;
 }
+*/
+
+.subscribe-button {
+  display: inline-block; /* Change to inline-block for better sizing */
+  padding: 10px 20px; /* Adjust the padding for a bigger button */
+  border: var(--color-base) 1px solid;
+  color: var(--color-base);
+  font-size: 1.5rem; /* Increase the font size for a bigger button */
+  line-height: 1.2em; /* Adjust the line height for spacing */
+  border-radius: 10px;
+  opacity: 0.8;
+}
+
 
 .subscribe-button:hover {
   text-decoration: none;
