@@ -862,14 +862,12 @@ body {
 }
 
 .faq-section dl {
-  max-width: 70%;
   margin: 0 auto;
   margin-bottom: 10px;
   font-size: 1.9rem;
   line-height: 1.65em;
 }
 .faq-section dt {
-  max-width: 70%;
   color: #b596f2; /* Light Purple Color */
   font-weight: bold;
   font-size: medium;
@@ -878,7 +876,6 @@ body {
   line-height: 1.65em;
 }
 .faq-section dd {
-  max-width: 70%;
   margin-bottom: 20px;
   font-size: 1.9rem;
   line-height: 1.65em;
