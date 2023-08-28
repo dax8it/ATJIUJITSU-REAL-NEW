@@ -102,7 +102,7 @@ const BlogIndex = ({ data }, location) => {
     {/* FAQ Section */}
     <section className="faq-section">
 
-  <h3>FAQs about the Martial Arts Academy</h3>
+  <h3>FAQs about the @JIUJITSUNYC Martial Arts Academy</h3>
         <dl>
             <dt>Which martial arts are taught at the @JIUJITSUNYC academy?</dt>
             <dd>The academy provides training in Brazilian Jiu-Jitsu, Kickboxing, Muay Thai, MMA, and Smarter Yoga.</dd>

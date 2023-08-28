@@ -858,24 +858,30 @@ body {
 .faq-section {
   max-width: 70%;
   margin: 0 auto;
-  padding: 6vw 0;
+  padding: 2vw 0;
 }
 
 .faq-section dl {
   max-width: 70%;
   margin: 0 auto;
-  padding: 6vw 0;
-  margin-bottom: 20px;
+  padding: 2vw 0;
+  margin-bottom: 10px;
+  font-size: 1.9rem;
+  line-height: 1.65em;
 }
 .faq-section dt {
   color: #b596f2; /* Light Purple Color */
   font-weight: bold;
   font-size: medium;
-  margin-top: 20px;
+  margin-top: 5px;
+  font-size: 1.9rem;
+  line-height: 1.65em;
 }
 .faq-section dd {
   margin-left: 20px;
   margin-bottom: 20px;
+  font-size: 1.9rem;
+  line-height: 1.65em;
 }
 
 /* home-content-section
@@ -884,7 +890,9 @@ body {
 .home-content-section {
   max-width: 70%;
   margin: 0 auto;
-  padding: 6vw 0;
+  padding: 2vw 0;
+  font-size: 1.9rem;
+  line-height: 1.65em;
 }
 
 /* definition
@@ -893,5 +901,5 @@ body {
 .definition {
   max-width: 70%;
   margin: 0 auto;
-  padding: 6vw 0;
+  padding: 2vw 0;
 }
