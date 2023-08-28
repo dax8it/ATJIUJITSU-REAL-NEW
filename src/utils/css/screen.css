@@ -852,8 +852,14 @@ body {
   text-align: center;
 }
 
-/* List
+/* faq section
 /* ---------------------------------------------------------- */
+
+.faq-section {
+  max-width: 70%;
+  margin: 0 auto;
+  padding: 6vw 0;
+}
 
 .faq-section dl {
   max-width: 70%;

@@ -101,7 +101,8 @@ const BlogIndex = ({ data }, location) => {
 
     {/* FAQ Section */}
     <section className="faq-section">
-    {/*    <h2>Martial Arts FAQs:</h2>
+
+  <h3>FAQs about the Martial Arts Academy</h3>
         <dl>
             <dt>Which martial arts are taught at the @JIUJITSUNYC academy?</dt>
             <dd>The academy provides training in Brazilian Jiu-Jitsu, Kickboxing, Muay Thai, MMA, and Smarter Yoga.</dd>
@@ -122,8 +123,8 @@ const BlogIndex = ({ data }, location) => {
             <dd>Yes, Jiu-Jitsu is designed to emphasize technique over brute strength, making it safe for kids. Proper instruction and supervision ensure that kids learn in a controlled environment.</dd>
        
         </dl>
-FAQ Section */} 
-                 <h3 id="definition">
+
+   {/*                 <h3 id="definition">
     <strong>FAQs about the Martial Arts Academy</strong>
         </h3>
           <dl>
@@ -165,6 +166,7 @@ FAQ Section */}
               </dd>
 
           </dl>
+          FAQ Section */} 
     </section>
 
 
