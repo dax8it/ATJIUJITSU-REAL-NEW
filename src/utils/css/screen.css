@@ -856,12 +856,15 @@ body {
 /* ---------------------------------------------------------- */
 
 .faq-section dl {
+  max-width: 720px;
   padding: 0;
   margin: 0;
+  margin-bottom: 20px;
 }
 .faq-section dt {
-  color: #9370DB; /* Light Purple Color */
+  color: #b596f2; /* Light Purple Color */
   font-weight: bold;
+  font-size: medium;
   margin-top: 20px;
 }
 .faq-section dd {
