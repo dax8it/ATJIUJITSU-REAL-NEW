@@ -285,26 +285,38 @@ body {
 }
 */
 
+/* Common styles for buttons */
 .subscribe-button {
-  display: inline-block; /* Change to inline-block for better sizing */
-  padding: 10px 20px; /* Adjust the padding for a bigger button */
+  display: inline-block;
+  padding: 10px 20px;
   border: var(--color-base) 1px solid;
   color: var(--color-base);
-  font-size: 1.5rem; /* Increase the font size for a bigger button */
-  line-height: 1.2em; /* Adjust the line height for spacing */
+  font-size: 1.5rem;
+  line-height: 1.2em;
   border-radius: 10px;
   opacity: 0.8;
-  
+  text-decoration: none; /* Remove default underline on links */
 }
 
-.button-container-1 {
-  float: left;
-  margin-right: 10px;
+/* Container for the buttons */
+#button-container-1,
+#button-container-2 {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px; /* Add some space between button containers */
 }
 
-.button-container-2 {
-  float: right;
+/* Styling for each individual button container */
+#button-container-1 {
+  margin-right: 10px; /* Add spacing between the button containers */
 }
+
+/* Optional: Add hover effect on buttons */
+.subscribe-button:hover {
+  background-color: var(--color-base); /* Change background on hover */
+  color: white; /* Change text color on hover */
+}
+
 
 .subscribe-button:hover {
   text-decoration: none;
