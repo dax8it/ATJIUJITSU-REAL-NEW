@@ -84,7 +84,17 @@ const BlogIndex = ({ data }, location) => {
                   target="_blank"
                   rel="noopener noreferrer"> 
                   Sign Up</a>
-              </div></p>
+              </div>
+              <div id="button-container-1">
+                  <a 
+                  href="https://at-jiujitsu-nyc.gymdesk.com/schedule"
+                  className="subscribe-button"
+                  title="Schedule"
+                  target="_blank"
+                  rel="noopener noreferrer"> 
+                  Schedule</a>
+              </div>
+              </p>
 
         </header>
       )}
