@@ -10,7 +10,7 @@ home: false
 tags:
   - Blog
 ---
- Discover the transformative benefits of competing in martial arts.
+The Jiu-Jitsu World League Tournament 2023 saw spirited participation from our academy's kids and adults, emphasizing the profound benefits and growth opportunities of martial arts competition.
 
 - - -
 
