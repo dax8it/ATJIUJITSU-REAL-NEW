@@ -45,29 +45,19 @@ const BlogIndex = ({ data }, location) => {
           `Anti-Bullying Martial Arts`,
           `Martial Arts Fitness`,
           `Self-defense techniques`,
-          `Martial Arts Confidence`,
           `Martial Arts Community`,
-          `Jorge Rivera Martial Arts`,
-          `Mind-body fitness`,
+          `Jiujitsu Martial Arts`,
+          `fitness`,
           `Karate Classes Queens`,
-          `Martial Arts Character Building`,
           `Fitness Workout Queens`,
           `Close-range defense`,
-          `Martial Arts Flexibility`,
+          `Yoga Flexibility`,
           `Martial Arts Cardio`,
-          `Martial Arts Assertiveness`,
-          `Martial Arts Discipline`,
-          `Martial Arts Respect`,
-          `Martial Arts Focus`,
-          `Tiger Schulmann’s Curriculum`,
           `Martial Arts Instructors Queens`,
           `Martial Arts Class Schedule`,
-          `Martial Arts FAQ`,
           `Martial Arts Class Cost`,
-          `Martial Arts Class Timing`,
           `Martial Arts Beginners Class`,
-          `Martial Arts Jackson Heights Address`,
-          `Martial Arts Contact`
+          `Martial Arts Jackson Heights`,
         ]}
       />
       {/* <Bio /> */}
@@ -80,10 +70,12 @@ const BlogIndex = ({ data }, location) => {
           <br />
           <p class="post-content-excerpt">
             {" "}
-            What is the best BJJ & Martial Arts training in Jackson Heights, Queens?<br />
-            It's a comprehensive program offering superior Jiujitsu instruction, helping enthusiasts master the art and techniques effectively.<br />
-            Discover the best BJJ and martial arts training in Jackson Heights, Queens. Experience superior instruction, master Jiujitsu techniques, and embark on a transformative martial arts journey.
+          Where can you find top-notch BJJ & Martial Arts training in Jackson Heights, Queens?<br /><br />
+          Discover the best BJJ and martial arts training with comprehensive programs offering superior Jiujitsu instruction, welcoming everyone from complete beginners to pro fighters. 
+          Whether you're into fitness or aiming to compete, 
+          this place has got you covered.
           </p>
+
         </header>
       )}
       <div className="post-feed">
