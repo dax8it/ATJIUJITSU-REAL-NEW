@@ -887,7 +887,7 @@ body {
 .home-content-section {
   max-width: 70%;
   margin: 0 auto;
-  padding: 2vw 0;
+  padding: -2vw 0 -2vw;
   font-size: 1.9rem;
   line-height: 1.65em;
 }
