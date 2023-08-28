@@ -857,8 +857,8 @@ body {
 
 .faq-section dl {
   max-width: 70%;
-  padding: 0;
-  margin: 0;
+  margin: 0 auto;
+  padding: 6vw 0;
   margin-bottom: 20px;
 }
 .faq-section dt {
