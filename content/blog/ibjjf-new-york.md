@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: IBJJF Tournament 2023 Women Champions on August 6, 2023
+title: IBJJF Tournament New York 2023 Women Champions
 order: 30
 date: 2023-08-06T22:25:28.435Z
 description: "Celebrating our women champions, Alee and Kim-lien, at the IBJJF
