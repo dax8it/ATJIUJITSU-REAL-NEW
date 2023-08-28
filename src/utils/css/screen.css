@@ -851,3 +851,20 @@ body {
   margin: auto;
   text-align: center;
 }
+
+/* List
+/* ---------------------------------------------------------- */
+
+.faq-section dl {
+  padding: 0;
+  margin: 0;
+}
+.faq-section dt {
+  color: #9370DB; /* Light Purple Color */
+  font-weight: bold;
+  margin-top: 20px;
+}
+.faq-section dd {
+  margin-left: 20px;
+  margin-bottom: 20px;
+}

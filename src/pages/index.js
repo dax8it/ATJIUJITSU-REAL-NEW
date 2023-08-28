@@ -71,9 +71,6 @@ const BlogIndex = ({ data }, location) => {
           <p class="post-content-excerpt">
             {" "}
           Where can you find top-notch BJJ & Martial Arts training in Jackson Heights, Queens?<br /><br />
-          Discover the best BJJ and martial arts training with comprehensive programs offering superior Jiujitsu instruction, welcoming everyone from complete beginners to pro fighters. 
-          Whether you're into fitness or aiming to compete, this place has got you covered.<br /><br />
-
           @JIUJITSUNYC in Jackson Heights, Queens, offers a unique blend of traditional and modern martial arts training in a community-driven environment.
           </p>
 
@@ -83,6 +80,7 @@ const BlogIndex = ({ data }, location) => {
        {/* Our Members Section */}
     <section className="our-members-section">
         <h2>Our Members: The Heart of @JIUJITSUNYC</h2>
+        <p>Discover the best BJJ and martial arts training with comprehensive programs offering superior Jiujitsu instruction, welcoming everyone from complete beginners to pro fighters. </p>
         <p>In the bustling streets of Jackson Heights, Queens, @JIUJITSUNYC stands as a sanctuary for martial arts enthusiasts of all walks of life. We take immense pride in our diverse and inclusive environment. Here, families find a common ground, training together, while amateur and professional fighters hone their skills side by side.</p>
         <p>On any given day, you might find a father and daughter practicing their kicks, a young professional prepping for an upcoming MMA bout, or even share a mat with a IBJJF champion. Our programs are designed to be scalable, ensuring everyone, from novices to experts, finds value and challenge in our sessions. We believe in guiding you, but the journey is yours. All we ask is for your dedication, hard work, and an inquisitive spirit.</p>
         <blockquote>My strength is in my team because my team strengthens me!</blockquote>
