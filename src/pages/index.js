@@ -75,13 +75,16 @@ const BlogIndex = ({ data }, location) => {
           </p>
          <br></ br>
           <p></p>
-          <p className="padding-above"><a 
-              href="https://at-jiujitsu-nyc.gymdesk.com/signup"
-              className="subscribe-button"
-              title="Sign Up"
-              target="_blank"
-              rel="noopener noreferrer"> 
-              Sign Up</a></p>
+          <p className="padding-above">              
+              <div id="button-container-1">
+                  <a 
+                  href="https://at-jiujitsu-nyc.gymdesk.com/signup"
+                  className="subscribe-button"
+                  title="Sign Up"
+                  target="_blank"
+                  rel="noopener noreferrer"> 
+                  Sign Up</a>
+              </div></p>
 
         </header>
       )}
