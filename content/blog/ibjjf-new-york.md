@@ -41,14 +41,6 @@ tags:
 
 - - -
 
-![](/img/img_2009.jpeg)
-
-#### K﻿im earned Gold in her division in both Gi & No Gi!
-
-![](/img/img_2504.jpg)
-
-#### A﻿lee earned Third place!
-
 ![](/img/whatsapp-image-2023-08-08-at-4.20.07-pm-2-.jpeg)
 
 #### K﻿im-lien earned second place in Absolute!
