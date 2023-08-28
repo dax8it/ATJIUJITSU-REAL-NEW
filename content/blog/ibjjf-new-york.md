@@ -16,7 +16,7 @@ Discover the benefits of competing and join our martial arts family.
 
 ## **What is the IBJJF Brazilian Jiu-Jitsu Tournament?**
 
-### The IBJJF Brazilian Jiu-Jitsu Tournament is a prestigious martial arts competition that showcases the skills and determination of its participants. Held on August 6, 2023, in New York, it became a testament to the prowess and dedication of female competitors, particularly our champions, Alee and Kim-lien.
+The IBJJF Brazilian Jiu-Jitsu Tournament is a prestigious martial arts competition that showcases the skills and determination of its participants. Held on August 6, 2023, in New York, it became a testament to the prowess and dedication of female competitors, particularly our champions, Alee and Kim-lien.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a8pw2o0zDe0?si=g1M2FPDPCWo8nTQC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
