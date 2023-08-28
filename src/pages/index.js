@@ -80,8 +80,7 @@ const BlogIndex = ({ data }, location) => {
               title="Sign Up"
               target="_blank"
               rel="noopener noreferrer"> 
-              </a></p>
-
+              Sign Up</a></p>
 
         </header>
       )}
