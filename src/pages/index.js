@@ -18,7 +18,7 @@ const BlogIndex = ({ data }, location) => {
   return (
     <Layout title={siteTitle}>
       <SEO
-        title="Martial Arts & Jiujitsu - BJJ Training in Jackson Heights Queens"
+        title="Best BJJ & Martial Arts Training in Jackson Heights, Queens"
         keywords={[
           `bjj`,
           `Brazilian Jiu Jitsu`,
@@ -27,7 +27,6 @@ const BlogIndex = ({ data }, location) => {
           `MMA`,
           `mixed martial arts`,
           `yoga`,
-          `toddler`,
           `Kids martial arts`,
           `Kids fitness`,
           `judo`,
@@ -35,7 +34,40 @@ const BlogIndex = ({ data }, location) => {
           `Jackson Heights`,
           `Queens`,
           `Queens Jiujitsu`,
-          `New York City`,
+          `Martial Arts Queens`,
+          `Jackson Heights Martial Arts`,
+          `Kickboxing Queens`,
+          `Jiu Jitsu Jackson Heights`,
+          `Kids Martial Arts`,
+          `Adult Kickboxing`,
+          `Adult Jiu Jitsu Classes`,
+          `Kids Jiu Jitsu Classes`,
+          `Anti-Bullying Martial Arts`,
+          `Martial Arts Fitness`,
+          `Self-defense techniques`,
+          `Martial Arts Confidence`,
+          `Martial Arts Community`,
+          `Jorge Rivera Martial Arts`,
+          `Mind-body fitness`,
+          `Karate Classes Queens`,
+          `Martial Arts Character Building`,
+          `Fitness Workout Queens`,
+          `Close-range defense`,
+          `Martial Arts Flexibility`,
+          `Martial Arts Cardio`,
+          `Martial Arts Assertiveness`,
+          `Martial Arts Discipline`,
+          `Martial Arts Respect`,
+          `Martial Arts Focus`,
+          `Tiger Schulmann’s Curriculum`,
+          `Martial Arts Instructors Queens`,
+          `Martial Arts Class Schedule`,
+          `Martial Arts FAQ`,
+          `Martial Arts Class Cost`,
+          `Martial Arts Class Timing`,
+          `Martial Arts Beginners Class`,
+          `Martial Arts Jackson Heights Address`,
+          `Martial Arts Contact`
         ]}
       />
       {/* <Bio /> */}
@@ -48,8 +80,9 @@ const BlogIndex = ({ data }, location) => {
           <br />
           <p class="post-content-excerpt">
             {" "}
-            From our toddler & kids programs to our adult BJJ classes, we offers
-            the best BJJ & martial arts program in Jackson Heights Queens.
+            What is the best BJJ & Martial Arts training in Jackson Heights, Queens?<br />
+            It's a comprehensive program offering superior Jiujitsu instruction, helping enthusiasts master the art and techniques effectively.<br />
+            Discover the best BJJ and martial arts training in Jackson Heights, Queens. Experience superior instruction, master Jiujitsu techniques, and embark on a transformative martial arts journey.
           </p>
         </header>
       )}
