@@ -36,9 +36,9 @@ Kim-lien, on the other hand, was a force to be reckoned with. Dominating her div
 
 ![](/img/img_2009.jpeg)
 
-### Competing in such tournaments not only hones one's skills but also fosters self-respect, instills respect for others, and offers invaluable self-defense techniques. It's a platform for family bonding, where members come together to support their own.
+**Competing in such tournaments not only hones one's skills but also fosters self-respect, instills respect for others, and offers invaluable self-defense techniques. It's a platform for family bonding, where members come together to support their own.**
 
-### We are immensely proud of Alee and Kim-lien. Their achievements serve as an inspiration for all, emphasizing the importance of discipline, training, and the spirit of competition. We wholeheartedly encourage others to step onto the mat, compete, and experience the myriad benefits of martial arts firsthand. Remember, every competition is a step closer to mastering the art and understanding oneself better.
+**We are immensely proud of Alee and Kim-lien. Their achievements serve as an inspiration for all, emphasizing the importance of discipline, training, and the spirit of competition. We wholeheartedly encourage others to step onto the mat, compete, and experience the myriad benefits of martial arts firsthand. Remember, every competition is a step closer to mastering the art and understanding oneself better.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I_UvHf06uz0?si=d4bXzKa_BEBs2XbL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
