@@ -23,6 +23,14 @@ production stylesheet in assets/built/screen.css using gulp dev
 /* Main - Theme styles
 /* ---------------------------------------------------------- */
 
+.page-head {
+  background-image: url('../../static/img/ais07937_easy-resize.com.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+
 body {
   /* font-family: 'Muli', sans-serif; */
   font-family: var(--font-sans-serif);
