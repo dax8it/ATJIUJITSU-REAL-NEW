@@ -34,7 +34,15 @@ production stylesheet in assets/built/screen.css using gulp dev
   margin: 0 auto;
   padding: 4vw 0 2vw;
   padding-top: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 13vw 0;
+  margin: auto;
+  text-align: center;
 }
+
 
 .page-head::before {
   content: "";
@@ -89,6 +97,7 @@ body {
   }
 }
 
+/* 
 .page-head {
   display: flex;
   flex-direction: column;
@@ -99,6 +108,7 @@ body {
   margin: auto;
   text-align: center;
 }
+*/
 
 .error-head {
   height: 75vh;
@@ -167,6 +177,7 @@ body {
   z-index: 300;
   margin-top: -10px;
   font-size: 1.35rem;
+  padding-bottom: 20px;
 }
 
 .site-head-container {
