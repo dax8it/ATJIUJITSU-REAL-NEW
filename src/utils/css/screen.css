@@ -24,7 +24,7 @@ production stylesheet in assets/built/screen.css using gulp dev
 /* ---------------------------------------------------------- */
 
 .page-head {
-  background-image: url('../../static/img/ais07937_easy-resize.com.jpg');
+  background-image: url('static/img/ais07937_easy-resize.com.jpg');
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
