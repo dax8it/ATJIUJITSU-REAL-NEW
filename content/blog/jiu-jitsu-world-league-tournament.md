@@ -12,8 +12,6 @@ tags:
 ---
 The Jiu-Jitsu World League Tournament 2023 saw spirited participation from our academy's kids and adults, emphasizing the profound benefits and growth opportunities of martial arts competition.
 
-- - -
-
 **What is the Jiu-Jitsu World League Tournament?** 
 
 The Jiu-Jitsu World League Tournament is a renowned global competition that celebrates the art and discipline of Jiu-Jitsu. On July 30, 2023, participants from various backgrounds came together to showcase their skills, with our academy's kids and adult competitors making a significant mark.
