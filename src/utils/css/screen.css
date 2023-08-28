@@ -864,7 +864,6 @@ body {
 .faq-section dl {
   max-width: 70%;
   margin: 0 auto;
-  padding: 2vw 0;
   margin-bottom: 10px;
   font-size: 1.9rem;
   line-height: 1.65em;
@@ -875,13 +874,11 @@ body {
   font-weight: bold;
   font-size: medium;
   margin-top: 5px;
-  margin: 0 auto;
   font-size: 1.9rem;
   line-height: 1.65em;
 }
 .faq-section dd {
   max-width: 70%;
-  margin: 0 auto;
   margin-bottom: 20px;
   font-size: 1.9rem;
   line-height: 1.65em;
