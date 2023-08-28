@@ -24,9 +24,9 @@ The IBJJF Brazilian Jiu-Jitsu Tournament is a prestigious martial arts competiti
 
 ## **Empowerment, Skill, and Triumph: Celebrating Our Women Warriors at the IBJJF Tournament**
 
-### The world of Brazilian Jiu-Jitsu witnessed a spectacular display of talent and grit at the IBJJF Tournament in New York this year. Among the many skilled competitors, two women from our academy stood out, embodying the spirit of champions.
+The world of Brazilian Jiu-Jitsu witnessed a spectacular display of talent and grit at the IBJJF Tournament in New York this year. Among the many skilled competitors, two women from our academy stood out, embodying the spirit of champions.
 
-### Alee, with her unwavering determination, battled fiercely against seven other talented competitors in her division. Her hard work and dedication were evident as she clinched a well-deserved 3rd place. Her journey in the tournament was a testament to the benefits of competing, showcasing improved physical health, heightened mental well-being, and a boost in confidence.
+Alee, with her unwavering determination, battled fiercely against seven other talented competitors in her division. Her hard work and dedication were evident as she clinched a well-deserved 3rd place. Her journey in the tournament was a testament to the benefits of competing, showcasing improved physical health, heightened mental well-being, and a boost in confidence.
 
 ![](/img/img_2504.jpg)
 
