@@ -294,8 +294,17 @@ body {
   line-height: 1.2em; /* Adjust the line height for spacing */
   border-radius: 10px;
   opacity: 0.8;
+  
 }
 
+.button-container-1 {
+  float: left;
+  margin-right: 10px;
+}
+
+.button-container-2 {
+  float: right;
+}
 
 .subscribe-button:hover {
   text-decoration: none;
