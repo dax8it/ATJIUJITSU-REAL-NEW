@@ -59,7 +59,28 @@ const BlogIndex = ({ data }, location) => {
           `Martial Arts Jackson Heights`,
         ]}
       />
-    {/* Our Members Section */}
+
+      {/* <Bio /> */}
+      {data.site.siteMetadata.description && (
+        <header className="page-head">
+          <h2 className="page-head-title">
+            {data.site.siteMetadata.description}
+          </h2>
+          <p />
+          <br />
+          <p class="post-content-excerpt">
+            {" "}
+          Where can you find top-notch BJJ & Martial Arts training in Jackson Heights, Queens?<br /><br />
+          Discover the best BJJ and martial arts training with comprehensive programs offering superior Jiujitsu instruction, welcoming everyone from complete beginners to pro fighters. 
+          Whether you're into fitness or aiming to compete, this place has got you covered.<br /><br />
+
+          @JIUJITSUNYC in Jackson Heights, Queens, offers a unique blend of traditional and modern martial arts training in a community-driven environment.
+          </p>
+
+        </header>
+      )}
+
+       {/* Our Members Section */}
     <section className="our-members-section">
         <h2>Our Members: The Heart of @JIUJITSUNYC</h2>
         <p>In the bustling streets of Jackson Heights, Queens, @JIUJITSUNYC stands as a sanctuary for martial arts enthusiasts of all walks of life. We take immense pride in our diverse and inclusive environment. Here, families find a common ground, training together, while amateur and professional fighters hone their skills side by side.</p>
@@ -74,14 +95,14 @@ const BlogIndex = ({ data }, location) => {
         <p>Our commitment to the Jackson Heights community has birthed a new generation of martial artists. These individuals are not just physically adept but also mentally resilient, embodying the harmony of body, mind, and spirit. They stand as a testament to our quality training, community engagement, and the transformative power of martial arts.</p>
     </section>
 
-    {/* SEO Info */}
+    {/* SEO Info 
     <section className="seo-info-section">
         <ul>
             <li><strong>SEO URL:</strong> <a href="www.jiujitsunyc.com/jackson-heights-queens-martial-arts">www.jiujitsunyc.com/jackson-heights-queens-martial-arts</a></li>
             <li><strong>SEO Meta Description:</strong> Dive into the world of martial arts with @JIUJITSUNYC in Jackson Heights, Queens. Experience top-tier training in a family-friendly environment.</li>
             <li><strong>NLP-friendly sentence for Google Snippet:</strong> @JIUJITSUNYC in Jackson Heights, Queens, offers a unique blend of traditional and modern martial arts training in a community-driven environment.</li>
         </ul>
-    </section>
+    </section> */}
 
     {/* FAQ Section */}
     <section className="faq-section">
@@ -104,24 +125,7 @@ const BlogIndex = ({ data }, location) => {
         </dl>
     </section>
 
-      {/* <Bio /> */}
-      {data.site.siteMetadata.description && (
-        <header className="page-head">
-          <h2 className="page-head-title">
-            {data.site.siteMetadata.description}
-          </h2>
-          <p />
-          <br />
-          <p class="post-content-excerpt">
-            {" "}
-          Where can you find top-notch BJJ & Martial Arts training in Jackson Heights, Queens?<br /><br />
-          Discover the best BJJ and martial arts training with comprehensive programs offering superior Jiujitsu instruction, welcoming everyone from complete beginners to pro fighters. 
-          Whether you're into fitness or aiming to compete, 
-          this place has got you covered.
-          </p>
 
-        </header>
-      )}
       <div className="post-feed">
         {posts.map(({ node }) => {
           postCounter++
