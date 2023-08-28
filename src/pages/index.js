@@ -74,9 +74,9 @@ const BlogIndex = ({ data }, location) => {
           @JIUJITSUNYC in Jackson Heights, Queens, offers a unique blend of traditional and modern martial arts training in a community-driven environment.
           </p>
 
-          <p><a 
+          <p className="padding-above"><a 
               href="https://at-jiujitsu-nyc.gymdesk.com/signup"
-              className="button primary fit"
+              className="subscribe-button"
               title="Sign Up"
               target="_blank"
               rel="noopener noreferrer"> 
