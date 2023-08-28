@@ -11,17 +11,21 @@ tags:
 ---
 - - -
 
-**What is the IBJJF Brazilian Jiu-Jitsu Tournament?** The IBJJF Brazilian Jiu-Jitsu Tournament is a prestigious martial arts competition that showcases the skills and determination of its participants. Held on August 6, 2023, in New York, it became a testament to the prowess and dedication of female competitors, particularly our champions, Alee and Kim-lien.
+## **What is the IBJJF Brazilian Jiu-Jitsu Tournament?**
+
+### The IBJJF Brazilian Jiu-Jitsu Tournament is a prestigious martial arts competition that showcases the skills and determination of its participants. Held on August 6, 2023, in New York, it became a testament to the prowess and dedication of female competitors, particularly our champions, Alee and Kim-lien.
 
 - - -
 
-**Empowerment, Skill, and Triumph: Celebrating Our Women Warriors at the IBJJF Tournament**
+## **Empowerment, Skill, and Triumph: Celebrating Our Women Warriors at the IBJJF Tournament**
 
-The world of Brazilian Jiu-Jitsu witnessed a spectacular display of talent and grit at the IBJJF Tournament in New York this year. Among the many skilled competitors, two women from our academy stood out, embodying the spirit of champions.
+### The world of Brazilian Jiu-Jitsu witnessed a spectacular display of talent and grit at the IBJJF Tournament in New York this year. Among the many skilled competitors, two women from our academy stood out, embodying the spirit of champions.
 
-Alee, with her unwavering determination, battled fiercely against seven other talented competitors in her division. Her hard work and dedication were evident as she clinched a well-deserved 3rd place. Her journey in the tournament was a testament to the benefits of competing, showcasing improved physical health, heightened mental well-being, and a boost in confidence.
+### Alee, with her unwavering determination, battled fiercely against seven other talented competitors in her division. Her hard work and dedication were evident as she clinched a well-deserved 3rd place. Her journey in the tournament was a testament to the benefits of competing, showcasing improved physical health, heightened mental well-being, and a boost in confidence.
 
 ![](/img/img_2504.jpg)
+
+- - -
 
 ### Kim-lien, on the other hand, was a force to be reckoned with. Dominating her division, she secured gold in both Gi & No Gi categories. But she didn't stop there. Demonstrating her versatility and prowess, Kim-lien also earned a silver medal in the absolute division. Her performance was a brilliant example of the discipline, respect for the sport, and the overarching benefits of martial arts.
 
