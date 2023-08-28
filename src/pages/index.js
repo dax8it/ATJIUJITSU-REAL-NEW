@@ -104,7 +104,7 @@ const BlogIndex = ({ data }, location) => {
 
     {/* FAQ Section */}
     <section className="faq-section">
-        <h2>Martial Arts FAQs:</h2>
+    {/*    <h2>Martial Arts FAQs:</h2>
         <dl>
             <dt>Which martial arts are taught at the @JIUJITSUNYC academy?</dt>
             <dd>The academy provides training in Brazilian Jiu-Jitsu, Kickboxing, Muay Thai, MMA, and Smarter Yoga.</dd>
@@ -125,6 +125,49 @@ const BlogIndex = ({ data }, location) => {
             <dd>Yes, Jiu-Jitsu is designed to emphasize technique over brute strength, making it safe for kids. Proper instruction and supervision ensure that kids learn in a controlled environment.</dd>
        
         </dl>
+FAQ Section */} 
+                 <h3 id="definition">
+    <strong>FAQs about the Martial Arts Academy</strong>
+        </h3>
+          <dl>
+              <dt>Which martial arts are taught at the academy?</dt>
+              <dd>
+                  <p>
+                    The academy provides training in Brazilian Jiu-Jitsu, Kickboxing, Muay Thai, MMA, and Smarter Yoga.
+                  </p>
+              </dd>
+              <dt>Is the academy suitable for beginners?</dt>
+              <dd>
+                  <p>
+                    Yes, the academy welcomes individuals of all levels, from novices to seasoned professionals.
+                  </p>
+              </dd>
+              <dt>What differentiates this academy from other martial arts institutions?</dt>
+              <dd>
+                  <p>
+                    The emphasis on community, family-oriented training, and a harmonious blend of traditional and contemporary techniques sets the academy apart.
+                  </p>
+              </dd>
+              <dt>Where is the academy located?</dt>
+              <dd>
+                  <p>
+                    The academy is situated in the lively neighborhood of Jackson Heights, Queens, New York City.
+                  </p>
+              </dd>
+              <dt>Why is community engagement a priority for the academy?</dt>
+              <dd>
+                  <p>
+                    Community engagement plays a pivotal role in the holistic development of members, fostering unity, respect, and a shared passion for martial arts.
+                  </p>
+              </dd>
+              <dt> Is Jiu-Jitsu safe for kids?</dt>
+              <dd>
+                  <p>
+                    Yes, Jiu-Jitsu is designed to emphasize technique over brute strength, making it safe for kids. Proper instruction and supervision ensure that kids learn in a controlled environment.
+                  </p>
+              </dd>
+
+          </dl>
     </section>
 
 
