@@ -78,17 +78,14 @@ const BlogIndex = ({ data }, location) => {
       )}
 
        {/* Our Members Section */}
-    <section className="our-members-section">
-        <h2>Our Members: The Heart of @JIUJITSUNYC</h2>
+    <section className="home-content-section">
+        <h3>Our Members: The Heart of @JIUJITSUNYC</h3>
         <p>Discover the best BJJ and martial arts training with comprehensive programs offering superior Jiujitsu instruction, welcoming everyone from complete beginners to pro fighters. </p>
         <p>In the bustling streets of Jackson Heights, Queens, @JIUJITSUNYC stands as a sanctuary for martial arts enthusiasts of all walks of life. We take immense pride in our diverse and inclusive environment. Here, families find a common ground, training together, while amateur and professional fighters hone their skills side by side.</p>
         <p>On any given day, you might find a father and daughter practicing their kicks, a young professional prepping for an upcoming MMA bout, or even share a mat with a IBJJF champion. Our programs are designed to be scalable, ensuring everyone, from novices to experts, finds value and challenge in our sessions. We believe in guiding you, but the journey is yours. All we ask is for your dedication, hard work, and an inquisitive spirit.</p>
         <blockquote>My strength is in my team because my team strengthens me!</blockquote>
-    </section>
-
-    {/* Our Results Section */}
-    <section className="our-results-section">
-        <h2>Our Results Speak for Themselves</h2>
+  
+        <h3>Our Results Speak for Themselves</h3>
         <p>The world of martial arts is ever-evolving, with new techniques and philosophies emerging regularly. @JIUJITSUNYC stays ahead of the curve. We've distilled decades of martial arts evolution to offer you training that's both traditional and cutting-edge.</p>
         <p>Our commitment to the Jackson Heights community has birthed a new generation of martial artists. These individuals are not just physically adept but also mentally resilient, embodying the harmony of body, mind, and spirit. They stand as a testament to our quality training, community engagement, and the transformative power of martial arts.</p>
     </section>

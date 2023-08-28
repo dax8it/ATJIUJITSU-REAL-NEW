@@ -856,7 +856,7 @@ body {
 /* ---------------------------------------------------------- */
 
 .faq-section dl {
-  max-width: 720px;
+  max-width: 70%;
   padding: 0;
   margin: 0;
   margin-bottom: 20px;
@@ -870,4 +870,13 @@ body {
 .faq-section dd {
   margin-left: 20px;
   margin-bottom: 20px;
+}
+
+/* home-content-section
+/* ---------------------------------------------------------- */
+
+.home-content-section {
+  max-width: 70%;
+  margin: 0 auto;
+  padding: 6vw 0;
 }
