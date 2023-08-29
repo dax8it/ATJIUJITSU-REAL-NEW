@@ -17,6 +17,8 @@ const BlogIndex = ({ data }, location) => {
 
   return (
     <Layout title={siteTitle}>
+      <br> </ br>
+          <p> </p>
       <SEO
         title="Best BJJ & Martial Arts Training in Jackson Heights, Queens"
         keywords={[
@@ -62,6 +64,7 @@ const BlogIndex = ({ data }, location) => {
       />
 
       {/* <Bio /> */}
+
       {data.site.siteMetadata.description && (
         <header className="page-head">
           <h2 className="page-head-title">
