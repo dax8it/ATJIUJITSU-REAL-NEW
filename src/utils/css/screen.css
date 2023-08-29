@@ -242,12 +242,12 @@ body {
   letter-spacing: 1.5px;
 
   /* Responsive font size adjustments */
-  font-size: 1.75rem; /* Default font size */
+  font-size: 2rem; /* Default font size */
   white-space: nowrap; /* Prevent text from wrapping initially */
 
   /* Media query for smaller screens */
   @media (max-width: 768px) {
-    font-size: 1.25rem; /* Adjust font size for smaller screens */
+    font-size: 1.5rem; /* Adjust font size for smaller screens */
     white-space: normal; /* Allow text to wrap to a second line */
   }
 }
@@ -723,7 +723,7 @@ body {
 
 .post-content-title {
   margin: 0 0 3vw;
-  color: var(--color-base);
+  color: white(--color-base);
   text-align: center;
 }
 
@@ -731,7 +731,7 @@ body {
   margin: -2vw 0 -2vw;
   font-size: 2.2rem;
   line-height: 1.6em;
-  color: var(--color-base);
+  color: white(--color-base);
   text-align: center;
   opacity: 0.5;
 }
