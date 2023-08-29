@@ -213,7 +213,7 @@ body {
   display: block;
   margin: 0;
   padding: 10px 12px;
-  color: var(--color-base);
+  color: white(--color-base);
   font-weight: 600;
   opacity: 0.4;
 }
@@ -260,7 +260,7 @@ body {
   display: block;
   margin-top: 2px;
   width: auto;
-  height: 28px;
+  height: 36px;
 }
 
 
