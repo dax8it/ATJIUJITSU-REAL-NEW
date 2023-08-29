@@ -224,6 +224,48 @@ body {
   opacity: 1;
 }
 
+/* Common styles for the center header */
+.site-head-center {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.site-head-logo {
+  flex-shrink: 0;
+  display: block;
+  padding: 10px;
+  color: var(--color-base);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+
+  /* Responsive font size adjustments */
+  font-size: 1.75rem; /* Default font size */
+  white-space: nowrap; /* Prevent text from wrapping initially */
+
+  /* Media query for smaller screens */
+  @media (max-width: 768px) {
+    font-size: 1.25rem; /* Adjust font size for smaller screens */
+    white-space: normal; /* Allow text to wrap to a second line */
+  }
+}
+
+.site-head-logo:hover {
+  text-decoration: none;
+}
+
+.site-head-logo img {
+  display: block;
+  margin-top: 2px;
+  width: auto;
+  height: 28px;
+}
+
+
+/*
+
 .site-head-center {
   position: absolute;
   display: flex;
@@ -253,6 +295,8 @@ body {
   width: auto;
   height: 28px;
 }
+
+*/
 
 .site-head-right {
   position: relative;
