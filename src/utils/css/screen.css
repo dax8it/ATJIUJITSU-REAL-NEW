@@ -55,7 +55,7 @@ production stylesheet in assets/built/screen.css using gulp dev
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  filter: brightness(0.5); /* Adjust the value as needed (0.5 makes it darker) */
+  /* filter: brightness(0.5); /* Adjust the value as needed (0.5 makes it darker) */
   z-index: -1;
 }
 
@@ -138,17 +138,20 @@ body {
 .page-head-title {
   margin: 0;
   font-size: 4.2rem;
-  color: var(--color-base);
+  color:white;
+  /* color: var(--color-base); */
 }
 @media (max-width: 500px) {
   .page-head-title {
     font-size: 2rem;
+    color:white;
   }
 }
 
 .page-head-description {
   margin: 0 0 1.6vw;
-  color: color(var(--color-border) l(-20%));
+  color:white;
+  /* color: color(var(--color-border) l(-20%)); */
   font-size: 2.2rem;
   line-height: 1.35em;
 }
@@ -213,7 +216,7 @@ body {
   display: block;
   margin: 0;
   padding: 10px 12px;
-  color: white(--color-base);
+  color: white;
   font-weight: 600;
   opacity: 0.4;
 }
@@ -236,7 +239,7 @@ body {
   flex-shrink: 0;
   display: block;
   padding: 10px;
-  color: var(--color-base);
+  color: white;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 1.5px;
@@ -333,7 +336,7 @@ body {
 .subscribe-button {
   display: inline-block;
   padding: 10px 20px;
-  border: var(--color-base) 1px solid;
+  border: var(--color-base) 2px solid;
   color: var(--color-base);
   font-size: 1.5rem;
   line-height: 1.2em;
