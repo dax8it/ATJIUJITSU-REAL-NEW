@@ -72,7 +72,8 @@ const BlogIndex = ({ data }, location) => {
           <p class="post-content-excerpt">
             {" "}
           Where can you find top-notch BJJ & Martial Arts training in Jackson Heights, Queens?<br /><br />
-          @JIUJITSUNYC offers Martial arts training in Jackson Heights, Queens, combining traditional and contemporary techniques for kids and adults, emphasizing a community-centric approach.
+          <h3>@JIUJITSUNYC: Martial Arts Academy</h3>
+          offers Martial arts training in Jackson Heights, Queens, combining traditional and contemporary techniques for kids and adults, emphasizing a community-centric approach.
           </p>
          <br></ br>
           <p></p>
