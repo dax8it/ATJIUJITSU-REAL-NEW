@@ -61,7 +61,7 @@ const BlogIndex = ({ data }, location) => {
         ]}
       />
 
-      { <Bio /> }
+      {/* <Bio /> */}
 
       {data.site.siteMetadata.description && (
         <header className="page-head">
