@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: KickBoxing
+title: "Kickboxing in Queens: Boosting Wellness for Body, Mind, and Spirit"
 order: 5
 date: 2019-05-01
 description: "Dive into the world of kickboxing: a blend of karate, Muay Thai,
