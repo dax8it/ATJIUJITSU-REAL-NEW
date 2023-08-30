@@ -18,6 +18,8 @@ tags:
 
 MMA, or Mixed Martial Arts, stands as the pinnacle of **academy mixed martial arts**, offering a dynamic fusion of various combat disciplines. It combines striking, grappling, and ground-fighting techniques, forming a cohesive blend that resonates with martial arts enthusiasts across neighborhoods, especially in Jackson Heights, Queens.
 
+![](/img/dsc08917.jpg)
+
 Mixed Martial Arts, commonly known as MMA, harmoniously merges diverse fighting techniques from striking to grappling, offering a comprehensive combat experience. Originating from various traditional martial arts, MMA has evolved into a globally recognized sport, emphasizing both offensive and defensive strategies. Practitioners harness skills from disciplines like Jiu-Jitsu and Kickboxing, making MMA a versatile and effective form of self-defense.
 
 ### How has MMA revolutionized the world of combat sports?"
@@ -31,6 +33,8 @@ In the vibrant backdrop of Jackson Heights and beyond, many seek the holistic ex
 ### **MMA: A Lifelong Skill Beyond the Cage**
 
 Diving deep into MMA isn't just about mastering strikes or grappling maneuvers. It's about imbibing a life skill. Its real-world applicability ensures that those training in MMA, whether in an **academy of mixed martial arts** or a local dojo in Queens, are fortified with genuine self-defense skills. The rigors of MMA training foster not just physical prowess but a mindset of discipline, resilience, and situational awareness. It's more than a sport; it's a guardian, ensuring you tread confidently, on any corner of the world.
+
+![](/img/dsc08912.jpg)
 
 ## M﻿MA - Martial Arts FAQs
 
@@ -70,6 +74,8 @@ Diving deep into MMA isn't just about mastering strikes or grappling maneuvers. 
 
 * Absolutely. MMA training often begins with foundational techniques, making it accessible for beginners, and then progresses to advanced maneuvers.
 
+- - -
+
 ***Adult MMA Schedule:***
 
 > **Friday: 6:15 p.m. - 7:00 p.m.**
@@ -103,10 +109,6 @@ These items are a requirement and essential to MMA, you cannot take the class wi
 We are very excited to have this new program into our school. It will be a different experience and new learning perspective. If you have any questions, please do not hesitate to ask!
 
 - - -
-
-![](/img/dsc08917.jpg)
-
-![](/img/dsc08912.jpg)
 
 ![](/img/dsc08894.jpg)
 
