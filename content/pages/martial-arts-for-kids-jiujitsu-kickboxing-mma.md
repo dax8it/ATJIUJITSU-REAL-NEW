@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
-title: "Martial Arts for Kids: Jiujitsu, Kickboxing, MMA Queens, NY"
+title: "Martial Arts for Kids: Jiujitsu, Kickboxing, MMA "
 order: 10
 date: 2023-08-30T17:50:34.470Z
-description: Discover the benefits of martial arts for kids aged 5-15. Dive into
-  Jiujitsu (Gi & No-Gi), Kickboxing, and MMA training. Boost discipline,
-  fitness, & confidence.
+description: Discover the benefits of martial arts for kids aged 5-15 in Jackson
+  Heights, Queens. Dive into Jiujitsu (Gi & No-Gi), Kickboxing, and MMA
+  training. Boost discipline, fitness, & confidence.
 thumbnail: /img/1574114237_tmp_dsc09461.jpg
 home: false
 tags:
