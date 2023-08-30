@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Muay Thai
+title: Muay Thai Martial Arts in Queens, NY
 order: 6
 date: 2019-05-01
 description: Discover the unique benefits of Muay Thai in Jackson Heights, NY.
