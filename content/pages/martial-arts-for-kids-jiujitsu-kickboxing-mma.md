@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Martial Arts for Kids: Jiujitsu, Kickboxing, MMA"
+title: "Martial Arts for Kids: Jiujitsu, Kickboxing, MMA Queens, NY"
 order: 10
 date: 2023-08-30T17:50:34.470Z
 description: Discover the benefits of martial arts for kids aged 5-15. Dive into
@@ -30,6 +30,9 @@ Martial arts for kids, especially those aged 5-15, encompass disciplines like Ji
 * **Jiujitsu (Gi & No-Gi)**: Jiujitsu emphasizes grappling techniques. While Gi Jiujitsu uses a traditional uniform, No-Gi involves training without it, focusing more on grips and holds.
 * **Kickboxing**: This stand-up combat sport combines punches, kicks, and knee strikes, offering a dynamic workout.
 * **MMA (Mixed Martial Arts)**: A combination of various disciplines, MMA integrates techniques from Jiujitsu, Kickboxing, and other martial arts, providing a holistic approach.
+
+___
+
 
 ### Martial Arts for Kids FAQs
 
