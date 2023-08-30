@@ -31,12 +31,15 @@ Benefits of Martial Arts for Kids
 * **Kickboxing**: This stand-up combat sport combines punches, kicks, and knee strikes, offering a dynamic workout.
 * **MMA (Mixed Martial Arts)**: A combination of various disciplines, MMA integrates techniques from Jiujitsu, Kickboxing, and other martial arts, providing a holistic approach.
 
-
-
-
-
 #### FAQs
 
 1. **Which martial art is best for beginners?** Jiujitsu, especially Gi Jiujitsu, is often recommended for beginners due to its emphasis on technique over strength.
 2. **Are martial arts safe for young kids?** Yes, with proper instruction and safety precautions, martial arts are safe and beneficial for children.
 3. **How often should kids attend martial arts classes?** 2-3 times a week is ideal for consistent progress while allowing time for rest and other activities.
+4. **Do children need special equipment to start martial arts?** Initially, most academies provide basic equipment. As they progress, kids might need their own uniform (Gi for Jiujitsu) and protective gear.
+5. **How do martial arts help with bullying?** Apart from self-defense skills, martial arts instill confidence and teach kids to handle conflicts peacefully, reducing the chances of being bullied.
+6. **At what age can kids start competing in martial arts tournaments?** Many tournaments have categories for kids as young as 5. However, the decision should be based on the child's readiness and comfort level.
+7. **Is there a difference in training between boys and girls?** Martial arts training is generally the same for both genders. It emphasizes individual progress, with adjustments made based on each student's capabilities.
+8. **How do martial arts academies ensure the safety of kids during training?** Reputable academies prioritize safety with trained instructors, age-appropriate drills, safety gear, and a strict code of conduct for all participants.
+9. **Can martial arts training improve academic performance?** Yes, the discipline, focus, and time-management skills learned in martial arts can translate to better academic discipline and focus.
+10. **Are there any weight or height restrictions for kids in martial arts?** No, martial arts embrace all body types and sizes, emphasizing technique and skill over physical attributes.
