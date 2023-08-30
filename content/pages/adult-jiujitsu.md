@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
-title: History and Benefits of Brazilian Jiu-Jitsu
+title: "Brazilian Jiu-Jitsu in Jackson Heights: Mastering Martial Arts in Queens"
 order: 4
 date: 2019-05-01
-description: Discover the rich history and numerous benefits of Brazilian
-  Jiu-Jitsu. From its origins in Brazil to its impact on mental toughness and
-  self-defense, learn why BJJ is more than just a sport.
+description: Discover the art of Brazilian Jiu-Jitsu in Jackson Heights, Queens.
+  Dive into BJJ training, from beginner classes to advanced competition training
+  at top academies.
 thumbnail: /img/fb_img_1621261403650.jpg
 home: true
 tags:
