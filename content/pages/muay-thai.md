@@ -57,6 +57,8 @@ Yes, Muay Thai permits strikes below the waist, adding a strategic layer to its 
 
 Beyond physical training, Muay Thai instills discipline, mental resilience, and respect, offering practitioners holistic well-being benefits.
 
+![](/img/dsc08357.jpg)
+
 - - -
 
 ## **M﻿ore Fun Facts about Muay Thai**
@@ -94,8 +96,6 @@ Music is an intrinsic part of Muay Thai. The rhythmic beats of the **"Sarama"** 
 ![](/img/dsc08470.jpg)
 
 ![](/img/dsc09020.jpg)
-
-![](/img/dsc08357.jpg)
 
 ![](/img/dsc08193.jpg)
 
