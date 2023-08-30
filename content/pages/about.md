@@ -42,7 +42,7 @@ For parents in Queens seeking a transformative experience for their children, th
 
 ## Register for classes here:
 
-## <https://www.maonrails.com/signup/member/8s6>
+## [Sign up for Jiujitsu NYC Academy](https://www.maonrails.com/signup/member/8s6)
 
 <br>
 
