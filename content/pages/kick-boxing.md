@@ -72,6 +72,8 @@ As a comprehensive fitness regimen, kickboxing boosts cardiovascular health, sha
    * **Calorie Burn:** A typical hour of kickboxing can burn a substantial number of calories, depending on intensity, making it an effective workout for weight loss or maintenance.
    * **Increased Metabolism:** The muscle-building aspect of kickboxing can elevate resting metabolic rate, aiding in calorie burn even when not actively training.
 
+![](/img/dsc00260.jpg)
+
 - - -
 
 ### Kickboxing for Kids: Benefits and considerations for younger practitioners.
@@ -96,6 +98,8 @@ Kickboxing offers younger practitioners a blend of physical fitness, discipline,
 * **Equipment:** Children should wear protective gear, including gloves, shin guards, headgear, and mouth guards, even during light sparring or training.
 * **Supervision:** Kids' kickboxing sessions should always be supervised by trained instructors. Parents should also remain informed about what their children are learning and practicing.
 * **Mental Well-being:** While discipline is a part of martial arts, it's essential to ensure that the training environment is positive and encouraging, without undue pressure or unrealistic expectations.
+
+![](/img/dsc03043.jpg)
 
 - - -
 
@@ -142,14 +146,6 @@ Kickboxing requires specific gear like gloves, shin guards, and headgear to ensu
 
    * **Purpose:** Used for practicing strikes, kicks, and combinations.
    * **Types:** Heavy bags are for power shots, while speed bags help improve hand-eye coordination and reflexes.
-
-
-
-![](/img/dsc03043.jpg)
-
-![](/img/dsc00260.jpg)
-
-![](/img/dsc03165.jpg)
 
 ![](/img/dsc03001.jpg)
 
