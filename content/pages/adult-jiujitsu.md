@@ -62,6 +62,8 @@ Hey there, future Martial Arts enthusiasts! Ever wondered why Brazilian Jiu-Jits
 9. **Problem-Solving Skills**: Hone your critical thinking as you tackle challenges on the mat, which translates to real-world solutions.
 10. **Just Plain Fun**: Last but not least, the joy and smiles on the mat are infectious!
 
+![](/img/dsc06555.jpg)
+
 - - -
 
 ### The Amazing Journey of Brazilian Jiu-Jitsu: From Brazil to Your Neighborhood!
@@ -84,6 +86,8 @@ Fast forward to today, and Brazilian Jiu-Jitsu is rocking the world! Not only is
 **A:** Anyone looking to improve their mental toughness, physical fitness, or self-defense skills can benefit from Brazilian Jiu-Jitsu. It is suitable for both children and adults.
 
 - - -
+
+![](/img/dsc05957.jpg)
 
 ### History of Brazilian Jiu-Jitsu: Understanding its roots and evolution over time.
 
@@ -201,6 +205,8 @@ BJJ tournaments allow practitioners to test their skills against others in a con
 
 In and around Jackson Heights, one might find local academies hosting open mats or in-house tournaments. Larger events might be held in sports arenas or convention centers in NYC, given its stature as a major city.
 
+![](/img/dsc07773.jpg)
+
 - - -
 
 ### Equipment and Gear: Recommended attire and gear for Brazilian Jiu-Jitsu training.
@@ -225,17 +231,8 @@ In and around Jackson Heights, one might find local academies hosting open mats 
 
 For those just starting, it's advisable to check with the academy on their specific attire requirements before making any purchases.
 
-![](/img/dsc06555.jpg)
-
-<br>
-
 - - -
 
-![](/img/dsc06555.jpg)
-
-![](/img/dsc05957.jpg)
-
-![](/img/dsc07773.jpg)
 
 ![](/img/whatsapp-image-2023-01-23-at-7.00.13-pm-1-.jpeg)
 
