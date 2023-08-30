@@ -17,6 +17,10 @@ tags:
 
 Please arrive on time to class or 10 minutes prior to class starting!  If you arrive past 15 minutes, you are not allowed to take class.
 
+### Discover the Jiujitsu NYC Difference: Join Us Today!
+
+Ready to embark on an unparalleled martial arts journey? Whether you're considering a one-week trial or diving into full membership, Jiujitsu NYC Academy has the perfect plan tailored for you. With a range of flexible and affordable membership options, we're committed to ensuring that every student finds their ideal fit. Don't miss out on this opportunity to elevate your skills, boost your confidence, and be part of our vibrant martial arts community. Experience firsthand the exceptional training and camaraderie that sets Jiujitsu NYC Academy apart. **Sign up now** and begin your transformative journey with us!
+
 <script src="https://www.maonrails.com/js/widgets.js"></script>
 
 <div class="maonrails-booking" attr-gym="DL7vA"></div>
