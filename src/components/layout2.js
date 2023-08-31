@@ -5,7 +5,25 @@ import Footer2 from "../components/footer2"
 const Layout = props => {
   const { title, children } = props
   const [toggleNav, setToggleNav] = React.useState(false)
-  return (
+  
+    // Adding click event for nav-dropdown and submenu
+    React.useEffect(() => {
+        document.querySelectorAll('.nav-dropdown').forEach(function(dropdown) {
+            dropdown.addEventListener('click', function() {
+                // Close other open submenus
+                document.querySelectorAll('.nav-dropdown.active').forEach(function(activeDropdown) {
+                    if (activeDropdown !== dropdown) {
+                        activeDropdown.classList.remove('active');
+                    }
+                });
+
+                // Toggle current submenu
+                dropdown.classList.toggle('active');
+            });
+        });
+    }, []);
+    
+return (
     <div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`}>
      <header className="site-head">
   <div className="site-head-container">

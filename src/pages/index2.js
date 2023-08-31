@@ -271,22 +271,6 @@ const indexQuery = graphql`
   }
 `
 
-
-    // Adding click event for nav-dropdown and submenu
-    document.querySelectorAll('.nav-dropdown').forEach(function(dropdown) {
-        dropdown.addEventListener('click', function() {
-            // Close other open submenus
-            document.querySelectorAll('.nav-dropdown.active').forEach(function(activeDropdown) {
-                if (activeDropdown !== dropdown) {
-                    activeDropdown.classList.remove('active');
-                }
-            });
-
-            // Toggle current submenu
-            dropdown.classList.toggle('active');
-        });
-    });
-    
 export default props => (
   <StaticQuery
     query={indexQuery}
