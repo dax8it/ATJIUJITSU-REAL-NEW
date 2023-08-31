@@ -354,7 +354,7 @@ body {
 /* Larger screens: Use absolute positioning for the dropdown effect */
 @media screen and (min-width: 768px) {
   .nav-dropdown .submenu {
-    position: absolute;
+  /*  position: absolute; */
     top: 100%;
     left: 0;
   }
