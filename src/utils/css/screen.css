@@ -302,7 +302,6 @@ body {
 */
 
 
-
 /* Style the submenu container */
 .nav-dropdown {
   position: relative; /* Set position context for absolute-positioned children */
@@ -310,14 +309,11 @@ body {
 
 /* Make the submenu background transparent */
 .nav-dropdown .submenu {
-  display: none;
-  position: absolute;
-  top: 100%; /* Position the submenu below the "Programs" item */
-  left: 0; /* Align to the left edge of the "Programs" item */
-  background-color: transparent; /* Set background to transparent */
+  display: none; /* Hidden by default */
+  background-color: transparent;
+  margin-top: 0; 
+  padding-top: 0;
   z-index: 1; /* To ensure it appears on top of other elements */
-  margin-top: 0; /* Remove any margin to ensure no gap */
-  padding-top: 0; /* Remove any padding to ensure no gap */
 }
 
 /* Style each submenu item with white text */
@@ -334,10 +330,17 @@ body {
 
 /* Show the submenu on hover */
 .nav-dropdown:hover .submenu {
-  display: block;
+  display: block; /* Display as block on hover */
 }
 
-
+/* Larger screens: Use absolute positioning for the dropdown effect */
+@media screen and (min-width: 768px) { /* Adjust 768px as per your breakpoint */
+  .nav-dropdown .submenu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+  }
+}
 
 
 
