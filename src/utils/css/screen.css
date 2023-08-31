@@ -301,6 +301,34 @@ body {
 
 */
 
+
+/* Hide the submenu by default */
+.nav-dropdown .submenu {
+  display: none;
+  position: absolute;
+  top: 100%; /* Position the submenu below the "Programs" item */
+  left: 0; /* Align to the left edge of the "Programs" item */
+  background-color: #fff; /* Background color, adjust as needed */
+  border: 1px solid #ccc; /* Optional border */
+  z-index: 1; /* To ensure it appears on top of other elements */
+}
+
+/* Style each submenu item */
+.nav-dropdown .submenu li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Show the submenu on hover */
+.nav-dropdown:hover .submenu {
+  display: block;
+}
+
+
+
+
+
 .site-head-right {
   position: relative;
   z-index: 100;

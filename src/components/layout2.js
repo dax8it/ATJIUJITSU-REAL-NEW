@@ -1,81 +1,94 @@
+import React from "react"
+import { Link } from "gatsby"
+import Footer2 from "../components/footer2"
 
-import React, { useState } from "react";
-import { Link } from "gatsby";
-
-// Dummy Footer2 for the sake of example
-const Footer2 = () => <div>Footer2</div>;
-
-const Layout = (props) => {
-  const { title, children } = props;
-  const [toggleNav, setToggleNav] = useState(false);
-  const [activeDropdown, setActiveDropdown] = useState(null);
-
-  // Define menu and submenu structure
-  const menuItems = [
-    { label: "Home", link: "/home" },
-    {
-      label: "Features",
-      subItems: [
-        { label: "Feature 1", link: "/features/1" },
-        { label: "Feature 2", link: "/features/2" },
-      ],
-    },
-    { label: "About", link: "/about" },
-  ];
-
+const Layout = props => {
+  const { title, children } = props
+  const [toggleNav, setToggleNav] = React.useState(false)
   return (
-    <div className={`site-wrapper ${toggleNav ? "site-head-open" : ""}`}>
-      <header className="site-head" style={{ position: "fixed", width: "100%" }}>
-        <div className="site-head-container">
-          <a
-            className="nav-burger"
-            href="#"
-            onClick={() => setToggleNav(!toggleNav)}
-            aria-label="Menu"
-          >
-            🍔
-          </a>
-          <nav className="site-head-left">
-            <ul className="nav" role="menu">
-              {menuItems.map((item, index) => (
-                <li key={index} role="none">
-                  {item.subItems ? (
-                    <span
-                      onClick={() => setActiveDropdown(index)}
-                      role="menuitem"
-                    >
-                      {item.label} ▼
-                    </span>
-                  ) : (
-                    <Link to={item.link} role="menuitem">
-                      {item.label}
-                    </Link>
-                  )}
-                  {activeDropdown === index && (
-                    <ul className="dropdown" role="menu">
-                      {item.subItems.map((subItem, subIndex) => (
-                        <li key={subIndex} role="none">
-                          <Link to={subItem.link} role="menuitem">
-                            {subItem.label}
-                          </Link>
-                        </li>
-                      ))}
-                    </ul>
-                  )}
-                </li>
-              ))}
-            </ul>
-          </nav>
+    <div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`}>
+     <header className="site-head">
+  <div className="site-head-container">
+    <a
+      className="nav-burger"
+      href={`#`}
+      aria-label="Menu"
+      onClick={() => setToggleNav(!toggleNav)}
+    >
+      <div className="hamburger hamburger--collapse">
+        <div className="hamburger-box">
+          <div className="hamburger-inner" />
         </div>
-      </header>
-      <div className="site-body" style={{ marginTop: "60px" }}>
-        {children}
       </div>
-      <Footer2 />
+    </a>
+    <nav id="swup" className="site-head-left">
+      <ul className="nav" role="menu">
+        {/* <li className="nav-home nav-current" role="menuitem">
+          <Link to={`/`}>Home</Link>
+        </li> */}
+        <li className="nav-about" role="menuitem">
+          <Link to={`/about`}>About</Link>
+        </li>
+        <li className="nav-tags nav-dropdown" role="menuitem">
+          <Link to={`/tags/programs`}>Programs</Link>
+          <ul className="submenu">
+            <li role="menuitem"><Link to={`/tags/programs/subprogram1`}>Kids Martial Arts</Link></li>
+            <li role="menuitem"><Link to={`/tags/programs/subprogram2`}>Subprogram 2</Link></li>
+            <li role="menuitem"><Link to={`/tags/programs/subprogram3`}>Subprogram 3</Link></li>
+          </ul>
+        </li>
+        <li className="nav-tags" role="menuitem">
+          <Link to={`/calendar`}>Schedule</Link>
+        </li>
+        <li className="nav-tags" role="menuitem">
+          <Link to={`/prices`}>Prices</Link>
+        </li>
+        <li className="nav-tags" role="menuitem">
+          <Link to={`/tags/blog`}>Latest News</Link>
+        </li>
+      </ul>
+    </nav>
+    <div className="site-head-center">
+      <Link className="site-head-logo" to={`/`}>
+        {title}
+      </Link>
     </div>
-  );
-};
+    <div className="site-head-right">
+      <div className="social-links">
+        <a
+          href="https://at-jiujitsu-nyc.maonrails.com/login"
+          title="Member Login"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Member Login
+        </a>
+        <Link to={`/contact`}>Contact Us</Link>
+      </div>
+    </div>
+  </div>
+</header>
 
-export default Layout;
+      <main id="site-main" className="site-main">
+        <div id="swep" className="transition-fade">
+          {children}
+        </div>
+      </main>
+      <Footer2 />
+      <footer className="site-foot">
+        &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
+        JACKSON HEIGHTS • QUEENS • JIUJITSU • KETTLEBELL • JUDO • MUAY THAI • SMARTER YOGA •
+        KICKBOXING • KIDS MMA • TODDLER JIU-JITSU{" "}
+        {/* <a
+          href="https://alexcovo.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Alex Covo Studio NYC
+        </a> */}
+      </footer>
+    </div>
+  )
+}
 
-
+export default Layout
