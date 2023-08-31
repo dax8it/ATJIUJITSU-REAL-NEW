@@ -302,28 +302,44 @@ body {
 */
 
 
-/* Hide the submenu by default */
+
+/* Style the submenu container */
+.nav-dropdown {
+  position: relative; /* Set position context for absolute-positioned children */
+}
+
+/* Make the submenu background transparent */
 .nav-dropdown .submenu {
   display: none;
   position: absolute;
   top: 100%; /* Position the submenu below the "Programs" item */
   left: 0; /* Align to the left edge of the "Programs" item */
-  background-color: #fff; /* Background color, adjust as needed */
-  border: 1px solid #ccc; /* Optional border */
+  background-color: transparent; /* Set background to transparent */
   z-index: 1; /* To ensure it appears on top of other elements */
+  margin-top: 0; /* Remove any margin to ensure no gap */
+  padding-top: 0; /* Remove any padding to ensure no gap */
 }
 
-/* Style each submenu item */
+/* Style each submenu item with white text */
 .nav-dropdown .submenu li {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  color: #fff; /* Set text color to white */
+}
+
+.nav-dropdown .submenu li a {
+  color: #fff; /* Set link color to white */
 }
 
 /* Show the submenu on hover */
 .nav-dropdown:hover .submenu {
   display: block;
 }
+
+
+
+
 
 
 
