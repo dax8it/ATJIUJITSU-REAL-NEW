@@ -306,6 +306,7 @@ body {
 
 
 /* ****** Style the submenu container ******* */
+/* ****** Style the submenu container ******* */
 .nav-dropdown {
   position: relative;
 }
@@ -316,7 +317,15 @@ body {
   background-color: transparent;
   margin-top: 0; 
   padding-top: 0;
-  z-index: 1; /* Ensure it appears on top of other elements */
+  position: relative; /* Changed from absolute */
+}
+
+.nav-dropdown .submenu {
+  left: 0; /* No offset for first-level submenu */
+}
+
+.nav-dropdown .submenu-inner {
+  left: 25%; /* 25% offset for second-level submenu */
 }
 
 /* Style each submenu item with white text */
@@ -338,12 +347,9 @@ body {
 
 /* Second-level submenu styles */
 .nav-dropdown .submenu li:hover > .submenu-inner {
-  display: block; /* Display second-level submenu on hover */
-  position: absolute;
-  left: 50%; /* Position it to the right of the parent menu item */
-  top: 0;
-  z-index: 2; /* Higher z-index to ensure it appears on top */
+  display: block;
 }
+
 
 /* Larger screens: Use absolute positioning for the dropdown effect */
 @media screen and (min-width: 768px) {
