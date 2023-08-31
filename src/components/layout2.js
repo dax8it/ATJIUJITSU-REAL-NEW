@@ -39,8 +39,7 @@ const Layout = props => {
                   <a href="https://www.atjiujitsunyc.com/martial-arts-for-kids-jiujitsu-kickboxing-mma/" target="_self" rel="noopener noreferrer">
                     Kids Martial Arts
                   </a>
-                </li>
-                <li role="menuitem">
+                  <li role="menuitem">
                   <a href="https://www.atjiujitsunyc.com/martial-arts-for-kids-jiujitsu-kickboxing-mma/" target="_self" rel="noopener noreferrer">
                     Kids Jiujitsu
                   </a>
@@ -60,6 +59,8 @@ const Layout = props => {
                     Jiujitsu for Toddlers
                   </a>
                 </li>
+                </li>
+               
                 <li role="menuitem">
                 <a href="https://www.atjiujitsunyc.com/martial-arts-for-kids-jiujitsu-kickboxing-mma/" target="_self" rel="noopener noreferrer">
                     Adult Martial Arts
