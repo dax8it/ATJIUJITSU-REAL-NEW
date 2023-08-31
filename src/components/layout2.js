@@ -34,19 +34,68 @@ const Layout = props => {
 
         <li className="nav-tags nav-dropdown" role="menuitem">
           <Link to={`/tags/programs`}>Programs</Link>
-          <ul className="submenu">
-              <li role="menuitem">
+            <ul className="submenu">
+                <li role="menuitem">
+                  <a href="https://www.atjiujitsunyc.com/martial-arts-for-kids-jiujitsu-kickboxing-mma/" target="_self" rel="noopener noreferrer">
+                    Kids Martial Arts
+                  </a>
+                </li>
+                <li role="menuitem">
+                  <a href="https://www.atjiujitsunyc.com/martial-arts-for-kids-jiujitsu-kickboxing-mma/" target="_self" rel="noopener noreferrer">
+                    Kids Jiujitsu
+                  </a>
+                </li>
+                <li role="menuitem">
+                  <a href="https://www.atjiujitsunyc.com/martial-arts-for-kids-jiujitsu-kickboxing-mma/" target="_self" rel="noopener noreferrer">
+                    Kids Kickboxing
+                  </a>
+                </li>
+                <li role="menuitem">
+                  <a href="https://www.atjiujitsunyc.com/kids-mma/" target="_self" rel="noopener noreferrer">
+                    Kids MMA
+                  </a>
+                </li>
+                <li role="menuitem">
+                  <a href="https://www.atjiujitsunyc.com/toddler-jiujitsu/" target="_self" rel="noopener noreferrer">
+                    Jiujitsu for Toddlers
+                  </a>
+                </li>
+                <li role="menuitem">
                 <a href="https://www.atjiujitsunyc.com/martial-arts-for-kids-jiujitsu-kickboxing-mma/" target="_self" rel="noopener noreferrer">
-                  Kids Martial Arts
-                </a>
-              </li>
-              <li role="menuitem">
-                <Link to={`/tags/programs/subprogram2`}>Subprogram 2</Link>
-              </li>
-              <li role="menuitem">
-                <Link to={`/tags/programs/subprogram3`}>Subprogram 3</Link>
-              </li>
-            </ul>
+                    Adult Martial Arts
+                  </a>
+                </li>
+                <li role="menuitem">
+                  <a href="https://www.atjiujitsunyc.com/adult-jiujitsu/" target="_self" rel="noopener noreferrer">
+                    Jiujitsu
+                  </a>
+                </li>
+                <li role="menuitem">
+                  <a href="https://www.atjiujitsunyc.com/kick-boxing/" target="_self" rel="noopener noreferrer">
+                    Kickboxing
+                  </a>
+                </li>
+                <li role="menuitem">
+                  <a href="https://www.atjiujitsunyc.com/muay-thai/" target="_self" rel="noopener noreferrer">
+                    Muay Thai
+                  </a>
+                </li>
+                <li role="menuitem">
+                  <a href="https://www.atjiujitsunyc.com/martial-arts-for-kids-jiujitsu-kickboxing-mma/" target="_self" rel="noopener noreferrer">
+                    MMA
+                  </a>
+                </li>
+                <li role="menuitem">
+                  <a href="https://www.atjiujitsunyc.com/smarter-yoga/" target="_self" rel="noopener noreferrer">
+                    Smarter Yoga
+                  </a>
+                </li>
+                <li role="menuitem">
+                  <a href="https://www.atjiujitsunyc.com/kettlebell/" target="_self" rel="noopener noreferrer">
+                    Kettlebell
+                  </a>
+                </li>
+              </ul>
         </li>
 
  {/*   -------SUBMENU DROP DOWN END-------   */}
@@ -62,6 +111,7 @@ const Layout = props => {
         </li>
       </ul>
     </nav>
+    
     <div className="site-head-center">
       <Link className="site-head-logo" to={`/`}>
         {title}
@@ -89,17 +139,12 @@ const Layout = props => {
         </div>
       </main>
       <Footer2 />
+      
       <footer className="site-foot">
         &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
         JACKSON HEIGHTS • QUEENS • JIUJITSU • KETTLEBELL • JUDO • MUAY THAI • SMARTER YOGA •
         KICKBOXING • KIDS MMA • TODDLER JIU-JITSU{" "}
-        {/* <a
-          href="https://alexcovo.com"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Alex Covo Studio NYC
-        </a> */}
+
       </footer>
     </div>
   )
