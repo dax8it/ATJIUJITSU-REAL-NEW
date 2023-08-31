@@ -29,14 +29,28 @@ const Layout = props => {
         <li className="nav-about" role="menuitem">
           <Link to={`/about`}>About</Link>
         </li>
+
+ {/*   -----SUBMENU DROP DOWN------   */}
+
         <li className="nav-tags nav-dropdown" role="menuitem">
           <Link to={`/tags/programs`}>Programs</Link>
           <ul className="submenu">
-            <li role="menuitem"><Link to={`/tags/programs/subprogram1`}>Kids Martial Arts</Link></li>
-            <li role="menuitem"><Link to={`/tags/programs/subprogram2`}>Subprogram 2</Link></li>
-            <li role="menuitem"><Link to={`/tags/programs/subprogram3`}>Subprogram 3</Link></li>
-          </ul>
+              <li role="menuitem">
+                <a href="https://www.atjiujitsunyc.com/martial-arts-for-kids-jiujitsu-kickboxing-mma/" target="_blank" rel="noopener noreferrer">
+                  Kids Martial Arts
+                </a>
+              </li>
+              <li role="menuitem">
+                <Link to={`/tags/programs/subprogram2`}>Subprogram 2</Link>
+              </li>
+              <li role="menuitem">
+                <Link to={`/tags/programs/subprogram3`}>Subprogram 3</Link>
+              </li>
+            </ul>
         </li>
+
+ {/*   -------SUBMENU DROP DOWN END-------   */}
+
         <li className="nav-tags" role="menuitem">
           <Link to={`/calendar`}>Schedule</Link>
         </li>
