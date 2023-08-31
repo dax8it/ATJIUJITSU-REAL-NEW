@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-import Footer2 from "../components/footer2"
+import Footer2 from "./footer2"
 
 const Layout = props => {
   const { title, children } = props
