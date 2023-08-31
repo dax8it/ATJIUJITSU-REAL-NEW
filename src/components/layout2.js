@@ -5,26 +5,7 @@ import Footer2 from "../components/footer2"
 const Layout = props => {
   const { title, children } = props
   const [toggleNav, setToggleNav] = React.useState(false)
-  
-    // JavaScript logic for submenu click behavior
-    React.useEffect(() => {
-        const submenuItems = document.querySelectorAll('.submenu-item');
-        submenuItems.forEach(item => {
-            item.addEventListener('click', function() {
-                // Close other open submenu-inners
-                document.querySelectorAll('.submenu-item.active').forEach(activeItem => {
-                    if (activeItem !== item) {
-                        activeItem.classList.remove('active');
-                    }
-                });
-                
-                // Toggle current submenu-inner
-                item.classList.toggle('active');
-            });
-        });
-    }, []);
-
-return (
+  return (
     <div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`}>
      <header className="site-head">
   <div className="site-head-container">
@@ -41,36 +22,7 @@ return (
       </div>
     </a>
     <nav id="swup" className="site-head-left">
-      
-<ul className="nav">
-    <li className="nav-item nav-dropdown">
-        <a href="#">Main Item 1</a>
-        <ul className="submenu">
-            <li className="submenu-item">
-                <a href="#">Submenu Item 1</a>
-                <div className="submenu-inner">Content for Submenu Item 1</div>
-            </li>
-            <li className="submenu-item">
-                <a href="#">Submenu Item 2</a>
-                <div className="submenu-inner">Content for Submenu Item 2</div>
-            </li>
-        </ul>
-    </li>
-    <li className="nav-item nav-dropdown">
-        <a href="#">Main Item 2</a>
-        <ul className="submenu">
-            <li className="submenu-item">
-                <a href="#">Submenu Item 3</a>
-                <div className="submenu-inner">Content for Submenu Item 3</div>
-            </li>
-            <li className="submenu-item">
-                <a href="#">Submenu Item 4</a>
-                <div className="submenu-inner">Content for Submenu Item 4</div>
-            </li>
-        </ul>
-    </li>
-</ul>
-<ul className="nav" role="menu">
+      <ul className="nav" role="menu">
         {/* <li className="nav-home nav-current" role="menuitem">
           <Link to={`/`}>Home</Link>
         </li> */}

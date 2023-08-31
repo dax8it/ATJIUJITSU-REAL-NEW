@@ -1093,17 +1093,3 @@ body {
   margin: 0 auto;
   padding: 2vw 0;
 }
-/* Hover effect to show submenu */
-.nav-dropdown:hover .submenu {
-    display: block;
-}
-
-/* Initial hidden state for submenu-inner */
-.submenu-inner {
-    display: none;
-}
-
-/* Active state for submenu-inner when a submenu item is clicked */
-.submenu-item.active .submenu-inner {
-    display: block;
-}
