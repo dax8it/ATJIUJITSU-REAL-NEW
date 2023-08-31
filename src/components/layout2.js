@@ -36,7 +36,7 @@ const Layout = props => {
           <Link to={`/tags/programs`}>Programs</Link>
           <ul className="submenu">
               <li role="menuitem">
-                <a href="https://www.atjiujitsunyc.com/martial-arts-for-kids-jiujitsu-kickboxing-mma/" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.atjiujitsunyc.com/martial-arts-for-kids-jiujitsu-kickboxing-mma/" target="_self" rel="noopener noreferrer">
                   Kids Martial Arts
                 </a>
               </li>
