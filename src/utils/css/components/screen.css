@@ -1130,7 +1130,7 @@ body {
   pointer-events: none;  /* Ensures the invisible submenu doesn't interfere with other elements */
 }
 
-.nav-dropdown:hover .submenu, .nav-dropdown .submenu li:hover > .submenu-inner {
+.nav-dropdown:hover .submenu, .nav-dropdown .submenu:hover, .nav-dropdown .submenu li:hover > .submenu-inner, .nav-dropdown .submenu-inner:hover {
   opacity: 1;
   pointer-events: auto;  /* Makes the submenu interactable again on hover */
 }
