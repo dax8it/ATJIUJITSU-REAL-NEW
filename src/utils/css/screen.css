@@ -340,7 +340,7 @@ body {
 .nav-dropdown .submenu li:hover > .submenu-inner {
   display: block; /* Display second-level submenu on hover */
   position: absolute;
-  left: 100%; /* Position it to the right of the parent menu item */
+  left: 50%; /* Position it to the right of the parent menu item */
   top: 0;
   z-index: 2; /* Higher z-index to ensure it appears on top */
 }
