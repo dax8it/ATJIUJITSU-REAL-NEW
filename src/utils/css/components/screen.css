@@ -1134,3 +1134,9 @@ body {
   opacity: 1;
   pointer-events: auto;  /* Makes the submenu interactable again on hover */
 }
+
+/* Define the active state for submenu-inner */
+.submenu-active .submenu-inner {
+  opacity: 1;
+  pointer-events: auto;
+}
