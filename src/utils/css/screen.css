@@ -322,7 +322,21 @@ body {
 
 .nav-dropdown .submenu {
   left: 0; /* No offset for first-level submenu */
+  position: relative;
 }
+
+.nav-dropdown .submenu li:hover > .submenu-inner {
+  margin-top: -1px; /* Close the gap */
+  padding-top: 1px; /* Close the gap */
+}
+
+/* Add arrow indicators */
+.nav-dropdown .submenu li::before {
+  content: '>'; /* Right arrow */
+  display: inline-block;
+  margin-right: 10px;
+}
+
 
 .nav-dropdown .submenu-inner {
   left: 25%; /* 25% offset for second-level submenu */
