@@ -39,63 +39,68 @@ const Layout = props => {
                   <a href="https://www.atjiujitsunyc.com/martial-arts-for-kids-jiujitsu-kickboxing-mma/" target="_self" rel="noopener noreferrer">
                     Kids Martial Arts
                   </a>
-                  <li role="menuitem">
-                  <a href="https://www.atjiujitsunyc.com/martial-arts-for-kids-jiujitsu-kickboxing-mma/" target="_self" rel="noopener noreferrer">
-                    Kids Jiujitsu
-                  </a>
-                </li>
-                <li role="menuitem">
-                  <a href="https://www.atjiujitsunyc.com/martial-arts-for-kids-jiujitsu-kickboxing-mma/" target="_self" rel="noopener noreferrer">
-                    Kids Kickboxing
-                  </a>
-                </li>
-                <li role="menuitem">
-                  <a href="https://www.atjiujitsunyc.com/kids-mma/" target="_self" rel="noopener noreferrer">
-                    Kids MMA
-                  </a>
-                </li>
-                <li role="menuitem">
-                  <a href="https://www.atjiujitsunyc.com/toddler-jiujitsu/" target="_self" rel="noopener noreferrer">
-                    Jiujitsu for Toddlers
-                  </a>
-                </li>
+                  <ul>
+                      <li role="menuitem">
+                      <a href="https://www.atjiujitsunyc.com/martial-arts-for-kids-jiujitsu-kickboxing-mma/" target="_self" rel="noopener noreferrer">
+                        Kids Jiujitsu
+                      </a>
+                    </li>
+                    <li role="menuitem">
+                      <a href="https://www.atjiujitsunyc.com/martial-arts-for-kids-jiujitsu-kickboxing-mma/" target="_self" rel="noopener noreferrer">
+                        Kids Kickboxing
+                      </a>
+                    </li>
+                    <li role="menuitem">
+                      <a href="https://www.atjiujitsunyc.com/kids-mma/" target="_self" rel="noopener noreferrer">
+                        Kids MMA
+                      </a>
+                    </li>
+                    <li role="menuitem">
+                      <a href="https://www.atjiujitsunyc.com/toddler-jiujitsu/" target="_self" rel="noopener noreferrer">
+                        Jiujitsu for Toddlers
+                      </a>
+                    </li>
+                  </ul>
                 </li>
                
                 <li role="menuitem">
                 <a href="https://www.atjiujitsunyc.com/martial-arts-for-kids-jiujitsu-kickboxing-mma/" target="_self" rel="noopener noreferrer">
                     Adult Martial Arts
                   </a>
+                    <ul>
+                        <li role="menuitem">
+                          <a href="https://www.atjiujitsunyc.com/adult-jiujitsu/" target="_self" rel="noopener noreferrer">
+                            Jiujitsu
+                          </a>
+                        </li>
+                        <li role="menuitem">
+                          <a href="https://www.atjiujitsunyc.com/kick-boxing/" target="_self" rel="noopener noreferrer">
+                          Kickboxing
+                          </a>
+                        </li>
+                        <li role="menuitem">
+                          <a href="https://www.atjiujitsunyc.com/muay-thai/" target="_self" rel="noopener noreferrer">
+                            Muay Thai
+                          </a>
+                        </li>
+                        <li role="menuitem">
+                          <a href="https://www.atjiujitsunyc.com/martial-arts-for-kids-jiujitsu-kickboxing-mma/" target="_self" rel="noopener noreferrer">
+                            MMA
+                          </a>
+                        </li>
+                        <li role="menuitem">
+                          <a href="https://www.atjiujitsunyc.com/smarter-yoga/" target="_self" rel="noopener noreferrer">
+                            Smarter Yoga
+                          </a>
+                        </li>
+                        <li role="menuitem">
+                          <a href="https://www.atjiujitsunyc.com/kettlebell/" target="_self" rel="noopener noreferrer">
+                            Kettlebell
+                          </a>
+                        </li>
+                    </ul>
                 </li>
-                <li role="menuitem">
-                  <a href="https://www.atjiujitsunyc.com/adult-jiujitsu/" target="_self" rel="noopener noreferrer">
-                    Jiujitsu
-                  </a>
-                </li>
-                <li role="menuitem">
-                  <a href="https://www.atjiujitsunyc.com/kick-boxing/" target="_self" rel="noopener noreferrer">
-                    Kickboxing
-                  </a>
-                </li>
-                <li role="menuitem">
-                  <a href="https://www.atjiujitsunyc.com/muay-thai/" target="_self" rel="noopener noreferrer">
-                    Muay Thai
-                  </a>
-                </li>
-                <li role="menuitem">
-                  <a href="https://www.atjiujitsunyc.com/martial-arts-for-kids-jiujitsu-kickboxing-mma/" target="_self" rel="noopener noreferrer">
-                    MMA
-                  </a>
-                </li>
-                <li role="menuitem">
-                  <a href="https://www.atjiujitsunyc.com/smarter-yoga/" target="_self" rel="noopener noreferrer">
-                    Smarter Yoga
-                  </a>
-                </li>
-                <li role="menuitem">
-                  <a href="https://www.atjiujitsunyc.com/kettlebell/" target="_self" rel="noopener noreferrer">
-                    Kettlebell
-                  </a>
-                </li>
+               
               </ul>
         </li>
 
