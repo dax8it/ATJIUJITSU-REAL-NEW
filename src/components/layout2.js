@@ -5,6 +5,7 @@ import Footer2 from "./footer2"
 const Layout = props => {
   const { title, children } = props
   const [toggleNav, setToggleNav] = React.useState(false)
+  const [activeSubmenu, setActiveSubmenu] = React.useState(null)
   return (
     <div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`}>
      <header className="site-head">
@@ -156,24 +157,4 @@ const Layout = props => {
   )
 }
 
-
-// Event listener for submenu items
-document.querySelectorAll('.nav-dropdown').forEach(item => {
-  item.addEventListener('click', event => {
-    // Remove active class from all submenu items
-    document.querySelectorAll('.nav-dropdown').forEach(subitem => {
-      subitem.classList.remove('submenu-active');
-    });
-    // Add active class to the clicked submenu item
-    item.classList.add('submenu-active');
-    event.stopPropagation();  // Prevent the event from propagating to the document
-  });
-});
-
-// Event listener to close the submenu if clicked outside
-document.addEventListener('click', () => {
-  document.querySelectorAll('.nav-dropdown').forEach(item => {
-    item.classList.remove('submenu-active');
-  });
-});
 export default Layout
