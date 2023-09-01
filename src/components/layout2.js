@@ -5,7 +5,6 @@ import Footer2 from "./footer2"
 const Layout = props => {
   const { title, children } = props
   const [toggleNav, setToggleNav] = React.useState(false)
-  const [activeSubmenu, setActiveSubmenu] = React.useState(null)
   return (
     <div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`}>
      <header className="site-head">
@@ -23,101 +22,66 @@ const Layout = props => {
       </div>
     </a>
     <nav id="swup" className="site-head-left">
-      <ul className="nav" role="menu">
-        {/* <li className="nav-home nav-current" role="menuitem">
-          <Link to={`/`}>Home</Link>
-        </li> */}
-        <li className="nav-about" role="menuitem">
-          <Link to={`/about`}>About</Link>
-        </li>
-
- {/*   -----SUBMENU DROP DOWN------   */}
+    <ul className="nav" role="menu">
 
         <li className="nav-tags nav-dropdown" role="menuitem">
-          <Link to={`/tags/programs`}>Programs</Link>
+            <Link to={`/tags/programs`}>Kids Programs</Link>
             <ul className="submenu">
                 <li role="menuitem">
-                  <a href="https://www.atjiujitsunyc.com/martial-arts-for-kids-jiujitsu-kickboxing-mma/" target="_self" rel="noopener noreferrer">
-                    Kids Martial Arts
-                  </a>
-                  <ul className="submenu-inner">
-                      <li role="menuitem">
-                      <a href="https://www.atjiujitsunyc.com/martial-arts-for-kids-jiujitsu-kickboxing-mma/" target="_self" rel="noopener noreferrer">
-                        Kids Jiujitsu
-                      </a>
-                    </li>
-                    <li role="menuitem">
-                      <a href="https://www.atjiujitsunyc.com/martial-arts-for-kids-jiujitsu-kickboxing-mma/" target="_self" rel="noopener noreferrer">
-                        Kids Kickboxing
-                      </a>
-                    </li>
-                    <li role="menuitem">
-                      <a href="https://www.atjiujitsunyc.com/kids-mma/" target="_self" rel="noopener noreferrer">
-                        Kids MMA
-                      </a>
-                    </li>
-                    <li role="menuitem">
-                      <a href="https://www.atjiujitsunyc.com/toddler-jiujitsu/" target="_self" rel="noopener noreferrer">
-                        Jiujitsu for Toddlers
-                      </a>
-                    </li>
-                  </ul>
-                </li>
-               
+                    <a href="https://www.atjiujitsunyc.com/martial-arts-for-kids-jiujitsu-kickboxing-mma/" target="_self" rel="noopener noreferrer">
+                      Kids Kickboxing
+                    </a>
+                  </li>
+                  <li role="menuitem">
+                    <a href="https://www.atjiujitsunyc.com/kids-mma/" target="_self" rel="noopener noreferrer">
+                      Kids MMA
+                    </a>
+                  </li>
+                  <li role="menuitem">
+                    <a href="https://www.atjiujitsunyc.com/toddler-jiujitsu/" target="_self" rel="noopener noreferrer">
+                      Jiujitsu for Toddlers
+                    </a>
+                  </li>
+            </ul>
+        </li>
+
+        <li className="nav-tags nav-dropdown" role="menuitem">
+            <Link to={`/tags/programs`}>Adult Programs</Link>
+            <ul className="submenu">
                 <li role="menuitem">
-                <a href="https://www.atjiujitsunyc.com/martial-arts-for-kids-jiujitsu-kickboxing-mma/" target="_self" rel="noopener noreferrer">
-                    Adult Martial Arts
-                  </a>
-                    <ul className="submenu-inner">
-                        <li role="menuitem">
-                          <a href="https://www.atjiujitsunyc.com/adult-jiujitsu/" target="_self" rel="noopener noreferrer">
-                            Jiujitsu
-                          </a>
-                        </li>
-                        <li role="menuitem">
-                          <a href="https://www.atjiujitsunyc.com/kick-boxing/" target="_self" rel="noopener noreferrer">
-                          Kickboxing
-                          </a>
-                        </li>
-                        <li role="menuitem">
-                          <a href="https://www.atjiujitsunyc.com/muay-thai/" target="_self" rel="noopener noreferrer">
-                            Muay Thai
-                          </a>
-                        </li>
-                        <li role="menuitem">
-                          <a href="https://www.atjiujitsunyc.com/martial-arts-for-kids-jiujitsu-kickboxing-mma/" target="_self" rel="noopener noreferrer">
-                            MMA
-                          </a>
-                        </li>
-                        <li role="menuitem">
-                          <a href="https://www.atjiujitsunyc.com/smarter-yoga/" target="_self" rel="noopener noreferrer">
-                            Smarter Yoga
-                          </a>
-                        </li>
-                        <li role="menuitem">
-                          <a href="https://www.atjiujitsunyc.com/kettlebell/" target="_self" rel="noopener noreferrer">
-                            Kettlebell
-                          </a>
-                        </li>
-                    </ul>
-                </li>
-               
-              </ul>
+                    <a href="https://www.atjiujitsunyc.com/adult-jiujitsu/" target="_self" rel="noopener noreferrer">
+                      Jiujitsu
+                    </a>
+                  </li>
+                  <li role="menuitem">
+                    <a href="https://www.atjiujitsunyc.com/kick-boxing/" target="_self" rel="noopener noreferrer">
+                    Kickboxing
+                    </a>
+                  </li>
+                  <li role="menuitem">
+                    <a href="https://www.atjiujitsunyc.com/muay-thai/" target="_self" rel="noopener noreferrer">
+                      Muay Thai
+                    </a>
+                  </li>
+                  <li role="menuitem">
+                    <a href="https://www.atjiujitsunyc.com/martial-arts-for-kids-jiujitsu-kickboxing-mma/" target="_self" rel="noopener noreferrer">
+                      MMA
+                    </a>
+                  </li>
+                  <li role="menuitem">
+                    <a href="https://www.atjiujitsunyc.com/smarter-yoga/" target="_self" rel="noopener noreferrer">
+                      Smarter Yoga
+                    </a>
+                  </li>
+                  <li role="menuitem">
+                    <a href="https://www.atjiujitsunyc.com/kettlebell/" target="_self" rel="noopener noreferrer">
+                      Kettlebell
+                    </a>
+                  </li>
+            </ul>
         </li>
-
- {/*   -------SUBMENU DROP DOWN END-------   */}
-
-        <li className="nav-tags" role="menuitem">
-          <Link to={`/calendar`}>Schedule</Link>
-        </li>
-        <li className="nav-tags" role="menuitem">
-          <Link to={`/prices`}>Prices</Link>
-        </li>
-        <li className="nav-tags" role="menuitem">
-          <Link to={`/tags/blog`}>Latest News</Link>
-        </li>
-      </ul>
-    </nav>
+    </ul>
+</nav>
     
     <div className="site-head-center">
       <Link className="site-head-logo" to={`/`}>
