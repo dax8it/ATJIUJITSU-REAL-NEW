@@ -1143,8 +1143,17 @@ body {
   pointer-events: auto;
 }
 
-.site-head-logo-container {
-    width: 100%;
-    text-align: center;
-    margin-top: 20px;  # This provides some space between the menus and the logo
+@media (max-width: 800px) {
+    .nav-dropdown .submenu {
+        position: relative;
+        display: none;
+        width: 100%;
+        left: 0;
+        top: 0;
+        background-color: inherit;
+    }
+
+    .nav-dropdown:hover .submenu {
+        display: block;
+    }
 }
