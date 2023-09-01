@@ -8,7 +8,10 @@ description: "\"Explore the comprehensive benefits of kids' kickboxing, from
   martial art.\""
 home: false
 tags:
-  - Programs
+  - Kids Martial Arts
+  - Kickboxing near me
+  - Jackson Heights
+  - Queens
 ---
 # A Deep Dive into Kids Kickboxing Classes in Queens
 
