@@ -1,14 +1,13 @@
 ---
 templateKey: blog-post
-title: "Kids Kickboxing Classes in Queens "
+title: "Kids Kickboxing Classes"
 order: 10
 date: 2023-09-01T05:34:24.055Z
-description: "\"Explore the comprehensive benefits of kids' kickboxing, from
-  physical fitness to mental growth. Dive into the transformative power of this
-  martial art.\""
+description: Explore the comprehensive benefits of kids' kickboxing, from
+  physical fitness to mental growth. Dive into the transformative power Kids Kickboxing in Queens, NY.
 home: false
 tags:
-  - Programs
+  - Kids Martial Arts, Kids Kickboxing, Kickboxing near me, Jackson Heights, Queens 
 ---
 # A Deep Dive into Kids Kickboxing Classes in Queens
 

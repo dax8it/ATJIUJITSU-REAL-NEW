@@ -1,17 +1,17 @@
 ---
 templateKey: blog-post
-title: Kids Jiujitsu Classes in Queens
+title: Kids Jiujitsu Classes
 order: 10
 date: 2023-09-01T05:55:32.610Z
-description: "Dive deep into kids jiujitsu: a martial art that promotes physical
-  strength, discipline, and character development in children"
+description: Dive deep into kids jiujitsu - a martial art that promotes physical
+  strength, discipline, and character development in children
 home: false
 tags:
-  - Programs
+  - Kids Martial Arts, Jiujitsu for Kids, Jiujitsu near me, Jackson Heights, Queens
 ---
 # What is Kids' Jiujitsu?
 
-Kids' jiujitsu is a martial art focusing on grappling and ground techniques, offering children a holistic blend of physical training and mental growth.
+Kids jiujitsu is a martial art focusing on grappling and ground techniques, offering children a holistic blend of physical training and mental growth.
 
 
 

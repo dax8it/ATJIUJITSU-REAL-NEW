@@ -8,7 +8,7 @@ description: Join Coach Rocco for our Adult Intro to MMA Class or Kids MMA
 thumbnail: /img/dsc09063.jpg
 home: true
 tags:
-  - Programs
+  - Programs, Adults Martial Arts, MMA, Jackson Heights, Queens
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wCAR1lo4GlU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,7 +16,7 @@ tags:
 
 ### **What is Mixed Martial Arts (MMA)?**
 
-MMA, or Mixed Martial Arts, stands as the pinnacle of **academy mixed martial arts**, offering a dynamic fusion of various combat disciplines. It combines striking, grappling, and ground-fighting techniques, forming a cohesive blend that resonates with martial arts enthusiasts across neighborhoods, especially in Jackson Heights, Queens.
+MMA, or Mixed Martial Arts, stands as the pinnacle of **@JiuJitsuNYC mixed martial arts**, offering a dynamic fusion of various combat disciplines. It combines striking, grappling, and ground-fighting techniques, forming a cohesive blend that resonates with martial arts enthusiasts across neighborhoods, especially in Jackson Heights, Queens.
 
 ![](/img/dsc08917.jpg)
 

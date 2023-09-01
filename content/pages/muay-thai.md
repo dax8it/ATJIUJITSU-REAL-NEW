@@ -9,7 +9,7 @@ description: Discover the unique benefits of Muay Thai in Jackson Heights, NY.
 thumbnail: /img/dsc02639.jpg
 home: true
 tags:
-  - Programs
+  - Programs, Adults Martial Arts, Jackson Heights, Queens
 ---
 ### **What is Muay Thai?**
 
