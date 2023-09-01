@@ -5,6 +5,7 @@ order: 10
 date: 2023-09-01T05:55:32.610Z
 description: "Dive deep into kids jiujitsu: a martial art that promotes physical
   strength, discipline, and character development in children"
+thumbnail: /img/1572998453_tmp_0.jpg
 home: false
 tags:
   - Kids Martial Arts
