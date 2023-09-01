@@ -7,7 +7,7 @@ description: Dive deep into kids jiujitsu - a martial art that promotes physical
   strength, discipline, and character development in children
 home: false
 tags:
-  - Kids Martial Arts, Jiujitsu for Kids, Jiujitsu near me, Jackson Heights, Queens
+  - Kids-Martial-Arts, Jiujitsu-for-Kids, Jiujitsu-near-me, Jackson-Heights, Queens
 ---
 # What is Kids' Jiujitsu?
 
