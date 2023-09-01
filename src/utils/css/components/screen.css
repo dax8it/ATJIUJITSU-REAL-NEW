@@ -173,6 +173,7 @@ body {
 }
 
 /* Site Navigation
+
 /* ---------------------------------------------------------- */
 
 .site-head {
@@ -1144,6 +1145,21 @@ body {
 }
 
 @media (max-width: 800px) {
+    .nav-dropdown .submenu {
+        position: relative;
+        display: none;
+        width: 100%;
+        left: 0;
+        top: 0;
+        background-color: inherit;
+    }
+
+    .nav-dropdown:hover .submenu {
+        display: block;
+    }
+}
+
+@media screen and (min-width: 600px) and (max-width: 780px) {
     .nav-dropdown .submenu {
         position: relative;
         display: none;
