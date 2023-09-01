@@ -26,18 +26,14 @@ const Layout = props => {
     <li className="nav-about" role="menuitem">
         <Link to={`/about`}>About</Link>
       </li>
-      <li className="nav-tags" role="menuitem">
-        <Link to={`/tags/programs`}>Programs</Link>
-      </li>
+      
       <li className="nav-tags" role="menuitem">
         <Link to={`/calendar`}>Schedule</Link>
       </li>
       <li className="nav-tags" role="menuitem">
         <Link to={`/prices`}>Prices</Link>
       </li>
-      <li className="nav-tags" role="menuitem">
-        <Link to={`/tags/blog`}>Latest News</Link>
-    </li>
+
         <li className="nav-tags nav-dropdown" role="menuitem">
             <Link to={`/tags/programs`}>Kids Programs</Link>
             <ul className="submenu">
@@ -93,6 +89,9 @@ const Layout = props => {
                     </a>
                   </li>
             </ul>
+        </li>
+        <li className="nav-tags" role="menuitem">
+        <Link to={`/tags/blog`}>Latest News</Link>
         </li>
     </ul>
 </nav>
