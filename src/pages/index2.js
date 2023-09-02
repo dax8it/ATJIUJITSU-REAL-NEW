@@ -91,6 +91,18 @@ const BlogIndex = ({ data }, location) => {
                   rel="noopener noreferrer"> 
                   Schedule</a>
               </div>
+            <ul className="actions fit">
+            <li>
+              <a href="https://at-jiujitsu-nyc.gymdesk.com/signup" className="button primary fit">
+                Sign Up
+              </a>
+            </li>
+            <li>
+              <a href="https://at-jiujitsu-nyc.gymdesk.com/schedule" className="button fit">
+                Schedule
+              </a>
+            </li>
+          </ul>
               </p>
 
         </header>
@@ -103,6 +115,10 @@ const BlogIndex = ({ data }, location) => {
         <p>In the bustling streets of Jackson Heights, Queens, @JIUJITSUNYC stands as a sanctuary for martial arts enthusiasts of all walks of life. We take immense pride in our diverse and inclusive environment. Here, families find a common ground, training together, while amateur and professional fighters hone their skills side by side.</p>
         <p>On any given day, you might find a father and daughter practicing their kicks, a young professional prepping for an upcoming MMA bout, or even share a mat with a IBJJF champion. Our programs are designed to be scalable, ensuring everyone, from novices to experts, finds value and challenge in our sessions. We believe in guiding you, but the journey is yours. All we ask is for your dedication, hard work, and an inquisitive spirit.</p>
        
+
+
+
+
 
         <h2 id="blockquote">
 
