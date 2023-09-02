@@ -313,13 +313,13 @@ body {
 
 /* Make the submenu background transparent */
 .nav-dropdown .submenu, .nav-dropdown .submenu-inner {
-  display: none; /* none was original */
-  width: 100%; /* Make the submenu background fit */
+  display: none;
+  width: auto; /* Adjust to fit the content width */
   box-sizing: border-box;
-  background-color: rgba(0, 0, 0, 0.7); /* Black background with 70% opacity */
-  margin-top: 0; 
-  padding-top: 0;
-  position: relative; /* Changed from absolute */
+  background-color: rgba(0, 0, 0, 0.7);
+  margin: 0;
+  padding: 10px 0; /* Padding added for better spacing */
+  position: relative;
 }
 
 .nav-dropdown .submenu {
@@ -334,7 +334,7 @@ body {
 .nav-dropdown .submenu li, .nav-dropdown .submenu-inner li {
   list-style-type: none;
   margin: 0;
-  padding: 10px 15px; /* added padding */
+  padding: 5px 20px; /* added padding */
   color: #fff;
   font-weight: bold; /* added font weight */
 }
@@ -343,15 +343,17 @@ body {
   color: #fff;
   text-decoration: none; /* remove underlines from links */
   display: block; /* make the entire area clickable */
+  padding: 4px 0; /* Add vertical padding for spacing */
+}
+
+.nav-dropdown .submenu li a:hover, .nav-dropdown .submenu-inner li a:hover {
+  background-color: rgba(255, 255, 255, 0.1); /* Add a subtle hover effect */
 }
 
 /* Show the submenu on hover */
 .nav-dropdown:hover .submenu {
   display: block
 }
-
-
-
 
 
 /* Second-level submenu styles */
