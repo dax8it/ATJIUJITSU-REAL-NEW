@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "Kickboxing in Queens: Boosting Wellness for Body, Mind, and Spirit"
 order: 5
 date: 2019-05-01
-description: Dive into the world of kickboxing: a blend of karate, Muay Thai, and boxing. Learn about its techniques, history, and benefits for fitness and self-defense.
+description: "Dive into the world of kickboxing: a blend of karate, Muay Thai, and boxing. Learn about its techniques, history, and benefits for fitness and self-defense."
 thumbnail: /img/kick-AIS09142.jpg
 home: true
 tags:
