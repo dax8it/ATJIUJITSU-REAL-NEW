@@ -8,9 +8,12 @@ const Layout = props => {
   return (
 <div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`}>
     <header className="site-head">
+    <div className="site-head-logo-container">
       <Link className="site-head-logo" to={`/`}>
-              {title}
-            </Link>
+          {title}
+      </Link>
+    </div>  
+
       <div className="site-head-container">
         <a
           className="nav-burger"
@@ -103,7 +106,8 @@ const Layout = props => {
                     */}
               </ul>
           </nav>
-
+        
+        <div className="site-head-right">
           <div className="social-links">
             <a
               href="https://at-jiujitsu-nyc.maonrails.com/login"
@@ -117,20 +121,9 @@ const Layout = props => {
             <Link to={`/contact`}>Contact Us</Link>
           </div>
         </div>
-        
-        <div className="site-head-right">
-          
-
-
-
-
-
-
      {/*     <div className="site-head-center"></div>  */}
       </div>
-          <div className="site-head-logo-container">
-
-      </div>
+ 
     </header>
 
 
