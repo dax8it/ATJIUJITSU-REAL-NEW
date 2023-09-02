@@ -8,6 +8,7 @@ description: "\"Explore the comprehensive benefits of kids' kickboxing, from
   martial art.\""
 home: false
 tags:
+  - kids-programs
   - Kids Martial Arts
   - Kids Kickboxing
   - Kickboxing near me

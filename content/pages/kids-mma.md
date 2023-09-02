@@ -8,7 +8,7 @@ description: Join Coach Rocco for our Kids MMA Intro Class
 thumbnail: /img/dsc09063.jpg
 home: false
 tags:
-  - Kids Programs
+  - kids-programs
   - Kids Martial Arts
   - Kids MMA
 ---

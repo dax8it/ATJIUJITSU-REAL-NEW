@@ -9,7 +9,15 @@ description: Discover the benefits of martial arts for kids aged 5-15 in Jackson
 thumbnail: /img/1574114237_tmp_dsc09461.jpg
 home: false
 tags:
-  - Kids Martial Arts, Jiujitsu for Kids, MMA for Kids, Kids Kickboxing, MMA for Kids, Kickboxing near me, Jiujitsu near me, Jackson Heights, Queens
+  - Kids Martial Arts 
+  - Jiujitsu for Kids 
+  - MMA for Kids 
+  - Kids Kickboxing 
+  - MMA for Kids 
+  - Kickboxing near me 
+  - Jiujitsu near me 
+  - Jackson Heights 
+  - Queens
 ---
 ### What is Martial Arts for Kids?
 
