@@ -366,7 +366,7 @@ body {
 
 
 /* Larger screens: Use absolute positioning for the dropdown effect */
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 800px) {
   .nav-dropdown .submenu {
     position: absolute;
     top: 100%;
@@ -845,7 +845,7 @@ body {
   font-size: 1.9rem;
   line-height: 1.65em;
 }
-@media (max-width: 500px) {
+@media (max-width: 550px) {
   .post-content-body {
     font-size: 1.7rem;
   }
