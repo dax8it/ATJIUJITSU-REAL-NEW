@@ -6,6 +6,7 @@ date: 2023-09-01T05:55:32.610Z
 description: Dive deep into kids jiujitsu - a martial art that promotes physical
   strength, discipline, and character development in children
 home: false
+thumbnail: /img/kick-AIS09142.jpg
 tags:
   - kids-programs
   - Kids Martial Arts
@@ -65,3 +66,13 @@ Jiujitsu stands out as a discipline that fosters physical prowess, mental resili
 * **Q**: **How old should children be to start jiujitsu?**
 
   * **A**: While suitable for all ages, @jiujitsunyc offers classes for children as young as 3 years old in our Toddlers Jiujitsu Program.
+
+  - - -
+
+**Considering enrolling your child?**
+
+ Dive deeper to discover how martial arts can be the key to unlocking their fullest potential – and perhaps, make a timely decision by checking out our sign-up and schedule options.
+
+[Sign Up](https://at-jiujitsu-nyc.gymdesk.com/signup)
+
+[Schedule](https://at-jiujitsu-nyc.gymdesk.com/schedule)

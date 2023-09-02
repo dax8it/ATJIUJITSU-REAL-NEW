@@ -112,6 +112,16 @@ We are very excited to have this new program into our school. It will be a diffe
 
 - - -
 
+**Considering enrolling your child?**
+
+ Dive deeper to discover how martial arts can be the key to unlocking their fullest potential – and perhaps, make a timely decision by checking out our sign-up and schedule options.
+
+[Sign Up](https://at-jiujitsu-nyc.gymdesk.com/signup)
+
+[Schedule](https://at-jiujitsu-nyc.gymdesk.com/schedule)
+
+- - -
+
 ![](/img/dsc08894.jpg)
 
 ![](/img/dsc08983.jpg)
@@ -119,3 +129,11 @@ We are very excited to have this new program into our school. It will be a diffe
 ![](/img/dsc09039.jpg)
 
 - - -
+
+**Considering enrolling your child?**
+
+ Dive deeper to discover how martial arts can be the key to unlocking their fullest potential – and perhaps, make a timely decision by checking out our sign-up and schedule options.
+
+[Sign Up](https://at-jiujitsu-nyc.gymdesk.com/signup)
+
+[Schedule](https://at-jiujitsu-nyc.gymdesk.com/schedule)

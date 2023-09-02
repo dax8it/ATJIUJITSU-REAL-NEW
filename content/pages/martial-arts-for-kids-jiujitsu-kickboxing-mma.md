@@ -63,3 +63,13 @@ For parents in Jackson Heights and throughout Queens seeking a top-tier martial 
 8. **How do martial arts academies ensure the safety of kids during training?** Reputable academies prioritize safety with trained instructors, age-appropriate drills, safety gear, and a strict code of conduct for all participants.
 9. **Can martial arts training improve academic performance?** Yes, the discipline, focus, and time-management skills learned in martial arts can translate to better academic discipline and focus.
 10. **Are there any weight or height restrictions for kids in martial arts?** No, martial arts embrace all body types and sizes, emphasizing technique and skill over physical attributes.
+
+- - -
+
+**Considering enrolling your child?**
+
+ Dive deeper to discover how martial arts can be the key to unlocking their fullest potential – and perhaps, make a timely decision by checking out our sign-up and schedule options.
+
+[Sign Up](https://at-jiujitsu-nyc.gymdesk.com/signup)
+
+[Schedule](https://at-jiujitsu-nyc.gymdesk.com/schedule)

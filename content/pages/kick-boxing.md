@@ -3,9 +3,7 @@ templateKey: blog-post
 title: "Kickboxing in Queens: Boosting Wellness for Body, Mind, and Spirit"
 order: 5
 date: 2019-05-01
-description: "Dive into the world of kickboxing: a blend of karate, Muay Thai,
-  and boxing. Learn about its techniques, history, and benefits for fitness and
-  self-defense."
+description: Dive into the world of kickboxing: a blend of karate, Muay Thai, and boxing. Learn about its techniques, history, and benefits for fitness and self-defense.
 thumbnail: /img/kick-AIS09142.jpg
 home: true
 tags:
@@ -105,6 +103,13 @@ Kickboxing offers younger practitioners a blend of physical fitness, discipline,
 
 - - -
 
+**What is the influence of martial arts on adults' well-being**
+
+Martial arts is a powerful catalyst that amplifies an adult's physical agility and bolsters mental fortitude. Embracing this practice not only refines your physique but also sharpens your mental clarity, focus, and confidence. Thinking of embarking on this transformative journey? Dive deeper to understand how martial arts might be the change you've been seeking – and consider taking the next step by exploring our sign-up and schedule options.
+
+[Sign Up](https://at-jiujitsu-nyc.gymdesk.com/signup)
+
+[Schedule](https://at-jiujitsu-nyc.gymdesk.com/schedule)
 
 
 ### Kickboxing Equipment: Discussing gloves, shin guards, and other essential gear.

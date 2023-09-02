@@ -21,9 +21,13 @@ tags:
 
 Embark on an incredible journey with Brazilian Jiu-Jitsu, a martial art form that started in Brazil and has now taken the world by storm. Offering a plethora of benefits like self-defense, mental toughness, and fitness, BJJ is more than just a sport. It's a lifestyle that welcomes individuals of all ages.
 
-### Ready to Jump In? Your BJJ Adventure Awaits Near You!
+### What is the influence of martial arts on adults' well-being
 
-Convinced yet? All these amazing benefits are up for grabs when you commit to regular training. Whether you're looking to boost your child's Discipline or your own Self-Confidence, our Martial Arts Academy near you is the place to be. So, what are you waiting for? Take that giant leap towards your fitness and self-defense goals today!
+Martial arts is a powerful catalyst that amplifies an adult's physical agility and bolsters mental fortitude. Embracing this practice not only refines your physique but also sharpens your mental clarity, focus, and confidence. Thinking of embarking on this transformative journey? Dive deeper to understand how martial arts might be the change you've been seeking – and consider taking the next step by exploring our sign-up and schedule options.
+
+[Sign Up](https://at-jiujitsu-nyc.gymdesk.com/signup)
+
+[Schedule](https://at-jiujitsu-nyc.gymdesk.com/schedule)
 
 - - -
 

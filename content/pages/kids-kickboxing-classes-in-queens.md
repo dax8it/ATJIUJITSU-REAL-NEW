@@ -3,10 +3,11 @@ templateKey: blog-post
 title: "Kids Kickboxing Classes in Queens "
 order: 10
 date: 2023-09-01T05:34:24.055Z
-description: "\"Explore the comprehensive benefits of kids' kickboxing, from
+description: Explore the comprehensive benefits of kids kickboxing, from
   physical fitness to mental growth. Dive into the transformative power of this
-  martial art.\""
+  martial art.
 home: false
+thumbnail: /img/kick-AIS09142.jpg
 tags:
   - kids-programs
   - Kids Martial Arts
@@ -36,3 +37,13 @@ Kids kickboxing at @juijitsunyc is more than just a martial art; it's a holistic
 **Why @juijitsunyc Stands Out**: Located in the heart of Queens, @juijitsunyc is not just an academy but a community. With experienced staff who are not only experts in martial arts but also exceptionally good with children, it promises a kid-friendly environment. The emphasis is on creating a family-oriented space where every child feels welcomed and valued. The academy fosters relationship-building, ensuring that learning kickboxing also translates to forging lasting bonds.
 
 **Further Exploration**: For those Interested in understanding the intricacies of kickboxing or exploring its historical roots, numerous resources and classes delve into these aspects. The journey of kickboxing is as intriguing as its practice, revealing layers of cultural, historical, and physical significance.
+
+- - -
+
+**Considering enrolling your child?**
+
+ Dive deeper to discover how martial arts can be the key to unlocking their fullest potential – and perhaps, make a timely decision by checking out our sign-up and schedule options.
+
+[Sign Up](https://at-jiujitsu-nyc.gymdesk.com/signup)
+
+[Schedule](https://at-jiujitsu-nyc.gymdesk.com/schedule)

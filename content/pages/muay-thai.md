@@ -82,12 +82,17 @@ Muay Thai has made a significant impact on global popular culture, especially in
 Music is an intrinsic part of Muay Thai. The rhythmic beats of the **"Sarama"** or Muay Thai music set the pace for the fight. Played using traditional instruments like the Pi Java (a type of oboe) and the Glawng Khaek (a pair of drums), the music intensifies as the action in the ring escalates. Not just background music, the Sarama guides the fighters, setting the tempo and adding a unique auditory experience to the visual spectacle of a Muay Thai match.
 
 - - -
+### What is the influence of martial arts on adults' well-being
 
-# Get Started Now:
+Martial arts is a powerful catalyst that amplifies an adult's physical agility and bolsters mental fortitude. Embracing this practice not only refines your physique but also sharpens your mental clarity, focus, and confidence. Thinking of embarking on this transformative journey? Dive deeper to understand how martial arts might be the change you've been seeking – and consider taking the next step by exploring our **sign-up** and **schedule** options.
 
-## Register for classes here:
+**Explore our schedule and sign up for one of martial arts program**
 
-## <https://www.maonrails.com/signup/member/8s6>
+[Sign Up](https://at-jiujitsu-nyc.gymdesk.com/signup)
+
+[Schedule](https://at-jiujitsu-nyc.gymdesk.com/schedule)
+
+- - -
 
 <br>
 

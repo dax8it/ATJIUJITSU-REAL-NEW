@@ -44,6 +44,17 @@ tags:
 >
 > > It helps to improve health and happiness. Yoga increases Flexibility, Strength, Improves Balance, Increases Stamina and Improves Body Alignment.
 
+- - -
+### What is the influence of martial arts on adults' well-being
+
+Martial arts is a powerful catalyst that amplifies an adult's physical agility and bolsters mental fortitude. Embracing this practice not only refines your physique but also sharpens your mental clarity, focus, and confidence. Thinking of embarking on this transformative journey? Dive deeper to understand how martial arts might be the change you've been seeking – and consider taking the next step by exploring our **sign-up** and **schedule** options.
+
+**Explore our schedule and sign up for one of martial arts program**
+
+[Sign Up](https://at-jiujitsu-nyc.gymdesk.com/signup)
+
+[Schedule](https://at-jiujitsu-nyc.gymdesk.com/schedule)
+
 <br>
 
 - - -
