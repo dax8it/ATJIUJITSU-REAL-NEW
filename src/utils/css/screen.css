@@ -313,7 +313,7 @@ body {
 
 /* Make the submenu background transparent */
 .nav-dropdown .submenu, .nav-dropdown .submenu-inner {
-  display: block; /* none was original */
+  display: none; /* none was original */
   width: 100%; /* Make the submenu background fit */
   box-sizing: border-box;
   background-color: rgba(0, 0, 0, 0.7); /* Black background with 70% opacity */
