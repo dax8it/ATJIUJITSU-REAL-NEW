@@ -95,9 +95,10 @@ const Layout = props => {
                   </li>
             </ul>
         </li>
-        <li className="nav-tags" role="menuitem">
+   {/*     <li className="nav-tags" role="menuitem">
         <Link to={`/tags/blog`}>BLOG</Link>
         </li>
+  */}
     </ul>
 </nav>
     
@@ -116,6 +117,7 @@ const Layout = props => {
         >
           Member Login
         </a>
+        <Link to={`/tags/blog`}>BLOG</Link>
         <Link to={`/contact`}>Contact Us</Link>
       </div>
     </div>
