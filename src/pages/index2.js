@@ -68,42 +68,25 @@ const BlogIndex = ({ data }, location) => {
             {" "}
           Where can you find top-notch BJJ & Martial Arts training in Jackson Heights, Queens?
           <h3>@JIUJITSUNYC: Martial Arts Academy</h3>
-          offers Martial arts training in Jackson Heights, Queens, combining traditional and contemporary techniques for kids and adults, emphasizing a community-centric approach.
+          Traditional and contemporary techniques for kids and adults, emphasizing a community-centric approach.
           </p>
          <br></ br>
           <p></p>
           <p className="padding-above">              
-              <div id="button-container-1">
-                  <a 
-                  href="https://at-jiujitsu-nyc.gymdesk.com/signup"
-                  className="subscribe-button"
-                  title="Sign Up"
-                  target="_blank"
-                  rel="noopener noreferrer"> 
-                  Sign Up</a>
-              </div>
-              <div id="button-container-2">
-                  <a 
-                  href="https://at-jiujitsu-nyc.gymdesk.com/schedule"
-                  className="subscribe-button"
-                  title="Schedule"
-                  target="_blank"
-                  rel="noopener noreferrer"> 
-                  Schedule</a>
-              </div>
+          
             <ul className="actions fit">
-            <li>
-              <a href="https://at-jiujitsu-nyc.gymdesk.com/signup" className="button primary fit">
-                Sign Up
-              </a>
-            </li>
-            <li>
-              <a href="https://at-jiujitsu-nyc.gymdesk.com/schedule" className="button fit">
-                Schedule
-              </a>
-            </li>
-          </ul>
-              </p>
+              <li>
+                <a href="https://at-jiujitsu-nyc.gymdesk.com/signup" className="button primary fit">
+                  Sign Up
+                </a>
+              </li>
+              <li>
+                <a href="https://at-jiujitsu-nyc.gymdesk.com/schedule" className="button primary fit">
+                  Schedule
+                </a>
+              </li>
+            </ul>
+          </p>
 
         </header>
       )}
