@@ -200,9 +200,15 @@ body {
 
 .nav {
   display: flex;
+  flex: 2 1 auto; /* Make the .nav take up 2/3rds of the available space */
   margin: 0 0 0 -12px;
   padding: 0;
   list-style: none;
+}
+
+/* Ensure individual menu items within .nav don't collapse below a certain width */
+.nav > li {
+  min-width: 100px; /* This is a placeholder value; adjust as needed */
 }
 
 .site-head li {
