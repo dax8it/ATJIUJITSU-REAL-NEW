@@ -27,6 +27,9 @@ const Layout = props => {
             </div>
           </div>
         </a>
+
+{/* --- NAV START --- */}
+
           <nav id="swup" className="site-head-left">
               <ul className="nav" role="menu">
                 <li className="nav-about" role="menuitem">
@@ -106,7 +109,11 @@ const Layout = props => {
                     */}
               </ul>
           </nav>
-        
+
+{/* --- NAV END --- */}
+
+{/* --- SITE HEAD RIGHT START --- */}
+
         <div className="site-head-right">
           <div className="social-links">
             <a
@@ -121,6 +128,9 @@ const Layout = props => {
             <Link to={`/contact`}>Contact Us</Link>
           </div>
         </div>
+
+{/* --- SITE HEAD RIGHT END --- */}
+
      {/*     <div className="site-head-center"></div>  */}
       </div>
  
