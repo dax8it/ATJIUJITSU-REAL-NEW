@@ -330,22 +330,29 @@ body {
   left: 25%; /* 25% offset for second-level submenu */
 }
 
-/* Style each submenu item with white text */
+/* Style each submenu item with white text, increased padding and font weight */
 .nav-dropdown .submenu li, .nav-dropdown .submenu-inner li {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 10px 15px; /* added padding */
   color: #fff;
+  font-weight: bold; /* added font weight */
 }
 
 .nav-dropdown .submenu li a, .nav-dropdown .submenu-inner li a {
   color: #fff;
+  text-decoration: none; /* remove underlines from links */
+  display: block; /* make the entire area clickable */
 }
 
 /* Show the submenu on hover */
 .nav-dropdown:hover .submenu {
-  display: block;
-}
+  display: block
+
+
+
+
+
 
 /* Second-level submenu styles */
 .nav-dropdown .submenu li:hover > .submenu-inner {
