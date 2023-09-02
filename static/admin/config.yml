@@ -49,7 +49,7 @@ collections:
           name: "tags",
           widget: "select",
           multiple: true,
-          options: ["Programs", "Kids Martial Arts", "Adults Martial Arts", "Jiujitsu for Kids", "MMA for Kids", "Kickboxing", "MMA", "Kickboxing near me", "Jiujitsu near me", "Prices", "Schedule", "Blog", "Media", "Other", "Jackson Heights", "Queens" ],
+          options: ["Programs", "Kids Programs", "Kids Martial Arts", "Adults Martial Arts", "Jiujitsu for Kids", "MMA for Kids", "Jiujitsu", "Kickboxing", "Muay Thai", "MMA", "Kickboxing near me", "Jiujitsu near me", "Prices", "Schedule", "Blog", "Media", "Other", "Jackson Heights", "Queens" ],
         }
       - { label: "Body", name: "body", widget: "markdown" }
 
@@ -92,6 +92,6 @@ collections:
           name: "tags",
           widget: "select",
           multiple: true,
-          options: ["Programs", "Kids-Martial-Arts", "Kids-Kickboxing", "Adults-Martial-Arts", "Jiujitsu-for-Kids", "MMA-for-Kids", "Kickboxing", "Muay-Thai", "Muay-Thai-near-me", "MMA", "MMA-near-me", "Kickboxing-near-me", "Jiujitsu-near-me", "Prices", "Schedule", "Blog", "Media", "Other", "Jackson-Heights", "Queens"],
+          options: ["Programs", "Kids Programs", "Kids Martial Arts", "Kids Kickboxing", "Adults Martial Arts", "Jiujitsu for Kids", "MMA for Kids", "Jiujitsu", "Kickboxing", "Muay Thai", "Muay Thai near me", "MMA", "MMA near me", "Kickboxing near me", "Jiujitsu near me", "Prices", "Schedule", "Blog", "Media", "Other", "Jackson Heights", "Queens"],
         }
       - { label: "Body", name: "body", widget: "markdown" }

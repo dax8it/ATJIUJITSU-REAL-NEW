@@ -8,7 +8,7 @@ description: In Toddler BJJ, children will meet many new friends and share
 thumbnail: /img/dsc09945.jpg
 home: true
 tags:
-  - Programs
+  - Kids Martial Arts
 ---
 # Toddler Jiu-Jitsu
 

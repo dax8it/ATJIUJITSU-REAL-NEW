@@ -23,32 +23,17 @@ const Layout = props => {
     </a>
     <nav id="swup" className="site-head-left">
     <ul className="nav" role="menu">
-    <li className="nav-about" role="menuitem">
-        <Link to={`/about`}>About</Link>
-      </li>
-      
-      <li className="nav-tags" role="menuitem">
-        <Link to={`/calendar`}>Schedule</Link>
-      </li>
-      <li className="nav-tags" role="menuitem">
-        <Link to={`/prices`}>Prices</Link>
-      </li>
 
         <li className="nav-tags nav-dropdown" role="menuitem">
-            <Link to={`/tags/Kids Programs`}>Kids Programs</Link>
+            <Link to={`/tags/programs`}>Kids Programs</Link>
             <ul className="submenu">
-            <li role="menuitem">
-                    <a href="https://www.atjiujitsunyc.com/kids-jiujitsu-classes-in-queens/" target="_self" rel="noopener noreferrer">
-                      Kids JiuJitsu
-                    </a>
-                  </li>
                 <li role="menuitem">
-                    <a href="https://www.atjiujitsunyc.com/kids-kickboxing-classes-in-queens/" target="_self" rel="noopener noreferrer">
+                    <a href="https://www.atjiujitsunyc.com/martial-arts-for-kids-jiujitsu-kickboxing-mma/" target="_self" rel="noopener noreferrer">
                       Kids Kickboxing
                     </a>
                   </li>
                   <li role="menuitem">
-                    <a href="https://www.atjiujitsunyc.com/kids-mma/" target="_self" rel="noopener noreferrer">
+                    <a href="https://www.atjiujitsunyc.com/mma/" target="_self" rel="noopener noreferrer">
                       Kids MMA
                     </a>
                   </li>
@@ -70,7 +55,7 @@ const Layout = props => {
                   </li>
                   <li role="menuitem">
                     <a href="https://www.atjiujitsunyc.com/kick-boxing/" target="_self" rel="noopener noreferrer">
-                      Kickboxing
+                    Kickboxing
                     </a>
                   </li>
                   <li role="menuitem">
@@ -79,7 +64,7 @@ const Layout = props => {
                     </a>
                   </li>
                   <li role="menuitem">
-                    <a href="https://www.atjiujitsunyc.com/mma/" target="_self" rel="noopener noreferrer">
+                    <a href="https://www.atjiujitsunyc.com/martial-arts-for-kids-jiujitsu-kickboxing-mma/" target="_self" rel="noopener noreferrer">
                       MMA
                     </a>
                   </li>
@@ -95,13 +80,10 @@ const Layout = props => {
                   </li>
             </ul>
         </li>
-        <li className="nav-tags" role="menuitem">
-        <Link to={`/tags/blog`}>BLOG</Link>
-        </li>
     </ul>
 </nav>
     
-    <div className="site-head-logo-container">
+    <div className="site-head-center">
       <Link className="site-head-logo" to={`/`}>
         {title}
       </Link>
@@ -119,7 +101,6 @@ const Layout = props => {
         <Link to={`/contact`}>Contact Us</Link>
       </div>
     </div>
-    <div className="site-head-center"></div>
   </div>
 </header>
 
@@ -132,8 +113,8 @@ const Layout = props => {
       
       <footer className="site-foot">
         &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
-        MARTIAL ARTS • JIUJITSU • KIDS BJJ • KID KICKBOXING • KIDS MMA • MUAY THAI • KETTLEBELL • SMARTER YOGA •
-        KICKBOXING • MMA • TODDLER JIU-JITSU • JACKSON HEIGHTS • QUEENS{" "}
+        JACKSON HEIGHTS • QUEENS • JIUJITSU • KETTLEBELL • JUDO • MUAY THAI • SMARTER YOGA •
+        KICKBOXING • KIDS MMA • TODDLER JIU-JITSU{" "}
 
       </footer>
     </div>

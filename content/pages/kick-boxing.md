@@ -9,7 +9,9 @@ description: "Dive into the world of kickboxing: a blend of karate, Muay Thai,
 thumbnail: /img/kick-AIS09142.jpg
 home: true
 tags:
-  - Programs
+   - Programs
+   - Adults Martial Arts
+   - Kickboxing near me
 ---
 - - -
 

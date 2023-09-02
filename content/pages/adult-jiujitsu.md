@@ -10,6 +10,8 @@ thumbnail: /img/fb_img_1621261403650.jpg
 home: true
 tags:
   - Programs
+  - Adults Martial Arts
+  - Jiujitsu
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t0Nki5XPLIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

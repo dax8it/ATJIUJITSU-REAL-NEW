@@ -8,6 +8,7 @@ thumbnail: /img/dsc05705.jpg
 home: true
 tags:
   - Programs
+  - Adults Martial Arts
 ---
 # Kettlebell
 
