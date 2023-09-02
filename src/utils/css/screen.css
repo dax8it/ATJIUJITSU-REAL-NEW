@@ -314,7 +314,7 @@ body {
 /* Make the submenu background transparent */
 .nav-dropdown .submenu, .nav-dropdown .submenu-inner {
   display: none;
-  background-color: transparent;
+  background-color: rgba(0, 0, 0, 0.7); /* Black background with 70% opacity */
   margin-top: 0; 
   padding-top: 0;
   position: relative; /* Changed from absolute */
