@@ -73,13 +73,6 @@ const Layout = props => {
         &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
         JACKSON HEIGHTS • QUEENS • JIUJITSU • KETTLEBELL • JUDO • MUAY THAI • SMARTER YOGA •
         KICKBOXING • KIDS MMA • TODDLER JIU-JITSU{" "}
-        {/* <a
-          href="https://alexcovo.com"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Alex Covo Studio NYC
-        </a> */}
       </footer>
     </div>
   )
