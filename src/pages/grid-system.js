@@ -93,8 +93,8 @@ const ElementsPage = ({ data }, location) => {
                   <div className="col-6">
                       <div
                           style={{
-                          padding: "1rem 0",
-                          textAlign: "center",
+                          padding: "1rem",
+                          textAlign: "left",
                           background: "#1d1d1f",
                           }}
                       >
