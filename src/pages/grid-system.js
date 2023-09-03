@@ -47,20 +47,7 @@ const ElementsPage = ({ data }, location) => {
 
           <hr />
           <h2 id="images">Images</h2>
-          <figure className="kg-card kg-image-card">
-            <Img
-              fluid={data.smallPic.childImageSharp.fluid}
-              className="kg-image"
-            />
-            <figcaption>Regular image</figcaption>
-          </figure>
-          <figure className="kg-card kg-image-card kg-width-wide">
-            <Img
-              fluid={data.medPic.childImageSharp.fluid}
-              className="kg-image"
-            />
-            <figcaption>Large image</figcaption>
-          </figure>
+         
           <figure className="kg-card kg-image-card kg-width-full">
             <Img
               fluid={data.largePic.childImageSharp.fluid}
@@ -81,8 +68,8 @@ const ElementsPage = ({ data }, location) => {
                   background: "#1d1d1f",
                 }}
               >
-                <h1>This is a title section</h1>
-                <h2>This is a subtitle seciton</h2>
+                <h1>This is a title section</h1><br></br>
+                <h2>This is a subtitle seciton</h2><br></br>
                 <p>Maybe some text or a list of things</p>
 
             </div>
@@ -191,21 +178,9 @@ const ElementsPage = ({ data }, location) => {
                   flex: 1  // makes sure the div stretches to the full height of its container
                   }}
               >
-                  <h2>Martial Arts are the Way</h2>
-                  <p>Write some text here and see how out goes.
-                      Maybe this will work we shall see.
-                  </p>
-                  <p>Write some text here and see how out goes.
-                      Maybe this will work we shall see.
-                  </p>
-                  <p>Write some text here and see how out goes.
-                      Maybe this will work we shall see.
-                  </p>
-                  <a href="#" className="button fit">
-                      Your move lollipop boy o
-                  </a>
+   
              
-        </div>
+
 
         <div className="col-3" style={{
                   padding: "1rem 0",
@@ -260,7 +235,7 @@ const ElementsPage = ({ data }, location) => {
                       />
                   </figure>
         </div>
-        
+ </div>
 
 
 
