@@ -75,68 +75,20 @@ const Layout = props => {
                     </li>
                     <li className="nav-tags nav-dropdown" role="menuitem">
                         <Link to={`/tags/programs`}>Adult Programs</Link>
-                     {/*
-                        <ul className="submenu">
-                            <li role="menuitem">
-                                <a href="https://www.atjiujitsunyc.com/adult-jiujitsu/" target="_self" rel="noopener noreferrer">
-                                  Jiujitsu
-                                </a>
-                              </li>
-                              <li role="menuitem">
-                                <a href="https://www.atjiujitsunyc.com/kick-boxing/" target="_self" rel="noopener noreferrer">
-                                  Kickboxing
-                                </a>
-                              </li>
-                              <li role="menuitem">
-                                <a href="https://www.atjiujitsunyc.com/muay-thai/" target="_self" rel="noopener noreferrer">
-                                  Muay Thai
-                                </a>
-                              </li>
-                              <li role="menuitem">
-                                <a href="https://www.atjiujitsunyc.com/mma/" target="_self" rel="noopener noreferrer">
-                                  MMA
-                                </a>
-                              </li>
-                              <li role="menuitem">
-                                <a href="https://www.atjiujitsunyc.com/smarter-yoga/" target="_self" rel="noopener noreferrer">
-                                  Smarter Yoga
-                                </a>
-                              </li>
-                              <li role="menuitem">
-                                <a href="https://www.atjiujitsunyc.com/kettlebell/" target="_self" rel="noopener noreferrer">
-                                  Kettlebell
-                                </a>
-                              </li>
-                      </ul>
-                  */}
-                  </li>                
+                  </li>
+                  <li className="nav-tags nav-dropdown" role="menuitem">
+                  <a href="https://at-jiujitsu-nyc.maonrails.com/login" 
+                    title="Member Login"
+                    target="_blank"
+                    rel="noopener noreferrer">
+                      Member Login
+                  </a>
+                  </li>                   
               </ul>
           </nav>
 
 {/* --- NAV END --- */}
 
-{/* --- SITE HEAD RIGHT START --- */}
-
-        <div className="site-head-right">
-          <div className="social-links">
-            <a
-              href="https://at-jiujitsu-nyc.maonrails.com/login"
-              title="Member Login"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Member Login
-            </a>
-        {/* 
-            <Link to={`/tags/blog`}>BLOG</Link>
-            <Link to={`/contact`}>Contact Us</Link>
-        */}
-          </div>
-        </div>
-
-{/* --- SITE HEAD RIGHT END --- */}
-
-     {/*     <div className="site-head-center"></div>  */}
       </div>
  
     </header>
