@@ -72,48 +72,53 @@ const ElementsPage = ({ data }, location) => {
           <hr />
    
           <h2 id="grid-system">Grid system</h2>
-          
-          <div className="row">
-                  <div className="col-6">
-                      <div
-                          style={{
-                          padding: "1rem 0",
-                          textAlign: "center",
-                          background: "#1d1d1f",
-                          }}
-                      >
-                         <figure className="kg-card kg-image-card">
-            <Img
-              fluid={data.smallPic.childImageSharp.fluid}
-              className="kg-image"
-            />
-          </figure>
-                      </div>
-                  </div>
-                  <div className="col-6">
-                      <div
-                          style={{
-                          padding: "1rem",
-                          textAlign: "left",
-                          background: "#1d1d1f",
-                          }}
-                      >
-                         <h2>Martial Arts are the Way</h2>
-                         <p>Write som text here and see how out goes.
-                            Maybe this will work we shall see.
-                         </p>
-                         <p>Write som text here and see how out goes.
-                            Maybe this will work we shall see.
-                         </p>
-                         <p>Write som text here and see how out goes.
-                            Maybe this will work we shall see.
-                         </p>
-                         <a href="#" className="button fit">
-                            Your move lolipop boi o
-                        </a>
-                      </div>
-                  </div>
-          </div>
+
+<div className="row" style={{ display: "flex" }}>
+    <div className="col-6" style={{ display: "flex" }}>
+        <div
+            style={{
+            padding: "1rem 0",
+            textAlign: "center",
+            background: "#1d1d1f",
+            flex: 1,  // makes sure the div stretches to the full height of its container
+            display: "flex",
+            flexDirection: "column", //rows?
+            justifyContent: "center"  // centers the content vertically
+            }}
+        >
+            <figure className="kg-card kg-image-card">
+                <Img
+                fluid={data.smallPic.childImageSharp.fluid}
+                className="kg-image"
+                />
+            </figure>
+        </div>
+    </div>
+    <div className="col-6" style={{ display: "flex" }}>
+        <div
+            style={{
+            padding: "1rem",
+            textAlign: "left",
+            background: "#1d1d1f",
+            flex: 1  // makes sure the div stretches to the full height of its container
+            }}
+        >
+            <h2>Martial Arts are the Way</h2>
+            <p>Write some text here and see how out goes.
+                Maybe this will work we shall see.
+            </p>
+            <p>Write some text here and see how out goes.
+                Maybe this will work we shall see.
+            </p>
+            <p>Write some text here and see how out goes.
+                Maybe this will work we shall see.
+            </p>
+            <a href="#" className="button fit">
+                Your move lollipop boy o
+            </a>
+        </div>
+    </div>
+</div>
 
         </div>
       </article>
