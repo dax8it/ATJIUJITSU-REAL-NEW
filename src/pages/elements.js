@@ -413,6 +413,8 @@ const ElementsPage = ({ data }, location) => {
               ;
             </code>
           </pre>
+
+
           <h2 id="grid-system">Grid system</h2>
           <div className="row">
             <div className="col-12">
@@ -423,7 +425,21 @@ const ElementsPage = ({ data }, location) => {
                   background: "#1d1d1f",
                 }}
               >
-                12
+                
+                <h2>Martial Arts are the Way</h2>
+                  <p>Write some text here and see how out goes.
+                      Maybe this will work we shall see.
+                  </p>
+                  <p>Write some text here and see how out goes.
+                      Maybe this will work we shall see.
+                  </p>
+                  <p>Write some text here and see how out goes.
+                      Maybe this will work we shall see.
+                  </p>
+                  <a href="#" className="button">
+                      Your move lollipop boy o
+                  </a>
+
               </div>
             </div>
           </div>
