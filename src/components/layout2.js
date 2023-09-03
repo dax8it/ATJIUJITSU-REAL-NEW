@@ -45,7 +45,7 @@ const Layout = props => {
 
                     <li className="nav-tags nav-dropdown" role="menuitem">
                         <Link to={`/tags/kids-programs`}>Kids Programs</Link>
-                        <ul className="submenu">
+                   {/*   <ul className="submenu">
                           <li role="menuitem">
                             <a href="https://www.atjiujitsunyc.com/kids-jiujitsu-classes-in-queens/" target="_self" rel="noopener noreferrer">
                               Kids BJJ
@@ -66,10 +66,13 @@ const Layout = props => {
                               Toddlers BJJ
                             </a>
                           </li>
+    
                         </ul>
+                    */}
                     </li>
                     <li className="nav-tags nav-dropdown" role="menuitem">
                         <Link to={`/tags/programs`}>Adult Programs</Link>
+                     {/*
                         <ul className="submenu">
                             <li role="menuitem">
                                 <a href="https://www.atjiujitsunyc.com/adult-jiujitsu/" target="_self" rel="noopener noreferrer">
@@ -102,11 +105,8 @@ const Layout = props => {
                                 </a>
                               </li>
                       </ul>
-                  </li>
-                    {/*     <li className="nav-tags" role="menuitem">
-                          <Link to={`/tags/blog`}>BLOG</Link>
-                          </li>
-                    */}
+                  */}
+                  </li>                
               </ul>
           </nav>
 
