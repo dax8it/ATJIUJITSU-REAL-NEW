@@ -72,10 +72,10 @@ const ElementsPage = ({ data }, location) => {
           <hr />
    
           <h2 id="grid-system">Grid system</h2>
-          <div className="row" style={{ display: "flex" }}> {/*  START NEW ROW */ }
-            <div className="col-12"  style={{ display: "flex" }}>
-              <div
-                style={{
+          {/*  START NEW ROW */ }
+          <div className="row" style={{ display: "flex" }}> 
+            <div className="col-12"  style={{ 
+                  display: "flex",
                   padding: "1rem 0",
                   textAlign: "center",
                   background: "#1d1d1f",
@@ -84,7 +84,7 @@ const ElementsPage = ({ data }, location) => {
                 <h1>This is a title section</h1>
                 <h2>This is a subtitle seciton</h2>
                 <p>Maybe some text or a list of things</p>
-              </div>
+
             </div>
           </div>
 
@@ -136,9 +136,8 @@ const ElementsPage = ({ data }, location) => {
 </div>
 
 <div className="row" style={{ display: "flex" }}>
-        <div className="col-6" style={{ display: "flex" }}>
-              <div
-                  style={{
+        <div className="col-6" style={{ 
+                display: "flex",
                   padding: "1rem",
                   textAlign: "left",
                   background: "#1d1d1f",
@@ -161,9 +160,8 @@ const ElementsPage = ({ data }, location) => {
               </div>
         </div>
 
-        <div className="col-6" style={{ display: "flex" }}>
-              <div
-                  style={{
+        <div className="col-6" style={{ 
+                  display: "flex",
                   padding: "1rem 0",
                   textAlign: "center",
                   background: "#1d1d1f",
@@ -179,16 +177,14 @@ const ElementsPage = ({ data }, location) => {
                       className="kg-image"
                       />
                   </figure>
-              </div>
+              
         </div>
        
 </div>
 
 
-<div className="row" style={{ display: "flex" }}>
-        <div className="col-3" style={{ display: "flex" }}>
-              <div
-                  style={{
+<div className="row" style={{ 
+                  display: "flex",
                   padding: "1rem",
                   textAlign: "left",
                   background: "#1d1d1f",
@@ -208,12 +204,10 @@ const ElementsPage = ({ data }, location) => {
                   <a href="#" className="button fit">
                       Your move lollipop boy o
                   </a>
-              </div>
+             
         </div>
 
-        <div className="col-3" style={{ display: "flex" }}>
-              <div
-                  style={{
+        <div className="col-3" style={{
                   padding: "1rem 0",
                   textAlign: "center",
                   background: "#1d1d1f",
@@ -229,11 +223,9 @@ const ElementsPage = ({ data }, location) => {
                       className="kg-image"
                       />
                   </figure>
-              </div>
         </div>
-        <div className="col-3" style={{ display: "flex" }}>
-              <div
-                  style={{
+        <div className="col-3" style={{ 
+                  display: "flex",
                   padding: "1rem 0",
                   textAlign: "center",
                   background: "#1d1d1f",
@@ -249,18 +241,34 @@ const ElementsPage = ({ data }, location) => {
                       className="kg-image"
                       />
                   </figure>
-              </div>
         </div>
-       
-</div>
-
-
-
-
-
-
-
+        <div className="col-3" style={{ 
+                  display: "flex",
+                  padding: "1rem 0",
+                  textAlign: "center",
+                  background: "#1d1d1f",
+                  flex: 1,  // makes sure the div stretches to the full height of its container
+                  display: "flex",
+                  flexDirection: "column", //rows?
+                  justifyContent: "center"  // centers the content vertically
+                  }}
+              >
+                  <figure className="kg-card kg-image-card">
+                      <Img
+                      fluid={data.smallPic.childImageSharp.fluid}
+                      className="kg-image"
+                      />
+                  </figure>
         </div>
+        
+
+
+
+
+
+
+
+
       </article>
     </Layout>
   )
