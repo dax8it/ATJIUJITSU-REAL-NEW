@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Muay Thai Martial Arts in Queens, NY
-order: 6
+order: 0
 date: 2019-05-01
 description: Discover the unique benefits of Muay Thai in Jackson Heights, NY.
   Explore how the "Art of Eight Limbs" offers unmatched self-defense techniques
