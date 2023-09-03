@@ -45,6 +45,7 @@ const Layout = props => {
 
                     <li className="nav-tags nav-dropdown" role="menuitem">
                         <Link to={`/tags/kids-programs`}>Kids Programs</Link>
+                 
                    {/*   <ul className="submenu">
                           <li role="menuitem">
                             <a href="https://www.atjiujitsunyc.com/kids-jiujitsu-classes-in-queens/" target="_self" rel="noopener noreferrer">
