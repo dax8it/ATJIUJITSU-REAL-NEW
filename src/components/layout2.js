@@ -8,11 +8,7 @@ const Layout = props => {
   return (
 <div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`}>
     <header className="site-head">
-    <div className="site-head-logo-container">
-      <Link className="site-head-logo" to={`/`}>
-          {title}
-      </Link>
-    </div>  
+
 
       <div className="site-head-container">
         <a
@@ -29,6 +25,12 @@ const Layout = props => {
         </a>
 
 {/* --- NAV START --- */}
+
+<div className="site-head-logo-container">
+      <Link className="site-head-logo" to={`/`}>
+          {title}
+      </Link>
+    </div>  
 
           <nav id="swup" className="site-head-left">
               <ul className="nav" role="menu">
