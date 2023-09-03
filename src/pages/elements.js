@@ -421,7 +421,7 @@ const ElementsPage = ({ data }, location) => {
               <div
                 style={{
                   padding: "1rem 0",
-                  textAlign: "left",
+                  textAlign: "center",
                   background: "#1d1d1f",
                 }}
               >
@@ -476,7 +476,18 @@ const ElementsPage = ({ data }, location) => {
                   background: "#1d1d1f",
                 }}
               >
-                6
+                   <h2>Martial Arts are the Way</h2>
+                  <p>Maybe this will work we shall see.
+                  </p>
+                  <ul>
+                    <li>Dolor pulvinar etiam.</li>
+                    <li>Sagittis lorem eleifend.</li>
+                    <li>Felis feugiat dolore viverra.</li>
+                    <li>Dolor pulvinar etiam.</li>
+                </ul>
+                  <a href="#" className="button">
+                      Your move lollipop boy o
+                  </a>
               </div>
             </div>
             <div className="col-6">
@@ -487,7 +498,12 @@ const ElementsPage = ({ data }, location) => {
                   background: "#1d1d1f",
                 }}
               >
-                6
+                 <figure className="kg-card kg-image-card">
+                      <Img
+                      fluid={data.smallPic.childImageSharp.fluid}
+                      className="kg-image"
+                      />
+                  </figure>
               </div>
             </div>
           </div>
