@@ -443,30 +443,7 @@ const ElementsPage = ({ data }, location) => {
               </div>
             </div>
           </div>
-          <div className="row">
-            <div className="col-3">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#1d1d1f",
-                }}
-              >
-                3
-              </div>
-            </div>
-            <div className="col-9">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#1d1d1f",
-                }}
-              >
-                9
-              </div>
-            </div>
-          </div>
+  
           <div className="row">
             <div className="col-6">
               <div
