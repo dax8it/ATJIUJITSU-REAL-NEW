@@ -11,7 +11,18 @@ const Layout = props => {
 
 
       <div className="site-head-container">
-       
+        <a
+          className="nav-burger"
+          href={`#`}
+          aria-label="Menu"
+          onClick={() => setToggleNav(!toggleNav)}
+        >
+          <div className="hamburger hamburger--collapse">
+            <div className="hamburger-box">
+              <div className="hamburger-inner" />
+            </div>
+          </div>
+        </a>
 
 {/* --- NAV START --- */}
 
@@ -77,18 +88,7 @@ const Layout = props => {
           </nav>
 
 {/* --- NAV END --- */}
-<a
-          className="nav-burger"
-          href={`#`}
-          aria-label="Menu"
-          onClick={() => setToggleNav(!toggleNav)}
-        >
-          <div className="hamburger hamburger--collapse">
-            <div className="hamburger-box">
-              <div className="hamburger-inner" />
-            </div>
-          </div>
-        </a>
+
       </div>
  
     </header>
