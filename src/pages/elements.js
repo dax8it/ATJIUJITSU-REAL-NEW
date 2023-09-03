@@ -516,7 +516,7 @@ const ElementsPage = ({ data }, location) => {
                   background: "#1d1d1f",
                 }}
               >
-                auto
+                testimonial 1
               </div>
             </div>
             <div className="col">
@@ -527,7 +527,7 @@ const ElementsPage = ({ data }, location) => {
                   background: "#1d1d1f",
                 }}
               >
-                auto
+               testimonial 2
               </div>
             </div>
             <div className="col">
@@ -538,53 +538,7 @@ const ElementsPage = ({ data }, location) => {
                   background: "#1d1d1f",
                 }}
               >
-                auto
-              </div>
-            </div>
-          </div>
-          <div className="row">
-            <div className="col">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#1d1d1f",
-                }}
-              >
-                auto
-              </div>
-            </div>
-            <div className="col">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#1d1d1f",
-                }}
-              >
-                auto
-              </div>
-            </div>
-            <div className="col">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#1d1d1f",
-                }}
-              >
-                auto
-              </div>
-            </div>
-            <div className="col">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#1d1d1f",
-                }}
-              >
-                auto
+                testimonial 3
               </div>
             </div>
           </div>
