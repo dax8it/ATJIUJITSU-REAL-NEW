@@ -103,7 +103,7 @@ const ElementsPage = ({ data }, location) => {
                             Maybe this will work we shall see.
                          </p>
                          <a href="#" className="button primary fit">
-                            Your move lolipop boi
+                            Your move lolipop boi o
                         </a>
                       </div>
                   </div>
