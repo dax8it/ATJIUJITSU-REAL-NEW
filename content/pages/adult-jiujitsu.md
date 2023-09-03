@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "Brazilian Jiu-Jitsu in Jackson Heights: Mastering Martial Arts in Queens"
-order: 4
+order: 2
 date: 2019-05-01
 description: Discover the art of Brazilian Jiu-Jitsu in Jackson Heights, Queens.
   Dive into BJJ training, from beginner classes to advanced competition training
