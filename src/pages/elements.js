@@ -421,7 +421,7 @@ const ElementsPage = ({ data }, location) => {
               <div
                 style={{
                   padding: "1rem 0",
-                  textAlign: "center",
+                  textAlign: "left",
                   background: "#1d1d1f",
                 }}
               >
@@ -430,12 +430,12 @@ const ElementsPage = ({ data }, location) => {
                   <p>Write some text here and see how out goes.
                       Maybe this will work we shall see.
                   </p>
-                  <p>Write some text here and see how out goes.
-                      Maybe this will work we shall see.
-                  </p>
-                  <p>Write some text here and see how out goes.
-                      Maybe this will work we shall see.
-                  </p>
+                  <ul>
+                    <li>Dolor pulvinar etiam.</li>
+                    <li>Sagittis lorem eleifend.</li>
+                    <li>Felis feugiat dolore viverra.</li>
+                    <li>Dolor pulvinar etiam.</li>
+                </ul>
                   <a href="#" className="button">
                       Your move lollipop boy o
                   </a>
