@@ -74,7 +74,7 @@ const ElementsPage = ({ data }, location) => {
           <h2 id="grid-system">Grid system</h2>
           
           <div className="row">
-                  <div className="col-3">
+                  <div className="col-6">
                       <div
                           style={{
                           padding: "1rem 0",
@@ -90,7 +90,7 @@ const ElementsPage = ({ data }, location) => {
           </figure>
                       </div>
                   </div>
-                  <div className="col-9">
+                  <div className="col-6">
                       <div
                           style={{
                           padding: "1rem 0",
@@ -102,7 +102,13 @@ const ElementsPage = ({ data }, location) => {
                          <p>Write som text here and see how out goes.
                             Maybe this will work we shall see.
                          </p>
-                         <a href="#" className="button primary fit">
+                         <p>Write som text here and see how out goes.
+                            Maybe this will work we shall see.
+                         </p>
+                         <p>Write som text here and see how out goes.
+                            Maybe this will work we shall see.
+                         </p>
+                         <a href="#" className="button fit">
                             Your move lolipop boi o
                         </a>
                       </div>
