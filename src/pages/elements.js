@@ -435,9 +435,11 @@ const ElementsPage = ({ data }, location) => {
                   </p>
 
                   <a href="#" className="button primary large">
-                      Get info on Prices. No Contracts!
+                      Prices. No Contracts!
                   </a>
-
+                  <a href="#" className="button primary large">
+                      Learn More
+                  </a>
               </div>
             </div>
           </div>
