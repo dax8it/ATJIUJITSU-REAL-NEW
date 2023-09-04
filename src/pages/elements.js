@@ -415,7 +415,12 @@ const ElementsPage = ({ data }, location) => {
           </pre>
 
 
-          <h2 id="grid-system">Grid system</h2>
+{/* ----- THIS IS THE CODE FOR HOME PAGE ----- */}
+
+
+
+
+          <h2 id="grid-system">@Jiujitsu Martial Arts Training, Jackson Heights Queens, NY</h2>
 
       {/* 2 COLUMNS - Picture RIGHT */}     
 
@@ -423,13 +428,14 @@ const ElementsPage = ({ data }, location) => {
             <div className="col-12">
               <div>
                 
-                <h2>Martial Arts are the Way</h2>
-                  <p>Write some text here and see how out goes.
-                      Maybe this will work we shall see.
+                <h2>@Jiujitsu Martial Arts Training, Jackson Heights Queens, NY</h2>
+                  <p>Discover the best BJJ and martial arts training with comprehensive 
+                    programs offering superior Jiujitsu instruction, welcoming everyone 
+                    from complete beginners to pro fighters.
                   </p>
 
                   <a href="#" className="button primary large">
-                      Your move lollipop boy o
+                      Get info on Prices. No Contracts!
                   </a>
 
               </div>
@@ -441,17 +447,16 @@ const ElementsPage = ({ data }, location) => {
           <div className="row">        
             <div className="col-6">
               <div>
-                   <h2>Martial Arts are the Way</h2>
-                  <p>Maybe this will work we shall see.
+                   <h2>Kids Martial Arts</h2>
+                  <p>Martial arts is a structured system of training designed to 
+                    improve physical fitness, mental discipline, and self-defense
+                     skills. For children aged 5-15, it offers a unique blend of
+                    fun, discipline, and learning. Classes like Jiujitsu (both with
+                     a Gi and without), Kickboxing, and MMA cater to varying 
+                     interests and provide diverse benefits.
                   </p>
-                  <ul>
-                    <li>Dolor pulvinar etiam.</li>
-                    <li>Sagittis lorem eleifend.</li>
-                    <li>Felis feugiat dolore viverra.</li>
-                    <li>Dolor pulvinar etiam.</li>
-                </ul>
                   <a href="#" className="button primary large">
-                      Your move lollipop boy o
+                      Learn More
                   </a>
               </div>
             </div>
