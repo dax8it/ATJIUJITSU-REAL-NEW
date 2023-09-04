@@ -1113,3 +1113,61 @@ body {
   margin: 0 auto;
   padding: 2vw 0;
 }
+
+
+/* Grid System */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -15px; /* For grid gutters */
+}
+
+.col-6, .col-12 {
+  position: relative;
+  width: 100%;
+  padding: 0 15px; /* For grid gutters */
+  box-sizing: border-box;
+}
+
+.col-6 {
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+
+.col-12 {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+
+/* Inner div styles */
+.col-6 > div, .col-12 > div {
+  padding: 1rem; /* Space around the text */
+  text-align: center;
+  background: #1d1d1f;
+}
+
+/* Image covering the entire div */
+.kg-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  max-width: 100%;
+}
+
+/* Button style */
+/*
+.button {
+  display: inline-block;
+  padding: 10px 15px;
+  text-decoration: none;
+  background-color: #333;
+  color: #fff;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #555;
+}
+
+*/

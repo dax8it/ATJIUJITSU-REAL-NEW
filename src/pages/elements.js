@@ -416,6 +416,9 @@ const ElementsPage = ({ data }, location) => {
 
 
           <h2 id="grid-system">Grid system</h2>
+
+      {/* 2 COLUMNS - Picture RIGHT */}     
+
           <div className="row">
             <div className="col-12">
               <div
@@ -430,12 +433,7 @@ const ElementsPage = ({ data }, location) => {
                   <p>Write some text here and see how out goes.
                       Maybe this will work we shall see.
                   </p>
-                  <ul>
-                    <li>Dolor pulvinar etiam.</li>
-                    <li>Sagittis lorem eleifend.</li>
-                    <li>Felis feugiat dolore viverra.</li>
-                    <li>Dolor pulvinar etiam.</li>
-                </ul>
+
                   <a href="#" className="button">
                       Your move lollipop boy o
                   </a>
@@ -443,8 +441,10 @@ const ElementsPage = ({ data }, location) => {
               </div>
             </div>
           </div>
-  
-          <div className="row">
+
+ {/* 2 COLUMNS - Picture Right */}    
+
+          <div className="row">        
             <div className="col-6">
               <div
                 style={{
@@ -484,6 +484,56 @@ const ElementsPage = ({ data }, location) => {
               </div>
             </div>
           </div>
+
+     {/* 2 COLUMNS - Picture Left */} 
+
+
+     <div className="row">        
+            
+            <div className="col-6">
+              <div
+                style={{
+                  padding: "1rem 0",
+                  textAlign: "center",
+                  background: "#1d1d1f",
+                }}
+              >
+                 <figure className="kg-card kg-image-card">
+                      <Img
+                      fluid={data.smallPic.childImageSharp.fluid}
+                      className="kg-image"
+                      />
+                  </figure>
+              </div>
+            </div>
+
+            <div className="col-6">
+              <div
+                style={{
+                  padding: "1rem 0",
+                  textAlign: "center",
+                  background: "#1d1d1f",
+                }}
+              >
+                   <h2>Martial Arts are the Way</h2>
+                  <p>Maybe this will work we shall see.
+                  </p>
+                  <ul>
+                    <li>Dolor pulvinar etiam.</li>
+                    <li>Sagittis lorem eleifend.</li>
+                    <li>Felis feugiat dolore viverra.</li>
+                    <li>Dolor pulvinar etiam.</li>
+                </ul>
+                  <a href="#" className="button">
+                      Your move lollipop boy o
+                  </a>
+              </div>
+            </div>
+          </div>
+
+             {/* 3 GRID ROW */}    
+
+
           <div className="row">
             <div className="col">
               <div
