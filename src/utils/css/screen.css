@@ -1120,6 +1120,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   margin: 0 -15px; /* For grid gutters */
+  height: 100vh; /* To ensure equal row height across all rows */
 }
 
 .col-6, .col-12 {
@@ -1127,6 +1128,7 @@ body {
   width: 100%;
   padding: 0 15px; /* For grid gutters */
   box-sizing: border-box;
+  display: flex; /* To make inner div take full height */
 }
 
 .col-6 {
@@ -1144,30 +1146,36 @@ body {
   padding: 1rem; /* Space around the text */
   text-align: center;
   background: #1d1d1f;
+  background-size: cover; /* For background images */
+  flex: 1; /* To make the div take full height */
 }
 
 /* Image covering the entire div */
 .kg-image {
   width: 100%;
-  height: auto;
-  display: block;
-  max-width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensures image covers the div without stretching */
 }
 
-/* Button style */
-/*
+/* Button styles */
 .button {
   display: inline-block;
   padding: 10px 15px;
   text-decoration: none;
-  background-color: #333;
   color: #fff;
   border-radius: 4px;
   transition: background-color 0.3s ease;
 }
 
-.button:hover {
-  background-color: #555;
+.button.primary {
+  background-color: #007bff;
 }
 
-*/
+.button.primary.large {
+  padding: 15px 30px;
+  font-size: 1.25em;
+}
+
+.button.primary.large:hover {
+  background-color: #0056b3;
+}
