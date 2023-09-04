@@ -421,13 +421,7 @@ const ElementsPage = ({ data }, location) => {
 
           <div className="row">
             <div className="col-12">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#1d1d1f",
-                }}
-              >
+              <div>
                 
                 <h2>Martial Arts are the Way</h2>
                   <p>Write some text here and see how out goes.
@@ -446,13 +440,7 @@ const ElementsPage = ({ data }, location) => {
 
           <div className="row">        
             <div className="col-6">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#1d1d1f",
-                }}
-              >
+              <div>
                    <h2>Martial Arts are the Way</h2>
                   <p>Maybe this will work we shall see.
                   </p>
@@ -468,13 +456,7 @@ const ElementsPage = ({ data }, location) => {
               </div>
             </div>
             <div className="col-6">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#1d1d1f",
-                }}
-              >
+              <div>
                  <figure className="kg-card kg-image-card">
                       <Img
                       fluid={data.smallPic.childImageSharp.fluid}
@@ -491,13 +473,7 @@ const ElementsPage = ({ data }, location) => {
      <div className="row">        
             
             <div className="col-6">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#1d1d1f",
-                }}
-              >
+              <div>
                  <figure className="kg-card kg-image-card">
                       <Img
                       fluid={data.smallPic.childImageSharp.fluid}
@@ -508,13 +484,7 @@ const ElementsPage = ({ data }, location) => {
             </div>
 
             <div className="col-6">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#1d1d1f",
-                }}
-              >
+              <div>
                    <h2>Martial Arts are the Way</h2>
                   <p>Maybe this will work we shall see.
                   </p>
@@ -536,35 +506,17 @@ const ElementsPage = ({ data }, location) => {
 
           <div className="row">
             <div className="col">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#1d1d1f",
-                }}
-              >
+              <div>
                 testimonial 1
               </div>
             </div>
             <div className="col">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#1d1d1f",
-                }}
-              >
+              <div>
                testimonial 2
               </div>
             </div>
             <div className="col">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#1d1d1f",
-                }}
-              >
+              <div>
                 testimonial 3
               </div>
             </div>
