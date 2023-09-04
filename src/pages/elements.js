@@ -428,7 +428,7 @@ const ElementsPage = ({ data }, location) => {
                       Maybe this will work we shall see.
                   </p>
 
-                  <a href="#" className="button">
+                  <a href="#" className="button primary large">
                       Your move lollipop boy o
                   </a>
 
@@ -450,7 +450,7 @@ const ElementsPage = ({ data }, location) => {
                     <li>Felis feugiat dolore viverra.</li>
                     <li>Dolor pulvinar etiam.</li>
                 </ul>
-                  <a href="#" className="button">
+                  <a href="#" className="button primary large">
                       Your move lollipop boy o
                   </a>
               </div>
@@ -494,33 +494,12 @@ const ElementsPage = ({ data }, location) => {
                     <li>Felis feugiat dolore viverra.</li>
                     <li>Dolor pulvinar etiam.</li>
                 </ul>
-                  <a href="#" className="button">
+                  <a href="#" className="button primary large">
                       Your move lollipop boy o
                   </a>
               </div>
             </div>
-          </div>
-
-             {/* 3 GRID ROW */}    
-
-
-          <div className="row">
-            <div className="col">
-              <div>
-                testimonial 1
-              </div>
-            </div>
-            <div className="col">
-              <div>
-               testimonial 2
-              </div>
-            </div>
-            <div className="col">
-              <div>
-                testimonial 3
-              </div>
-            </div>
-          </div>
+          </div>  
         </div>
       </article>
     </Layout>
