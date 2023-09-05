@@ -455,14 +455,21 @@ const ElementsPage = ({ data }, location) => {
                      skills. 
                      <br>                  
                 <ul>
-                    <li>**Kids Jiu-Jitsu**: (6-15)</li>
-                    <li>**Kids Kickboxing**: (Ages 7-15)</li>
-                    <li>**Kids MMA**: (Ages 8-15)</li>
-                    <li>**Toddlers Jiujitsu**: (Ages 3-5)</li>
+                    <li><a href="https://www.atjiujitsunyc.com/kids-jiujitsu-classes-in-queens/">
+                          **Kids Jiu-Jitsu**: (5-9)</a></li>
+                    <li><a href="https://www.atjiujitsunyc.com/kids-jiujitsu-classes-in-queens/">
+                          **Kids Jiu-Jitsu**: (10-15)</a></li>
+                    <li><a href="https://www.atjiujitsunyc.com/kids-kickboxing-classes-in-queens/">
+                          **Kids Kickboxing**: (Ages 7-15)</a></li>
+                    <li><a href="https://www.atjiujitsunyc.com/kids-kickboxing-classes-in-queens/">
+                          **Kids MMA**: (Ages 8-15)</a></li>
+                    <li><a href="https://www.atjiujitsunyc.com/toddler-jiujitsu/">
+                          **Toddlers Jiujitsu**: (Ages 3-5)</a></li>
+          
                 </ul>
                   </br>
                   </p>
-                  <a href="#" className="button primary large">
+                  <a href="https://www.atjiujitsunyc.com/tags/kids-programs/" className="button primary large">
                       Learn More
                   </a>
               </div>

@@ -6,7 +6,7 @@ date: 2019-05-01
 description: Discover the art of Brazilian Jiu-Jitsu in Jackson Heights, Queens.
   Dive into BJJ training, from beginner classes to advanced competition training
   at top academies.
-thumbnail: /img/fb_img_1621261403650.jpg
+thumbnail: /img/dsc01933.jpg
 home: true
 tags:
   - Programs
