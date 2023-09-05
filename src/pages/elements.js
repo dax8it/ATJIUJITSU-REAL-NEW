@@ -452,10 +452,15 @@ const ElementsPage = ({ data }, location) => {
                    <h2>Kids Martial Arts</h2>
                   <p>Martial arts is a structured system of training designed to 
                     improve physical fitness, mental discipline, and self-defense
-                     skills. For children aged 5-15, it offers a unique blend of
-                    fun, discipline, and learning. Classes like Jiujitsu (both with
-                     a Gi and without), Kickboxing, and MMA cater to varying 
-                     interests and provide diverse benefits.
+                     skills. 
+                     <br>                  
+                <ul>
+                    <li>**Kids Jiu-Jitsu**: (6-15)</li>
+                    <li>**Kids Kickboxing**: (Ages 7-15)</li>
+                    <li>**Kids MMA**: (Ages 8-15)</li>
+                    <li>**Toddlers Jiujitsu**: (Ages 3-5)</li>
+                </ul>
+                  </br>
                   </p>
                   <a href="#" className="button primary large">
                       Learn More
@@ -492,17 +497,20 @@ const ElementsPage = ({ data }, location) => {
 
             <div className="col-6">
               <div>
-                   <h2>Martial Arts are the Way</h2>
+                   <h2>Adults Martial Arts</h2>
                   <p>Maybe this will work we shall see.
                   </p>
-                  <ul>
-                    <li>Dolor pulvinar etiam.</li>
-                    <li>Sagittis lorem eleifend.</li>
-                    <li>Felis feugiat dolore viverra.</li>
-                    <li>Dolor pulvinar etiam.</li>
+                  <p>                  
+                <ul>
+                    <li>**Full-Body Workout**</li>
+                    <li>**Cardio King**</li>
+                    <li>**Shed Those Pounds**</li>
+                    <li>**Flexibility & Mobility**</li>
                 </ul>
+                  </p>
+
                   <a href="#" className="button primary large">
-                      Your move lollipop boy o
+                      Learn More
                   </a>
               </div>
             </div>

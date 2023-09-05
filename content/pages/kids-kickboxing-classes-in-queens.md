@@ -7,7 +7,7 @@ description: Explore the comprehensive benefits of kids kickboxing, from
   physical fitness to mental growth. Dive into the transformative power of this
   martial art.
 home: false
-thumbnail: /img/kick-AIS09142.jpg
+thumbnail: /img/kids-kickboxing-queens.jpg
 tags:
   - kids-programs
   - Kids Martial Arts
