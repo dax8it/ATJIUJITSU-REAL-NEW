@@ -289,131 +289,9 @@ const ElementsPage = ({ data }, location) => {
             </li>
           </ul>
           <hr />
-          <h2 id="forms">Forms</h2>
-          <form method="post" action="#">
-            <div className="row gtr-uniform">
-              <div className="col-6 col-12-xsmall">
-                <input
-                  type="text"
-                  name="demo-name"
-                  id="demo-name"
-                  defaultValue
-                  placeholder="Name"
-                />
-              </div>
-              <div className="col-6 col-12-xsmall">
-                <input
-                  type="email"
-                  name="demo-email"
-                  id="demo-email"
-                  defaultValue
-                  placeholder="Email"
-                />
-              </div>
-              {/* Break */}
-              <div className="col-12">
-                <select name="demo-category" id="demo-category">
-                  <option value>- Category -</option>
-                  <option value={1}>Manufacturing</option>
-                  <option value={1}>Shipping</option>
-                  <option value={1}>Administration</option>
-                  <option value={1}>Human Resources</option>
-                </select>
-              </div>
-              {/* Break */}
-              <div className="col-4 col-12-small">
-                <input
-                  type="radio"
-                  id="demo-priority-low"
-                  name="demo-priority"
-                  defaultChecked
-                />
-                <label htmlFor="demo-priority-low">Low</label>
-              </div>
-              <div className="col-4 col-12-small">
-                <input
-                  type="radio"
-                  id="demo-priority-normal"
-                  name="demo-priority"
-                />
-                <label htmlFor="demo-priority-normal">Normal</label>
-              </div>
-              <div className="col-4 col-12-small">
-                <input
-                  type="radio"
-                  id="demo-priority-high"
-                  name="demo-priority"
-                />
-                <label htmlFor="demo-priority-high">High</label>
-              </div>
-              {/* Break */}
-              <div className="col-6 col-12-small">
-                <input type="checkbox" id="demo-copy" name="demo-copy" />
-                <label htmlFor="demo-copy">Email me a copy</label>
-              </div>
-              <div className="col-6 col-12-small">
-                <input
-                  type="checkbox"
-                  id="demo-human"
-                  name="demo-human"
-                  defaultChecked
-                />
-                <label htmlFor="demo-human">I am a human</label>
-              </div>
-              {/* Break */}
-              <div className="col-12">
-                <textarea
-                  name="demo-message"
-                  id="demo-message"
-                  placeholder="Enter your message"
-                  rows={6}
-                  defaultValue={""}
-                />
-              </div>
-              {/* Break */}
-              <div className="col-12">
-                <ul className="actions">
-                  <li>
-                    <input
-                      type="submit"
-                      defaultValue="Send Message"
-                      className="primary"
-                    />
-                  </li>
-                  <li>
-                    <input type="reset" defaultValue="Reset" />
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </form>
 
-          <h2 id="code">Code</h2>
-          <pre>
-            <code>
-              i = <span style={{ color: "rgb(191,90,242)" }}>0</span>;{"\n"}
-              {"\n"}
-              <span style={{ color: "rgb(10,132,255)" }}>while</span> (!deck.
-              <span style={{ color: "rgb(255,214,10)" }}>
-                isInOrder
-              </span>()) {"{"}
-              {"\n"}
-              {"    "}print{" "}
-              <span style={{ color: "rgb(50,215,75)" }}>'Iteration '</span> + i;
-              {"\n"}
-              {"    "}deck.
-              <span style={{ color: "rgb(255,214,10)" }}>shuffle</span>();{"\n"}
-              {"    "}i++;{"\n"}
-              {"}"}
-              {"\n"}
-              {"\n"}print{" "}
-              <span style={{ color: "rgb(50,215,75)" }}>'It took '</span> + i +{" "}
-              <span style={{ color: "rgb(50,215,75)" }}>
-                ' iterations to sort the deck.'
-              </span>
-              ;
-            </code>
-          </pre>
+
+        
 
 
 {/* ----- THIS IS THE CODE FOR HOME PAGE ----- */}
@@ -454,7 +332,7 @@ const ElementsPage = ({ data }, location) => {
                   <p>Martial arts is a structured system of training designed to 
                     improve physical fitness, mental discipline, and self-defense
                      skills. 
-                     <br>                  
+                     <br />                 
                 <ul>
                     <li><a href="https://www.atjiujitsunyc.com/kids-jiujitsu-classes-in-queens/">
                           **Kids Jiu-Jitsu**: (5-9)</a></li>
@@ -468,7 +346,7 @@ const ElementsPage = ({ data }, location) => {
                           **Toddlers Jiujitsu**: (Ages 3-5)</a></li>
           
                 </ul>
-                  </br>
+                
                   </p>
                   <a href="https://www.atjiujitsunyc.com/tags/kids-programs/" className="button primary large">
                       Learn More
@@ -496,7 +374,7 @@ const ElementsPage = ({ data }, location) => {
               <div>
                  <figure className="kg-card kg-image-card">
                       <Img
-                      fluid={data.smallPic2.childImageSharp.fluid}
+                      fluid={data.medPic.childImageSharp.fluid}
                       className="kg-image"
                       />
                   </figure>
@@ -530,30 +408,44 @@ const ElementsPage = ({ data }, location) => {
 }
 
 const indexQuery = graphql`
-  query {
-    site {
-      siteMetadata {
-        title
-      }
+query {
+  site {
+    siteMetadata {
+      title
     }
-    smallPic: file(
-      relativePath: { eq: "kids-jiujitsu-jackson-heights-queens.jpg" }
-    ) {
-      childImageSharp {
-        fluid(maxWidth: 1360) {
-          ...GatsbyImageSharpFluid
-        }
-      }
-    }
-    smallPic2: file(relativePath: { eq: "adult-bjj-queens.jpg" }) {
-      childImageSharp {
-        fluid(maxWidth: 1360) {
-          ...GatsbyImageSharpFluid
-        }
+  }
+  smallPic: file(
+    relativePath: { eq: "kids-jiujitsu-jackson-heights-queens.jpg" }
+  ) {
+    childImageSharp {
+      fluid(maxWidth: 1360) {
+        ...GatsbyImageSharpFluid
       }
     }
   }
+  medPic: file(relativePath: { eq: "adult-bjj-queens.jpg" }) {
+    childImageSharp {
+      fluid(maxWidth: 1360) {
+        ...GatsbyImageSharpFluid
+      }
+    }
+  }
+  largePic: file(
+    relativePath: { eq: "vladimir-malyutin-98174-unsplash.jpg" }
+  ) {
+    childImageSharp {
+      fluid(maxWidth: 1360) {
+        ...GatsbyImageSharpFluid
+      }
+    }
+  }
+}
 `
+
+
+
+
+
 
 export default props => (
   <StaticQuery
