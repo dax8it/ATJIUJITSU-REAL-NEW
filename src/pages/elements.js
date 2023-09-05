@@ -545,7 +545,7 @@ const indexQuery = graphql`
         }
       }
     }
-    smallPic2: file(relativePath: { eq: "dsc01933.jpg" }) {
+    smallPic2: file(relativePath: { eq: "adult-bjj-queens.jpg" }) {
       childImageSharp {
         fluid(maxWidth: 1360) {
           ...GatsbyImageSharpFluid
