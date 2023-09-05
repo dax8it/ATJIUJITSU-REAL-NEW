@@ -461,7 +461,7 @@ const ElementsPage = ({ data }, location) => {
                           **Kids Jiu-Jitsu**: (10-15)</a></li>
                     <li><a href="https://www.atjiujitsunyc.com/kids-kickboxing-classes-in-queens/">
                           **Kids Kickboxing**: (Ages 7-15)</a></li>
-                    <li><a href="https://www.atjiujitsunyc.com/kids-kickboxing-classes-in-queens/">
+                    <li><a href="https://www.atjiujitsunyc.com/kids-mma/">
                           **Kids MMA**: (Ages 8-15)</a></li>
                     <li><a href="https://www.atjiujitsunyc.com/toddler-jiujitsu/">
                           **Toddlers Jiujitsu**: (Ages 3-5)</a></li>
@@ -495,7 +495,7 @@ const ElementsPage = ({ data }, location) => {
               <div>
                  <figure className="kg-card kg-image-card">
                       <Img
-                      fluid={data.smallPic.childImageSharp.fluid}
+                      fluid={data.smallPic2.childImageSharp.fluid}
                       className="kg-image"
                       />
                   </figure>
@@ -536,7 +536,7 @@ const indexQuery = graphql`
       }
     }
     smallPic: file(
-      relativePath: { eq: "fabio-comparelli-696506-unsplash.jpg" }
+      relativePath: { eq: "kids-jiujitsu-jackson-heights-queens.jpg" }
     ) {
       childImageSharp {
         fluid(maxWidth: 1360) {
@@ -544,7 +544,7 @@ const indexQuery = graphql`
         }
       }
     }
-    medPic: file(relativePath: { eq: "sophia-valkova-30139-unsplash.jpg" }) {
+    smallPic2: file(relativePath: { eq: "dsc01933.jpg" }) {
       childImageSharp {
         fluid(maxWidth: 1360) {
           ...GatsbyImageSharpFluid
