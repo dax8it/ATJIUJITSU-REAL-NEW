@@ -166,7 +166,7 @@ const ElementsPage = ({ data }, location) => {
             />
             <figcaption>Regular image</figcaption>
           </figure>
-          <figure className="kg-card kg-image-card kg-width-wide">
+   {/*      <figure className="kg-card kg-image-card kg-width-wide">
             <Img
               fluid={data.medPic.childImageSharp.fluid}
               className="kg-image"
@@ -180,6 +180,7 @@ const ElementsPage = ({ data }, location) => {
             />
             <figcaption>Full bleed image</figcaption>
           </figure>
+    */}
           <hr />
           <h2 id="table">Table</h2>
           <table>
@@ -545,15 +546,6 @@ const indexQuery = graphql`
       }
     }
     smallPic2: file(relativePath: { eq: "dsc01933.jpg" }) {
-      childImageSharp {
-        fluid(maxWidth: 1360) {
-          ...GatsbyImageSharpFluid
-        }
-      }
-    }
-    largePic: file(
-      relativePath: { eq: "vladimir-malyutin-98174-unsplash.jpg" }
-    ) {
       childImageSharp {
         fluid(maxWidth: 1360) {
           ...GatsbyImageSharpFluid
