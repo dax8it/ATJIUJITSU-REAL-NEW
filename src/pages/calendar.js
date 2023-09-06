@@ -44,7 +44,7 @@ const ElementsPage = ({ data }, location) => {
 
           <h2 id="grid-system">@Jiujitsu Martial Arts Training, Jackson Heights Queens, NY</h2>
 
-      {/* 2 COLUMNS - Picture RIGHT */}     
+      {/* 12 COLUMNS -  */}     
 
           <div className="row">
             <div className="col-12">
@@ -55,13 +55,17 @@ const ElementsPage = ({ data }, location) => {
                     programs offering superior Jiujitsu instruction, welcoming everyone 
                     from complete beginners to pro fighters.
                   </p>
-
-                  <a href="#" className="button primary large">
-                      Prices. No Contracts!
+                  <div  className="col-6">
+                  <a href="https://at-jiujitsu-nyc.gymdesk.com/signup" className="button primary large">
+                      Ready for a Trail?
                   </a>
-                  <a href="#" className="button primary large">
-                      Learn More
+                  </div>
+                 <div  className="col-6">
+                 <a href="https://at-jiujitsu-nyc.gymdesk.com/signup" className="button primary large">
+                      Sign up! No Contract!
                   </a>
+                 </div>
+                 
               </div>
             </div>
           </div>
