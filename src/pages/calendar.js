@@ -57,12 +57,13 @@ const ElementsPage = ({ data }, location) => {
                   </p>
 
                   <div className="row"> 
-                    <div  className="col-6">
+                    <div  
+                    className="col-6" align="center" >
                     <a href="https://at-jiujitsu-nyc.gymdesk.com/signup" className="button primary large">
                         Ready for a Trail?
                     </a>
                     </div>
-                    <div  className="col-6">
+                    <div  className="col-6" align="center">
                     <a href="https://at-jiujitsu-nyc.gymdesk.com/signup" className="button primary large">
                         Sign up! No Contract!
                     </a>

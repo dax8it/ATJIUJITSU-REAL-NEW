@@ -40,7 +40,7 @@ const Layout = props => {
                   
                   <li className="nav-tags" role="menuitem">
                     <a href="https://www.atjiujitsunyc.com/calendar.js/" 
-                    target="_self"
+                    target="_blank"
                     title="Calendar"
                     rel="noopener noreferrer">
                     Schedule
