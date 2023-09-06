@@ -55,17 +55,19 @@ const ElementsPage = ({ data }, location) => {
                     programs offering superior Jiujitsu instruction, welcoming everyone 
                     from complete beginners to pro fighters.
                   </p>
-                  <div  className="col-6">
-                  <a href="https://at-jiujitsu-nyc.gymdesk.com/signup" className="button primary large">
-                      Ready for a Trail?
-                  </a>
+
+                  <div className="row"> 
+                    <div  className="col-6">
+                    <a href="https://at-jiujitsu-nyc.gymdesk.com/signup" className="button primary large">
+                        Ready for a Trail?
+                    </a>
+                    </div>
+                    <div  className="col-6">
+                    <a href="https://at-jiujitsu-nyc.gymdesk.com/signup" className="button primary large">
+                        Sign up! No Contract!
+                    </a>
                   </div>
-                 <div  className="col-6">
-                 <a href="https://at-jiujitsu-nyc.gymdesk.com/signup" className="button primary large">
-                      Sign up! No Contract!
-                  </a>
                  </div>
-                 
               </div>
             </div>
           </div>
