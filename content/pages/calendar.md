@@ -28,7 +28,6 @@ Ready to embark on an unparalleled martial arts journey? Whether you're consider
 
 <script src="https://www.maonrails.com/js/widgets.js"></script>
 
-[widgets.js](https://www.maonrails.com/js/widgets.js)
 <div class="maonrails-schedule maonrails-frame-container" attr-gym="DL7vA"></div>
 
 
