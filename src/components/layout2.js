@@ -39,7 +39,12 @@ const Layout = props => {
                   </li>
                   
                   <li className="nav-tags" role="menuitem">
-                    <Link to={`/calendar`}>Schedule</Link>
+                    <a href="https://www.atjiujitsunyc.com/calendar.js/" 
+                    target="_self"
+                    title="Calendar"
+                    rel="noopener noreferrer">
+                    Schedule
+                            </a>
                   </li>
                   <li className="nav-tags" role="menuitem">
                     <Link to={`/prices`}>Prices</Link>
