@@ -42,7 +42,7 @@ const Layout = props => {
                     <Link to={`/calendar`}>Schedule</Link>
                   </li>
 
-                {/*
+                {/* use for direct link if you can get .js to load
                   <li className="nav-tags" role="menuitem">
                     <a href="https://www.atjiujitsunyc.com/calendar.js/" 
                     target="_blank"
