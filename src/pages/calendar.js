@@ -34,8 +34,8 @@ const ElementsPage = ({ data }, location) => {
           <hr />
 
 
-        
-
+      
+      
 
 {/* ----- THIS IS THE CODE FOR HOME PAGE ----- */}
 

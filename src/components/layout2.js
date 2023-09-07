@@ -39,6 +39,11 @@ const Layout = props => {
                   </li>
                   
                   <li className="nav-tags" role="menuitem">
+                    <Link to={`/calendar`}>Schedule</Link>
+                  </li>
+
+                {/*
+                  <li className="nav-tags" role="menuitem">
                     <a href="https://www.atjiujitsunyc.com/calendar.js/" 
                     target="_blank"
                     title="Calendar"
@@ -46,6 +51,8 @@ const Layout = props => {
                     Schedule
                             </a>
                   </li>
+                */}
+
                   <li className="nav-tags" role="menuitem">
                     <Link to={`/prices`}>Prices</Link>
                   </li>
