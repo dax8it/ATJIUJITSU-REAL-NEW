@@ -35,7 +35,6 @@ const Layout = props => {
               <li className="nav-tags" role="menuitem">
               <a 
                   href="https://at-jiujitsu-nyc.gymdesk.com/schedule"
-                  className="subscribe-button"
                   title="Schedule"
                   target="_blank"
                   rel="noopener noreferrer"> 
