@@ -33,7 +33,13 @@ const Layout = props => {
                 <Link to={`/tags/programs`}>Programs</Link>
               </li>
               <li className="nav-tags" role="menuitem">
-                <Link to={`/calendar`}>Schedule</Link>
+              <a 
+                  href="https://at-jiujitsu-nyc.gymdesk.com/schedule"
+                  className="subscribe-button"
+                  title="Schedule"
+                  target="_blank"
+                  rel="noopener noreferrer"> 
+                  Schedule</a>
               </li>
               <li className="nav-tags" role="menuitem">
                 <Link to={`/prices`}>Prices</Link>
