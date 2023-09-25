@@ -95,13 +95,13 @@ const BlogIndex = ({ data }, location) => {
        {/* Our Members Section */}
 
 
-       <h2 id="grid-system">@Jiujitsu Martial Arts Training, Jackson Heights Queens, NY</h2>
+       <h2 id="grid-system" align="center">@Jiujitsu Martial Arts Training, Jackson Heights Queens, NY</h2>
 
       {/* 2 COLUMNS - Picture RIGHT */}     
 
           <div className="row">
             <div className="col-12">
-              <div>
+              <div align="center">
                 
                 <h2>@Jiujitsu Martial Arts Training, Jackson Heights Queens, NY</h2>
                   <p>Discover the best BJJ and martial arts training with comprehensive 
