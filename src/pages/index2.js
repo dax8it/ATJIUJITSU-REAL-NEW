@@ -393,8 +393,35 @@ const indexQuery = graphql`
         }
       }
     }
+    smallPic: file(
+      relativePath: { eq: "kids-jiujitsu-jackson-heights-queens.jpg" }
+    ) {
+      childImageSharp {
+        fluid(maxWidth: 1360) {
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
+    medPic: file(relativePath: { eq: "adult-bjj-queens.jpg" }) {
+      childImageSharp {
+        fluid(maxWidth: 1360) {
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
+    largePic: file(
+      relativePath: { eq: "vladimir-malyutin-98174-unsplash.jpg" }
+    ) {
+      childImageSharp {
+        fluid(maxWidth: 1360) {
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
   }
 `
+
+
 
 export default props => (
   <StaticQuery
