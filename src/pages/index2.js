@@ -76,12 +76,12 @@ const BlogIndex = ({ data }, location) => {
           
             <ul className="actions fit">
               <li>
-                <a href="https://at-jiujitsu-nyc.gymdesk.com/signup" className="button primary fit">
+                <a href="https://at-jiujitsu-nyc.gymdesk.com/signup" className="button primary fit" align="center">
                   Sign Up
                 </a>
               </li>
               <li>
-                <a href="https://at-jiujitsu-nyc.gymdesk.com/schedule" className="button primary fit">
+                <a href="https://at-jiujitsu-nyc.gymdesk.com/schedule" className="button primary fit" align="center">
                   Schedule
                 </a>
               </li>
@@ -93,6 +93,31 @@ const BlogIndex = ({ data }, location) => {
 
 
        {/* Our Members Section */}
+
+
+       <h2 id="grid-system">@Jiujitsu Martial Arts Training, Jackson Heights Queens, NY</h2>
+
+      {/* 2 COLUMNS - Picture RIGHT */}     
+
+          <div className="row">
+            <div className="col-12">
+              <div>
+                
+                <h2>@Jiujitsu Martial Arts Training, Jackson Heights Queens, NY</h2>
+                  <p>Discover the best BJJ and martial arts training with comprehensive 
+                    programs offering superior Jiujitsu instruction, welcoming everyone 
+                    from complete beginners to pro fighters.
+                  </p>
+
+                  <a href="https://www.atjiujitsunyc.com/prices/" className="button primary large">
+                      Prices. No Contracts!
+                  </a>
+                  <a href="https://www.atjiujitsunyc.com/about/" className="button primary large">
+                      Learn More
+                  </a>
+              </div>
+            </div>
+          </div>
 
        <div className="post-feed">
         {posts.map(({ node }) => {
@@ -126,32 +151,6 @@ const BlogIndex = ({ data }, location) => {
 
 {/* ----- THIS IS THE CODE FOR HOME PAGE ----- */}
 
-
-
-
-          <h2 id="grid-system">@Jiujitsu Martial Arts Training, Jackson Heights Queens, NY</h2>
-
-      {/* 2 COLUMNS - Picture RIGHT */}     
-
-          <div className="row">
-            <div className="col-12">
-              <div>
-                
-                <h2>@Jiujitsu Martial Arts Training, Jackson Heights Queens, NY</h2>
-                  <p>Discover the best BJJ and martial arts training with comprehensive 
-                    programs offering superior Jiujitsu instruction, welcoming everyone 
-                    from complete beginners to pro fighters.
-                  </p>
-
-                  <a href="#" className="button primary large">
-                      Prices. No Contracts!
-                  </a>
-                  <a href="#" className="button primary large">
-                      Learn More
-                  </a>
-              </div>
-            </div>
-          </div>
 
  {/* 2 COLUMNS - Picture Right */}    
 
@@ -218,10 +217,18 @@ const BlogIndex = ({ data }, location) => {
                   </p>
                   <p>                  
                 <ul>
-                    <li>**Full-Body Workout**</li>
-                    <li>**Cardio King**</li>
-                    <li>**Shed Those Pounds**</li>
-                    <li>**Flexibility & Mobility**</li>
+                    <li><a href="https://www.atjiujitsunyc.com/adult-jiujitsu/">
+                          **Jiu-Jitsu**: (5-9)</a></li>
+                    <li><a href="https://www.atjiujitsunyc.com/muay-thai/">
+                          **Muay-Thai**: (10-15)</a></li>
+                    <li><a href="https://www.atjiujitsunyc.com/mma/">
+                          **MMA**</a></li>
+                    <li><a href="https://www.atjiujitsunyc.com/kick-boxing/">
+                          **Kickboxing**</a></li>
+                    <li><a href="https://www.atjiujitsunyc.com/smarter-yoga/">
+                          **Smarter Yoga**</a></li>
+                    <li><a href="https://www.atjiujitsunyc.com/kettlebell/">
+                          **Kettle Bell**</a></li>
                 </ul>
                   </p>
 
