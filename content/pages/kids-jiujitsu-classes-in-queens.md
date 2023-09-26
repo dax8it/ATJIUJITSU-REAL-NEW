@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
 title: Kids Jiujitsu Classes
-order: 10
+order: 4
 date: 2023-09-01T05:55:32.610Z
 description: Dive deep into kids jiujitsu - a martial art that promotes physical
   strength, discipline, and character development in children
-home: false
 thumbnail: /img/kids-jiujitsu-jackson-heights-queens.jpg
+home: false
 tags:
   - Programs
   - kids-programs
