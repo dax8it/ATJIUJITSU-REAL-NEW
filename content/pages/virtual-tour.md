@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Virtual Tour
-order: 4
+order: 11
 date: 2021-02-01T05:51:50.428Z
 description: Take a virtual tour of our facilities!
 thumbnail: /img/virtual-tour.jpg
