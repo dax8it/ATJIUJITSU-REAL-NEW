@@ -103,8 +103,8 @@ const BlogIndex = ({ data }, location) => {
             <div className="col-12">
               <div align="center">
                   <p>Discover the best BJJ and martial arts training with comprehensive 
-                    programs offering superior Jiujitsu instruction, welcoming everyone 
-                    from complete beginners to pro fighters.
+                    programs offering the best in self-defense programs for kids and adults, welcoming everyone 
+                    from complete beginners to advanced competitors.
                   </p>
 
                   <p className="padding-above">              
