@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql, StaticQuery } from "gatsby"
-import Img from "gatsby-image"
-import Layout from "../components/layout2"
+
+import Layout from "../components/layout"
 import SEO from "../components/seo"
 // import Bio from "../components/bio"
 import PostCard from "../components/postCard"
@@ -68,82 +68,41 @@ const BlogIndex = ({ data }, location) => {
             {" "}
           Where can you find top-notch BJJ & Martial Arts training in Jackson Heights, Queens?
           <h3>@JIUJITSUNYC: Martial Arts Academy</h3>
-          Traditional and contemporary techniques for kids and adults, emphasizing a community-centric approach.
+          offers Martial arts training in Jackson Heights, Queens, combining traditional and contemporary techniques for kids and adults, emphasizing a community-centric approach.
           </p>
          <br></ br>
           <p></p>
           <p className="padding-above">              
-          
-            <ul className="actions fit">
-              <li>
-                <a href="https://at-jiujitsu-nyc.gymdesk.com/signup" className="button primary fit" align="center">
-                  Sign Up
-                </a>
-              </li>
-              <li>
-                <a href="https://at-jiujitsu-nyc.gymdesk.com/schedule" className="button primary fit" align="center">
-                  Schedule
-                </a>
-              </li>
-            </ul>
-          </p>
+              <div id="button-container-1">
+                  <a 
+                  href="https://at-jiujitsu-nyc.gymdesk.com/signup"
+                  className="subscribe-button"
+                  title="Sign Up"
+                  target="_blank"
+                  rel="noopener noreferrer"> 
+                  Sign Up</a>
+              </div>
+              <div id="button-container-2">
+                  <a 
+                  href="https://at-jiujitsu-nyc.gymdesk.com/schedule"
+                  className="subscribe-button"
+                  title="Schedule"
+                  target="_blank"
+                  rel="noopener noreferrer"> 
+                  Schedule</a>
+              </div>
+              </p>
 
         </header>
       )}
 
-
        {/* Our Members Section */}
-
-
-       <h2 id="grid-system" align="center">@Jiujitsu Martial Arts Training, Jackson Heights Queens, NY</h2>
-
-      {/* 2 COLUMNS - Picture RIGHT */}     
-
-          <div className="row">
-            <div className="col-12">
-              <div align="center">
-                  <p>Discover the best BJJ and martial arts training with comprehensive 
-                    programs offering superior Jiujitsu instruction, welcoming everyone 
-                    from complete beginners to pro fighters.
-                  </p>
-
-                  <p className="padding-above">              
-          
-          <ul className="actions fit">
-            <li>
-              <a href="https://www.atjiujitsunyc.com/prices/" className="button primary fit" align="center">
-              Prices. No Contracts!
-              </a>
-            </li>
-            <li>
-              <a href="https://www.atjiujitsunyc.com/about/" className="button primary fit" align="center">
-              Learn More
-              </a>
-            </li>
-          </ul>
-        </p>
-              </div>
-            </div>
-          </div>
-
-       <div className="post-feed">
-        {posts.map(({ node }) => {
-          postCounter++
-          return (
-            <PostCard
-              key={node.fields.slug}
-              count={postCounter}
-              node={node}
-              postClass={`post`}
-            />
-          )
-        })}
-      </div>
-
     <section className="home-content-section">
         <h3>Our Members: The Heart of @JIUJITSUNYC</h3>
         <p>Discover the best BJJ and martial arts training with comprehensive programs offering superior Jiujitsu instruction, welcoming everyone from complete beginners to pro fighters. </p>
-    
+        <p>In the bustling streets of Jackson Heights, Queens, @JIUJITSUNYC stands as a sanctuary for martial arts enthusiasts of all walks of life. We take immense pride in our diverse and inclusive environment. Here, families find a common ground, training together, while amateur and professional fighters hone their skills side by side.</p>
+        <p>On any given day, you might find a father and daughter practicing their kicks, a young professional prepping for an upcoming MMA bout, or even share a mat with a IBJJF champion. Our programs are designed to be scalable, ensuring everyone, from novices to experts, finds value and challenge in our sessions. We believe in guiding you, but the journey is yours. All we ask is for your dedication, hard work, and an inquisitive spirit.</p>
+       
 
         <h2 id="blockquote">
 
@@ -151,107 +110,12 @@ const BlogIndex = ({ data }, location) => {
           </h2>
           <hr />
 
-          <article className="post-content page-template no-image">
-        <div className="post-content-body">
-         
-          <hr />
-
-{/* ----- THIS IS THE CODE FOR HOME PAGE ----- */}
-
-
- {/* 2 COLUMNS - Picture Right */}    
-
-          <div className="row">        
-            <div className="col-6">
-              <div>
-                   <h2>Kids Martial Arts</h2>
-                  <p>Martial arts is a structured system of training designed to 
-                    improve physical fitness, mental discipline, and self-defense
-                     skills. 
-                     <br />                 
-                <ul>
-                    <li><a href="https://www.atjiujitsunyc.com/kids-jiujitsu-classes-in-queens/">
-                          Kids Jiu-Jitsu: (5-9)</a></li>
-                    <li><a href="https://www.atjiujitsunyc.com/kids-jiujitsu-classes-in-queens/">
-                          Kids Jiu-Jitsu: (10-15)</a></li>
-                    <li><a href="https://www.atjiujitsunyc.com/kids-kickboxing-classes-in-queens/">
-                          Kids Kickboxing: (Ages 7-15)</a></li>
-                    <li><a href="https://www.atjiujitsunyc.com/kids-mma/">
-                          Kids MMA: (Ages 8-15)</a></li>
-                    <li><a href="https://www.atjiujitsunyc.com/toddler-jiujitsu/">
-                          Toddlers Jiujitsu: (Ages 3-5)</a></li>
-          
-                </ul>
-                
-                  </p>
-                  <a href="https://www.atjiujitsunyc.com/tags/kids-programs/" className="button primary large">
-                      Learn More
-                  </a>
-              </div>
-            </div>
-            <div className="col-6">
-              <div>
-                 <figure className="kg-card kg-image-card">
-                      <Img
-                      fluid={data.smallPic.childImageSharp.fluid}
-                      className="kg-image"
-                      />
-                  </figure>
-              </div>
-            </div>
-          </div>
-
-     {/* 2 COLUMNS - Picture Left */} 
-
-
-     <div className="row">        
-            
-            <div className="col-6">
-              <div>
-                 <figure className="kg-card kg-image-card">
-                      <Img
-                      fluid={data.medPic.childImageSharp.fluid}
-                      className="kg-image"
-                      />
-                  </figure>
-              </div>
-            </div>
-
-            <div className="col-6">
-              <div>
-                   <h2>Adults Martial Arts</h2>
-                  <p>Maybe this will work we shall see.
-                  </p>
-                  <p>                  
-                <ul>
-                    <li><a href="https://www.atjiujitsunyc.com/adult-jiujitsu/">
-                          Jiu-Jitsu</a></li>
-                    <li><a href="https://www.atjiujitsunyc.com/muay-thai/">
-                          Muay-Thai</a></li>
-                    <li><a href="https://www.atjiujitsunyc.com/mma/">
-                          MMA</a></li>
-                    <li><a href="https://www.atjiujitsunyc.com/kick-boxing/">
-                          Kickboxing</a></li>
-                    <li><a href="https://www.atjiujitsunyc.com/smarter-yoga/">
-                          Smarter Yoga</a></li>
-                    <li><a href="https://www.atjiujitsunyc.com/kettlebell/">
-                          Kettle Bell</a></li>
-                </ul>
-                  </p>
-
-                  <a href="https://www.atjiujitsunyc.com/tags/adult-programs/" className="button primary large">
-                      Learn More
-                  </a>
-              </div>
-            </div>
-          </div>  
-        </div>
-      </article>
-
           <h3>Why should kids practice martial arts?</h3>
           <p>Kids should practice martial arts to enhance their physical health, boost mental resilience, develop discipline, and acquire valuable life skills like respect and self-defense.</p>
 
-     
+       
+
+
         <h3>Our Results Speak for Themselves</h3>
         <p>The world of martial arts is ever-evolving, with new techniques and philosophies emerging regularly. @JIUJITSUNYC stays ahead of the curve. We've distilled decades of martial arts evolution to offer you training that's both traditional and cutting-edge.</p>
         <p>Our commitment to the Jackson Heights community has birthed a new generation of martial artists. These individuals are not just physically adept but also mentally resilient, embodying the harmony of body, mind, and spirit. They stand as a testament to our quality training, community engagement, and the transformative power of martial arts.</p>
@@ -351,7 +215,7 @@ const BlogIndex = ({ data }, location) => {
     </section>
 
 
-  {/*   <div className="post-feed">
+      <div className="post-feed">
         {posts.map(({ node }) => {
           postCounter++
           return (
@@ -363,10 +227,7 @@ const BlogIndex = ({ data }, location) => {
             />
           )
         })}
-
       </div>
-
-      */}
     </Layout>
   )
 }
@@ -407,35 +268,8 @@ const indexQuery = graphql`
         }
       }
     }
-    smallPic: file(
-      relativePath: { eq: "kids-jiujitsu-jackson-heights-queens.jpg" }
-    ) {
-      childImageSharp {
-        fluid(maxWidth: 1360) {
-          ...GatsbyImageSharpFluid
-        }
-      }
-    }
-    medPic: file(relativePath: { eq: "adult-bjj-queens.jpg" }) {
-      childImageSharp {
-        fluid(maxWidth: 1360) {
-          ...GatsbyImageSharpFluid
-        }
-      }
-    }
-    largePic: file(
-      relativePath: { eq: "vladimir-malyutin-98174-unsplash.jpg" }
-    ) {
-      childImageSharp {
-        fluid(maxWidth: 1360) {
-          ...GatsbyImageSharpFluid
-        }
-      }
-    }
   }
 `
-
-
 
 export default props => (
   <StaticQuery

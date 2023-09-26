@@ -81,7 +81,7 @@ const Layout = props => {
                     */}
                     </li>
                     <li className="nav-tags nav-dropdown" role="menuitem">
-                        <Link to={`/tags/programs`}>Adult Programs</Link>
+                        <Link to={`/tags/adult-programs`}>Adult Programs</Link>
                   </li>
                   <li className="nav-tags nav-dropdown" role="menuitem">
                   <a href="https://at-jiujitsu-nyc.maonrails.com/login" 
