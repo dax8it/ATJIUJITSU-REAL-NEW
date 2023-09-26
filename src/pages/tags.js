@@ -3,7 +3,7 @@ import _ from "lodash"
 import { Link } from "gatsby"
 import { graphql, StaticQuery } from "gatsby"
 
-import Layout from "../components/layout"
+import Layout from "../components/layout2"
 import SEO from "../components/seo"
 
 // import "../utils/global.scss"

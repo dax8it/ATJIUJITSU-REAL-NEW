@@ -68,7 +68,7 @@ const BlogIndex = ({ data }, location) => {
             {" "}
           Where can you find top-notch BJJ & Martial Arts training in Jackson Heights, Queens?
           <h3>@JIUJITSUNYC: Martial Arts Academy</h3>
-          Traditional and contemporary techniques for kids and adults, emphasizing a community-centric approach.
+          {/* Traditional and contemporary techniques for kids and adults, emphasizing a community-centric approach. */}
           </p>
          <br></ br>
           <p></p>
@@ -142,14 +142,15 @@ const BlogIndex = ({ data }, location) => {
 
     <section className="home-content-section">
         <h3>Our Members: The Heart of @JIUJITSUNYC</h3>
-        <p>Discover the best BJJ and martial arts training with comprehensive programs offering superior Jiujitsu instruction, welcoming everyone from complete beginners to pro fighters. </p>
+        <p>Discover the best BJJ and martial arts training for everyone from complete beginners to advanced competitors. </p>
     
-
+        <hr />
+        
         <h2 id="blockquote">
 
           <blockquote>"My strength is in my team because my team strengthens me!"</blockquote>
           </h2>
-          <hr />
+          
 
           <article className="post-content page-template no-image">
         <div className="post-content-body">
@@ -248,9 +249,9 @@ const BlogIndex = ({ data }, location) => {
         </div>
       </article>
 
-          <h3>Why should kids practice martial arts?</h3>
+ {/*         <h3>Why should kids practice martial arts?</h3>
           <p>Kids should practice martial arts to enhance their physical health, boost mental resilience, develop discipline, and acquire valuable life skills like respect and self-defense.</p>
-
+*/}
      
         <h3>Our Results Speak for Themselves</h3>
         <p>The world of martial arts is ever-evolving, with new techniques and philosophies emerging regularly. @JIUJITSUNYC stays ahead of the curve. We've distilled decades of martial arts evolution to offer you training that's both traditional and cutting-edge.</p>
