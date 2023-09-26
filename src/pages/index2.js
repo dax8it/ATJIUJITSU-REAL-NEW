@@ -102,19 +102,26 @@ const BlogIndex = ({ data }, location) => {
           <div className="row">
             <div className="col-12">
               <div align="center">
-                
-                <h2>@Jiujitsu Martial Arts Training, Jackson Heights Queens, NY</h2>
                   <p>Discover the best BJJ and martial arts training with comprehensive 
                     programs offering superior Jiujitsu instruction, welcoming everyone 
                     from complete beginners to pro fighters.
                   </p>
 
-                  <a href="https://www.atjiujitsunyc.com/prices/" className="button primary large">
-                      Prices. No Contracts!
-                  </a>
-                  <a href="https://www.atjiujitsunyc.com/about/" className="button primary large">
-                      Learn More
-                  </a>
+                  <p className="padding-above">              
+          
+          <ul className="actions fit">
+            <li>
+              <a href="https://www.atjiujitsunyc.com/prices/" className="button primary fit" align="center">
+              Prices. No Contracts!
+              </a>
+            </li>
+            <li>
+              <a href="https://www.atjiujitsunyc.com/about/" className="button primary fit" align="center">
+              Learn More
+              </a>
+            </li>
+          </ul>
+        </p>
               </div>
             </div>
           </div>
@@ -164,15 +171,15 @@ const BlogIndex = ({ data }, location) => {
                      <br />                 
                 <ul>
                     <li><a href="https://www.atjiujitsunyc.com/kids-jiujitsu-classes-in-queens/">
-                          **Kids Jiu-Jitsu**: (5-9)</a></li>
+                          Kids Jiu-Jitsu: (5-9)</a></li>
                     <li><a href="https://www.atjiujitsunyc.com/kids-jiujitsu-classes-in-queens/">
-                          **Kids Jiu-Jitsu**: (10-15)</a></li>
+                          Kids Jiu-Jitsu: (10-15)</a></li>
                     <li><a href="https://www.atjiujitsunyc.com/kids-kickboxing-classes-in-queens/">
-                          **Kids Kickboxing**: (Ages 7-15)</a></li>
+                          Kids Kickboxing: (Ages 7-15)</a></li>
                     <li><a href="https://www.atjiujitsunyc.com/kids-mma/">
-                          **Kids MMA**: (Ages 8-15)</a></li>
+                          Kids MMA: (Ages 8-15)</a></li>
                     <li><a href="https://www.atjiujitsunyc.com/toddler-jiujitsu/">
-                          **Toddlers Jiujitsu**: (Ages 3-5)</a></li>
+                          Toddlers Jiujitsu: (Ages 3-5)</a></li>
           
                 </ul>
                 
@@ -218,17 +225,17 @@ const BlogIndex = ({ data }, location) => {
                   <p>                  
                 <ul>
                     <li><a href="https://www.atjiujitsunyc.com/adult-jiujitsu/">
-                          **Jiu-Jitsu**: (5-9)</a></li>
+                          Jiu-Jitsu</a></li>
                     <li><a href="https://www.atjiujitsunyc.com/muay-thai/">
-                          **Muay-Thai**: (10-15)</a></li>
+                          Muay-Thai</a></li>
                     <li><a href="https://www.atjiujitsunyc.com/mma/">
-                          **MMA**</a></li>
+                          MMA</a></li>
                     <li><a href="https://www.atjiujitsunyc.com/kick-boxing/">
-                          **Kickboxing**</a></li>
+                          Kickboxing</a></li>
                     <li><a href="https://www.atjiujitsunyc.com/smarter-yoga/">
-                          **Smarter Yoga**</a></li>
+                          Smarter Yoga</a></li>
                     <li><a href="https://www.atjiujitsunyc.com/kettlebell/">
-                          **Kettle Bell**</a></li>
+                          Kettle Bell</a></li>
                 </ul>
                   </p>
 
