@@ -140,17 +140,17 @@ const BlogIndex = ({ data }, location) => {
         })}
       </div>
 
+      <hr />
+
     <section className="home-content-section">
         <h3>Our Members: The Heart of @JIUJITSUNYC</h3>
         <p>Discover the best BJJ and martial arts training for everyone from complete beginners to advanced competitors. </p>
-    
-        <hr />
-        
-        <h2 id="blockquote">
+       
+ {/*     <h2 id="blockquote">
 
           <blockquote>"My strength is in my team because my team strengthens me!"</blockquote>
           </h2>
-          
+        */}  
 
           <article className="post-content page-template no-image">
         <div className="post-content-body">
