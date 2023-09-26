@@ -11,6 +11,7 @@ home: true
 tags:
   - Programs
   - Adults Martial Arts
+  - adult-programs
   - Muay Thai
 ---
 ### **What is Muay Thai?**

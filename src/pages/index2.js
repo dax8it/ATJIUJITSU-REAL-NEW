@@ -239,7 +239,7 @@ const BlogIndex = ({ data }, location) => {
                 </ul>
                   </p>
 
-                  <a href="#" className="button primary large">
+                  <a href="https://www.atjiujitsunyc.com/tags/adult-programs/" className="button primary large">
                       Learn More
                   </a>
               </div>

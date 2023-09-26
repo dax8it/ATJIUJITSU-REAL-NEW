@@ -10,6 +10,7 @@ thumbnail: /img/dsc01933.jpg
 home: true
 tags:
   - Programs
+  - adult-programs
   - Adults Martial Arts
   - Jiujitsu
 ---

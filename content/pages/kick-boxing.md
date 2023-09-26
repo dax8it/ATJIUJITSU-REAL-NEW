@@ -8,6 +8,7 @@ thumbnail: /img/kick-boxing.jpg
 home: true
 tags:
    - Programs
+   - adult-programs
    - Adults Martial Arts
    - Kickboxing near me
 ---

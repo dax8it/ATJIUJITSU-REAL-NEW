@@ -9,6 +9,7 @@ thumbnail: /img/dsc09063.jpg
 home: true
 tags:
   - Programs
+  - adult-programs
   - Adults Martial Arts
   - MMA
 ---
