@@ -186,7 +186,7 @@ const BlogIndex = ({ data }, location) => {
                 
                   </p>
                   <a href="https://www.atjiujitsunyc.com/tags/kids-programs/" className="button primary large">
-                      Learn More
+                      LEARN MORE...
                   </a>
               </div>
             </div>
@@ -221,7 +221,8 @@ const BlogIndex = ({ data }, location) => {
             <div className="col-6">
               <div>
                    <h2>Adults Martial Arts</h2>
-                  <p>Maybe this will work we shall see.
+                  <p>Whether you're looking to improve your mobility, learn self-defense or increase your 
+                    physical and mental health, we have programs to meet your every need.
                   </p>
                   <p>                  
                 <ul>
@@ -241,7 +242,7 @@ const BlogIndex = ({ data }, location) => {
                   </p>
 
                   <a href="https://www.atjiujitsunyc.com/tags/adult-programs/" className="button primary large">
-                      Learn More
+                      LEARN MORE...
                   </a>
               </div>
             </div>
