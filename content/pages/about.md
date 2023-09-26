@@ -32,10 +32,14 @@ Beyond just techniques and drills, Jiujitsu NYC Academy is deeply committed to f
 
   <div>
   <a href="https://www.atjiujitsunyc.com/tags/adult-programs/" className="button primary large">
-                      Learn More
+                      Learn More About Our Adult Programs...
                   </a>
   </div>
 
+<br>
+
+- - -
+<br>
 
 # Best K﻿Ids Martial Arts In Queens 
 
@@ -43,9 +47,15 @@ For parents in Queens seeking a transformative experience for their children, th
 
 <div>
                   <a href="https://www.atjiujitsunyc.com/tags/kids-programs/" className="button primary large">
-                      Learn More
+                      Learn More About Our Kids Programs...
                   </a>
 </div>
+
+<br>
+
+- - -
+<br>
+
 
 # Get started now!
 
