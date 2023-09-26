@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: "MMA"
-order: 7
+title: MMA
+order: 2
 date: 2021-03-24T20:36:49.923Z
 description: Join Coach Rocco for our Adult Intro to MMA Class or Kids MMA
   program and learn from the Champ!
