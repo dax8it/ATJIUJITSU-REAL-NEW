@@ -9,6 +9,7 @@ description: Explore the comprehensive benefits of kids kickboxing, from
 home: false
 thumbnail: /img/kids-kickboxing-queens.jpg
 tags:
+  - Programs
   - kids-programs
   - Kids Martial Arts
   - Kids Kickboxing

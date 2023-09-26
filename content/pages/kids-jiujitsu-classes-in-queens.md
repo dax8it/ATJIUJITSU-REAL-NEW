@@ -8,6 +8,7 @@ description: Dive deep into kids jiujitsu - a martial art that promotes physical
 home: false
 thumbnail: /img/kids-jiujitsu-jackson-heights-queens.jpg
 tags:
+  - Programs
   - kids-programs
   - Kids Martial Arts
   - Jiujitsu for Kids

@@ -9,6 +9,7 @@ thumbnail: /img/kids-mma-temp.jpg
 home: false
 tags:
   - kids-programs
+  - Programs
   - Kids Martial Arts
   - Kids MMA
 ---
