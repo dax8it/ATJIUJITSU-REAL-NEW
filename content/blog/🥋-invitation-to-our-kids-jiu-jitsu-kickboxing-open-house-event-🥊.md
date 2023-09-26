@@ -7,7 +7,6 @@ thumbnail: /img/9fe14d10-51e3-410f-8f1a-1b0c52f2ff75.jpg
 home: false
 tags:
   - Blog
-  - kids-programs
   - Jackson Heights
   - Queens
   - Jiujitsu for Kids
