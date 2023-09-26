@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Contact Us
 order: 101
-date: "2019-05-03"
+date: 2019-05-03
 description: Getting in touch is easy!
 thumbnail: /img/homepagea2.jpg
 home: false

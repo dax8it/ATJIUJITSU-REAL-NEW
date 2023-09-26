@@ -7,7 +7,7 @@ description: "Plan your martial arts training  with our detailed calendar
   schedule. Find class timings, special events, and kids martial arts sessions.
   "
 thumbnail: /img/homepagea2.jpg
-home: true
+home: false
 tags:
   - Other
 ---

@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
-title: "Kids Kickboxing Classes in Queens "
-order: 10
+title: Kids Kickboxing
+order: 6
 date: 2023-09-01T05:34:24.055Z
 description: Explore the comprehensive benefits of kids kickboxing, from
   physical fitness to mental growth. Dive into the transformative power of this
   martial art.
-home: false
+home: true
 thumbnail: /img/kids-kickboxing-queens.jpg
 tags:
   - Programs

@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Martial Arts for Kids: Jiujitsu, Kickboxing, MMA "
+title: Martial Arts for Kids - Jiujitsu, Kickboxing, MMA
 order: 10
 date: 2023-08-30T17:50:34.470Z
 description: Discover the benefits of martial arts for kids aged 5-15 in Jackson

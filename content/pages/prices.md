@@ -5,7 +5,7 @@ order: 13
 date: 2019-05-04
 description: Our pricing makes taking classes affordable!
 thumbnail: /img/grapplingindustriesais08149.jpg
-home: true
+home: false
 tags:
   - Other
 ---

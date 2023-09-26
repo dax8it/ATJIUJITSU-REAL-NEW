@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
-title: "Kids MMA"
-order: 7
+title: Kids MMA
+order: 5
 date: 2021-03-24T20:36:49.923Z
 description: Join Coach Rocco for our Kids MMA Intro Class 
   and learn from the Champ!
 thumbnail: /img/kids-mma-temp.jpg
-home: false
+home: true
 tags:
   - kids-programs
   - Programs
