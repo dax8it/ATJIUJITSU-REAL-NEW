@@ -8,6 +8,8 @@ thumbnail: /img/42f7a705-f5f1-42a6-9601-ceaa46e58717-2.jpg
 home: false
 tags:
   - Blog
+  - Events
+  - Competition
 ---
 - - -
 

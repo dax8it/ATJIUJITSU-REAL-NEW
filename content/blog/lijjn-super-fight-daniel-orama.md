@@ -9,6 +9,8 @@ thumbnail: /img/daniel.png
 home: false
 tags:
   - Blog
+  - Events
+  - Competition
 ---
 <br>
 

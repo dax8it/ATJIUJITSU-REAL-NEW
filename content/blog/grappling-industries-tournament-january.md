@@ -8,6 +8,8 @@ thumbnail: /img/dsc02762.jpg
 home: false
 tags:
   - Blog
+  - Events
+  - Competition
 ---
 
 We're all proud of everyone who sacrificed their time and tested themselves at the Grappling Industries Tournament, win or lose.

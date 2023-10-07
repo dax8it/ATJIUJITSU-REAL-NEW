@@ -10,6 +10,8 @@ thumbnail: /img/dsc01532.jpg
 home: false
 tags:
   - Blog
+  - Events
+  - Competition
 ---
 - - -
 

@@ -16,6 +16,8 @@ thumbnail: /img/dsc07191.jpg
 home: false
 tags:
   - Blog
+  - Events
+  - Competition
 ---
 ![](/img/ais07937_easy-resize.com.jpg)
 

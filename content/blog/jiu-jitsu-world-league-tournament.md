@@ -8,6 +8,8 @@ thumbnail: /img/whatsapp-image-2023-07-31-at-6.09.45-pm.jpeg
 home: false
 tags:
   - Blog
+  - Events
+  - Competition
 ---
 - - -
 

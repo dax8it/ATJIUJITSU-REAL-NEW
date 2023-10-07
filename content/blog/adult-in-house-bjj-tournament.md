@@ -10,6 +10,8 @@ thumbnail: /img/img_2396.jpg
 home: false
 tags:
   - Blog
+  - Events
+  - Competition
 ---
 # Check out our Highlight Reel of everyones matches below!
 

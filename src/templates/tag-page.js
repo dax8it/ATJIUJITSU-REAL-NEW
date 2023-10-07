@@ -33,6 +33,8 @@ class TagPageTemplate extends React.Component {
             `bjj`,
           `Brazilian Jiu Jitsu`,
           `kickboxing`,
+          'events',
+          'competitions',
           `muay thai`,
           `MMA`,
           `mixed martial arts`,

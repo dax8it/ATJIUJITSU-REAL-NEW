@@ -7,6 +7,8 @@ thumbnail: /img/dsc01856.jpg
 home: false
 tags:
   - Blog
+  - Events
+  - Competition
 ---
 - - -
 

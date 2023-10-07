@@ -9,6 +9,8 @@ thumbnail: /img/whatsapp-image-2023-03-23-at-5.30.18-pm.jpeg
 home: false
 tags:
   - Blog
+  - Events
+  - Competition
 ---
 ## Exceptional Performance at Long Island Jiu-Jitsu Superfights in Queens
 

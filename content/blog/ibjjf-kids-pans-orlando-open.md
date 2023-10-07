@@ -8,6 +8,8 @@ thumbnail: /img/294752331_723478059093407_389128402297144778_n.jpg
 home: false
 tags:
   - Blog
+  - Events
+  - Competition
 ---
 \-Our very own Francesca took second place at her first Kids Pans!
 

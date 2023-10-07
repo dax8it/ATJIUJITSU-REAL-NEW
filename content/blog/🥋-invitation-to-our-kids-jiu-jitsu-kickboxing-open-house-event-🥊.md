@@ -15,6 +15,8 @@ tags:
   - Jiujitsu near me
   - Kickboxing near me
   - Kickboxing
+  - Events
+  - Competition
 ---
 Dear Parents,
 

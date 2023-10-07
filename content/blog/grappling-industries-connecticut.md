@@ -8,6 +8,8 @@ thumbnail: /img/dsc02050.jpg
 home: false
 tags:
   - Blog
+  - Events
+  - Competition
 ---
 **No matter the results, everyone who competed made us all proud! Congrats to Mohammed, Jason and Martin for putting yourselves out there, we hope this was the first tournament of many more to come!**
 

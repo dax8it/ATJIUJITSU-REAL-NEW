@@ -9,6 +9,8 @@ thumbnail: /img/big-apple-pic-04.png
 home: false
 tags:
   - Blog
+  - Events
+  - Competition
 ---
 
 ![](/img/big-apple-pic-12.png)

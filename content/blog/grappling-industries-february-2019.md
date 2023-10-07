@@ -11,6 +11,8 @@ thumbnail: >-
 home: false
 tags:
   - Blog
+  - Events
+  - Competition
 ---
 
 ## **No kid or adult works harder than this young man. Super proud of him for wanting to show off his skills at Grappling Industries.**

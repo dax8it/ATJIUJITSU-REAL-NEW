@@ -26,6 +26,8 @@ thumbnail: /img/771d55ad-d1cb-47d4-a294-381ede666699.jpg
 home: false
 tags:
   - Blog
+  - Events
+  - Competition
 ---
 ### **C﻿heck out the photos and videos below:**
 
