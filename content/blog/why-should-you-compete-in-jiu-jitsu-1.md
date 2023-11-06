@@ -3,6 +3,8 @@ templateKey: blog-post
 title: Why should you compete in jiu jitsu?
 order: 30
 date: 2023-11-06T22:59:04.039Z
+description: In this blog post, we'll explore the reasons why you should
+  consider competing in Jiu-Jitsu.
 thumbnail: /img/294439718_722856919155521_2161375921020216163_n.jpg
 home: true
 tags:
