@@ -22,15 +22,13 @@ tags:
   - Media
   - Events
 ---
-"Triumph and Tenacity: Jiu Jitsu Competition Team Shines at Jiu-Jitsu World League"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yd49ffLFh6E?si=4Q5DaH4mtmk8YyR_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>"Triumph and Tenacity: Jiu Jitsu Competition Team Shines at Jiu-Jitsu World League"
 
 In the heart of the bustling jiu-jitsu community, the competition team at Jiu Jitsu Academy recently etched their names in the annals of victory at the prestigious Jiu-Jitsu World League. Among them, Shea, Allehia, Dan, Pablo, Iber, and Professor Alvaro stood out, each displaying unwavering courage, skill, and determination in their respective divisions. Their journey through the competition was a testament to the spirit of camaraderie and resilience that defines the art of jiu-jitsu.
 
 Shea's Lone Journey:
 
 Facing the gi division alone is no small feat, but Shea, undeterred by the absence of teammates, bravely took on the challenge. Despite the odds stacked against her, Shea emerged triumphant, securing a well-deserved 3rd place in a highly competitive division. Her resilience and skill on the mat were truly commendable, showcasing the essence of individual strength within a team-focused sport.
-
-![](/img/img_0267.jpg)
 
 Allehia's Cross Collar Choke Brilliance:
 
@@ -55,5 +53,3 @@ Leading by example, Professor Alvaro, the esteemed head of the academy, demonstr
 ![](/img/img_0270.jpg)
 
 The Jiu-Jitsu World League was a showcase of triumph, tenacity, and teamwork for Jiu Jitsu Academy's competition team. Each member, from the lone warrior Shea to the podium-bound Allehia, Dan, Pablo, Iber, and Professor Alvaro, contributed to the collective success. As they return to their training grounds, these athletes carry with them not just medals but a renewed sense of purpose, ready to face new challenges and continue their journey of growth in the world of jiu-jitsu. The Jiu Jitsu Academy's competition team has proven that, in the realm of martial arts, victory is often sweeter when shared with a community that values courage, skill, and camaraderie.
-
-W﻿atch the highlights on our YouTube channel here: https://www.youtube.com/watch?v=Yd49ffLFh6E&t=14s
