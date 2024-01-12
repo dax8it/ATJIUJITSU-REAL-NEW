@@ -22,7 +22,9 @@ tags:
   - Media
   - Events
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Yd49ffLFh6E?si=4Q5DaH4mtmk8YyR_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>"Triumph and Tenacity: Jiu Jitsu Competition Team Shines at Jiu-Jitsu World League"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yd49ffLFh6E?si=4Q5DaH4mtmk8YyR_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+"Triumph and Tenacity: Jiu Jitsu Competition Team Shines at Jiu-Jitsu World League"
 
 In the heart of the bustling jiu-jitsu community, the competition team at Jiu Jitsu Academy recently etched their names in the annals of victory at the prestigious Jiu-Jitsu World League. Among them, Shea, Allehia, Dan, Pablo, Iber, and Professor Alvaro stood out, each displaying unwavering courage, skill, and determination in their respective divisions. Their journey through the competition was a testament to the spirit of camaraderie and resilience that defines the art of jiu-jitsu.
 
