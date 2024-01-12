@@ -6,6 +6,7 @@ date: 2024-01-12T23:13:18.901Z
 description: Check out the latest video from @Jiu-Jitsu NYC where the kids and
   teens talk about their experiences and share wisdom on their Jiu-Jitsu
   Journey!
+thumbnail: /img/screen-shot-2024-01-12-at-6.35.33-pm.png
 home: true
 tags:
   - Kids Martial Arts
