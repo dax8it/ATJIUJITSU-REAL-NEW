@@ -18,11 +18,9 @@ tags:
   - Blog
   - Media
 ---
-Step into the lively world of Jiu-Jitsu NYC through the eyes of our extraordinary kids and teen students! In this heartfelt video, they open up about their unique journeys with Jiu-Jitsu – sharing the highs of competing and the incredible perks they've picked up along the way. Get a glimpse into the tight-knit friendships, the discipline they've cultivated, and the valuable life lessons that have turned their time at Jiu-Jitsu NYC into cherished memories. Come along as these young warriors reflect on personal growth and why being part of our Jiu-Jitsu family is more than just practicing a martial art – it's a genuine and transformative adventure! 💪✨.
+Step into the lively world of Jiu-Jitsu NYC through the eyes of our extraordinary kids and teen students! In this heartfelt video, they open up about their unique journeys with Jiu-Jitsu – sharing the highs of competing and the incredible perks they've picked up along the way. Get a glimpse into the tight-knit friendships, the discipline they've cultivated, and the valuable life lessons that have turned their time at Jiu-Jitsu NYC into cherished memories. Come along as these students reflect on personal growth and why being part of our Jiu-Jitsu family is more than just practicing a martial art – it's a genuine and transformative adventure! 💪✨
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uz2zG-VkSC8?si=zEjlrs8-f3sGht-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
 
 As we wrap up this journey through the captivating world of Jiu-Jitsu NYC with our incredible kids and teens, we hope you've felt the passion, camaraderie, and wisdom that permeate our martial arts community. Their stories, experiences, and laughter on the mats not only reflect the growth in their Jiu-Jitsu skills but also the development of lifelong friendships and valuable life skills.
 
