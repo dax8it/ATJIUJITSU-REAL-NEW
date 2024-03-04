@@ -4,7 +4,7 @@ title: "Open Mats @ Jiu Jitsu NYC "
 order: 30
 date: 2024-03-04T21:50:57.952Z
 description: "FREE Open Mat in Jackson Heights, NY  "
-thumbnail: /img/1577999810_tmp_dsc01933.jpg
+thumbnail: /img/dsc01735.jpg
 home: true
 tags:
   - Jiujitsu
