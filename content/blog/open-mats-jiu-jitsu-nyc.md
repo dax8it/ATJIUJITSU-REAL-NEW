@@ -18,6 +18,7 @@ tags:
   - Kickboxing near me
   - Jackson Heights
   - Queens
+  - Blog
 ---
 Ready to roll? Don't miss our FREE open mat sessions at Jiu Jitsu NYC, where you can dive into both gi and no-gi training! @ Jiu Jitsu NYC is an inclusive and welcoming environment that accepts practitioners from all affiliations and academies! Join our passionate community of jiu-jitsu practitioners every Sunday from 10am-12pm. 
 
