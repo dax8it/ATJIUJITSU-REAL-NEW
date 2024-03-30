@@ -4,6 +4,9 @@
   "description": "A custom, image-centric theme for Gatsby",
   "version": "1.0.2",
   "author": "Vaporwavy <i@ttv8.me> (https://vaporwavy.io)",
+  "engines": {
+    "node": ">=18"
+  },
   "bugs": {
     "url": "https://github.com/vaporwavy/gatsby-london-after-midnight/issues"
   },
