@@ -4,7 +4,6 @@ import instagram from "../../content/assets/social/instagram.svg"
 import youtube from "../../content/assets/social/YouTube_dark_icon_.svg"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faEnvelope, faMap, faUsers } from "@fortawesome/free-solid-svg-icons"
-import { BubbleChat } from 'flowise-embed-react'
 
 const Footer2 = class extends React.Component {
   render() {
@@ -136,13 +135,6 @@ const Footer2 = class extends React.Component {
               </div>
             </div>
           </article>
-        </div>
-        
-        <div className="col-12">
-          <BubbleChat
-            chatflowid="b149854e-ae2c-41bd-acc8-ce2db7185073"
-            apiHost="https://gcda-flowise.onrender.com"
-          />
         </div>
       </div>
     )
