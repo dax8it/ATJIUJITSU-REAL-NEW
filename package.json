@@ -4,9 +4,6 @@
   "description": "A custom, image-centric theme for Gatsby",
   "version": "1.0.2",
   "author": "Vaporwavy <i@ttv8.me> (https://vaporwavy.io)",
-  "engines": {
-    "node": ">=18"
-  },
   "bugs": {
     "url": "https://github.com/vaporwavy/gatsby-london-after-midnight/issues"
   },
@@ -16,7 +13,6 @@
     "@fortawesome/react-fontawesome": "^0.1.7",
     "@openfonts/ibarra-real-nova_latin": "0.0.1",
     "cross-env": "^7.0.3",
-    "flowise-embed-react": "^1.0.2",
     "gatsby": "^2.4.2",
     "gatsby-image": "^2.0.41",
     "gatsby-plugin-feed": "^2.2.0",
@@ -25,7 +21,7 @@
     "gatsby-plugin-manifest": "^2.1.1",
     "gatsby-plugin-netlify": "^2.11.1",
     "gatsby-plugin-netlify-cache": "^1.2.0",
-    "gatsby-plugin-netlify-cms": "^4.1.30",
+    "gatsby-plugin-netlify-cms": "3.0",
     "gatsby-plugin-netlify-cms-paths": "^1.3.0",
     "gatsby-plugin-offline": "^3.0.40",
     "gatsby-plugin-postcss": "^2.0.7",
@@ -49,8 +45,8 @@
     "noto-sans-jp": "^24.0.0",
     "noto-sans-kr": "^0.1.1",
     "prismjs": "^1.16.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
     "react-helmet": "^5.2.1",
     "sans-serif": "^1.0.0",
     "typeface-alegreya": "^0.0.69",
