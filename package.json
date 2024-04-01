@@ -16,7 +16,6 @@
     "@fortawesome/react-fontawesome": "^0.1.7",
     "@openfonts/ibarra-real-nova_latin": "0.0.1",
     "cross-env": "^7.0.3",
-    "flowise-embed-react": "^1.0.2",
     "gatsby": "^2.4.2",
     "gatsby-image": "^2.0.41",
     "gatsby-plugin-feed": "^2.2.0",
