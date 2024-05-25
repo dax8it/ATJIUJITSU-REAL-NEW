@@ -5,21 +5,18 @@ order: 30
 date: 2024-05-25T19:39:08.339Z
 description: Enroll your child in our 2024 Jiu-Jitsu Summer Camp for a blend of
   Martial Arts, Fitness, and Mental Toughness. Suitable for kids ages 5-14.
-thumbnail: /img/dsc07916.jpg
+thumbnail: /img/dsc01532.jpg
 home: true
 tags:
-  - Adults Martial Arts
   - Kids Martial Arts
+  - Jiujitsu for Kids
   - Jiujitsu
   - Jiujitsu near me
   - Jackson Heights
   - Queens
-  - Jiujitsu for Kids
-  - adult-programs
-  - MMA
+  - Blog
   - Media
   - Events
-  - Blog
 ---
 - - -
 
@@ -100,60 +97,40 @@ Our camp days are packed with engaging activities that go beyond traditional Mar
 
 # <https://at-jiujitsu-nyc.gymdesk.com/book>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CbVW04TvIVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<br>
-
 
 # Jiu-Jiutsu Summer Camp
 
 <div style="text-align: center;">
-  <video width="560" height="315" controls>
-    <source src="https://www.youtube.com/watch?v=CbVW04TvIVs" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=CbVW04TvIVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
 
 # Summer Camp Week 2 - Chess
 
 <div style="text-align: center;">
-  <video width="560" height="315" controls>
-    <source src="https://www.youtube.com/watch?v=iZIm1q1MrJ4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=iZIm1q1MrJ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 # Summer Camp Week 3 - Tennis!
 
 <div style="text-align: center;">
-  <video width="560" height="315" controls>
-    <source src="https://www.youtube.com/watch?v=UiwX5BDzuJ4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=UiwX5BDzuJ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 # Summer Camp Week 4 - Salsa!
 
-  <div style="text-align: center;">
-  <video width="560" height="315" controls>
-    <source src="https://www.youtube.com/watch?v=2tjJdFAoa2c" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+<div style="text-align: center;">
+ <iframe width="560" height="315" src="https://www.youtube.com/watch?v=2tjJdFAoa2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 # Kids Summer Camp Week 5
 
 <div style="text-align: center;">
-  <video width="560" height="315" controls>
-    <source src="https://www.youtube.com/watch?v=VB1q4B2d1-0" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+ <iframe width="560" height="315" src="https://www.youtube.com/watch?v=VB1q4B2d1-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 
 ![](/img/adult-poster-jan-2021.jpg)
-
-
 
 
 <br>
