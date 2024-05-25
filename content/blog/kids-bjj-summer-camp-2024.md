@@ -6,7 +6,7 @@ date: 2024-05-25T19:39:08.339Z
 description: Enroll your child in our 2024 Jiu-Jitsu Summer Camp for a blend of
   Martial Arts, Fitness, and Mental Toughness. Suitable for kids ages 5-14.
 thumbnail: /img/dsc07916.jpg
-home: false
+home: true
 tags:
   - Blog
 ---
