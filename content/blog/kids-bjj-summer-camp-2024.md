@@ -5,7 +5,7 @@ order: 30
 date: 2024-05-25T19:39:08.339Z
 description: Enroll your child in our 2024 Jiu-Jitsu Summer Camp for a blend of
   Martial Arts, Fitness, and Mental Toughness. Suitable for kids ages 5-14.
-thumbnail: /img/dsc01532.jpg
+thumbnail: /img/dsc07916.jpg
 home: true
 tags:
   - Kids Martial Arts
@@ -61,9 +61,7 @@ Our Jiu-Jitsu Summer Camp is more than just martial arts training; it's a holist
 
 To secure your child's spot in our Summer Camp, please complete the registration process as soon as possible. With limited spaces available, early registration is recommended to avoid disappointment.
 
-# Register Now:
-
-# <https://at-jiujitsu-nyc.gymdesk.com/book>
+<a href="https://at-jiujitsu-nyc.gymdesk.com/book" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: blue; text-align: center; text-decoration: none; border-radius: 5px;">Register Now:</a>
 
 ---
 
@@ -93,44 +91,30 @@ Our camp days are packed with engaging activities that go beyond traditional Mar
 
 **Our coaches will help build your child's skills in Jiu-Jitsu, while engaging and inspiring them to learn new skills. Each week will be designed to empower and enlighten kids through amusing activities, fascinating and safe field trips, timely lessons in teamwork and so much more! Join us now!**
 
-# **Register Now:**
 
-# <https://at-jiujitsu-nyc.gymdesk.com/book>
+<a href="https://at-jiujitsu-nyc.gymdesk.com/book" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: blue; text-align: center; text-decoration: none; border-radius: 5px;">Register Now:</a>
 
 
 # Jiu-Jiutsu Summer Camp
-
-<div style="text-align: center;">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=CbVW04TvIVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+[Watch on YouTube](https://www.youtube.com/watch?v=CbVW04TvIVs)
 
 
 # Summer Camp Week 2 - Chess
-
-<div style="text-align: center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=iZIm1q1MrJ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+[Watch on YouTube](https://www.youtube.com/watch?v=iZIm1q1MrJ4)
 
 # Summer Camp Week 3 - Tennis!
-
-<div style="text-align: center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=UiwX5BDzuJ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+[Watch on YouTube](https://www.youtube.com/watch?v=UiwX5BDzuJ4)
 
 # Summer Camp Week 4 - Salsa!
-
-<div style="text-align: center;">
- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=2tjJdFAoa2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+ [Watch on YouTube](https://www.youtube.com/watch?v=2tjJdFAoa2c)
 
 # Kids Summer Camp Week 5
-
-<div style="text-align: center;">
- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=VB1q4B2d1-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+[Watch on YouTube](https://www.youtube.com/watch?v=VB1q4B2d1-0)
 
 
 ![](/img/adult-poster-jan-2021.jpg)
+
+
 
 
 <br>
