@@ -61,7 +61,7 @@ Our Jiu-Jitsu Summer Camp is more than just martial arts training; it's a holist
 
 To secure your child's spot in our Summer Camp, please complete the registration process as soon as possible. With limited spaces available, early registration is recommended to avoid disappointment.
 
-<a href="[https://at-jiujitsu-nyc.gymdesk.com/book](https://at-jiujitsu-nyc.gymdesk.com/signup)" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: blue; text-align: center; text-decoration: none; border-radius: 5px;">Register Now:</a>
+<a href="[sign-up](https://at-jiujitsu-nyc.gymdesk.com/signup)" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: blue; text-align: center; text-decoration: none; border-radius: 5px;">Register Now:</a>
 
 ---
 
@@ -92,7 +92,7 @@ Our camp days are packed with engaging activities that go beyond traditional Mar
 **Our coaches will help build your child's skills in Jiu-Jitsu, while engaging and inspiring them to learn new skills. Each week will be designed to empower and enlighten kids through amusing activities, fascinating and safe field trips, timely lessons in teamwork and so much more! Join us now!**
 
 
-<a href="[https://at-jiujitsu-nyc.gymdesk.com/book](https://at-jiujitsu-nyc.gymdesk.com/signup)" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: blue; text-align: center; text-decoration: none; border-radius: 5px;">Register Now:</a>
+<a href="[sign-up](https://at-jiujitsu-nyc.gymdesk.com/signup)" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: blue; text-align: center; text-decoration: none; border-radius: 5px;">Register Now:</a>
 
 
 # Jiu-Jiutsu Summer Camp
