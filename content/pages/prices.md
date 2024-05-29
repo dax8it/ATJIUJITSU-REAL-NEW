@@ -21,7 +21,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 ## \- Three Trial Classes (Within 1 week) - $35
 
-## \- Toddler Trial (Two Consecutive Saturdays) - $35
+## \- Toddler Trial (Two Classes) - $35
 
 ##### \*\*Limited Spots available for our Toddler Program!
 
@@ -168,7 +168,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
   **\- OR -**
 
-## $180/mo: ($22 Per Class)
+## $200/mo: ($25 Per Class)
 
 (+ $15.00 Sign Up Fee)
 
@@ -178,9 +178,9 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 # Drop In Fees:
 
-**One Session - $50**
+**One Session - $45**
 
-**Day Pass - $100**
+**Day Pass - $55**
 
 **(Drop In fees are no longer offered for our Toddler program)**
 
