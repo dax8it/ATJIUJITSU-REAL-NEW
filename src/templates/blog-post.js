@@ -19,6 +19,29 @@ class BlogPostTemplate extends React.Component {
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
         />
+
+
+        <Helmet>
+          {post.frontmatter.title === "2024 Jiu-Jitsu Summer Camp Kids Activities" && (
+            <>
+              <script
+                async
+                src="https://www.googletagmanager.com/gtag/js?id=AW-10826074700"
+              ></script>
+              <script>
+                {`
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'AW-10826074700');
+                `}
+              </script>
+            </>
+          )}
+        </Helmet>
+
+
+          
         <article
           className={`post-content ${post.frontmatter.thumbnail || `no-image`}`}
         >
