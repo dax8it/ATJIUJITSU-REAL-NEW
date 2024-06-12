@@ -21,7 +21,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 ## \- Three Trial Classes (Within 1 week) - $35
 
-## \- Toddler Trial (Two Classes) - $35
+## \- Toddler Trial (Two Classes) - $45
 
 ##### \*\*Limited Spots available for our Toddler Program!
 
