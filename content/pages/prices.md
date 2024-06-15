@@ -153,7 +153,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 - - -
 
-## Age 3-5 Toddler Program
+## Age 3-6 Toddler Program
 
 * l﻿earn discipline
 * l﻿earn throws (Judo)
