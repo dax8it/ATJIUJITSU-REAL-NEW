@@ -215,7 +215,7 @@ Available for purchase below:
 
 **Kids Private Session with a Coach:** 
 
-* 45 MINUTES - $45
+* 45 MINUTES - $55
 
 **Mommy/Daddy & Me Private:**
 
