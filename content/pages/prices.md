@@ -21,7 +21,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 ## \- Three Trial Classes (Within 1 week) - $35
 
-## \- Toddler Trial (Two Classes) - $45
+## \- Toddler Trial for ages 3-6 (Two Classes) - $45
 
 ##### \*\*Limited Spots available for our Toddler Program!
 
@@ -196,7 +196,7 @@ Available for purchase below:
 
 **Professor Alvaro:**
 
-* (1) Session(s) 30 minutes: $60
+* (1) Session(s) 30 minutes: $70
 * (3) Session(s) 30 minutes: $165
 * (5) Session(s) 30 minutes: $275
 * (10) Session(s) 30 minutes: $550
@@ -205,8 +205,8 @@ Available for purchase below:
 
 * (1) Session(s) 1 hour: $120
 * (3) Session(s) 1 hour: $350
-* (5) Session(s) 1 hour:  $499
-* (10) Session(s) 1 hour: $999
+* (5) Session(s) 1 hour:  $500
+* (10) Session(s) 1 hour: $1,000
 
 **Coach Rocco:** 
 
