@@ -31,13 +31,11 @@ We are thrilled to announce our upcoming **2024 Jiu-Jitsu Summer Camp**, set to 
 **Duration:** July 9th to August 16th  
 **Time:** 8:30AM - 4:00PM (Tuesday through Friday)
 
-**Early Bird Registration Price Before 6/3**
-**Full Six Weeks:** $2,100
-**Weekly Price:** $425
-
-**Registration Price After 6/3**
+**Registration Price:**
 **Full Six Weeks:** $2,400
+**Price for Two Weeks:** $890
 **Weekly Price:** $500
+**Daily Price:** $135
 </div>
 
 <div style="text-align: center;">
