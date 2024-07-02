@@ -29,7 +29,7 @@ We are thrilled to announce our upcoming **2024 Jiu-Jitsu Summer Camp**, set to 
 
 **Camp Details**  
 **Duration:** July 9th to August 16th  
-**Time:** 8:30AM - 4:00PM (Tuesday through Friday)
+**Time:** 8:30AM - 3:30PM (Tuesday through Friday)
 
 **Registration Price:**
 - **Full Six Weeks:** $2,400
@@ -50,8 +50,8 @@ We are thrilled to announce our upcoming **2024 Jiu-Jitsu Summer Camp**, set to 
 - **11:30AM - 12:30PM:** Positional Sparring and Exciting Games
 - **12:30PM - 1:30PM:** Lunch / Free Time
 - **1:30PM - 3:00PM:** Park Adventure / Trip to the Library
-- **3:00PM - 4:00PM:** Arts and Crafts
-- **4:00PM:** Pickup
+- **3:00PM - 3:30PM:** Arts and Crafts
+- **3:30PM:** Pickup
 
 ---
 
