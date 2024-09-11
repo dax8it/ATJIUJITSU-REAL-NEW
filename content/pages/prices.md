@@ -2,16 +2,12 @@
 templateKey: blog-post
 title: Our Prices
 order: 13
-date: 2019-05-04
+date: 2024-09-11
 description: Our pricing makes taking classes affordable!
-thumbnail: /img/grapplingindustriesais08149.jpg
-home: false
-tags:
-  - Other
 ---
 # Monthly Subscriptions
 
-We make it easy to attend our classes. Choose one of our monthly subscription plans to get the most bang for your buck. We offer classes from $12 to $27 depending on the program you choose. You decide.
+We make it easy to attend our classes. Choose one of our monthly subscription plans to get the most bang for your buck. We offer classes from $13 to $40 depending on the program you choose. You decide.
 
 ## Register for classes here:
 
@@ -21,7 +17,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 ## \- Three Trial Classes (Within 1 week) - $35
 
-## \- Toddler Trial for ages 3-6 (Two Classes) - $45
+## \- Toddler Trial (Two Consecutive Saturdays) - $35
 
 ##### \*\*Limited Spots available for our Toddler Program!
 
@@ -29,158 +25,111 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 - - -
 
-## Unlimited Classes - $250/mo:
-
-(+ $10.00 Sign Up Fee)
+## Unlimited Classes
+Monthly Fee: $299 + $15 sign-up fee
+First Month: $314
+$13 per class for a minimum of 6 classes a week
 
 * From unlimited access to yoga, jiu jitsu, kickboxing and muay thai for you to take advantage of! 
 
-  * Unlimited Jiu-Jitsu
-  * Muay Thai
-  * Kickboxing
-  * Yoga
+  * Unlimited Jiu-Jitsu, Muay Thai, Kickboxing, Yoga
 
 **\- OR -** 
 
 ## Pay In Full, Unlimited (6 Months) - $1,400:
 
-* ## Save $100!
+* ## Save over $100!
 
 - - -
 
-## Four Times a Week - $225/mo **($14 Per Class)**
+## Five Times a Week
+  * Monthly Fee: $275 + $15 sign-up fee
+  * First Month: $290
+  * $14 per class
 
-(+ $15.00 Sign Up Fee) 
-
-* Jiu-Jitsu
-* Muay Thai
-* Kickboxing
-* Yoga
-
-**\- OR -** 
-
-## Pay In Full, 4x's A Week (6 Months) - $1,300:
-
-* ## **Save $50!**
+  * Unlimited Jiu-Jitsu, Muay Thai, Kickboxing, Yoga
 
 - - -
 
-## Three Times a Week - $215/mo ($18 Per Class)
+## Four Times a Week
+  * Monthly Fee: $265 + $15 sign-up fee
+  * First Month: $280
+  * $17 per class
 
-(+ $15.00 Sign Up Fee)
-
-* Jiu-Jitsu
-* Muay Thai
-* Kickboxing
-* Yoga
-
-**\- OR -** 
-
-## Pay In Full, 3x's A Week (6 Months) - $1,230:
-
-* ## **Save $60!**
+  * Unlimited Jiu-Jitsu, Muay Thai, Kickboxing, Yoga
 
 - - -
 
-## Two Times a Week - $200/mo ($25 Per Class)
+## Three Times a Week
+  * Monthly Fee: $250 + $15 sign-up fee
+  * First Month: $275
+  * $21 per class
 
-(+ $15.00 Sign Up Fee)
-
-* Jiu-Jitsu
-* Muay Thai
-* Kickboxing
-* Yoga
-
-**\- OR -** 
-
-## Pay In Full, 2x's A Week (6 Months) - $1,150:
-
-* ## **Save $50!**
+  * Unlimited Jiu-Jitsu, Muay Thai, Kickboxing, Yoga
 
 - - -
 
-## One Time a Week - $140/mo ($35 Per Class)
+## Two Times a Week
+  * Monthly Fee: $225 + $15 sign-up fee
+  * First Month: $240
+  * $28 per class
 
-(+ $15.00 Sign Up Fee)
-
-* Jiu-Jitsu
-* Muay Thai
-* Kickboxing
-* Yoga
-
-**\*Excluded for Toddler Classes**
-
-**\- OR -** 
-
-## Pay In Full, 1x A Week (6 Months) - $800:
-
-* ## **Save $40!**
+  * Unlimited Jiu-Jitsu, Muay Thai, Kickboxing, Yoga
 
 - - -
 
-## Jiu-Jitsu Package - $225/mo:
+## One Time a Week
+  * Monthly Fee: $160 + $15 sign-up fee
+  * First Month: $175
+  * $40 per class
 
-(+ $15.00 Sign Up Fee)
+  * Unlimited Jiu-Jitsu, Muay Thai, Kickboxing, Yoga
+
+
+- - -
+
+## Unlimited Jiu-Jitsu:
+  * Monthly Fee: $250 + $15 sign-up fee
+  * First Month: $275
+  * $11 per class for a minimum of 6 classes a week
 
 * Includes unlimited access to all Jiu-Jitsu classes and Yoga! 
 
-  * Jiu-Jitsu
-  * Yoga
+- - -
 
-**\- OR -** 
+## Unlimited Striking:
+  * Monthly Fee: $200 + $15 sign-up fee
+  * First Month: $215
+  * $12 per class for a minimum of 4 classes a week
 
-## Pay In Full, BJJ Unlimited (6 Months) - $1,300:
-
-* ## **Save $50!**
+  * Includes unlimited access to Muay Thai, Kickboxing and Yoga! 
 
 - - -
 
-## Striking Unlimited - $185/mo:
+## Toddler Membership 2x a Week:
+  * Monthly Fee: $225 + $15 sign-up fee
+  * First Month: $240
+  * $28 per class
+  * Pick two classes weekly. Either 2 Jiu-Jitsu classes a week/ or 1  jiu-jitsu class & 1 Kickboxing class.  
 
-(+ $15.00 Sign Up Fee)
+## Toddler Membership 3x a Week:
+  * Monthly Fee: $250 + $15 sign-up fee
+  * First Month: $275
+  * $21 per class
+  * 3 Sessions a Week. Includes all Toddler classes. 2 Jiu-Jitsu classes and 1 Kickboxing class weekly.
 
-* Includes unlimited access to Muay Thai, Kickboxing and Yoga! 
+---
 
-  * Kickboxing
-  * Muay Thai
-  * Yoga
+## 6 Months Paid in Full Unlimited:
+$1,400.00
 
-**\- OR -** 
-
-## Pay In Full, Striking Unlimited (6 Months) - $1,060:
-
-* ## **Save $50!**
-
-- - -
-
-## Age 3-6 Toddler Program
-
-* l﻿earn discipline
-* l﻿earn throws (Judo)
-* learn how to fall
-* Great for adventurous kids   
-
-## $215/mo: ($18 Per Class)
-
-(+ $15.00 Sign Up Fee)
-
-* 3 Sessions a Week. Includes  all Toddler classes. 2 Jiu-Jitsu classes and 1 Kickboxing class weekly.
-
-  **\- OR -**
-
-## $200/mo: ($25 Per Class)
-
-(+ $15.00 Sign Up Fee)
-
-* 2 Sessions a Week. Pick two classes weekly. Either 2 Jiu-Jitsu classes a week/ or 1  jiu-jitsu class & 1 Kickboxing class.
-
-- - -
+---
 
 # Drop In Fees:
 
-**One Session - $45**
+**One Session - $50**
 
-**Day Pass - $55**
+**Day Pass - $100**
 
 **(Drop In fees are no longer offered for our Toddler program)**
 
@@ -196,7 +145,7 @@ Available for purchase below:
 
 **Professor Alvaro:**
 
-* (1) Session(s) 30 minutes: $70
+* (1) Session(s) 30 minutes: $60
 * (3) Session(s) 30 minutes: $165
 * (5) Session(s) 30 minutes: $275
 * (10) Session(s) 30 minutes: $550
@@ -205,8 +154,8 @@ Available for purchase below:
 
 * (1) Session(s) 1 hour: $120
 * (3) Session(s) 1 hour: $350
-* (5) Session(s) 1 hour:  $500
-* (10) Session(s) 1 hour: $1,000
+* (5) Session(s) 1 hour:  $499
+* (10) Session(s) 1 hour: $999
 
 **Coach Rocco:** 
 
@@ -215,7 +164,7 @@ Available for purchase below:
 
 **Kids Private Session with a Coach:** 
 
-* 45 MINUTES - $55
+* 45 MINUTES - $45
 
 **Mommy/Daddy & Me Private:**
 
