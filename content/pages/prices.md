@@ -26,9 +26,9 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 - - -
 
 ## Unlimited Classes
-Monthly Fee: $299 + $15 sign-up fee
-First Month: $314
-$13 per class for a minimum of 6 classes a week
+* Monthly Fee: $299 + $15 sign-up fee
+* First Month: $314
+* $13 per class for a minimum of 6 classes a week
 
 * From unlimited access to yoga, jiu jitsu, kickboxing and muay thai for you to take advantage of! 
 
