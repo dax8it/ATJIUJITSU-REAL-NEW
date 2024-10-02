@@ -157,14 +157,6 @@ Available for purchase below:
 * (5) Session(s) 1 hour:  $499
 * (10) Session(s) 1 hour: $999
 
-**Coach Rocco:** 
-
-* (3) ONE HOUR PRIVATE SESSIONS - $300
-* (1) ONE HOUR PRIVATE SESSION - $120
-
-**Kids Private Session with a Coach:** 
-
-* 45 MINUTES - $45
 
 **Mommy/Daddy & Me Private:**
 
