@@ -14,7 +14,18 @@ module.exports = {
     },
   },
   plugins: [
-    'gatsby-plugin-netlify',
+    {
+      resolve: 'gatsby-plugin-netlify',
+      options: {
+        headers: {
+          '/*': [
+            'Access-Control-Allow-Origin: *',
+            'Content-Security-Policy: frame-ancestors \'self\' https://atjiujitsunyc2020.netlify.com; script-src \'self\' \'unsafe-inline\' \'unsafe-eval\' https://identity.netlify.com https://unpkg.com/ https://identity.netlify.com/v1/netlify-identity-widget.js',
+          ],
+        },
+        mergeSecurityHeaders: false, // This ensures our CSP headers aren't overwritten
+      },
+    },
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-image`,
