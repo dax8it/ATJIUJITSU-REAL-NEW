@@ -22,7 +22,9 @@ tags:
                   <br />
                 </div>
 
-- - -
+
+_ _ _
+
 
 # The Premier Destination: Jiujitsu NYC Academy
 
@@ -38,8 +40,7 @@ Beyond just techniques and drills, Jiujitsu NYC Academy is deeply committed to f
 
 <br>
 
-- - -
-<br>
+***
 
 # Best K﻿Ids Martial Arts In Queens 
 
@@ -53,9 +54,7 @@ For parents in Queens seeking a transformative experience for their children, th
  
 <br>
 
-- - -
-<br>
-
+***
 
 # Get started now!
 
@@ -65,7 +64,7 @@ For parents in Queens seeking a transformative experience for their children, th
 
 <br>
 
-- - -
+***
 
 # Our Team
 
@@ -99,7 +98,7 @@ Having been raised in Jackson Heights his whole life, Professor Alvaro dreamt ab
 
 <br>
 
-- - -
+***
 
 <br>
 
@@ -111,7 +110,7 @@ Having been raised in Jackson Heights his whole life, Professor Alvaro dreamt ab
 
 <br>
 
-- - -
+***
 
 <br>
 
@@ -127,7 +126,7 @@ Kim holds a BS in Biochemistry from Florida State University and is certified by
 
 An active competitor in Brazilian Jiu-Jitsu, Kim specializes in creating sport-specific mobility programs. She has developed a unique program tailored for grapplers, which will be exclusively taught at @Jiu-Jitsu NYC. Her multifaceted expertise makes her an ideal mentor for those looking to improve their Self-Respect and Self Defense skills.<br>
 
-- - -
+***
 
 <br>
 
@@ -145,25 +144,7 @@ Though juggling multiple ventures, Morgan's most cherished role is being a dad, 
 
 <br>
 
-- - -
-
-<br>
-
-![Rocco Giambrone](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1583298671/STAFF/IMG_9653-Edit_wf35ni.png)
-
-# Rocco Giambrone
-
-## Kickboxing and MMA Instructor
-
-Meet Rocco, a lifelong competitive athlete and a dedicated practitioner of Martial Arts, including Taekwondo and Brazilian Jiu-Jitsu. Born and raised in Astoria, Queens, Rocco embodies the grit and Mental Toughness that comes from years of disciplined training. Starting his athletic journey at the age of 7, he has explored various sports but found his true calling in Football and later, Mixed Martial Arts.
-
-Rekindling his love for Martial Arts at 27, Rocco quickly embraced the Discipline and Self-Confidence that Brazilian Jiu-Jitsu brought back into his life. He trains daily at the world-renowned Renzo Gracie Academy in NYC and holds a BJJ Purple Belt. With several fights under his belt, including an amateur title fight, Rocco is on the path to turning pro.
-
-A die-hard New Yorker, Rocco combines his passion for life with his expertise in Fitness and Self Defense to create an upbeat and engaging atmosphere in his classes. His teaching style is designed to elevate your Self-Respect while providing a fun and effective training experience.
-
-<br>
-
-- - -
+***
 
 <br>
 
@@ -175,7 +156,7 @@ A die-hard New Yorker, Rocco combines his passion for life with his expertise in
 
 Yvonne is currently a purple belt in Jiu-Jitsu under Professor Alvaro and the instructor of the Beginners No Gi classes held on Mondays and the Beginners Gi class on Fridays. 
 
-- - -
+***
 
 <br>
 
@@ -187,33 +168,10 @@ Yvonne is currently a purple belt in Jiu-Jitsu under Professor Alvaro and the in
 
 <br>
 
-- - -
+***
 
 <br>
 
-![Coach Julian](https://res.cloudinary.com/dax8it/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1692916368/atjiujitsunyc/coach-julian.png)
-
-# Julian
-
-## Coach
-
-<br>
-
-- - -
-
-<br>
-
-![Coach Mo](https://res.cloudinary.com/dax8it/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1692916368/atjiujitsunyc/coach-mo.png)
-
-# Moe
-
-## Coach
-
-<br>
-
-- - -
-
-<br>
 
 ![Daniela Tautiva M.S.W Co-Owner and Assistant Program Director](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1583298673/STAFF/IMG_9722-Edit_xhvhqb.png "Daniela Tautiva M.S.WCo-Owner and Assistant Program Director")
 
@@ -242,4 +200,4 @@ A 2nd Degree Brown Belt in Shotokan Karate and a Purple Belt in Brazilian Jiu-Ji
   gtag('config', 'UA-4799639-6');
 </script>
 
-- - -
+***

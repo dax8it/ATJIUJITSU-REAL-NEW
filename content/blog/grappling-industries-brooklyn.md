@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Grappling Industries Brooklyn - Feb. 18, 23
-order: 1
+order: 20
 date: 2023-02-18T22:49:02.647Z
 description: The kids came out with heart and soul to compete. They earned the
   3rd Place Team Trophy!

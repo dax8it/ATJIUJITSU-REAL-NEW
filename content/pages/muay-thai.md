@@ -100,14 +100,8 @@ Martial arts is a powerful catalyst that amplifies an adult's physical agility a
 
 - - -
 
-![](/img/dsc08873.jpg)
-
 ![](/img/dsc08470.jpg)
 
 ![](/img/dsc09020.jpg)
-
-![](/img/dsc08193.jpg)
-
-![](/img/dsc08784.jpg)
 
 - - -

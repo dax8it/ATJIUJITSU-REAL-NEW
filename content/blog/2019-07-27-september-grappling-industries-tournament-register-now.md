@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Grappling Industries Tournament - Sep. 28, 19
-order: 30
+order: 20
 date: 2019-09-28T00:00:00.000Z
 description: We're overwhelmed with gratitude for everyone who participated in
   this most recent Grappling Industries Tournament.  Your display of Mental

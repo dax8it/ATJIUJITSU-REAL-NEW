@@ -14,20 +14,28 @@ module.exports = {
     },
   },
   plugins: [
+    'gatsby-plugin-netlify',
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
+    `gatsby-plugin-image`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/static/img`,
+        name: `images`,
+      },
+    },
     {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
-          `gatsby-plugin-netlify-cms-paths`,
           {
             resolve: "gatsby-remark-relative-images",
             options: {
-              name: "uploads",
+              staticFolders: ['static'],
+              include: ['thumbnail', 'image'],
             },
           },
-
           {
             resolve: `gatsby-remark-images`,
             options: {
@@ -35,59 +43,38 @@ module.exports = {
               withWebp: true,
               showCaptions: true,
               quality: 75,
+              linkImagesToOriginal: false,
               wrapperStyle: `margin: 7vw 0;`,
             },
           },
-
           {
             resolve: "gatsby-remark-normalize-paths",
             options: {
               pathFields: ["image", "thumbnail"],
             },
           },
-
-          {
-            resolve: "gatsby-remark-embed-video",
-            options: {
-              //   width: 800,
-              //   ratio: 1.77, // Optional: Defaults to 16/9 = 1.77
-              //   height: 400, // Optional: Overrides optional.ratio
-              related: false, //Optional: Will remove related videos from the end of an embedded YouTube video.
-              noIframeBorder: true, //Optional: Disable insertion of <style> border: 0
-              // urlOverrides: [
-              //   {
-              //    id: 'youtube',
-              //    embedURL: (videoId) => `https://www.youtube-nocookie.com/embed/${videoId}`,
-              //  }
-              //Optional: Override URL of a service provider, e.g to enable youtube-nocookie support
-            },
-          },
-
           {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
               wrapperStyle: `margin-bottom: 1.0725rem`,
             },
           },
-
           {
             resolve: "gatsby-remark-copy-linked-files",
             options: {
               destinationDir: "static",
             },
           },
-
           `gatsby-remark-prismjs`,
           `gatsby-remark-smartypants`,
         ],
       },
     },
-
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/static/img`,
-        name: `uploads`,
+        path: `${__dirname}/content/assets`,
+        name: `assets`,
       },
     },
     {
@@ -112,41 +99,14 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        path: `${__dirname}/content/assets`,
-        name: `assets`,
-      },
-    },
-
-    {
-      resolve: `gatsby-plugin-load-script`,
-      options: {
-        src: "https://www.maonrails.com/js/widgets.js",
-      },
-    },
-
-    {
       resolve: `gatsby-plugin-postcss`,
       options: {
         postCssPlugins: [
           require("postcss-easy-import")(),
           require("postcss-custom-properties")({ preserve: false }),
           require("postcss-color-function")(),
-          require("autoprefixer")({ browsers: ["last 2 versions"] }),
+          require("autoprefixer")(),
         ],
-      },
-    },
-
-    {
-      resolve: `gatsby-plugin-purgecss`,
-      options: {
-        printRejected: true, // Print removed selectors and processed file names
-        develop: true, // Enable while using `gatsby develop`
-        // tailwind: true, // Enable tailwindcss support
-        // whitelist: ['whitelist'], // Don't remove this selector
-        ignore: ["/ignored.css", "prismjs/", "/prism.css", "docsearch.js/"], // Ignore files/folders
-        purgeOnly: ["components/", "/main.css", "bootstrap/"], // Purge only these files/folders
       },
     },
     {
@@ -158,7 +118,59 @@ module.exports = {
         cookieDomain: "atjiujitsunyc.com",
       },
     },
-    `gatsby-plugin-feed`,
+    {
+      resolve: `gatsby-plugin-feed`,
+      options: {
+        query: `
+          {
+            site {
+              siteMetadata {
+                title
+                description
+                siteUrl
+                site_url: siteUrl
+              }
+            }
+          }
+        `,
+        feeds: [
+          {
+            serialize: ({ query: { site, allMarkdownRemark } }) => {
+              return allMarkdownRemark.nodes.map(node => {
+                return Object.assign({}, node.frontmatter, {
+                  description: node.excerpt,
+                  date: node.frontmatter.date,
+                  url: site.siteMetadata.siteUrl + node.fields.slug,
+                  guid: site.siteMetadata.siteUrl + node.fields.slug,
+                  custom_elements: [{ "content:encoded": node.html }],
+                })
+              })
+            },
+            query: `
+              {
+                allMarkdownRemark(
+                  sort: { frontmatter: { date: DESC } },
+                ) {
+                  nodes {
+                    excerpt
+                    html
+                    fields {
+                      slug
+                    }
+                    frontmatter {
+                      title
+                      date
+                    }
+                  }
+                }
+              }
+            `,
+            output: "/rss.xml",
+            title: "AT JIUJITSU NYC Blog RSS Feed",
+          },
+        ],
+      },
+    },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -171,14 +183,25 @@ module.exports = {
         icon: `content/assets/atjiujitsu-icon.png`,
       },
     },
-
+    {
+      resolve: 'gatsby-plugin-decap-cms',
+      options: {
+        modulePath: `${__dirname}/src/cms/cms.js`,
+        enableIdentityWidget: true,
+        publicPath: 'admin',
+        htmlTitle: 'Content Manager',
+        includeRobots: false,
+      },
+    },
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-netlify-cms`,
     {
       resolve: `gatsby-plugin-netlify`,
       options: {
-        mergeLinkHeaders: false,
-        mergeCachingHeaders: false,
+        headers: {
+          "/*": [
+            "Cache-Control: public, max-age=31536000, immutable"
+          ]
+        }
       },
     },
     `gatsby-plugin-offline`,

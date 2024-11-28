@@ -37,7 +37,7 @@ const TagIndex = ({ data }) => {
   )
 }
 
-const indexQuery = graphql`
+export const pageQuery = graphql`
   query {
     site {
       siteMetadata {
@@ -45,14 +45,14 @@ const indexQuery = graphql`
       }
     }
     allMarkdownRemark {
-      distinct(field: frontmatter___tags)
+      distinct(field: {frontmatter: {tags: SELECT}})
     }
   }
 `
 
 export default props => (
   <StaticQuery
-    query={indexQuery}
+    query={pageQuery}
     render={data => <TagIndex props data={data} />}
   />
 )

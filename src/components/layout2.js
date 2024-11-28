@@ -5,24 +5,23 @@ import Footer2 from "./footer2"
 const Layout = props => {
   const { title, children } = props
   const [toggleNav, setToggleNav] = React.useState(false)
+
   return (
-<div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`}>
-    <header className="site-head">
-
-
-      <div className="site-head-container">
-        <a
-          className="nav-burger"
-          href={`#`}
-          aria-label="Menu"
-          onClick={() => setToggleNav(!toggleNav)}
-        >
-          <div className="hamburger hamburger--collapse">
-            <div className="hamburger-box">
-              <div className="hamburger-inner" />
+    <div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`}>
+      <header className="site-head">
+        <div className="site-head-container">
+          <a
+            className="nav-burger"
+            href={`#`}
+            aria-label="Menu"
+            onClick={() => setToggleNav(!toggleNav)}
+          >
+            <div className="hamburger hamburger--collapse">
+              <div className="hamburger-box">
+                <div className="hamburger-inner" />
+              </div>
             </div>
-          </div>
-        </a>
+          </a>
 
 {/* --- NAV START --- */}
 
@@ -99,25 +98,24 @@ const Layout = props => {
 
 {/* --- NAV END --- */}
 
-      </div>
- 
-    </header>
-
-
+          <div className="site-head-right">
+            <div className="social-links">
+            </div>
+          </div>
+        </div>
+      </header>
       <main id="site-main" className="site-main">
         <div id="swep" className="transition-fade">
           {children}
         </div>
       </main>
       <Footer2 />
-      
       <footer className="site-foot">
         &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
         MARTIAL ARTS • JIUJITSU • KIDS BJJ • KID KICKBOXING • KIDS MMA • MUAY THAI • KETTLEBELL • SMARTER YOGA •
         KICKBOXING • MMA • TODDLER JIU-JITSU • JACKSON HEIGHTS • QUEENS{" "}
-
       </footer>
-</div>
+    </div>
   )
 }
 

@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 2023 Jiu-Jitsu Summer Camp Kids Activities
-order: 3
+order: 20
 date: 2023-07-11T19:39:08.339Z
 description: Enroll your child in our 2023 Jiu-Jitsu Summer Camp for a blend of
   Martial Arts, Fitness, and Mental Toughness. Suitable for kids ages 5-14.

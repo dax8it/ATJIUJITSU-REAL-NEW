@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Roberto Jimenez Backtake Seminar - Dec. 28, 19'
-order: 30
+order: 20
 date: 2019-12-28T00:00:00.000Z
 description: 'Guard Pass to Backtake Seminar '
 thumbnail: /img/dsc01933.jpg

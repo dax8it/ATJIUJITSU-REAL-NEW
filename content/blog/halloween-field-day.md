@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Halloween Field Day 2020
-order: 30
+order: 20
 date: 2020-10-31T14:00:00.000Z
 description: >-
   We hope you all had a blast during our Halloween Field Day filled with lots of

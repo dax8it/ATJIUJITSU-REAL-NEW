@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Adult In-House BJJ Tournament - Dec. 12, 21
-order: 30
+order: 20
 date: 2021-12-12T22:22:31.732Z
 description: AT Jiu-Jitsu NYC first ever Jiu-Jitsu In-House Tournament. With
   people joining from schools from all over to come and compete with our

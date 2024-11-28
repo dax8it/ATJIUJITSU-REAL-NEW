@@ -1,7 +1,6 @@
 import React from "react"
 import { graphql, StaticQuery } from "gatsby"
-import Img from "gatsby-image"
-
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import Layout from "../components/layout2"
 import SEO from "../components/seo"
 
@@ -82,8 +81,8 @@ const ElementsPage = ({ data }, location) => {
             <div className="col-6">
               <div>
                  <figure className="kg-card kg-image-card">
-                      <Img
-                      fluid={data.smallPic.childImageSharp.fluid}
+                      <GatsbyImage
+                      image={getImage(data.smallPic)}
                       className="kg-image"
                       />
                   </figure>
@@ -99,8 +98,8 @@ const ElementsPage = ({ data }, location) => {
             <div className="col-6">
               <div>
                  <figure className="kg-card kg-image-card">
-                      <Img
-                      fluid={data.medPic.childImageSharp.fluid}
+                      <GatsbyImage
+                      image={getImage(data.medPic)}
                       className="kg-image"
                       />
                   </figure>
@@ -144,25 +143,19 @@ query {
     relativePath: { eq: "kids-jiujitsu-jackson-heights-queens.jpg" }
   ) {
     childImageSharp {
-      fluid(maxWidth: 1360) {
-        ...GatsbyImageSharpFluid
-      }
+      gatsbyImageData
     }
   }
   medPic: file(relativePath: { eq: "adult-bjj-queens.jpg" }) {
     childImageSharp {
-      fluid(maxWidth: 1360) {
-        ...GatsbyImageSharpFluid
-      }
+      gatsbyImageData
     }
   }
   largePic: file(
     relativePath: { eq: "vladimir-malyutin-98174-unsplash.jpg" }
   ) {
     childImageSharp {
-      fluid(maxWidth: 1360) {
-        ...GatsbyImageSharpFluid
-      }
+      gatsbyImageData
     }
   }
 }

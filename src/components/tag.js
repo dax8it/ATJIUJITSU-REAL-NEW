@@ -13,10 +13,9 @@ class Tags extends Component {
               <Link
                 className="post-card-tag-link"
                 key={tag}
-                // style={{ textDecoration: "none" }}
                 to={`/tags/${_.kebabCase(tag)}`}
               >
-                #{tag}
+                #{tag.replace(/-/g, ' ')}
               </Link>{" "}
             </span>
           ))}

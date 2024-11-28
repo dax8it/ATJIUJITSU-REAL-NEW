@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: " 🥋 Invitation to Our Kids' Jiu-Jitsu & Kickboxing Open House Event! 🥊"
-order: 30
+order: 20
 date: 2023-09-12T21:14:10.208Z
 thumbnail: /img/9fe14d10-51e3-410f-8f1a-1b0c52f2ff75.jpg
 home: false

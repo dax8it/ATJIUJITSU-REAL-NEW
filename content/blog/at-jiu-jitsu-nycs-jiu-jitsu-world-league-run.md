@@ -10,14 +10,12 @@ description: "Jiu-Jitsu NYC's competition team's journey at the Jiu-Jitsu World
 thumbnail: /img/img_0267.jpg
 home: true
 tags:
-  - Adults Martial Arts
   - Kids Martial Arts
   - Jiujitsu
   - Jiujitsu near me
   - Jackson Heights
   - Queens
   - Jiujitsu for Kids
-  - adult-programs
   - MMA
   - Media
   - Events

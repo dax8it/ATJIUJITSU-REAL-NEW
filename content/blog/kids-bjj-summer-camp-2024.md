@@ -29,13 +29,15 @@ We are thrilled to announce our upcoming **2024 Jiu-Jitsu Summer Camp**, set to 
 
 **Camp Details**  
 **Duration:** July 9th to August 16th  
-**Time:** 8:30AM - 3:30PM (Tuesday through Friday)
+**Time:** 8:30AM - 4:00PM (Tuesday through Friday)
 
-**Registration Price:**
+**Early Bird Registration Price Before 6/3**
+- **Full Six Weeks:** $2,100
+- **Weekly Price:** $425
+
+**Registration Price After 6/3**
 - **Full Six Weeks:** $2,400
-- **Price for Two Weeks:** $890
 - **Weekly Price:** $500
-- **Daily Price:** $135
 </div>
 
 <div style="text-align: center;">
@@ -50,8 +52,8 @@ We are thrilled to announce our upcoming **2024 Jiu-Jitsu Summer Camp**, set to 
 - **11:30AM - 12:30PM:** Positional Sparring and Exciting Games
 - **12:30PM - 1:30PM:** Lunch / Free Time
 - **1:30PM - 3:00PM:** Park Adventure / Trip to the Library
-- **3:00PM - 3:30PM:** Arts and Crafts
-- **3:30PM:** Pickup
+- **3:00PM - 4:00PM:** Arts and Crafts
+- **4:00PM:** Pickup
 
 ---
 
@@ -59,7 +61,7 @@ Our Jiu-Jitsu Summer Camp is more than just martial arts training; it's a holist
 
 To secure your child's spot in our Summer Camp, please complete the registration process as soon as possible. With limited spaces available, early registration is recommended to avoid disappointment.
 
-<a href="https://at-jiujitsu-nyc.gymdesk.com/signup" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: blue; text-align: center; text-decoration: none; border-radius: 5px;">Register Now</a>
+<a href="https://at-jiujitsu-nyc.gymdesk.com/book" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: blue; text-align: center; text-decoration: none; border-radius: 5px;">Register Now:</a>
 
 ---
 
@@ -90,7 +92,7 @@ Our camp days are packed with engaging activities that go beyond traditional Mar
 **Our coaches will help build your child's skills in Jiu-Jitsu, while engaging and inspiring them to learn new skills. Each week will be designed to empower and enlighten kids through amusing activities, fascinating and safe field trips, timely lessons in teamwork and so much more! Join us now!**
 
 
-<a href="https://at-jiujitsu-nyc.gymdesk.com/signup" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: blue; text-align: center; text-decoration: none; border-radius: 5px;">Register Now</a>
+<a href="https://at-jiujitsu-nyc.gymdesk.com/book" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: blue; text-align: center; text-decoration: none; border-radius: 5px;">Register Now:</a>
 
 
 # Jiu-Jiutsu Summer Camp

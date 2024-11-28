@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Kids Outdoor Kickboxing Classes
-order: 4
+order: 15
 date: 2021-05-22T20:30:05.220Z
 description: >-
   Our outdoor program was fun while it lasted! We hope you had the chance to

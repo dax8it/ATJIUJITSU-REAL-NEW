@@ -7,7 +7,7 @@
 
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
-import Image from "gatsby-image"
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 function Bio() {
   return (
@@ -17,15 +17,16 @@ function Bio() {
         const { author, social } = data.site.siteMetadata
         return (
           <section>
-            <Image
-              fixed={data.avatar.childImageSharp.fixed}
+            <GatsbyImage
+              image={getImage(data.avatar)}
               alt={author}
-              imgStyle={{
-                borderRadius: `50%`,
+              className="bio-avatar"
+              style={{
+                marginBottom: 0,
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in Osaka
+              Written by <strong>{author}</strong> who lives and works in Queens
               building useful things.
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
@@ -41,11 +42,9 @@ function Bio() {
 
 const bioQuery = graphql`
   query BioQuery {
-    avatar: file(absolutePath: { regex: "/profile-pic.png/" }) {
+    avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
       childImageSharp {
-        fixed(width: 50, height: 50) {
-          ...GatsbyImageSharpFixed
-        }
+        gatsbyImageData(width: 50, height: 50, layout: FIXED)
       }
     }
     site {

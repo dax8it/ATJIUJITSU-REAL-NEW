@@ -16,8 +16,10 @@ class TagPageTemplate extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
-          // title={`#${tag}`}
-          title={`#${tag.charAt(0).toUpperCase() + tag.slice(1)}`}
+          title={`${tag
+            .split('-')
+            .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+            .join(' ')}`}
           keywords={[
             `${tag}`,
             `jiujitsu`,
@@ -74,7 +76,10 @@ class TagPageTemplate extends React.Component {
         />
         <header className="tag-page-head">
           <h1 className="page-head-title">
-            Our {tag}
+            Our {tag
+            .split('-')
+            .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+            .join(' ')}
             {/*({props.data.allMarkdownRemark.totalCount})*/}
           </h1>
           <br />
@@ -106,8 +111,8 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      filter: { frontmatter: { tags: { in: [$tag] } } }
-      sort: { fields: [frontmatter___date], order: DESC }
+      filter: {frontmatter: {tags: {in: [$tag]}}}
+      sort: {frontmatter: {date: DESC}}
     ) {
       totalCount
       edges {
@@ -123,10 +128,9 @@ export const pageQuery = graphql`
             tags
             thumbnail {
               childImageSharp {
-                fluid(maxWidth: 1360) {
-                  ...GatsbyImageSharpFluid
-                }
+                gatsbyImageData(width: 1360, height: 1000, placeholder: BLURRED, formats: [AUTO, WEBP], transformOptions: {fit: COVER})
               }
+              relativePath
             }
           }
         }

@@ -232,7 +232,7 @@ const BlogIndex = ({ data }, location) => {
   )
 }
 
-const indexQuery = graphql`
+export const pageQuery = graphql`
   query {
     site {
       siteMetadata {
@@ -241,8 +241,8 @@ const indexQuery = graphql`
       }
     }
     allMarkdownRemark(
-      sort: { fields: [frontmatter___order], order: ASC }
-      filter: { frontmatter: { home: { eq: true } } }
+      sort: {frontmatter: {order: ASC}}
+      filter: {frontmatter: {home: {eq: true}}}
     ) {
       edges {
         node {
@@ -259,9 +259,7 @@ const indexQuery = graphql`
             tags
             thumbnail {
               childImageSharp {
-                fluid(maxWidth: 1360) {
-                  ...GatsbyImageSharpFluid
-                }
+                gatsbyImageData(width: 1360, placeholder: BLURRED)
               }
             }
           }
@@ -273,7 +271,7 @@ const indexQuery = graphql`
 
 export default props => (
   <StaticQuery
-    query={indexQuery}
+    query={pageQuery}
     render={data => (
       <BlogIndex location={props.location} props data={data} {...props} />
     )}

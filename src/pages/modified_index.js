@@ -149,8 +149,8 @@ const indexQuery = graphql`
       }
     }
     allMarkdownRemark(
-      sort: { fields: [frontmatter___order], order: ASC }
-      filter: { frontmatter: { home: { eq: true } } }
+      sort: {frontmatter: {order: ASC}}
+      filter: {frontmatter: {home: {eq: true}}}
     ) {
       edges {
         node {
@@ -167,9 +167,7 @@ const indexQuery = graphql`
             tags
             thumbnail {
               childImageSharp {
-                fluid(maxWidth: 1360) {
-                  ...GatsbyImageSharpFluid
-                }
+                gatsbyImageData(width: 1360, placeholder: BLURRED)
               }
             }
           }

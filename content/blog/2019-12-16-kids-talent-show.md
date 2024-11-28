@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Kids Talent Show - Dec. 14, 19
-order: 30
+order: 20
 date: 2019-12-15T00:00:00.000Z
 description: AT Jiu-Jitsu NYC's first ever talent show! From magic tricks, to
   dancing and singing to playing musical instruments and hula hoop tricks!

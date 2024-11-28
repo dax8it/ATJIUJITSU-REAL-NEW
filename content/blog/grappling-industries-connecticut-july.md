@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Grappling Industries Connecticut - Jul. 17, 21'
-order: 30
+order: 20
 date: 2021-07-18T20:08:37.553Z
 description: >-
   Thank you to everyone who came out to Connecticut to compete, despite

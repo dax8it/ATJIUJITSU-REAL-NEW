@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: LIJJN Super Fight Daniel Orama - Jan. 8, 23
-order: 30
+order: 20
 date: 2023-01-08T22:41:57.784Z
 description: "Congratulations to our very own Daniel Orama for his win at his
   first ever Super Fight! "

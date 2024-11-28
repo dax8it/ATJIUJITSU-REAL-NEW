@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Kids In House Tournament - Dec. 9, 22'
-order: 30
+order: 20
 date: 2022-12-10T15:00:00.000Z
 description: >-
   This years tournament was a huge success. Thank you to everyone who joined us!

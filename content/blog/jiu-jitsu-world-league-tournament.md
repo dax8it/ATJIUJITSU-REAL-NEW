@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Jiu-Jitsu World League Tournament
-order: 30
+order: 20
 date: 2023-07-30T21:20:43.478Z
 description: "Another tournament in the books! "
 thumbnail: /img/whatsapp-image-2023-07-31-at-6.09.45-pm.jpeg

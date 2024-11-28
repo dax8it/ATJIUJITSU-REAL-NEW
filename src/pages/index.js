@@ -1,6 +1,6 @@
 import React from "react"
 import { graphql, StaticQuery } from "gatsby"
-import Img from "gatsby-image"
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import Layout from "../components/layout2"
 import SEO from "../components/seo"
 // import Bio from "../components/bio"
@@ -160,100 +160,91 @@ const BlogIndex = ({ data }, location) => {
 {/* ----- THIS IS THE CODE FOR HOME PAGE ----- */}
 
 
- {/* 2 COLUMNS - Picture Right */}    
-
           <div className="row">        
-            <div className="col-6">
-              <div>
-                   <h2>Kids Martial Arts</h2>
-                  <p>Martial arts is a structured system of training designed to 
-                    improve physical fitness, mental discipline, and self-defense
-                     skills. 
-                     <br />                 
-                <ul>
-                    <li><a href="https://www.atjiujitsunyc.com/kids-jiujitsu-classes-in-queens/">
-                          Kids Jiu-Jitsu: (5-9)</a></li>
-                    <li><a href="https://www.atjiujitsunyc.com/kids-jiujitsu-classes-in-queens/">
-                          Kids Jiu-Jitsu: (10-15)</a></li>
-                    <li><a href="https://www.atjiujitsunyc.com/kids-kickboxing-classes-in-queens/">
-                          Kids Kickboxing: (Ages 7-15)</a></li>
-                    <li><a href="https://www.atjiujitsunyc.com/kids-mma/">
-                          Kids MMA: (Ages 8-15)</a></li>
-                    <li><a href="https://www.atjiujitsunyc.com/toddler-jiujitsu/">
-                          Toddlers Jiujitsu: (Ages 3-5)</a></li>
-          
-                </ul>
-                
-                  </p>
-                  <a href="https://www.atjiujitsunyc.com/tags/kids-programs/" className="button primary large">
+            <div className="col-12">
+              <div className="content-section">
+                <div className="programs-container">
+                  <div className="program-section kids-section">
+                    <h2>Kids Martial Arts</h2>
+                    <p>Martial arts is a structured system of training designed to 
+                      improve physical fitness, mental discipline, and self-defense
+                      skills.</p>
+                    <div className="program-links">
+                      <a href="https://www.atjiujitsunyc.com/kids-jiujitsu-classes-in-queens/" className="program-link">
+                        Kids Jiu-Jitsu: (5-9)
+                      </a>
+                      <a href="https://www.atjiujitsunyc.com/kids-jiujitsu-classes-in-queens/" className="program-link">
+                        Kids Jiu-Jitsu: (10-15)
+                      </a>
+                      <a href="https://www.atjiujitsunyc.com/kids-kickboxing-classes-in-queens/" className="program-link">
+                        Kids Kickboxing: (Ages 7-15)
+                      </a>
+                      <a href="https://www.atjiujitsunyc.com/kids-mma/" className="program-link">
+                        Kids MMA: (Ages 8-15)
+                      </a>
+                      <a href="https://www.atjiujitsunyc.com/toddler-jiujitsu/" className="program-link">
+                        Toddlers Jiujitsu: (Ages 3-5)
+                      </a>
+                    </div>
+                    <a href="https://www.atjiujitsunyc.com/tags/kids-programs/" className="button primary large">
                       LEARN MORE...
-                  </a>
-              </div>
-            </div>
-            <div className="col-6">
-              <div>
-                 <figure className="kg-card kg-image-card">
-                      <Img
-                      fluid={data.smallPic.childImageSharp.fluid}
-                      className="kg-image"
+                    </a>
+                    <figure className="kg-card kg-image-card">
+                      <GatsbyImage
+                        image={getImage(data.smallPic)}
+                        className="kg-image"
+                        alt="Kids Martial Arts"
                       />
-                  </figure>
-              </div>
-            </div>
-          </div>
-
-     {/* 2 COLUMNS - Picture Left */} 
-
-
-     <div className="row">        
-            
-            <div className="col-6">
-              <div>
-                 <figure className="kg-card kg-image-card">
-                      <Img
-                      fluid={data.medPic.childImageSharp.fluid}
-                      className="kg-image"
-                      />
-                  </figure>
-              </div>
-            </div>
-
-            <div className="col-6">
-              <div>
-                   <h2>Adults Martial Arts</h2>
-                  <p>Whether you're looking to improve your mobility, learn self-defense or increase your 
-                    physical and mental health, we have programs to meet your every need.
-                  </p>
-                  <p>                  
-                <ul>
-                    <li><a href="https://www.atjiujitsunyc.com/adult-jiujitsu/">
-                          Jiu-Jitsu</a></li>
-                    <li><a href="https://www.atjiujitsunyc.com/muay-thai/">
-                          Muay-Thai</a></li>
-                    <li><a href="https://www.atjiujitsunyc.com/mma/">
-                          MMA</a></li>
-                    <li><a href="https://www.atjiujitsunyc.com/kick-boxing/">
-                          Kickboxing</a></li>
-                    <li><a href="https://www.atjiujitsunyc.com/smarter-yoga/">
-                          Smarter Yoga</a></li>
-                    <li><a href="https://www.atjiujitsunyc.com/kettlebell/">
-                          Kettle Bell</a></li>
-                </ul>
-                  </p>
-
-                  <a href="https://www.atjiujitsunyc.com/tags/adult-programs/" className="button primary large">
+                    </figure>
+                  </div>
+                  <hr />
+                  <div className="program-section adults-section">
+                    <h2>Adults Martial Arts</h2>
+                    <p>Whether you're looking to improve your mobility, learn self-defense 
+                      or increase your physical and mental health, we have programs to meet 
+                      your every need.</p>
+                    <div className="program-links">
+                      <a href="https://www.atjiujitsunyc.com/adult-jiujitsu/" className="program-link">
+                        Jiu-Jitsu
+                      </a>
+                      <a href="https://www.atjiujitsunyc.com/muay-thai/" className="program-link">
+                        Muay-Thai
+                      </a>
+                      <a href="https://www.atjiujitsunyc.com/mma/" className="program-link">
+                        MMA
+                      </a>
+                      <a href="https://www.atjiujitsunyc.com/kickboxing/" className="program-link">
+                        Kickboxing
+                      </a>
+                      <a href="https://www.atjiujitsunyc.com/smarter-yoga/" className="program-link">
+                        Smarter Yoga
+                      </a>
+                      <a href="https://www.atjiujitsunyc.com/kettlebell/" className="program-link">
+                        Kettle Bell
+                      </a>
+                    </div>
+                    <a href="https://www.atjiujitsunyc.com/tags/adult-programs/" className="button primary large">
                       LEARN MORE...
-                  </a>
+                    </a>
+                    <figure className="kg-card kg-image-card">
+                      <GatsbyImage
+                        image={getImage(data.medPic)}
+                        className="kg-image"
+                        alt="Adult Martial Arts"
+                      />
+                    </figure>
+                  </div>
+                </div>
               </div>
             </div>
           </div>  
         </div>
       </article>
-
+      <hr />
  {/*         <h3>Why should kids practice martial arts?</h3>
           <p>Kids should practice martial arts to enhance their physical health, boost mental resilience, develop discipline, and acquire valuable life skills like respect and self-defense.</p>
 */}
-     
+      
         <h3>Our Results Speak for Themselves</h3>
         <p>The world of martial arts is ever-evolving, with new techniques and philosophies emerging regularly. @JIUJITSUNYC stays ahead of the curve. We've distilled decades of martial arts evolution to offer you training that's both traditional and cutting-edge.</p>
         <p>Our commitment to the Jackson Heights community has birthed a new generation of martial artists. These individuals are not just physically adept but also mentally resilient, embodying the harmony of body, mind, and spirit. They stand as a testament to our quality training, community engagement, and the transformative power of martial arts.</p>
@@ -267,7 +258,7 @@ const BlogIndex = ({ data }, location) => {
             <li><strong>NLP-friendly sentence for Google Snippet:</strong> @JIUJITSUNYC in Jackson Heights, Queens, offers a unique blend of traditional and modern martial arts training in a community-driven environment.</li>
         </ul>
     </section> */}
-
+<hr />
     {/* FAQ Section */}
     <section className="faq-section">
 
@@ -306,7 +297,7 @@ const BlogIndex = ({ data }, location) => {
             <dt>Why is discipline a crucial aspect of martial arts training for children?</dt>
             <dd>Discipline in martial arts teaches children punctuality, dedication, and respect. Regular practice and adherence to dojo rules instill a strong sense of commitment and responsibility.</dd>
         </dl>
-
+        <hr />
    {/*                 <h3 id="definition">
     <strong>FAQs about the Martial Arts Academy</strong>
         </h3>
@@ -381,9 +372,24 @@ const indexQuery = graphql`
         description
       }
     }
+    benchAccounting: file(relativePath: { eq: "bench-accounting-49909-unsplash.jpg" }) {
+      childImageSharp {
+        gatsbyImageData(width: 1360, placeholder: BLURRED, formats: [AUTO, WEBP])
+      }
+    }
+    smallPic: file(relativePath: { eq: "kids-adults.jpg" }) {
+      childImageSharp {
+        gatsbyImageData(width: 1360, placeholder: BLURRED, formats: [AUTO, WEBP])
+      }
+    }
+    medPic: file(relativePath: { eq: "kids-adults-2.jpg" }) {
+      childImageSharp {
+        gatsbyImageData(width: 1360, placeholder: BLURRED, formats: [AUTO, WEBP])
+      }
+    }
     allMarkdownRemark(
-      sort: { fields: [frontmatter___order], order: ASC }
-      filter: { frontmatter: { home: { eq: true } } }
+      sort: { frontmatter: { order: ASC } }
+      filter: { frontmatter: { order: { in: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 30] } } }
     ) {
       edges {
         node {
@@ -392,45 +398,18 @@ const indexQuery = graphql`
             slug
           }
           frontmatter {
-            date(formatString: "MMMM D, YYYY")
+            date(formatString: "MMMM DD, YYYY")
             title
             description
-            home
-            order
             tags
+            order
             thumbnail {
               childImageSharp {
-                fluid(maxWidth: 1360) {
-                  ...GatsbyImageSharpFluid
-                }
+                gatsbyImageData(width: 1360, height: 1000, placeholder: BLURRED, formats: [AUTO, WEBP])
               }
+              relativePath
             }
           }
-        }
-      }
-    }
-    smallPic: file(
-      relativePath: { eq: "kids-jiujitsu-jackson-heights-queens.jpg" }
-    ) {
-      childImageSharp {
-        fluid(maxWidth: 1360) {
-          ...GatsbyImageSharpFluid
-        }
-      }
-    }
-    medPic: file(relativePath: { eq: "adult-bjj-queens.jpg" }) {
-      childImageSharp {
-        fluid(maxWidth: 1360) {
-          ...GatsbyImageSharpFluid
-        }
-      }
-    }
-    largePic: file(
-      relativePath: { eq: "vladimir-malyutin-98174-unsplash.jpg" }
-    ) {
-      childImageSharp {
-        fluid(maxWidth: 1360) {
-          ...GatsbyImageSharpFluid
         }
       }
     }

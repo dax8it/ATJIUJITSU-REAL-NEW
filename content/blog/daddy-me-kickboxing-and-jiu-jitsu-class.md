@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Daddy & Me Kickboxing and Jiu-Jitsu Class - June 17, 22'
-order: 30
+order: 20
 date: 2022-06-18T22:34:08.841Z
 description: >-
   Thank you to all the fathers that attended our Daddy & Me Kickboxing and

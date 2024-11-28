@@ -1,6 +1,6 @@
 import React from "react"
 import { graphql, StaticQuery } from "gatsby"
-import Img from "gatsby-image"
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import Layout from "../components/layout2"
 import SEO from "../components/seo"
 // import Bio from "../components/bio"
@@ -192,8 +192,8 @@ const BlogIndex = ({ data }, location) => {
             <div className="col-6">
               <div>
                  <figure className="kg-card kg-image-card">
-                      <Img
-                      fluid={data.smallPic.childImageSharp.fluid}
+                      <GatsbyImage
+                      image={getImage(data.smallPic)}
                       className="kg-image"
                       />
                   </figure>
@@ -209,8 +209,8 @@ const BlogIndex = ({ data }, location) => {
             <div className="col-6">
               <div>
                  <figure className="kg-card kg-image-card">
-                      <Img
-                      fluid={data.medPic.childImageSharp.fluid}
+                      <GatsbyImage
+                      image={getImage(data.medPic)}
                       className="kg-image"
                       />
                   </figure>
@@ -380,8 +380,8 @@ const indexQuery = graphql`
       }
     }
     allMarkdownRemark(
-      sort: { fields: [frontmatter___order], order: ASC }
-      filter: { frontmatter: { home: { eq: true } } }
+      sort: {frontmatter: {order: ASC}}
+      filter: {frontmatter: {home: {eq: true}}}
     ) {
       edges {
         node {
@@ -398,38 +398,26 @@ const indexQuery = graphql`
             tags
             thumbnail {
               childImageSharp {
-                fluid(maxWidth: 1360) {
-                  ...GatsbyImageSharpFluid
-                }
+                gatsbyImageData(width: 1360, placeholder: BLURRED)
               }
             }
           }
         }
       }
     }
-    smallPic: file(
-      relativePath: { eq: "kids-jiujitsu-jackson-heights-queens.jpg" }
-    ) {
+    smallPic: file(relativePath: {eq: "kids-jiujitsu-jackson-heights-queens.jpg"}) {
       childImageSharp {
-        fluid(maxWidth: 1360) {
-          ...GatsbyImageSharpFluid
-        }
+        gatsbyImageData(width: 1360, placeholder: BLURRED)
       }
     }
-    medPic: file(relativePath: { eq: "adult-bjj-queens.jpg" }) {
+    medPic: file(relativePath: {eq: "adult-bjj-queens.jpg"}) {
       childImageSharp {
-        fluid(maxWidth: 1360) {
-          ...GatsbyImageSharpFluid
-        }
+        gatsbyImageData(width: 1360, placeholder: BLURRED)
       }
     }
-    largePic: file(
-      relativePath: { eq: "vladimir-malyutin-98174-unsplash.jpg" }
-    ) {
+    largePic: file(relativePath: {eq: "vladimir-malyutin-98174-unsplash.jpg"}) {
       childImageSharp {
-        fluid(maxWidth: 1360) {
-          ...GatsbyImageSharpFluid
-        }
+        gatsbyImageData(width: 1360, placeholder: BLURRED)
       }
     }
   }

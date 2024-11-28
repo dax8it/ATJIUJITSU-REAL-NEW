@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: "A Day to Remember: Grappling Industries Tournament in Brooklyn on June
   10th, 2023"
-order: 30
+order: 20
 date: 2023-06-10T21:08:38.983Z
 description: >-
   What an exhilarating day it was for our Brazilian Jiu-Jitsu family at the

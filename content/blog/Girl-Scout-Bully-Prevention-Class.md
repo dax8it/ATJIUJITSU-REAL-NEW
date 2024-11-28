@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Girl Scout Bully Prevention Class - Jan. 13, 19'
-order: 30
+order: 20
 date: 2019-01-04T00:00:00.000Z
 description: >-
   ATJIUJITSUNYC helps the Girl Scouts learn some BJJ to learn how to defend

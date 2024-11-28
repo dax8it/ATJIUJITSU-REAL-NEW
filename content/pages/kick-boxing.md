@@ -75,8 +75,6 @@ As a comprehensive fitness regimen, kickboxing boosts cardiovascular health, sha
    * **Calorie Burn:** A typical hour of kickboxing can burn a substantial number of calories, depending on intensity, making it an effective workout for weight loss or maintenance.
    * **Increased Metabolism:** The muscle-building aspect of kickboxing can elevate resting metabolic rate, aiding in calorie burn even when not actively training.
 
-![](/img/dsc00260.jpg)
-
 - - -
 
 ### Kickboxing for Kids: Benefits and considerations for younger practitioners.

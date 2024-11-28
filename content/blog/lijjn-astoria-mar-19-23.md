@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: LIJJN Astoria - Mar. 19, 23
-order: 30
+order: 20
 date: 2023-02-28T22:49:02.647Z
 description: "@Jiu-Jitsu NYC filled the house at LIJJN Superfights located in
   our home turf, Queens! "

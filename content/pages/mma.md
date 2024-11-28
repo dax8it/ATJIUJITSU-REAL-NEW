@@ -6,12 +6,6 @@ date: 2021-03-24T20:36:49.923Z
 description: Join Coach Rocco for our Adult Intro to MMA Class or Kids MMA
   program and learn from the Champ!
 thumbnail: /img/dsc09063.jpg
-home: true
-tags:
-  - Programs
-  - adult-programs
-  - Adults Martial Arts
-  - MMA
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wCAR1lo4GlU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

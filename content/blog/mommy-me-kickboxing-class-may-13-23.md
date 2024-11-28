@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Mommy & Me Kickboxing Class - May 13, 23
-order: 30
+order: 20
 date: 2023-05-13T21:20:32.799Z
 description: "We are so thankful for all the mommy's who joined us this year! "
 thumbnail: /img/whatsapp-image-2023-05-15-at-17.57.3131.jpg

@@ -69,3 +69,5 @@ tags:
 • In Brazilian Jiu Jitsu classes, children will meet many new friends and share common experiences like drilling techniques, playing games, and live rolling.
 
 • Classes begin at ages 3-5
+
+

@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Grappling Industries, - Feb. 21, 19'
-order: 30
+order: 20
 date: 2019-02-22T00:00:00.000Z
 description: >-
   Thank you to our students, Roberto and Elek for representing our school at the

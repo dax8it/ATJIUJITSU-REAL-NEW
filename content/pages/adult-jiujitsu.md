@@ -69,7 +69,7 @@ Hey there, future Martial Arts enthusiasts! Ever wondered why Brazilian Jiu-Jits
 9. **Problem-Solving Skills**: Hone your critical thinking as you tackle challenges on the mat, which translates to real-world solutions.
 10. **Just Plain Fun**: Last but not least, the joy and smiles on the mat are infectious!
 
-![](/img/dsc06555.jpg)
+<GatsbyImage image={getImage(props.data.dsc06555)} alt="Jiu-jitsu training" />
 
 - - -
 
@@ -94,7 +94,7 @@ Fast forward to today, and Brazilian Jiu-Jitsu is rocking the world! Not only is
 
 - - -
 
-![](/img/dsc05957.jpg)
+<GatsbyImage image={getImage(props.data.dsc05957)} alt="Jiu-jitsu class" />
 
 ### History of Brazilian Jiu-Jitsu: Understanding its roots and evolution over time.
 
@@ -240,12 +240,9 @@ For those just starting, it's advisable to check with the academy on their speci
 
 - - -
 
-
 ![](/img/whatsapp-image-2023-01-23-at-7.00.13-pm-1-.jpeg)
 
-![](/img/dsc06568.jpg)
 
-![](/img/dsc00137.jpg)
 
 - - -
 
