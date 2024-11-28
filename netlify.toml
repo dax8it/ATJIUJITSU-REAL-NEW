@@ -1,3 +1,28 @@
 [build]
   publish = "public"
 
+[[redirects]]
+  from = "/admin/*"
+  to = "/admin/index.html"
+  status = 200
+
+# General security headers
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    Content-Security-Policy = """
+      default-src 'self';
+      script-src 'self' 'unsafe-inline' 'unsafe-eval' https://identity.netlify.com https://unpkg.com/ https://cdn.decaporg.com;
+      connect-src 'self' https://api.decaporg.com https://identity.netlify.com;
+      img-src 'self' data: blob: https:;
+      style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
+      frame-ancestors 'self';
+      frame-src 'self' https://identity.netlify.com;
+    """
+
+# Admin-specific headers
+[[headers]]
+  for = "/admin/*"
+  [headers.values]
+    X-Frame-Options = "ALLOW-FROM https://identity.netlify.com"
