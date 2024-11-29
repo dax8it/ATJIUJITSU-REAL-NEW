@@ -3,15 +3,18 @@ templateKey: blog-post
 title: Grappling Industries Tournament - Sep. 28, 19
 order: 20
 date: 2019-09-28T00:00:00.000Z
-description: We're overwhelmed with gratitude for everyone who participated in
-  this most recent Grappling Industries Tournament.  Your display of Mental
-  Toughness and Discipline was truly inspiring, and we're incredibly proud of
-  both children and adults who competed. The event was a testament to the power
-  of community, united by a shared passion for Fitness and Self-Defense. Special
+description: >-
+  We're overwhelmed with gratitude for everyone who participated in this most
+  recent Grappling Industries Tournament.  Your display of Mental Toughness and
+  Discipline was truly inspiring, and we're incredibly proud of both children
+  and adults who competed. The event was a testament to the power of community,
+  united by a shared passion for Fitness and Self-Defense. Special
   congratulations to those who medaled—you've made your hard work visible. As we
   look forward to future events, we're excited to continue fostering
-  Self-Confidence and Self-Respect within our Jiu-Jitsu community. Thank you for
-  making this tournament a memorable experience for all!
+  Self-Confidence and Self-Respect within our Jiu-Jitsu community. 
+
+
+  Thank you for making this tournament a memorable experience for all!!!
 thumbnail: /img/dsc07191.jpg
 home: false
 tags:
