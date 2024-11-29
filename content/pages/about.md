@@ -22,9 +22,7 @@ tags:
                   <br />
                 </div>
 
-
-_ _ _
-
+- - -
 
 # The Premier Destination: Jiujitsu NYC Academy
 
@@ -40,9 +38,9 @@ Beyond just techniques and drills, Jiujitsu NYC Academy is deeply committed to f
 
 <br>
 
-***
+- - -
 
-# Best K﻿Ids Martial Arts In Queens 
+# Best K﻿Ids Martial Arts In Queens
 
 For parents in Queens seeking a transformative experience for their children, the Jiujitsu NYC Academy emerges as the leading destination for kids' martial arts training. Offering a diverse curriculum that encompasses Jiujitsu (both Gi and No-Gi), Kickboxing, and MMA, the academy prides itself on molding young minds and bodies into disciplined, confident, and skilled martial artists. Each class, tailored for ages 5-15, combines fun-filled activities with structured learning, ensuring that children not only master the techniques but also imbibe core values essential for personal growth. Under the watchful eye of seasoned instructors and in state-of-the-art facilities, children at Jiujitsu NYC Academy embark on a journey that boosts their physical fitness, mental resilience, and self-confidence. For those aiming to provide their kids with an unparalleled martial arts experience, the choice is clear: Jiujitsu NYC Academy.
 
@@ -54,7 +52,7 @@ For parents in Queens seeking a transformative experience for their children, th
  
 <br>
 
-***
+- - -
 
 # Get started now!
 
@@ -64,7 +62,7 @@ For parents in Queens seeking a transformative experience for their children, th
 
 <br>
 
-***
+- - -
 
 # Our Team
 
@@ -98,7 +96,7 @@ Having been raised in Jackson Heights his whole life, Professor Alvaro dreamt ab
 
 <br>
 
-***
+- - -
 
 <br>
 
@@ -110,7 +108,7 @@ Having been raised in Jackson Heights his whole life, Professor Alvaro dreamt ab
 
 <br>
 
-***
+- - -
 
 <br>
 
@@ -126,7 +124,7 @@ Kim holds a BS in Biochemistry from Florida State University and is certified by
 
 An active competitor in Brazilian Jiu-Jitsu, Kim specializes in creating sport-specific mobility programs. She has developed a unique program tailored for grapplers, which will be exclusively taught at @Jiu-Jitsu NYC. Her multifaceted expertise makes her an ideal mentor for those looking to improve their Self-Respect and Self Defense skills.<br>
 
-***
+- - -
 
 <br>
 
@@ -144,19 +142,13 @@ Though juggling multiple ventures, Morgan's most cherished role is being a dad, 
 
 <br>
 
-***
+- - -
 
 <br>
 
-![Coach Yvonne](https://res.cloudinary.com/dax8it/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1692916368/atjiujitsunyc/coach-yvonne.png)
 
-# Yvonne
 
-## Coach
-
-Yvonne is currently a purple belt in Jiu-Jitsu under Professor Alvaro and the instructor of the Beginners No Gi classes held on Mondays and the Beginners Gi class on Fridays. 
-
-***
+- - -
 
 <br>
 
@@ -168,10 +160,9 @@ Yvonne is currently a purple belt in Jiu-Jitsu under Professor Alvaro and the in
 
 <br>
 
-***
+- - -
 
 <br>
-
 
 ![Daniela Tautiva M.S.W Co-Owner and Assistant Program Director](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1583298673/STAFF/IMG_9722-Edit_xhvhqb.png "Daniela Tautiva M.S.WCo-Owner and Assistant Program Director")
 
@@ -200,4 +191,4 @@ A 2nd Degree Brown Belt in Shotokan Karate and a Purple Belt in Brazilian Jiu-Ji
   gtag('config', 'UA-4799639-6');
 </script>
 
-***
+- - -
