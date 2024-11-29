@@ -22,9 +22,9 @@ tags:
   - Events
   - Competition
 ---
-![](/img/ais07937_easy-resize.com.jpg)
+![](/img/ais07937_easy-resize.com.jpg "Our Jiujitsu Family :)")
 
-We couldn't be happier with the courage and skill everyone showed at the Grappling Industries Tournament. Putting your Jiu-Jitsu techniques to the test is a valuable learning experience, regardless of the outcome. This event offered a unique lens to scrutinize and enhance our Jiu-Jitsu strategies. More than anything, the tournament highlighted our team's unity, resilience, and mutual encouragement. Your support for each other was the true victory of the day. Kudos to each one of you—you're all amazing!
+We couldn't be happier with the courage and skill everyone showed at the Grappling Industries Tournament. Putting your Jiu-Jitsu techniques to the test is a valuable learning experience, regardless of the outcome. This event offered a unique lens to scrutinize and enhance our Jiu-Jitsu strategies. More than anything, the tournament highlighted our team's unity, resilience, and mutual encouragement. Your support for each other was the true victory of the day. Kudos to each one of you—you are all amazing!
 
 ![](/img/dsc07168_easy-resize.com.jpg)
 
