@@ -5,22 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="Content-Security-Policy" content="default-src 'self' https: localhost:* data: blob: 'unsafe-inline' 'unsafe-eval'; script-src 'self' https: localhost:* 'unsafe-inline' 'unsafe-eval'; connect-src https: localhost:* data: blob: 'unsafe-inline'; img-src 'self' https: localhost:* data: blob: 'unsafe-inline'; frame-src 'self' https: localhost:* data: blob: 'unsafe-inline'; style-src 'self' https: localhost:* data: blob: 'unsafe-inline';">
     <title>Content Manager</title>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   <body>
-    <div id="nc-root"></div>
     <!-- Include the script that builds the page and powers Decap CMS -->
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
-    <script>
-      if (window.netlifyIdentity) {
-        window.netlifyIdentity.on("init", user => {
-          if (!user) {
-            window.netlifyIdentity.on("login", () => {
-              document.location.href = "/admin/";
-            });
-          }
-        });
-      }
-    </script>
+    <script src="https://unpkg.com/@decaporg/cms@^3.0.0/dist/decap-cms.js"></script>
   </body>
 </html>

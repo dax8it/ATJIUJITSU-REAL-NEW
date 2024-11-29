@@ -16,9 +16,6 @@ public_folder: /img
 
 logo_url: https://atjiujitsunyc2020.netlify.com/img/atjiujitsu-icon.png
 
-site_url: https://atjiujitsunyc2020.netlify.com
-display_url: https://atjiujitsunyc2020.netlify.com
-
 collections:
   - name: "blog"
     label: "blog"
