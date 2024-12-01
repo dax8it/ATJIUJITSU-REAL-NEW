@@ -32,7 +32,7 @@
   position: absolute;
   width: 20px;
   height: 2px;
-  background-color: #ffffff;
+  background-color: var(--color-nav-text);
   border-radius: 4px;
   transition: transform 0.15s ease;
 }
@@ -71,7 +71,7 @@
 .site-head-open .hamburger-inner,
 .site-head-open .hamburger-inner::before,
 .site-head-open .hamburger-inner::after {
-  background-color: #ffffff;
+  background-color: var(--color-nav-text);
 }
 
 .site-head-open .hamburger-inner {

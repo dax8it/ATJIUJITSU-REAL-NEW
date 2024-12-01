@@ -9,6 +9,7 @@ home: false
 tags:
   - Other
 ---
+
 <div class="video-responsive">
                     <iframe
                       src="https://player.cloudinary.com/embed/?cloud_name=dax8it&public_id=https%3A%2F%2Fres.cloudinary.com%2Fdax8it%2Fvideo%2Fupload%2Fv1575694094%2Fatjiujitsunyc%2FATJIUJITSUNYC_INTRO.mp4&fluid=true&controls=true&colors%5Baccent%5D=%2363b9ef&show_jump_controls=false&floating_when_not_visible=false&hide_context_menu=false&logo_image_url=https%3A%2F%2Fres.cloudinary.com%2Fdax8it%2Fimage%2Fupload%2Fv1549678229%2Fatjiujitsunyc%2Flogo.png&poster_options%5Btransformation%5D%5Bstart_offset%5D=6&autoplay_on_scroll=false&info%5Btitle%5D=WELCOME%20TO%20ATJIUJITSUNYC"
@@ -19,8 +20,6 @@ tags:
                       frameborder="0"
                     ></iframe>
                   </div>
-                  <br />
-                </div>
 
 - - -
 
@@ -40,7 +39,7 @@ Beyond just techniques and drills, Jiujitsu NYC Academy is deeply committed to f
 
 - - -
 
-# Best K﻿Ids Martial Arts In Queens
+# Best Kids Martial Arts In Queens
 
 For parents in Queens seeking a transformative experience for their children, the Jiujitsu NYC Academy emerges as the leading destination for kids' martial arts training. Offering a diverse curriculum that encompasses Jiujitsu (both Gi and No-Gi), Kickboxing, and MMA, the academy prides itself on molding young minds and bodies into disciplined, confident, and skilled martial artists. Each class, tailored for ages 5-15, combines fun-filled activities with structured learning, ensuring that children not only master the techniques but also imbibe core values essential for personal growth. Under the watchful eye of seasoned instructors and in state-of-the-art facilities, children at Jiujitsu NYC Academy embark on a journey that boosts their physical fitness, mental resilience, and self-confidence. For those aiming to provide their kids with an unparalleled martial arts experience, the choice is clear: Jiujitsu NYC Academy.
 
