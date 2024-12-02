@@ -3,12 +3,14 @@ templateKey: blog-post
 title: Our Team
 order: 12
 date: 2019-05-03
-description: Meet our staff and crew that make all of our classes possible.
-thumbnail: /img/dsc06203-1-.jpg
+description: Get to know our staff and crew that make all of our classes possible.
+thumbnail: 
 home: false
 tags:
   - Other
 ---
+
+<br>
 
 <div class="video-responsive">
                     <iframe
@@ -22,6 +24,7 @@ tags:
                   </div>
 
 - - -
+
 
 # The Premier Destination: Jiujitsu NYC Academy
 
@@ -176,6 +179,21 @@ Working closely with Professor Alvaro, Daniela ensures that our programs are tai
 A 2nd Degree Brown Belt in Shotokan Karate and a Purple Belt in Brazilian Jiu-Jitsu, Daniela's Martial Arts credentials are impeccable. Trained by Sensei Kai Leung, she embodies the principles of Self-Respect and Self Defense, making her an ideal mentor for those looking to embark on their own Martial Arts journey.
 
 <br>
+
+- - - 
+
+<div class="video-responsive">
+                    <iframe
+                      src="https://player.cloudinary.com/embed/?cloud_name=dax8it&public_id=https%3A%2F%2Fres.cloudinary.com%2Fdax8it%2Fvideo%2Fupload%2Fv1575694094%2Fatjiujitsunyc%2FATJIUJITSUNYC_INTRO.mp4&fluid=true&controls=true&colors%5Baccent%5D=%2363b9ef&show_jump_controls=false&floating_when_not_visible=false&hide_context_menu=false&logo_image_url=https%3A%2F%2Fres.cloudinary.com%2Fdax8it%2Fimage%2Fupload%2Fv1549678229%2Fatjiujitsunyc%2Flogo.png&poster_options%5Btransformation%5D%5Bstart_offset%5D=6&autoplay_on_scroll=false&info%5Btitle%5D=WELCOME%20TO%20ATJIUJITSUNYC"
+                      width="640"
+                      height="480"
+                      allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
+                      allowfullscreen
+                      frameborder="0"
+                    ></iframe>
+                  </div>
+
+- - -
 
 <!-- Google tag (gtag.js) - Google Analytics -->
 

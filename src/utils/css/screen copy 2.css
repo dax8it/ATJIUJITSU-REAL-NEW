@@ -782,16 +782,10 @@ body {
 @media (max-width: 800px) {
   .post-feed {
     grid-template-columns: 1fr;
-    padding: 0;
-    gap: 2px;
-    width: 100%;
-    max-width: 100%;
   }
   
   .post-card {
-    height: 300px;
-    width: 100%;
-    margin: 0;
+    height: 300px; /* Slightly smaller height on mobile */
   }
   
   .post-card-title {
