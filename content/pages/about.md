@@ -4,7 +4,7 @@ title: Our Team
 order: 12
 date: 2019-05-03
 description: Get to know our staff and crew that make all of our classes possible.
-thumbnail: 
+thumbnail: /img/3.jpg
 home: false
 tags:
   - Other
