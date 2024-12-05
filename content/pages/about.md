@@ -114,11 +114,11 @@ Having been raised in Jackson Heights his whole life, Professor Alvaro dreamt ab
 
 <br>
 
-![Alex Castro Morning Class Jiu-Jitsu Instructor](https://res.cloudinary.com/dax8it/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1692916368/atjiujitsunyc/professor-alex.png)
+![Santi Jiu-Jitsu Instructor](https://res.cloudinary.com/dax8it/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1692916368/atjiujitsunyc/professor-alex.png)
 
-# Alex Castro
+# Santi
 
-## Morning Instructor
+## Jiu-Jitsu Instructor
 
 <br>
 
