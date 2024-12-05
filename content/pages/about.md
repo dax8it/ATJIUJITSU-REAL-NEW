@@ -114,7 +114,7 @@ Having been raised in Jackson Heights his whole life, Professor Alvaro dreamt ab
 
 <br>
 
-![Santi Jiu-Jitsu Instructor](https://res.cloudinary.com/dax8it/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1692916368/atjiujitsunyc/professor-alex.png)
+![Santi Jiu-Jitsu Instructor](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1679520312/IMG-2012_z5i4le.jpg)
 
 # Santi
 
