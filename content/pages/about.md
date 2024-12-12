@@ -9,7 +9,6 @@ home: false
 tags:
   - Other
 ---
-
 <br>
 
 <div class="video-responsive">
@@ -24,7 +23,6 @@ tags:
                   </div>
 
 - - -
-
 
 # The Premier Destination: Jiujitsu NYC Academy
 
@@ -108,6 +106,28 @@ Having been raised in Jackson Heights his whole life, Professor Alvaro dreamt ab
 
 ## Morning Instructor
 
+Professor Alex Castro began his martial arts journey at the age of nine in the Upper West Side of Manhattan. He trained under the guidance of Hanshi Bill Palmer, his wife Karen, and Soke Nobuyoshi Higashi at the Kokushi Budo Institute, where he achieved the rank of Nidan.  
+
+After completing his undergraduate studies, Alex expanded his martial arts repertoire, exploring disciplines such as Boxing, Muay Thai, MMA, and Brazilian Jiu-Jitsu. He became part of the Rhino Team at Combined Martial Arts, where he was captivated by the precision and depth of instruction from his first MMA and BJJ coach, Danny Suarez. Alex earned his Blue Belt under Coach Suarez before Danny’s relocation to California. During the subsequent years as a Ronin, Alex trained at various gyms across New York City, ultimately receiving his Purple Belt from Danny Suarez and Markos Lagos.  
+
+In 2009, Alex joined VSBJJ under the tutelage of Vitor "Shaolin" Ribeiro, earning his Black Belt in 2015. Today, he holds the rank of third-degree Black Belt under Shaolin.  
+
+Beyond being a passionate practitioner, Professor Alex shares his expertise as an instructor at AT JiujitsuNYC alongside Professor Alvaro. His deep love for the art and commitment to his community inspired him to teach and pass on his knowledge.  
+
+Alex has competed and medaled in numerous Grapplers Quest, NAGA, and IBJJF tournaments throughout his career. He is now setting his sights on re-entering the local competition scene in the near future.
+
+<br>
+
+- - -
+
+<br>
+
+![Santi Jiu-Jitsu Instructor](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1679520312/IMG-2012_z5i4le.jpg)
+
+# Santi Furlong
+
+## Jiu-Jitsu Instructor
+
 <br>
 
 - - -
@@ -148,8 +168,6 @@ Though juggling multiple ventures, Morgan's most cherished role is being a dad, 
 
 <br>
 
-
-
 - - -
 
 <br>
@@ -180,7 +198,7 @@ A 2nd Degree Brown Belt in Shotokan Karate and a Purple Belt in Brazilian Jiu-Ji
 
 <br>
 
-- - - 
+- - -
 
 <div class="video-responsive">
                     <iframe
