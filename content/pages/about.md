@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Our Team
 order: 12
 date: 2019-05-03
-description: Get to know our staff and crew that make all of our classes possible.
+description: Get to know our staff and crew that make all of our classes possible!
 thumbnail: /img/3.jpg
 home: false
 tags:
@@ -174,7 +174,7 @@ Though juggling multiple ventures, Morgan's most cherished role is being a dad, 
 
 ![Coach David](https://res.cloudinary.com/dax8it/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1692916368/atjiujitsunyc/coach-david.png)
 
-# David
+# David Best
 
 ## Coach
 
