@@ -4,6 +4,9 @@ title: Our Prices
 order: 13
 date: 2024-09-11
 description: Our pricing makes taking classes affordable!
+home: true
+tags:
+  - Programs
 ---
 # Monthly Subscriptions
 
@@ -62,7 +65,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 ## Three Times a Week
   * Monthly Fee: $250 + $15 sign-up fee
-  * First Month: $275
+  * First Month: $265
   * $21 per class
 
   * Unlimited Jiu-Jitsu, Muay Thai, Kickboxing, Yoga
