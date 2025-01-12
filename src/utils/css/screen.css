@@ -628,6 +628,10 @@ body {
     display: flex !important;
     opacity: 1 !important;
     visibility: visible !important;
+    position: fixed !important;
+    right: 15px !important;
+    top: 20px !important;
+    z-index: 9999 !important;
   }
   
   .site-head-open .nav-burger {
@@ -645,9 +649,65 @@ body {
   .hamburger-inner::after {
     background-color: var(--color-nav-text) !important;
   }
+
+  /* Mobile menu container */
+  .site-head-container {
+    height: 60px;
+    transition: all 0.4s ease-out;
+    background: var(--color-nav-bg);
+  }
+
+  /* Navigation items */
+  .nav {
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    display: none;
+  }
+
+  .nav li {
+    width: 100%;
+    text-align: center;
+    margin: 15px 0;
+    opacity: 0;
+    transform: translateY(-10px);
+    transition: opacity 0.3s ease, transform 0.3s ease;
+  }
+
+  .nav li a {
+    color: var(--color-nav-text);
+    font-size: 2.4rem;
+    padding: 15px 0;
+    display: inline-block;
+    width: 100%;
+  }
+
+  /* Open state */
+  .site-head-open {
+    background: var(--color-nav-bg);
+    height: 100vh;
+    transition: background 0.5s ease-out;
+  }
+
+  .site-head-open .site-head-container {
+    height: 100vh;
+  }
+
+  .site-head-open .nav {
+    display: flex !important;
+    margin-top: 0;
+    padding-bottom: 100px;
+  }
+
+  .site-head-open .nav li {
+    opacity: 1;
+    transform: translateY(0);
+    transition-delay: 0.2s;
+  }
 }
 
-/* Hide on larger screens */
+/* Ensure desktop hides burger */
 @media (min-width: 851px) {
   .nav-burger {
     display: none !important;
