@@ -600,46 +600,93 @@ body {
 }
 
 .nav-burger {
-  position: fixed;
-  right: 15px;
-  top: 20px;
-  z-index: 9999;
-  padding: 12px;
   display: none;
+  position: absolute;
+  left: 0;
+  z-index: 9999;
+  padding: 12px 12px 12px 0;
 }
 
-/* Default state for nav-burger */
+/* Hamburger Menu Styles */
+.hamburger {
+  padding: 0.5rem;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  transition: transform 400ms;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.hamburger-inner,
+.hamburger-inner::before,
+.hamburger-inner::after {
+  background-color: var(--color-nav-text);
+  height: 2px;
+  width: 25px;
+  transition: transform 0.22s cubic-bezier(0.55, 0.055, 0.675, 0.19);
+}
+
+.hamburger-inner {
+  display: block;
+  margin-top: 6px;
+  position: relative;
+}
+
+.hamburger-inner::before,
+.hamburger-inner::after {
+  content: "";
+  display: block;
+  position: absolute;
+}
+
+.hamburger-inner::before {
+  top: -8px;
+}
+
+.hamburger-inner::after {
+  bottom: -8px;
+}
+
+/* Hamburger Animation */
+.site-head-open .hamburger-inner {
+  transform: rotate(45deg);
+}
+
+.site-head-open .hamburger-inner::before {
+  top: 0;
+  opacity: 0;
+}
+
+.site-head-open .hamburger-inner::after {
+  bottom: 0;
+  transform: rotate(-90deg);
+}
+
+/* Nav Burger Position */
 .nav-burger {
-  position: fixed;
-  right: 15px;
-  top: 20px;
+  display: none;
+  position: absolute;
+  right: 15px;  /* Changed from left to right */
+  top: 12px;
   z-index: 9999;
   padding: 12px;
-  display: none;
 }
 
-/* Mobile menu styles */
+/* Mobile Nav Menu */
 @media (max-width: 850px) {
-  .site-head-right {
-    display: none;
-  }
-  
   .nav-burger {
-    display: flex !important;
+    display: block !important;
     opacity: 1 !important;
     visibility: visible !important;
   }
-  
-  .site-head-open .nav-burger {
-    right: 15px;
-  }
-  
-  /* Ensure hamburger is visible */
+
   .hamburger {
     display: flex !important;
     opacity: 1 !important;
   }
-  
+
   .hamburger-inner,
   .hamburger-inner::before,
   .hamburger-inner::after {
@@ -647,10 +694,118 @@ body {
   }
 }
 
-/* Hide on larger screens */
-@media (min-width: 851px) {
+/* Mobile Nav Menu
+/* ---------------------------------------------------------- */
+@media (max-width: 850px) {  /* Changed from 1200px to 850px */
+  .site-head {
+    padding: 0;
+  }
   .nav-burger {
-    display: none !important;
+    display: block;
+  }
+  .site-head-container {
+    flex-direction: column;
+    justify-content: flex-start;
+    height: 40px;
+    background: rgba(255, 255, 255, 0);
+    z-index: -1;
+    transition: all 0.4s ease-out;
+    overflow: hidden;
+  }
+  .site-head-left,
+  .site-head-right {
+    position: relative;
+    z-index: -1;
+    height: auto;
+    transition: height 0.2s cubic-bezier(0.4, 0.01, 0.165, 0.99);
+    transition-delay: 1s;
+  }
+  .site-head-left a,
+  .site-head-right a {
+    margin: 8px 0;
+    padding: 1px 0;
+    font-size: 2.6rem;
+    line-height: 1.15em;
+    font-weight: 200;
+    opacity: 0;
+    transition: transform 0.3s cubic-bezier(0.4, 0.01, 0.165, 0.99),
+      opacity 0.2s cubic-bezier(0.4, 0.01, 0.165, 0.99);
+    transform: scale(1.1) translateY(-25px);
+  }
+  .site-head-right a {
+    padding: 5px 0;
+    margin: 1px 0;
+    font-size: 2rem;
+  }
+  .nav {
+    width: 100%;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 3vw 0 0 0;
+  }
+  .site-head-left {
+    order: 2;
+    margin: 0;
+    width: 100%;
+  }
+  .site-head-center {
+    order: 1;
+    position: static;
+    z-index: auto;
+    display: flex;
+    justify-content: center;
+  }
+  .site-head-right {
+    order: 3;
+    width: 100%;
+    margin-top: 3vw;
+  }
+  .social-links {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .site-head-open {
+    background: var(--color-bg);
+    transition: background 0.5s ease-out;
+    transition-delay: 0.25;
+    overflow: hidden;
+    height: 100vh;
+  }
+
+  .site-head-open .site-head-container {
+    height: 100vh;
+    transition: height 0.2s ease-in;
+  }
+
+  .site-head-open .site-head-left,
+  .site-head-open .site-head-right {
+    z-index: 9999;
+    height: auto;
+    transition: height 0.2s cubic-bezier(0.4, 0.01, 0.165, 0.99);
+  }
+
+  .site-head-open .site-head-left a,
+  .site-head-open .site-head-right a {
+    opacity: 1;
+    transition: transform 0.6s cubic-bezier(0.4, 0.01, 0.165, 0.99),
+      opacity 0.9s cubic-bezier(0.4, 0.01, 0.165, 0.99);
+    transform: scale(1) translateY(0px);
+  }
+  .site-head-open .nav-current a {
+    border-bottom: var(--color-base) 2px solid;
+  }
+  .site-head-open .site-head-right a {
+    opacity: 0.5;
+  }
+  .site-head-open .site-foot {
+    display: block;
+    position: fixed;
+    z-index: 9999;
+    bottom: 0;
+    transition: transform 0.3s cubic-bezier(0.4, 0.01, 0.165, 0.99);
+    transform: translateY(-4vw);
   }
 }
 
@@ -1359,7 +1514,7 @@ a:hover {
 }
 
 /* Site Navigation */
-@media (max-width: 850px) {
+/* @media (max-width: 850px) {
   .site-head {
     padding: 0;
     position: fixed;
@@ -1426,7 +1581,6 @@ a:hover {
     width: 100%;
   }
 
-  /* Open state styles */
   .site-head-open {
     height: 100vh;
     background: var(--color-nav-bg);
@@ -1462,16 +1616,14 @@ a:hover {
     transition-delay: 0.2s;
   }
 
-  /* Fix for iOS safari scrolling */
   .site-head-open {
     -webkit-overflow-scrolling: touch;
   }
 
-  /* Add padding to body when menu is open */
   .site-head-open ~ #___gatsby {
     padding-top: 60px;
   }
-}
+} */
 
 /* Horizontal Rule Styling */
 hr {
