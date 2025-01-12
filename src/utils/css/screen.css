@@ -620,6 +620,31 @@ body {
 
 /* Mobile menu styles */
 @media (max-width: 850px) {
+  .site-head {
+    padding: 0;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 998;
+  }
+
+  .site-head-container {
+    flex-direction: column;
+    justify-content: flex-start;
+    height: 60px;
+    background: var(--color-nav-bg);
+    transition: all 0.4s ease-out;
+    overflow: hidden;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 998;
+  }
+
   .site-head-right {
     display: none;
   }
@@ -634,29 +659,6 @@ body {
     z-index: 9999 !important;
   }
   
-  .site-head-open .nav-burger {
-    right: 15px;
-  }
-  
-  /* Ensure hamburger is visible */
-  .hamburger {
-    display: flex !important;
-    opacity: 1 !important;
-  }
-  
-  .hamburger-inner,
-  .hamburger-inner::before,
-  .hamburger-inner::after {
-    background-color: var(--color-nav-text) !important;
-  }
-
-  /* Mobile menu container */
-  .site-head-container {
-    height: 60px;
-    transition: all 0.4s ease-out;
-    background: var(--color-nav-bg);
-  }
-
   /* Navigation items */
   .nav {
     width: 100%;
@@ -664,6 +666,7 @@ body {
     align-items: center;
     padding: 20px;
     display: none;
+    margin-top: 60px;
   }
 
   .nav li {
@@ -685,25 +688,46 @@ body {
 
   /* Open state */
   .site-head-open {
-    background: var(--color-nav-bg);
     height: 100vh;
+    background: var(--color-nav-bg);
     transition: background 0.5s ease-out;
+    overflow: hidden;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 997;
   }
 
   .site-head-open .site-head-container {
     height: 100vh;
+    background: var(--color-nav-bg);
   }
 
   .site-head-open .nav {
     display: flex !important;
-    margin-top: 0;
+    margin-top: 60px;
     padding-bottom: 100px;
+    height: calc(100vh - 60px);
+    overflow-y: auto;
   }
 
   .site-head-open .nav li {
     opacity: 1;
     transform: translateY(0);
     transition-delay: 0.2s;
+  }
+
+  /* Fix for iOS safari scrolling */
+  .site-head-open {
+    -webkit-overflow-scrolling: touch;
+  }
+
+  /* Add padding to body when menu is open */
+  .site-head-open ~ #___gatsby {
+    padding-top: 60px;
   }
 }
 
