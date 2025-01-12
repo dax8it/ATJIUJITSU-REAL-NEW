@@ -600,11 +600,58 @@ body {
 }
 
 .nav-burger {
-  display: none;
-  position: absolute;
-  left: 0;
+  position: fixed;
+  right: 15px;
+  top: 20px;
   z-index: 9999;
-  padding: 12px 12px 12px 0;
+  padding: 12px;
+  display: none;
+}
+
+/* Default state for nav-burger */
+.nav-burger {
+  position: fixed;
+  right: 15px;
+  top: 20px;
+  z-index: 9999;
+  padding: 12px;
+  display: none;
+}
+
+/* Mobile menu styles */
+@media (max-width: 850px) {
+  .site-head-right {
+    display: none;
+  }
+  
+  .nav-burger {
+    display: flex !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+  }
+  
+  .site-head-open .nav-burger {
+    right: 15px;
+  }
+  
+  /* Ensure hamburger is visible */
+  .hamburger {
+    display: flex !important;
+    opacity: 1 !important;
+  }
+  
+  .hamburger-inner,
+  .hamburger-inner::before,
+  .hamburger-inner::after {
+    background-color: var(--color-nav-text) !important;
+  }
+}
+
+/* Hide on larger screens */
+@media (min-width: 851px) {
+  .nav-burger {
+    display: none !important;
+  }
 }
 
 /* Hamburger Menu Styles */
@@ -664,39 +711,8 @@ body {
   transform: rotate(-90deg);
 }
 
-/* Nav Burger Position */
-.nav-burger {
-  display: none;
-  position: absolute;
-  right: 15px;  /* Changed from left to right */
-  top: 12px;
-  z-index: 9999;
-  padding: 12px;
-}
-
 /* Mobile Nav Menu */
 @media (max-width: 850px) {
-  .nav-burger {
-    display: block !important;
-    opacity: 1 !important;
-    visibility: visible !important;
-  }
-
-  .hamburger {
-    display: flex !important;
-    opacity: 1 !important;
-  }
-
-  .hamburger-inner,
-  .hamburger-inner::before,
-  .hamburger-inner::after {
-    background-color: var(--color-nav-text) !important;
-  }
-}
-
-/* Mobile Nav Menu
-/* ---------------------------------------------------------- */
-@media (max-width: 850px) {  /* Changed from 1200px to 850px */
   .site-head {
     padding: 0;
   }
@@ -1431,12 +1447,16 @@ a:hover {
 }
 
 /* Navigation Menu - Screen size handling */
+
+/*
 @media (max-width: 600px) {
   .nav {
     display: none;
   }
 }
+*/
 
+/*
 @media (min-width: 601px) {
   .nav-burger {
       position: fixed;
@@ -1444,20 +1464,25 @@ a:hover {
       top: 20px;
       z-index: 9999;
       padding: 12px;
-      display: none; /* Hidden by default on desktop */
+      display: none; 
   }
 }
+*/
 
+/*
 @media (max-width: 600px) {
   .nav-burger {
     position: fixed;
-    right: 15px; /* Changed from left to right */
+    right: 15px; 
     top: 20px;
     z-index: 9999;
     padding: 12px;
-    display: none; /* Hidden by default on desktop */
+    display: none;  
   }
 }
+
+*/
+/* -------------------------------------------*/
 
 /* Post Feed Responsive Adjustments */
 @media (max-width: 600px) {
@@ -1511,7 +1536,9 @@ a:hover {
   .post-content-body h6 {
     font-size: 2.2rem;
   }
-}
+}   
+
+*/
 
 /* Site Navigation */
 /* @media (max-width: 850px) {
