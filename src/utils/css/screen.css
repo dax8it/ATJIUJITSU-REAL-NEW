@@ -1312,7 +1312,7 @@ a:hover {
   }
   
   .post-card-image-link {
-    margin: 0 -20px 20px;
+    margin: 0  !important;
   }
 }
 
