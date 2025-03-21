@@ -46,7 +46,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 ## Five Times a Week
   * Monthly Fee: $275 + $15 sign-up fee
   * First Month: $290
-  * $14 per class
+  * $15 per class
 
   * Access to Jiu-Jitsu, Muay Thai, Kickboxing
 
