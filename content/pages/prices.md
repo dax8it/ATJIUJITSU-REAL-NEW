@@ -20,7 +20,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 ## \- Three Trial Classes (Within 1 week) - $35 Plus Tax
 
-## \- Toddler Trial Classes (Two classes within 1 week - $45 Plus Tax
+## \- Toddler Trial Classes (Two classes within 1 week) - $45 Plus Tax
 
 
  <br>
@@ -32,12 +32,12 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 * First Month: $314
 * $13 per class for a minimum of 6 classes a week
 
-* From unlimited access to jiu jitsu, kickboxing and muay thai for you to take advantage of! 
+* Unlimited access to Jiu-Jitsu, Kettlebell, Kickboxing and Muay Thai for you to take advantage of! 
 
 
 **\- OR -** 
 
-## Pay In Full (6 Months) - $1,400:
+## Pay In Full (6 Months): $1,400
 
 * ## Save $394!
 
@@ -48,11 +48,11 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
   * First Month: $290
   * $15 per class
 
-  * Access to Jiu-Jitsu, Muay Thai, Kickboxing
+  * Access to Jiu-Jitsu, Muay Thai, Kickboxing and Kettlebell
 
 **\- OR -** 
 
-## Pay In Full (6 Months) - $1,350:
+## Pay In Full (6 Months): $1,350
 
 * ## Save $300!
 
@@ -66,12 +66,12 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
   * First Month: $280
   * $17 per class
 
-  * Access to Jiu-Jitsu, Muay Thai, Kickboxing
+  * Access to Jiu-Jitsu, Muay Thai, Kickboxing and Kettlebell
 
 
 **\- OR -** 
 
-## Pay In Full (6 Months) - $1,300:
+## Pay In Full (6 Months): $1,300
 
 * ## Save $290!
 
@@ -84,12 +84,12 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
   * First Month: $265
   * $21 per class
 
-  * Access to Jiu-Jitsu, Muay Thai, Kickboxing
+  * Access to Jiu-Jitsu, Muay Thai, Kickboxing and Kettlebell
 
 
 **\- OR -** 
 
-## Pay In Full (6 Months) - $1,230:
+## Pay In Full (6 Months): $1,230
 
 * ## Save $270!
 
@@ -101,12 +101,12 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
   * First Month: $240
   * $28 per class
 
-* Access to Jiu-Jitsu, Muay Thai, Kickboxing
+* Access to Jiu-Jitsu, Muay Thai, Kickboxing and Kettlebell
 
 
 **\- OR -** 
 
-## Pay In Full (6 Months) - $1,150:
+## Pay In Full (6 Months): $1,150
 
 * ## Save $200!
 
@@ -117,12 +117,12 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
   * First Month: $175
   * $40 per class
 
-* Access to Jiu-Jitsu, Muay Thai, Kickboxing
+* Access to Jiu-Jitsu, Muay Thai, Kickboxing and Kettlebell
 
 
 **\- OR -** 
 
-## Pay In Full (6 Months) - $800:
+## Pay In Full (6 Months): $800
 
 * ## Save $160!
 
@@ -148,19 +148,26 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 - - -
 
-## Toddler Membership 2x a Week:
+## Toddler Membership 3x a Week:
   * Monthly Fee: $225 + $15 sign-up fee
   * First Month: $240
   * $28 per class
 
-  * Pick two classes weekly. Either 2 Jiu-Jitsu classes a week/ or 1  jiu-jitsu class & 1 Kickboxing class.  
+  *  3 sessions a week. Can choose from any of our Toddler Jiu-Jitsu classes and our Saturday morning beginner Kid's kickboxing class.   
 
-## Toddler Membership 3x a Week:
+## Toddler Membership 2x a Week:
   * Monthly Fee: $250 + $15 sign-up fee
   * First Month: $275
   * $21 per class
 
-  * 3 Sessions a Week. Includes all Toddler classes. 2 Jiu-Jitsu classes and 1 Kickboxing class weekly.
+  * 3 sessions a week. Can choose from any of our Toddler Jiu-Jitsu classes and our Saturday morning beginner Kid's kickboxing class.  
+
+## Toddler Membership 1x a Week:
+  * Monthly Fee: $225 + $15 sign-up fee
+  * First Month: $240
+  * $28 per class
+
+  *  1 session a week. Can choose from any of our Toddler Jiu-Jitsu classes or our Saturday morning beginner Kid's kickboxing class.
 
 ---
 
@@ -184,17 +191,11 @@ Available for purchase below:
 
 **Professor Alvaro:**
 
-* (1) Session(s) 30 minutes: $60
-* (3) Session(s) 30 minutes: $165
-* (5) Session(s) 30 minutes: $275
-* (10) Session(s) 30 minutes: $550
-
-<br>
 
 * (1) Session(s) 1 hour: $95
-* (3) Session(s) 1 hour: $350
-* (5) Session(s) 1 hour:  $499
-* (10) Session(s) 1 hour: $999
+* (3) Session(s) 1 hour: $270
+* (5) Session(s) 1 hour:  $435
+* (10) Session(s) 1 hour: $850
 
 **Coach David:**
 * (1) Session(s) 45 minutes: $65
