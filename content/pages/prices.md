@@ -10,7 +10,7 @@ tags:
 ---
 # Monthly Subscriptions
 
-We make it easy to attend our classes. Choose one of our monthly subscription plans to get the most bang for your buck. We offer classes from $13 to $40 depending on the program you choose. You decide.
+We make it easy to attend our classes. Choose one of our monthly subscription plans to get the most bang for your buck. We offer classes from $11 to $40 depending on the program you choose. You decide!
 
 ## Register for classes here:
 
@@ -20,9 +20,8 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 ## \- Three Trial Classes (Within 1 week) - $35 Plus Tax
 
-## \- Toddler Trial Classes (Two classes within 1 week - $45 Plus Tax
+## \- Toddler Trial Classes (Two classes within 1 week) - $45 Plus Tax
 
-##### \*\*Limited Spots available for our Toddler Program!
 
  <br>
 
@@ -33,25 +32,33 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 * First Month: $314
 * $13 per class for a minimum of 6 classes a week
 
-* From unlimited access to yoga, jiu jitsu, kickboxing and muay thai for you to take advantage of! 
+* Unlimited access to Jiu-Jitsu, Kettlebell, Kickboxing and Muay Thai for you to take advantage of! 
 
-  * Unlimited Jiu-Jitsu, Muay Thai, Kickboxing, Yoga
 
 **\- OR -** 
 
-## Pay In Full, Unlimited (6 Months) - $1,400:
+## Pay In Full (6 Months): $1,400
 
-* ## Save over $100!
+* ## Save $394!
 
 - - -
 
 ## Five Times a Week
   * Monthly Fee: $275 + $15 sign-up fee
   * First Month: $290
-  * $14 per class
+  * $15 per class
 
-  * Unlimited Jiu-Jitsu, Muay Thai, Kickboxing, Yoga
+  * Access to Jiu-Jitsu, Muay Thai, Kickboxing and Kettlebell
 
+**\- OR -** 
+
+## Pay In Full (6 Months): $1,350
+
+* ## Save $300!
+
+
+
+ 
 - - -
 
 ## Four Times a Week
@@ -59,7 +66,16 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
   * First Month: $280
   * $17 per class
 
-  * Unlimited Jiu-Jitsu, Muay Thai, Kickboxing, Yoga
+  * Access to Jiu-Jitsu, Muay Thai, Kickboxing and Kettlebell
+
+
+**\- OR -** 
+
+## Pay In Full (6 Months): $1,300
+
+* ## Save $290!
+
+
 
 - - -
 
@@ -68,7 +84,15 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
   * First Month: $265
   * $21 per class
 
-  * Unlimited Jiu-Jitsu, Muay Thai, Kickboxing, Yoga
+  * Access to Jiu-Jitsu, Muay Thai, Kickboxing and Kettlebell
+
+
+**\- OR -** 
+
+## Pay In Full (6 Months): $1,230
+
+* ## Save $270!
+
 
 - - -
 
@@ -77,7 +101,14 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
   * First Month: $240
   * $28 per class
 
-  * Unlimited Jiu-Jitsu, Muay Thai, Kickboxing, Yoga
+* Access to Jiu-Jitsu, Muay Thai, Kickboxing and Kettlebell
+
+
+**\- OR -** 
+
+## Pay In Full (6 Months): $1,150
+
+* ## Save $200!
 
 - - -
 
@@ -86,7 +117,15 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
   * First Month: $175
   * $40 per class
 
-  * Unlimited Jiu-Jitsu, Muay Thai, Kickboxing, Yoga
+* Access to Jiu-Jitsu, Muay Thai, Kickboxing and Kettlebell
+
+
+**\- OR -** 
+
+## Pay In Full (6 Months): $800
+
+* ## Save $160!
+
 
 
 - - -
@@ -96,7 +135,7 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
   * First Month: $275
   * $11 per class for a minimum of 6 classes a week
 
-* Includes unlimited access to all Jiu-Jitsu classes and Yoga! 
+* Includes unlimited access to all Jiu-Jitsu classes and Kettlebell! 
 
 - - -
 
@@ -105,34 +144,38 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
   * First Month: $215
   * $12 per class for a minimum of 4 classes a week
 
-  * Includes unlimited access to Muay Thai, Kickboxing and Yoga! 
+  * Includes unlimited access to Muay Thai, Kickboxing and Kettlebell! 
 
 - - -
 
-## Toddler Membership 2x a Week:
+## Toddler Membership 3x a Week:
   * Monthly Fee: $225 + $15 sign-up fee
   * First Month: $240
   * $28 per class
-  * Pick two classes weekly. Either 2 Jiu-Jitsu classes a week/ or 1  jiu-jitsu class & 1 Kickboxing class.  
 
-## Toddler Membership 3x a Week:
+  *  3 sessions a week. Can choose from any of our Toddler Jiu-Jitsu classes and our Saturday morning beginner Kid's kickboxing class.   
+
+## Toddler Membership 2x a Week:
   * Monthly Fee: $250 + $15 sign-up fee
   * First Month: $275
   * $21 per class
-  * 3 Sessions a Week. Includes all Toddler classes. 2 Jiu-Jitsu classes and 1 Kickboxing class weekly.
 
----
+  * 3 sessions a week. Can choose from any of our Toddler Jiu-Jitsu classes and our Saturday morning beginner Kid's kickboxing class.  
 
-## 6 Months Paid in Full Unlimited:
-$1,400.00
+## Toddler Membership 1x a Week:
+  * Monthly Fee: $225 + $15 sign-up fee
+  * First Month: $240
+  * $28 per class
+
+  *  1 session a week. Can choose from any of our Toddler Jiu-Jitsu classes or our Saturday morning beginner Kid's kickboxing class.
 
 ---
 
 # Drop In Fees:
 
-**One Session - $50**
+**One Session - $45**
 
-**Day Pass - $100**
+**Day Pass - $55**
 
 **(Drop In fees are no longer offered for our Toddler program)**
 
@@ -148,17 +191,16 @@ Available for purchase below:
 
 **Professor Alvaro:**
 
-* (1) Session(s) 30 minutes: $60
-* (3) Session(s) 30 minutes: $165
-* (5) Session(s) 30 minutes: $275
-* (10) Session(s) 30 minutes: $550
 
-<br>
+* (1) Session(s) 1 hour: $95
+* (3) Session(s) 1 hour: $270
+* (5) Session(s) 1 hour:  $435
+* (10) Session(s) 1 hour: $850
 
-* (1) Session(s) 1 hour: $120
-* (3) Session(s) 1 hour: $350
-* (5) Session(s) 1 hour:  $499
-* (10) Session(s) 1 hour: $999
+**Coach David:**
+* (1) Session(s) 45 minutes: $65
+* (1) Session(s) 1 hour: $75
+* (3) Session(s) 1 hour: $210
 
 
 **Mommy/Daddy & Me Private:**
@@ -175,5 +217,7 @@ Available for purchase below:
 30% OFF FOR 3RD FAMILY/FRIEND
 
 40% OFF FOR 4TH FAMILY MEMBER
+
+5% OFF FOR FRIENDS
 
 We offer Military/ Health Care/ Law Enforcement/ Fire Department Discount
