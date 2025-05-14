@@ -24,37 +24,44 @@ tags:
 
 • In Brazilian Jiu Jitsu classes, children will meet many new friends and share common experiences like drilling techniques, playing games, and live rolling.
 
-• Our toddler class are for Ages 3-5. Recommended for active children who are eager to learn. Limited spots available!
+• Our toddler class are for Ages 3-6. Recommended for active children who are eager to learn.
 
 <br>
 
 - - -
 
-##### \*\*PLEASE CHECK AVAILABILITY BEFORE ENROLLING IN OUR TODDLER PROGRAM AS SPOTS ARE LIMITED FOR THAT CLASS
+<br>
 
-* Please give us a call at (917) 745-1772 or send us an email at [atjiujitsunyc@gmail.com](mailto:atjiujitsunyc@gmail.com) letting us know you would like to be added to the Wait List if all spots are full. 
+> ## T﻿oddler Trial Week:
+>
+> **Access to two classes for $45** 
+
+
 
 <br>
 
 > ## T﻿oddler Monthly Program:
 >
-> **$﻿180 - Includes 2 Sessions Weekly** 
+> **One Class a Week: $160** 
 >
-> **$﻿215 - Includes ALL Toddler Sessions** 
+> **Two Classes a Week: $225** 
+>
+> **Three Classes a Week: $250** 
+
 
 <br> 
 
 > ## **Toddler Classes Schedule:**
 >
-> **T﻿hursday:** 
+> **Monday, Wednesday and Thursday:** 
 >
-> Toddler Jiu-Jitsu: 3:45 p.m. - 4:30 p.m. 
+> Toddler Jiu-Jitsu: 3:30 p.m. - 4:00 p.m. 
 >
 > **S﻿aturday:**
 >
-> T﻿oddler Jiu-Jitsu: 9:30 a.m. - 10:15 a.m.
+> T﻿oddler Jiu-Jitsu: 9:15 a.m. - 10:00 a.m.
 >
-> T﻿oddler Kickboxing: 11:10 a.m. - 11:55 a.m. 
+> Beginner Kid's Kickboxing (Ages 3-9): 11:15 a.m. - 11:55 a.m. 
 
 # Get Started Now:
 
