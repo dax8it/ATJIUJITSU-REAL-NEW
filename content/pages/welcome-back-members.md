@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Register For Classes!
-order: 1
+order: 2
 date: 2020-08-18T22:56:32.594Z
 description: "Please register through our online booking platform, martial arts on rails. "
 thumbnail: /img/img_3045.jpg
