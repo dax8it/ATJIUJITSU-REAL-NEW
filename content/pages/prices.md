@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Our Prices
-order: 13
+order: 1
 date: 2024-09-11
 description: Our pricing makes taking classes affordable!
 home: true
