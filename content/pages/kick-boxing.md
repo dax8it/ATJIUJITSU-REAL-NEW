@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Kickboxing
-order: 1
+order: 4
 date: 2019-05-01
 description: "Dive into the world of kickboxing: a blend of karate, Muay Thai,
   and boxing. Learn about its techniques, history, and benefits for fitness and
