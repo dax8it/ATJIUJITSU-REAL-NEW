@@ -21,7 +21,7 @@ MMA, or Mixed Martial Arts, stands as the pinnacle of **@Jiu-Jitsu NYC mixed mar
 
 
 Mixed Martial Arts, commonly known as MMA, harmoniously merges diverse fighting techniques from striking to grappling, offering a comprehensive combat experience. Originating from various traditional martial arts, MMA has evolved into a globally recognized sport, emphasizing both offensive and defensive strategies. Practitioners harness skills from disciplines like Jiu-Jitsu and Kickboxing, making MMA a versatile and effective form of self-defense.
-
+- - -
 ### "How has MMA revolutionized the world of combat sports?" ### 
 By blending various martial arts disciplines, MMA offers a versatile and comprehensive approach to modern fighting.
 
@@ -31,44 +31,43 @@ In the vibrant backdrop of Jackson Heights and beyond, many seek the holistic ex
 ### MMA: A Lifelong Skill Beyond the Cage ###
 Diving deep into MMA isn’t just about mastering strikes or grappling maneuvers. It’s about imbibing a life skill. Its real-world applicability ensures that those training in MMA, whether in an **academy of mixed martial arts** or a local dojo in Queens, are fortified with genuine self-defense skills. The rigors of MMA training foster not just physical prowess but a mindset of discipline, resilience, and situational awareness. It’s more than a sport; it’s a guardian, ensuring you tread confidently, on any corner of the world.
 
-
+- - -
 ### M﻿MA - Martial Arts FAQs ### 
 **What distinguishes MMA from traditional martial arts?**
-
-MMA combines techniques from various traditional martial arts, offering a holistic combat experience with striking, grappling, and ground fighting.
+> MMA combines techniques from various traditional martial arts, offering a holistic combat experience with striking, grappling, and ground fighting.
 
 **Is MMA effective for real-world self-defense?**
 
-Absolutely. MMA trains practitioners in both offensive and defensive strategies, making it a valuable skill for real-world self-defense scenarios.
+> Absolutely. MMA trains practitioners in both offensive and defensive strategies, making it a valuable skill for real-world self-defense scenarios.
 
 **How has MMA evolved over the years?**
 
-MMA has grown from merging traditional fighting styles to a globally recognized sport, with standardized rules and diverse techniques.
+> MMA has grown from merging traditional fighting styles to a globally recognized sport, with standardized rules and diverse techniques.
 
 **Which martial arts disciplines are commonly integrated into MMA?**
 
-MMA often incorporates techniques from Jiu-Jitsu, Kickboxing, Wrestling, Muay Thai, and other combat disciplines.
+> MMA often incorporates techniques from Jiu-Jitsu, Kickboxing, Wrestling, Muay Thai, and other combat disciplines.
 
 **What differentiates MMA from other martial arts?**
 
-MMA integrates multiple martial art disciplines, offering a blend of striking, grappling, and ground-fighting techniques, making it versatile and comprehensive.
+> MMA integrates multiple martial art disciplines, offering a blend of striking, grappling, and ground-fighting techniques, making it versatile and comprehensive.
 
 **Is MMA effective for real-world self-defense?**
 
-Yes, MMA equips practitioners with practical self-defense skills, making them adept at handling diverse real-world confrontations.
+> Yes, MMA equips practitioners with practical self-defense skills, making them adept at handling diverse real-world confrontations.
 
 **Which martial arts form the foundation of MMA?**
 
-MMA is rooted in several martial arts, with key influences from Jiu-Jitsu, Kickboxing, and other striking and grappling disciplines.
+> MMA is rooted in several martial arts, with key influences from Jiu-Jitsu, Kickboxing, and other striking and grappling disciplines.
 
 **How does MMA training contribute to mental well-being?**
 
-MMA training instills discipline, resilience, and focus, fostering not only physical prowess but also mental fortitude.
+> MMA training instills discipline, resilience, and focus, fostering not only physical prowess but also mental fortitude.
 
 **Is MMA suitable for beginners with no martial arts background?**
 
-Absolutely. MMA training often begins with foundational techniques, making it accessible for beginners, and then progresses to advanced maneuvers.
-
+> Absolutely. MMA training often begins with foundational techniques, making it accessible for beginners, and then progresses to advanced maneuvers.
+- - -
 ## Adult MMA Schedule: ##
 
 **Friday: 6:15 p.m. - 7:00 p.m.**
@@ -77,7 +76,7 @@ Absolutely. MMA training often begins with foundational techniques, making it ac
 
 **Saturday: 11:15 a.m. - 12:00 p.m.**
 
-
+- - -
 **In order to take this class, you must have Kickboxing & Jiu-Jitsu experience.**
 
 
@@ -99,7 +98,7 @@ We are very excited to have this new program into our school. It will be a diffe
 What is the influence of martial arts on adults’ well-being
 Martial arts is a powerful catalyst that amplifies an adult’s physical agility and bolsters mental fortitude. Embracing this practice not only refines your physique but also sharpens your mental clarity, focus, and confidence. Thinking of embarking on this transformative journey? Dive deeper to understand how martial arts might be the change you’ve been seeking – and consider taking the next step by exploring our sign-up and schedule options.
 
-Explore our schedule and sign up for one of martial arts program
+Explore our schedule and sign up for one of martial arts program!
 
 
 
