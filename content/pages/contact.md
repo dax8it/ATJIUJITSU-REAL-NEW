@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Contact Us
-order: 101
+order: 4
 date: 2019-05-03
 description: Getting in touch is easy!
 thumbnail: /img/homepagea2.jpg
