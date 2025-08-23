@@ -4,7 +4,7 @@ title: Our Prices
 order: 3
 date: 2024-09-11
 description: Our pricing makes taking classes affordable!
-thumbnail: /img/atjiujitsu-icon.png
+thumbnail: /img/dsc06568.jpg
 home: true
 tags:
   - Programs
