@@ -38,11 +38,11 @@ Martial arts is a powerful catalyst that amplifies an adult's physical agility a
 
 • We offer a variety of Gi & No Gi classes, Beginners & Advanced classes, and morning, afternoon & evening classes which can fit all schedules! 
 
-> **Beginners No Gi: Mondays 6:15 p.m. - 7:00 p.m.**
+> **Beginners No Gi: Mondays 6:45pm - 7:30pm**
 >
-> **Beginners Gi: Wednesdays & Fridays 6:15 p.m. - 7:00 p.m.**
+> **Beginners Gi: Wednesdays 6:45pm - 7:30pm**
 >
-> **Advanced Gi: Wednesdays 7:15 p.m. - 8:30 p.m.**
+> **Advanced Gi: Wednesdays 7:30pm- 8:30pm**
 
 # Get Started Now:
 
@@ -69,8 +69,6 @@ Hey there, future Martial Arts enthusiasts! Ever wondered why Brazilian Jiu-Jits
 9. **Problem-Solving Skills**: Hone your critical thinking as you tackle challenges on the mat, which translates to real-world solutions.
 10. **Just Plain Fun**: Last but not least, the joy and smiles on the mat are infectious!
 
-<GatsbyImage image={getImage(props.data.dsc06555)} alt="Jiu-jitsu training" />
-
 - - -
 
 ### The Amazing Journey of Brazilian Jiu-Jitsu: From Brazil to Your Neighborhood!
@@ -81,9 +79,10 @@ Hey there, Martial Arts fans! Ever wondered how Brazilian Jiu-Jitsu became the g
 
 Fast forward to today, and Brazilian Jiu-Jitsu is rocking the world! Not only is it a popular sport, but it's also a go-to for Self-Defense and overall Fitness. Whether you're looking to boost your Mental Toughness or train for actual combat, BJJ has got you covered. Plus, you'll find its techniques spicing up other sports like Mixed Martial Arts and Catch Wrestling.
 
-#### JIU-JITSU: Martial Arts FAQ: 
+#### JIU-JITSU: Martial Arts FAQ:
 
-**Q:** How did Brazilian Jiu-Jitsu originate?
+**Q:** How did Brazilian Jiu-Jitsu originate? 
+
 **A:** Brazilian Jiu-Jitsu originated with the Gracie family in Brazil in the early 1900s. Helio Gracie adapted techniques from Judo and Japanese Ju-Jitsu, focusing on leverage and ground fighting.
 
 **Q:** What are the key benefits of practicing Brazilian Jiu-Jitsu?\
@@ -93,8 +92,6 @@ Fast forward to today, and Brazilian Jiu-Jitsu is rocking the world! Not only is
 **A:** Anyone looking to improve their mental toughness, physical fitness, or self-defense skills can benefit from Brazilian Jiu-Jitsu. It is suitable for both children and adults.
 
 - - -
-
-<GatsbyImage image={getImage(props.data.dsc05957)} alt="Jiu-jitsu class" />
 
 ### History of Brazilian Jiu-Jitsu: Understanding its roots and evolution over time.
 
@@ -241,8 +238,6 @@ For those just starting, it's advisable to check with the academy on their speci
 - - -
 
 ![](/img/whatsapp-image-2023-01-23-at-7.00.13-pm-1-.jpeg)
-
-
 
 - - -
 
