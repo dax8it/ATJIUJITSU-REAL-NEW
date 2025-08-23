@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: MMA
-order: 10
+order: 12
 date: 2025-08-19T17:39:00.000-04:00
 thumbnail: /img/screen-shot-2025-08-19-at-5.12.56-pm.png
 home: false
