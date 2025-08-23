@@ -138,7 +138,7 @@ Alex has competed and medaled in numerous Grapplers Quest, NAGA, and IBJJF tourn
 
 # Kim-Lien Kendall
 
-## Smarter Yoga and Kettlebell Instructor
+## Kettlebell Instructor
 
 Meet Kim, a seasoned expert in both Yoga and Martial Arts, particularly Brazilian Jiu-Jitsu, where she holds a Purple Belt. Since 2005, Kim has been elevating the Fitness and Self-Confidence of individuals through Yoga classes, one-on-one sessions, workshops, and seminars. Her unique approach combines her background in exercise physiology and kinesiology to form Smarter Yoga™, a personalized movement practice rooted in exercise science. As the CEO of Smarter Bodies, she co-authored the book 'Exposing Yoga Myths.'
 
