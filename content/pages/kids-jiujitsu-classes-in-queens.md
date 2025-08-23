@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
 title: Kids Jiujitsu Classes
-order: 4
+order: 5
 date: 2023-09-01T05:55:32.610Z
 description: Dive deep into kids jiujitsu - a martial art that promotes physical
   strength, discipline, and character development in children
-home: true
 thumbnail: /img/kids-jiujitsu-jackson-heights-queens.jpg
+home: true
 tags:
   - Programs
   - kids-programs
@@ -14,7 +14,7 @@ tags:
   - Jiujitsu for Kids
   - Jiujitsu near me
 ---
-# What is Kids' Jiujitsu?
+# What is Kid's Jiujitsu?
 
 Kids jiujitsu is a martial art focusing on grappling and ground techniques, offering children a holistic blend of physical training and mental growth.
 
@@ -66,7 +66,7 @@ Jiujitsu stands out as a discipline that fosters physical prowess, mental resili
   * **A**: Jiujitsu teaches discipline, respect, humility, and persistence.
 * **Q**: **How old should children be to start jiujitsu?**
 
-  * **A**: While suitable for all ages, @jiujitsunyc offers classes for children as young as 3 years old in our Toddlers Jiujitsu Program.
+  * **A**: While suitable for all ages, @ Jiu-Jitsu NYC offers classes for children as young as 3 years old in our Toddlers Jiujitsu Program.
 
   - - -
 
