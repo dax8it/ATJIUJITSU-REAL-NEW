@@ -4,6 +4,7 @@ title: Our Prices
 order: 3
 date: 2024-09-11
 description: Our pricing makes taking classes affordable!
+thumbnail: /img/atjiujitsu-icon.png
 home: true
 tags:
   - Programs
@@ -12,7 +13,7 @@ tags:
 
 We make it easy to attend our classes. Choose one of our monthly subscription plans to get the most bang for your buck. We offer classes from $11 to $40 depending on the program you choose. You decide!
 
-## Register for classes here:
+# Register for classes here:
 
 ## <https://www.maonrails.com/signup/member/8s6>
 
