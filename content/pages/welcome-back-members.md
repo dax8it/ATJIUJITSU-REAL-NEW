@@ -11,16 +11,7 @@ tags:
 ---
 - - -
 
-##### \*\*PLEASE CHECK AVAILABILITY BEFORE ENROLLING IN OUR TODDLER PROGRAM AS SPOTS ARE LIMITED FOR THAT CLASS
 
-##### **ONCE ALL SPOTS ARE FILLED, YOU MAY STILL ENROLL YOUR CHILD FOR THE TODDLER TRIAL, BUT TO ENROLL FOR OUR MONTHLY PROGRAM, PLEASE JOIN OUR WAIT LIST.**
-
-* Please give us a call at (917) 745-1772 or send us an email at [atjiujitsunyc@gmail.com](mailto:atjiujitsunyc@gmail.com) letting us know you would like to be added to the Wait List. We apologize for the inconvenience.
-* Please give us a call at (917) 745-1772 or send us an email at [atjiujitsunyc@gmail.com](mailto:atjiujitsunyc@gmail.com) letting us know you would like to be added to the Wait List. We apologize for the inconvenience.
-
-<br>
-
-- - -
 
 Through Martial Arts on Rails, you will be able to book your class sessions ahead of time.
 
@@ -42,23 +33,21 @@ If you already have an account with us please login below.
 
 Students are required to follow training protocols for safety and the safety of others. 
 
-* Students must remove their shoes before stepping onto the mat. NO SHOES allowed on the mat.
-* Students MUST wipe their feet in the footbucket before stepping onto the mats each time.
-* Wash hands prior to training and/or sanitize hands (RECOMMENDED).
+* Students **MUST** remove their shoes before stepping onto the mat. **NO SHOES** allowed on the mat.
+* Students **MUST** wipe their feet in the foot bucket before stepping onto the mats each time.
+* Wash hands prior to training and/or sanitize hands **(RECOMMENDED)**.
 * If you do not feel well and/or are nursing any injuries, please stay home and rest.
-* Students must arrive ON TIME to class. Arriving late is disrespectful to the Professor/Instructor.
-* Students are REQUIRED to book every class ahead of time. This is to keep track of attendance for the day. 
-* If a student is put on a WAITLIST, you must respect the list. If you are put on the waitlist, you CANNOT take class. You can still attend class, but only to observe. This refers back to booking class on time.
-* Students are REQUIRED to have their own Gi, and Kickboxing Gear once enrolled in a monthly membership.
+* Students must arrive **ON TIME** to class. Arriving late is disrespectful to the Professor/Instructor.
+* Students are **REQUIRED** to book every class ahead of time. This is to keep track of attendance for the day. 
+* If a student is put on a **WAITLIST**, you must respect the list. If you are put on the waitlist, you **CANNOT** take class. You can still attend class, but only to observe. This refers back to booking class on time.
+* Students are **REQUIRED** to have their own Gi, and Kickboxing Gear once enrolled in a monthly membership.
 * Academy gear is available to students on trial only.
-* If you do not have a Gi for the day, you will be required to pay a $5 rental fee each time.
-* Any borrowed gear, must be sprayed down and returned to its place. DO NOT leave any used gear on the mats.
-* Students are recomended to bring their own flip flops to leave here at the gym. Please avoid walking barefoot throughtout the gym, unless on the mats.
+* If you do not have a Gi for the day, you will be required to pay a $15 rental fee each time.
+* Any borrowed gear, must be sprayed down and returned to its place. **DO NOT** leave any used gear on the mats.
+* Students are recommended to bring their own flip flops to leave here at the gym. Please avoid walking barefoot throughout the gym, unless on the mats.
 
 Please do your best to follow our policies and if you have any questions or concerns, please do not hesitate to reach out. Thank you.
 
 \-@JIU-JITSU NYC STAFF
 
 - - -
-
-google-site-verification=e0fMsGIyNLTzliaz_MLS8CbzIJMuHF-Qi1srbZWprmI
