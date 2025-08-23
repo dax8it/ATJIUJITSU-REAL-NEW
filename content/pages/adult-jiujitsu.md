@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Brazilian Jiu-Jitsu
-order: 0
+order: 5
 date: 2019-05-01
 description: Discover the art of Brazilian Jiu-Jitsu in Jackson Heights, Queens.
   Dive into BJJ training, from beginner classes to advanced competition training
@@ -83,7 +83,7 @@ Fast forward to today, and Brazilian Jiu-Jitsu is rocking the world! Not only is
 
 #### JIU-JITSU: Martial Arts FAQ: 
 
-**Q:** How did Brazilian Jiu-Jitsu originate?\
+**Q:** How did Brazilian Jiu-Jitsu originate?
 **A:** Brazilian Jiu-Jitsu originated with the Gracie family in Brazil in the early 1900s. Helio Gracie adapted techniques from Judo and Japanese Ju-Jitsu, focusing on leverage and ground fighting.
 
 **Q:** What are the key benefits of practicing Brazilian Jiu-Jitsu?\
