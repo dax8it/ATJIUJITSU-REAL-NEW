@@ -3,6 +3,7 @@ templateKey: blog-post
 title: "@ Jiu-Jitsu NYC End of Summer Newsletter"
 order: 1
 date: 2025-09-03T15:47:00.000-04:00
+thumbnail: /img/lost-2-.png
 home: true
 tags:
   - Queens
