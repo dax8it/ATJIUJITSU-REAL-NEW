@@ -1,13 +1,18 @@
 ---
 templateKey: blog-post
 title: 🎒 Back to School Training Special!
-order: 1
+order: 0
 date: 2025-09-03T16:10:00.000-04:00
 thumbnail: /img/screen-shot-2025-09-03-at-4.09.37-pm.png
 home: false
 tags:
   - Other
   - Jiujitsu near me
+  - Programs
+  - Queens
+  - Jackson Heights
+  - Adults Martial Arts
+  - adult-programs
 ---
 School’s back in session—and it’s the perfect time to get back on the mats! Whether you’re a new student ready to start your martial arts journey, or a returning member looking to sharpen your skills, this **limited-time Back to School offer** is for you.
 
