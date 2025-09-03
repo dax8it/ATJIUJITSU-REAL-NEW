@@ -6,7 +6,7 @@ date: 2019-05-01
 description: "Dive into the world of kickboxing: a blend of karate, Muay Thai,
   and boxing. Learn about its techniques, history, and benefits for fitness and
   self-defense."
-thumbnail: /img/kick-boxing.jpg
+thumbnail: /img/screen-shot-2025-09-03-at-4.40.20-pm.png
 home: true
 tags:
   - Programs
