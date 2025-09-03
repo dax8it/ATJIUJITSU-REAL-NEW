@@ -81,12 +81,11 @@ Our Summer Camp was 6 weeks packed with action and creativity—kids launched bo
 
 Thank you to every student, parent, and coach who made it unforgettable! Summer may be over… but the grind has just begun. 💪
 
-See you on the mats,
-
-@ Jiu-Jitsu NYC
-
 ![](<>)
 
 ![](/img/screen-shot-2025-09-03-at-3.47.11-pm.png)
 
-![]()
+![](<>)
+
+See you on the mats, 
+@ Jiu-Jitsu NYC 
