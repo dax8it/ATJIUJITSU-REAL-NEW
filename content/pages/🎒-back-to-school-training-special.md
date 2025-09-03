@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 🎒 Back to School Training Special!
-order: 0
+order: 1
 date: 2025-09-03T16:10:00.000-04:00
 thumbnail: /img/screen-shot-2025-09-03-at-4.09.37-pm.png
 home: false
