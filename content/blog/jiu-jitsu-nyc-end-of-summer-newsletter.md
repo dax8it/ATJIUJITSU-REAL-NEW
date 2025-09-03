@@ -7,11 +7,9 @@ thumbnail: /img/lost-2-.png
 home: true
 tags:
   - Queens
-  - Programs
   - Events
-  - kids-programs
-  - adult-programs
   - Blog
+  - Jackson Heights
 ---
 ## 🎒Back to School, Back to the Grind
 
