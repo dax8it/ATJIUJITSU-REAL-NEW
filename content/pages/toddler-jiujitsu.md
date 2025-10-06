@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Toddler Jiujitsu
+title: Toddler Jiu-Jitsu
 order: 7
 date: 2019-05-01
 description: In Toddler BJJ, children will meet many new friends and share
