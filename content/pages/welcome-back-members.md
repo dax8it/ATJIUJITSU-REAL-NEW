@@ -3,29 +3,17 @@ templateKey: blog-post
 title: Register For Classes!
 order: 1
 date: 2020-08-18T22:56:32.594Z
-description: Please register through our online booking platform, martial arts on rails.
+description: Please register through our online booking platform,  GYMDESK.
 thumbnail: /img/img_3045.jpg
 home: false
 tags:
   - Blog
 ---
-- - -
+Through GYMDESK, you will be able to book your class sessions ahead of time.
 
+In the link below, there is a step by step video tutorial for how to register, if you have not yet done so. [](https://www.maonrails.com/signup/member/8s6)[](https://at-jiujitsu-nyc.maonrails.com/login)
 
-
-Through Martial Arts on Rails, you will be able to book your class sessions ahead of time.
-
-In the link below, there is a step by step video tutorial for how to register, if you have not yet done so. 
-
-## <https://www.maonrails.com/signup/member/8s6>
-
-<br>
-
-If you already have an account with us please login below.
-
-## <https://at-jiujitsu-nyc.maonrails.com/login>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Pna2MyGY56A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/shorts/3uPuiY8huv0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - - -
 
