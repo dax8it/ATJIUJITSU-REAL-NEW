@@ -19,9 +19,9 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 # Get Started Now with a Trial:
 
-## \- Three Trial Classes (Within 1 week) - $35 
+## \- Three Trial Classes (Within 1 week) - $35
 
-## \- Toddler Trial Classes (Two classes within 1 week) - $45 
+## \- Toddler Trial Classes (Two classes within 1 week) - $45
 
  <br>
 
@@ -132,20 +132,20 @@ We make it easy to attend our classes. Choose one of our monthly subscription pl
 
 ## Toddler Membership 3x a Week ($21 a class) :
 
-* Monthly Fee: $225 + $15 sign-up fee
-* First Month: $240
+* Monthly Fee: $250 + $15 sign-up fee
+* First Month: $265
 * 3 sessions a week. Can choose from any of our Toddler Jiu-Jitsu classes and our Saturday morning beginner Kid's kickboxing class.   
 
 ## Toddler Membership 2x a Week ($28 per class):
 
-* Monthly Fee: $250 + $15 sign-up fee
-* First Month: $275
+* Monthly Fee: $225 + $15 sign-up fee
+* First Month: $240
 * 2 sessions a week. Can choose from any of our Toddler Jiu-Jitsu classes and our Saturday morning beginner Kid's kickboxing class.  
 
 ## Toddler Membership 1x a Week ($40 per class):
 
-* Monthly Fee: $225 + $15 sign-up fee
-* First Month: $240
+* Monthly Fee: $160 + $15 sign-up fee
+* First Month: $175
 * 1 session a week. Can choose from any of our Toddler Jiu-Jitsu classes or our Saturday morning beginner Kid's kickboxing class.
 
 - - -
