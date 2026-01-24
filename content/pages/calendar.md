@@ -6,7 +6,7 @@ date: 2020-05-29T22:47:34.544Z
 description: "Plan your martial arts training  with our detailed calendar
   schedule. Find class timings, special events, and kids martial arts sessions.
   "
-thumbnail: /img/homepagea2.jpg
+thumbnail: /img/mvi_0006.00_11_45_46.still111-3-.jpg
 home: false
 tags:
   - Other
