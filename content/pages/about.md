@@ -146,25 +146,6 @@ Kim holds a BS in Biochemistry from Florida State University and is certified by
 
 An active competitor in Brazilian Jiu-Jitsu, Kim specializes in creating sport-specific mobility programs. She has developed a unique program tailored for grapplers, which will be exclusively taught at @Jiu-Jitsu NYC. Her multifaceted expertise makes her an ideal mentor for those looking to improve their Self-Respect and Self Defense skills.<br>
 
-- - -
-
-<br>
-
-![Morgan Chen](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:007cff,c_fill,g_auto,r_max,w_450/v1583298692/STAFF/IMG_9669-Edit_mhgkln.png)
-
-# Morgan Chen
-
-## Muay-Thai Instructor
-
-Meet Morgan Chen, the Owner and Head Coach of **Astoria BarbellClub and Crossfit Astoria.** Born and raised in Rego Park, Morgan is deeply rooted in the local community. He attended P.S. 139, Russel Sage JHS 190, and Forest Hills High School, solidifying his connection to Queens. At just 18, Morgan earned his first nationally recognized personal training certification from NASM Fitness, showcasing his early commitment to Discipline and Self-Confidence.
-
-A food enthusiast, Morgan loves exploring new restaurants and honing his cooking techniques. He's also a diehard **NY Knicks** and **New York Mets** fan, fondly recalling summers spent at Shea Stadium. But Morgan's vision goes beyond personal interests; he aims to give back to Queens by making personal training and qualified fitness advice affordable for everyone. His ultimate goal is to offer complimentary fitness classes in every public NYC Park, enhancing community Self-Respect and Self Defense skills.
-
-Though juggling multiple ventures, Morgan's most cherished role is being a dad, proving that balance is key in achieving a fulfilling life.
-
-<br>
-
-- - -
 
 <br>
 
