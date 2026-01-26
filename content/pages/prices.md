@@ -13,9 +13,8 @@ tags:
 
 We make it easy to attend our classes. Choose one of our monthly subscription plans to get the most bang for your buck. We offer classes from $13 to $40 depending on the program you choose. You decide!
 
-# Register for classes here:
+Please email us to inquire about availability for our Toddler Program!
 
-## <https://www.maonrails.com/signup/member/8s6>
 
 # Get Started Now with a Trial:
 
