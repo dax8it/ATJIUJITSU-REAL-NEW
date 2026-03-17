@@ -183,12 +183,10 @@ Available for purchase below:
 
 - - -
 
-20% OFF FOR  2ND FAMILY/FRIEND 
+15% OFF FOR  2ND FAMILY/FRIEND 
 
-30% OFF FOR 3RD FAMILY/FRIEND
+20% OFF FOR 3RD FAMILY/FRIEND
 
-40% OFF FOR 4TH FAMILY MEMBER
+25% OFF FOR 4TH FAMILY MEMBER
 
-5% OFF FOR FRIENDS
 
-We offer Military/ Health Care/ Law Enforcement/ Fire Department Discount
