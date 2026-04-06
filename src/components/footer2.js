@@ -34,8 +34,8 @@ const Footer2 = class extends React.Component {
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    80-22 Northern Blvd. <br />
-                    Jackson Heights NY 11372
+                    82-19 Northern Blvd, 2nd Floor <br />
+                    Jackson Heights, NY 11372
                     <br />
                     U.S.A
                   </a>
