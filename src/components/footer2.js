@@ -27,7 +27,7 @@ const Footer2 = class extends React.Component {
                 <h2>LOCATION</h2>
                 <p>
                   Conveniently located near E/F/7/R/M trains on Northern Blvd
-                  between 80th & 81st Sts.
+                  between 82th & 83rd Sts.
                   <p />
                   <a
                     href="https://g.page/at-jiu-jitsu-nyc?share"
@@ -35,7 +35,7 @@ const Footer2 = class extends React.Component {
                     rel="noopener noreferrer"
                   >
                     82-19 Northern Blvd, 2nd Floor <br />
-                    Jackson Heights, NY 11372
+                    Jackson Heights NY 11372
                     <br />
                     U.S.A
                   </a>
