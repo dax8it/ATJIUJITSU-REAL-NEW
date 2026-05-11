@@ -127,6 +127,16 @@ Alex has competed and medaled in numerous Grapplers Quest, NAGA, and IBJJF tourn
 # Santi Furlong
 
 ## Jiu-Jitsu Instructor
+Meet Santiago Furlong, a first-degree Brazilian Jiu-Jitsu Black Belt, elite competitor, and coach with an international track record at the highest levels of the sport. A three-time World medalist in Brazilian Jiu-Jitsu, Santiago is also a European Champion and Pan-American Grappling Champion, as well as a member of the Argentine National Grappling Team.
+
+Having competed in the most prestigious organizations worldwide—including IBJJF, UWW, and CBJJE—Santiago has built a reputation for technical excellence, consistency, and high-level performance across both gi and no-gi competition. In 2024, he achieved the #1 ranking in the IBJJF No-Gi Black Belt Master Featherweight division, solidifying his position among the top athletes in his category.
+
+Among his most notable accomplishments, Santiago earned 1st place at the IBJJF European No-Gi Championship (2024) and silver medal at the IBJJF No-Gi World Championship (2024), along with a bronze medal at the IBJJF World Master Championship (2022). He is also a Pan-American Grappling Champion (UWW 2019) and multiple-time International Open champion across the United States, Brazil, and Europe.
+
+Beyond competition, Santiago is a dedicated coach and instructor based in New York, where he works with high-level athletes at Lotus Club. Under his guidance, students have achieved major international titles, including World, Pan American, and Brazilian National Championships.
+
+With a career that spans multiple countries and elite tournaments, Santiago combines world-class experience with a passion for teaching, helping students develop not only high-level jiu-jitsu skills but also discipline, confidence, and a competitive mindset.
+
 
 <br>
 
