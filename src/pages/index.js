@@ -39,7 +39,7 @@ const programs = [
 ]
 
 const proofStats = [
-  ["Jackson Heights", "Northern Blvd academy near E/F/7/R/M trains"],
+  ["Jackson Heights", "Northern Blvd at 83rd St, near E/F/7/R/M trains"],
   ["Kids + adults", "Programs for toddlers, teens, beginners, families, and competitors"],
   ["No contracts", "Straightforward pricing and easy first-class sign up"],
 ]
@@ -63,7 +63,7 @@ const faqs = [
   {
     question: "Where is @JiuJitsuNYC located?",
     answer:
-      "The academy is located at 82-19 Northern Blvd, 2nd Floor, Jackson Heights, NY 11372, near the E, F, 7, R, and M trains.",
+      "The academy is located at 82-19 Northern Blvd, 2nd Floor, Jackson Heights, NY 11372 — between 82nd and 83rd Street, near the corner of 83rd Street and Northern Blvd.",
   },
   {
     question: "How do I try a class or see the schedule?",
@@ -125,7 +125,9 @@ const faqSchema = {
 
 const BlogIndex = ({ data }) => {
   const siteTitle = data.site.siteMetadata.title
-  const posts = data.allMarkdownRemark.edges
+  const posts = data.allMarkdownRemark.edges.filter(
+    ({ node }) => node.fields.slug !== "/calendar/"
+  )
 
   return (
     <Layout title={siteTitle}>
@@ -156,7 +158,8 @@ const BlogIndex = ({ data }) => {
           </h1>
           <p className="hero-lede">
             @JiuJitsuNYC is a visual, high-energy martial arts academy for kids,
-            adults, beginners, families, and competitors — right on Northern Blvd.
+            adults, beginners, families, and competitors — right on Northern Blvd
+            between 82nd and 83rd Street.
           </p>
           <div className="hero-actions" aria-label="Primary actions">
             <a className="button button-primary" href="https://at-jiujitsu-nyc.gymdesk.com/signup">
@@ -186,7 +189,7 @@ const BlogIndex = ({ data }) => {
           </div>
           <div className="hero-card hero-card-bottom">
             <span>Located at</span>
-            <strong>82-19 Northern Blvd</strong>
+            <strong>82-19 Northern Blvd • 83rd St corner</strong>
           </div>
         </div>
       </section>
@@ -246,7 +249,7 @@ const BlogIndex = ({ data }) => {
           <ul className="check-list">
             <li>Fast schedule and sign-up access.</li>
             <li>Dedicated surfaces for kids, toddlers, adults, and striking programs.</li>
-            <li>Clear location details for Jackson Heights, Queens, and nearby neighborhoods.</li>
+            <li>Clear location details for Jackson Heights, Queens — between 82nd and 83rd Street on Northern Blvd.</li>
             <li>Community-first coaching with practical progress you can feel.</li>
           </ul>
           <div className="hero-actions compact">

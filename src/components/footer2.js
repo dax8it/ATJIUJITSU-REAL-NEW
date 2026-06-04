@@ -8,7 +8,11 @@ const Footer2 = () => (
     <div className="footer-card">
       <p className="eyebrow">Location</p>
       <h2>Jackson Heights, Queens</h2>
-      <p>82-19 Northern Blvd, 2nd Floor<br />Jackson Heights, NY 11372</p>
+      <p>
+        82-19 Northern Blvd, 2nd Floor<br />
+        Jackson Heights, NY 11372<br />
+        Between 82nd &amp; 83rd Street — near the corner of 83rd St and Northern Blvd
+      </p>
       <a href="https://g.page/at-jiu-jitsu-nyc?share" target="_blank" rel="noopener noreferrer">
         Open in Google Maps →
       </a>

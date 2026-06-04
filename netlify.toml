@@ -12,6 +12,30 @@
   to = "/admin/index.html"
   status = 200
 
+[[redirects]]
+  from = "/calendar"
+  to = "https://at-jiujitsu-nyc.gymdesk.com/schedule"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/calendar/"
+  to = "https://at-jiujitsu-nyc.gymdesk.com/schedule"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/calendar2"
+  to = "https://at-jiujitsu-nyc.gymdesk.com/schedule"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/calendar2/"
+  to = "https://at-jiujitsu-nyc.gymdesk.com/schedule"
+  status = 302
+  force = true
+
 # General security headers. Keep the public site locked down while allowing Decap CMS and Netlify Identity on /admin.
 [[headers]]
   for = "/*"
