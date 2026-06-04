@@ -14,10 +14,10 @@ publish_mode: editorial_workflow
 media_folder: static/img
 public_folder: /img
 
-logo_url: https://atjiujitsunyc2020.netlify.com/img/atjiujitsu-icon.png
+logo_url: https://www.atjiujitsunyc.com/img/atjiujitsu-icon.png
 
-site_url: https://atjiujitsunyc2020.netlify.com
-display_url: https://atjiujitsunyc2020.netlify.com
+site_url: https://www.atjiujitsunyc.com
+display_url: https://www.atjiujitsunyc.com
 
 collections:
   - name: "blog"

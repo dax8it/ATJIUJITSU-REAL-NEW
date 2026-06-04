@@ -20,7 +20,7 @@ module.exports = {
         headers: {
           '/*': [
             'Access-Control-Allow-Origin: *',
-            'Content-Security-Policy: frame-ancestors \'self\' https://atjiujitsunyc2020.netlify.com; script-src \'self\' \'unsafe-inline\' \'unsafe-eval\' https://identity.netlify.com https://unpkg.com/ https://identity.netlify.com/v1/netlify-identity-widget.js',
+            'Content-Security-Policy: frame-ancestors \'self\' https://www.atjiujitsunyc.com; script-src \'self\' \'unsafe-inline\' \'unsafe-eval\' https://identity.netlify.com https://unpkg.com https://cdn.decaporg.com https://identity.netlify.com/v1/netlify-identity-widget.js',
           ],
         },
         mergeSecurityHeaders: false, // This ensures our CSP headers aren't overwritten
