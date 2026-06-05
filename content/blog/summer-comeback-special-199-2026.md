@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "Former/New Members: Train All Summer for $199"
-order: 0
+order: 1
 date: 2026-06-04T21:58:11-04:00
 description: "Former and new members can train all summer with 60 days of unlimited Brazilian Jiu-Jitsu, kickboxing, and Muay Thai for only $199. Kids and adults ages 7+ welcome."
 thumbnail: /img/summer-comeback-special-199-2026.png
