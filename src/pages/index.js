@@ -44,6 +44,27 @@ const proofStats = [
   ["No contracts", "Straightforward pricing and easy first-class sign up"],
 ]
 
+const instagramPosts = [
+  {
+    title: "A moment that means more than the photo",
+    copy: "A team story from the mats: the work, the people, and everything that comes before a visible milestone.",
+    href: "https://www.instagram.com/p/DY2wzFCkohj/",
+    tag: "Team culture",
+  },
+  {
+    title: "More than just a Jiu-Jitsu school",
+    copy: "A look at the academy's striking program and the kind of training students build on and off the mats.",
+    href: "https://www.instagram.com/p/DTvmYq8kk_y/",
+    tag: "Striking program",
+  },
+  {
+    title: "Snow day at the academy",
+    copy: "A lighter community moment from Jackson Heights — still with solid base and balance.",
+    href: "https://www.instagram.com/p/DVHjXFfklSU/",
+    tag: "Academy life",
+  },
+]
+
 const faqs = [
   {
     question: "What martial arts classes are available at @JiuJitsuNYC?",
@@ -256,6 +277,43 @@ const BlogIndex = ({ data }) => {
             <a className="button button-primary" href="tel:9177451772">Call (917) 745-1772</a>
             <Link className="button button-secondary" to="/about/">Meet the Academy</Link>
           </div>
+        </div>
+      </section>
+
+      <section className="section instagram-section" aria-labelledby="instagram-title">
+        <div className="section-heading social-heading">
+          <div>
+            <p className="eyebrow">Instagram</p>
+            <h2 id="instagram-title">See the academy in action.</h2>
+            <p>
+              A lightweight snapshot of public @jiujitsunyc posts — fast on the website,
+              with each card opening the original Instagram post.
+            </p>
+          </div>
+          <a
+            className="button button-secondary"
+            href="https://www.instagram.com/jiujitsunyc/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Follow @jiujitsunyc
+          </a>
+        </div>
+        <div className="instagram-grid" aria-label="Selected Instagram posts from @jiujitsunyc">
+          {instagramPosts.map(post => (
+            <a
+              className="instagram-card"
+              href={post.href}
+              target="_blank"
+              rel="noopener noreferrer"
+              key={post.href}
+            >
+              <span className="instagram-label">{post.tag}</span>
+              <h3>{post.title}</h3>
+              <p>{post.copy}</p>
+              <span className="card-link">View on Instagram →</span>
+            </a>
+          ))}
         </div>
       </section>
 
