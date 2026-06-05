@@ -302,7 +302,7 @@ const indexQuery = graphql`
     }
     allMarkdownRemark(
       sort: { frontmatter: { order: ASC } }
-      filter: { frontmatter: { order: { in: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 30] } } }
+      filter: { frontmatter: { order: { in: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 30] } } }
     ) {
       edges {
         node {
