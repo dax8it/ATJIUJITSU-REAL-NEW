@@ -1,0 +1,56 @@
+ATJJ WEBSITE UPDATE EMAIL TEMPLATES
+
+Use one of these exact subject prefixes.
+
+1) Blog post / announcement
+Subject: ATJJ Blog Post: [Title]
+
+Please create a post about [event/promo].
+Final copy:
+[Paste final text]
+
+Attachments:
+[Flyer/photo names]
+
+CTA / link:
+[Button or URL]
+
+Deadline / notes:
+[Date or approval note]
+
+---
+
+2) General site update
+Subject: ATJJ Site Update: [Short change]
+
+Please update [page/section].
+Replace current text with:
+[Paste final text]
+
+Keep this link:
+[URL]
+
+Notes:
+[Anything else]
+
+---
+
+3) Homepage image update
+Subject: ATJJ Homepage Image: [Section]
+
+Please replace the [hero/program/CTA] image with the attached photo.
+Alt text should be:
+[Plain description of the image]
+
+Placement/order:
+[Where it should appear]
+
+Notes:
+[Anything else]
+
+---
+
+Rule:
+- Structured homepage text/image/button/order edit? Use CMS.
+- Flyer, event, blog post, or judgment call? Use email intake.
+- Preview first. Production only after approval.

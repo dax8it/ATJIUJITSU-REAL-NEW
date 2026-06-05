@@ -1,6 +1,6 @@
 # AT Jiu Jitsu current build handoff
 
-Last updated: 2026-06-05 14:10 EDT
+Last updated: 2026-06-05 14:41 EDT
 
 This document is for future agent sessions that need to pick up the current AT Jiu Jitsu website build without relying on chat history.
 
@@ -228,6 +228,30 @@ Local verification run after implementation:
 - `git diff --check` passed.
 - Local Gatsby serve at `http://127.0.0.1:9000/` returned `HTTP/1.1 200 OK`; browser verified the homepage H1, 4 program cards, 5 Instagram cards newest-first, and Gymdesk signup URL.
 - Local `/admin/` loaded with title `@JiuJitsuNYC Content Manager`, Netlify Identity login button, and no console errors.
+
+No production merge/push was performed.
+
+## 2026-06-05 owner training package
+
+Added a sendable owner training package under `/admin/training/`:
+
+- `static/admin/training/index.html` — visual web guide with video, examples, CMS steps, and email templates.
+- `static/admin/training/atjj-update-tutorial.mp4` — narrated HyperFrames tutorial video, 1920×1080, ~100 seconds, with audio and faststart MP4 metadata.
+- `static/admin/training/atjj-update-tutorial-poster.jpg` — video poster frame.
+- `static/admin/training/atjj-site-update-guide.pdf` — printable 7-page PDF guide.
+- `static/admin/training/atjj-email-templates.txt` — copy/paste email templates.
+- `static/admin/index.html` — adds a persistent `Update guide + video` link inside the admin area/login screen.
+
+Local verification run after adding the package:
+
+- HyperFrames project lint/validate/inspect passed before rendering: 0 errors, 0 warnings, WCAG text pass, 0 layout issues.
+- Rendered MP4 verified with `ffprobe`: duration `100.021029`, 1920×1080, 30 fps, H.264 video, AAC audio.
+- Poster frame visually checked: clean and readable.
+- PDF generated with Chrome print-to-PDF and verified with `pdfinfo`: 7 pages, not encrypted.
+- `SHARP_IGNORE_GLOBAL_LIBVIPS=1 npm run build` completed successfully with only known non-blocking warnings.
+- Local Gatsby serve returned HTTP 200 for `/admin/training/`, MP4, PDF, templates text, and poster image.
+- Browser QA verified `/admin/training/` page title, video controls, 100.021s media duration, downloadable links, and all supported prefixes.
+- Browser QA verified `/admin/` shows the `Update guide + video` link with the Netlify Identity login button.
 
 No production merge/push was performed.
 
