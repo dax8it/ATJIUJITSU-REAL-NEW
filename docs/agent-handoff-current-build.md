@@ -1,6 +1,6 @@
 # AT Jiu Jitsu current build handoff
 
-Last updated: 2026-06-05 13:56 EDT
+Last updated: 2026-06-05 14:10 EDT
 
 This document is for future agent sessions that need to pick up the current AT Jiu Jitsu website build without relying on chat history.
 
@@ -44,6 +44,8 @@ gh pr view 1146 --json url,state,baseRefName,headRefName,headRefOid,statusCheckR
 The feature branch contains a modernized homepage / Gatsby + Decap site update, including:
 
 - modern homepage hero and program cards
+- CMS-editable homepage content layer (`src/data/homepage.json`) exposed in Decap under `Site Content → Homepage`
+- homepage hero/program/intro/CTA/Instagram wrapper/featured update sections now support structured copy, image, visibility, and order fields
 - local SEO copy and schema improvements
 - refreshed Decap/admin-related config updates from this branch's earlier work
 - recent blog posts for the summer promotions
@@ -51,6 +53,34 @@ The feature branch contains a modernized homepage / Gatsby + Decap site update, 
 - automated Instagram feed data sync support
 
 Do not assume production has these changes until PR #1146 is merged and Netlify production is verified.
+
+## Homepage CMS content layer
+
+The homepage content source is now `src/data/homepage.json`; `src/pages/index.js` renders the homepage from this JSON instead of hardcoded homepage arrays/copy. Decap CMS exposes it at `/admin/` under `Site Content → Homepage`.
+
+Editable surfaces include:
+
+- SEO title/description/social image/keywords
+- hero headline, lede, image, buttons, highlights, image badges, visibility, and order
+- intro section copy, visibility, and order
+- program section heading plus individual program card copy/images/links/visibility/order
+- first-class CTA image/copy/bullets/buttons/visibility/order
+- Instagram section wrapper copy/follow button/visibility/order
+- featured updates section heading and post count
+
+The visible Instagram cards remain automated/static through `src/data/instagram-posts.json` and `npm run instagram:update`; do not replace this with a browser-side widget unless Alex explicitly asks.
+
+## Agent intake workflow
+
+Documented in `docs/agent-intake-workflow.md`.
+
+Authorized intake subject prefixes:
+
+- `ATJJ Blog Post:`
+- `ATJJ Site Update:`
+- `ATJJ Homepage Image:`
+
+Agent intake creates branch/preview updates first. It must not directly publish to production or push/merge `master` without Alex approval.
 
 ## Instagram feed implementation
 
@@ -177,6 +207,27 @@ Current state verified from `/Users/Shared/GITHUB/ATJIUJITSU-REAL-NEW-20260604-1
 - Preview homepage verified in browser at `https://deploy-preview-1146--atjiujitsunyc2020.netlify.app/` with H1 `Train harder. Move better. Build confidence for life.` and 5 Instagram cards newest-first: June 4, June 1, May 27, May 27, May 15.
 - Preview `/admin/` verified in browser with title `@JiuJitsuNYC Content Manager`, `Login with Netlify Identity`, and `Go back to site`; console showed no errors.
 - Preview redirect checks: `/calendar/` and `/calendar2/` both returned `HTTP/2 302` to `https://at-jiujitsu-nyc.gymdesk.com/schedule`.
+
+No production merge/push was performed.
+
+## 2026-06-05 homepage CMS implementation QA
+
+Implemented the Decap-editable homepage layer and agent intake docs in this feature worktree only. New/changed source files:
+
+- `src/data/homepage.json` — structured homepage content source.
+- `src/pages/index.js` — renders hero, intro, program cards, first-class CTA, Instagram wrapper, and featured updates from structured JSON; Instagram post cards still come from `src/data/instagram-posts.json`.
+- `static/admin/config.yml` — adds Decap `Site Content → Homepage` fields for images, copy, visibility, and order.
+- `docs/agent-intake-workflow.md` — documents `ATJJ Blog Post:`, `ATJJ Site Update:`, and `ATJJ Homepage Image:` intake rules.
+
+Local verification run after implementation:
+
+- `python3` JSON parse for `src/data/homepage.json` passed.
+- `ruby` YAML parse for `static/admin/config.yml` passed.
+- `npm run instagram:update` returned no changes; latest post remains June 4, 2026.
+- `SHARP_IGNORE_GLOBAL_LIBVIPS=1 npm run build` completed successfully with only the known non-blocking warnings already listed below.
+- `git diff --check` passed.
+- Local Gatsby serve at `http://127.0.0.1:9000/` returned `HTTP/1.1 200 OK`; browser verified the homepage H1, 4 program cards, 5 Instagram cards newest-first, and Gymdesk signup URL.
+- Local `/admin/` loaded with title `@JiuJitsuNYC Content Manager`, Netlify Identity login button, and no console errors.
 
 No production merge/push was performed.
 
