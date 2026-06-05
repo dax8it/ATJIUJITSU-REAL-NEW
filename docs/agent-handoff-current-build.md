@@ -1,6 +1,6 @@
 # AT Jiu Jitsu current build handoff
 
-Last updated: 2026-06-04 23:36 EDT
+Last updated: 2026-06-05 13:56 EDT
 
 This document is for future agent sessions that need to pick up the current AT Jiu Jitsu website build without relying on chat history.
 
@@ -11,7 +11,7 @@ This document is for future agent sessions that need to pick up the current AT J
 - Current feature branch: `feat/modern-cms-seo-redesign-20260604-143320`
 - Active PR: https://github.com/dax8it/ATJIUJITSU-REAL-NEW/pull/1146
 - PR base: `master`
-- PR head at this handoff: `51ee56dc3cc0d0a1165f4071591d78e2e0359753`
+- PR head at this handoff: `095f5c4c210a66b838b3bde8aa362fcbbe7e12c0`
 - `master` remote head at this handoff: `f5077a025aa6c5185b7aa86f054c8bfbad62acba`
 - Netlify project: `atjiujitsunyc2020`
 - Current PR deploy preview: https://deploy-preview-1146--atjiujitsunyc2020.netlify.app/
@@ -163,6 +163,22 @@ At this handoff, preview rendered 5 Instagram cards in this order:
 3. May 27, 2026 — `https://www.instagram.com/jiujitsunyc/p/DY3LiCglBEd/`
 4. May 27, 2026 — `https://www.instagram.com/jiujitsunyc/p/DY2wzFCkohj/`
 5. May 15, 2026 — `https://www.instagram.com/jiujitsunyc/reel/DYXcpoqxhaN/`
+
+## 2026-06-05 continuation QA
+
+Current state verified from `/Users/Shared/GITHUB/ATJIUJITSU-REAL-NEW-20260604-143320`:
+
+- `git fetch origin --prune` completed and PR #1146 is still open, draft, base `master`, head `feat/modern-cms-seo-redesign-20260604-143320`.
+- PR #1146 latest checked head before this documentation update was `095f5c4c210a66b838b3bde8aa362fcbbe7e12c0`.
+- GitHub/Netlify checks: `Header rules` passed, `Redirect rules` passed, `deploy/netlify` passed, `Pages changed` neutral/skipped.
+- `npm run instagram:update` returned no changes; latest post remains June 4, 2026 (`https://www.instagram.com/jiujitsunyc/reel/DZLAs8kKyu4/`).
+- `SHARP_IGNORE_GLOBAL_LIBVIPS=1 npm run build` completed successfully with only the known non-blocking warnings already listed below.
+- `git diff --check` passed.
+- Preview homepage verified in browser at `https://deploy-preview-1146--atjiujitsunyc2020.netlify.app/` with H1 `Train harder. Move better. Build confidence for life.` and 5 Instagram cards newest-first: June 4, June 1, May 27, May 27, May 15.
+- Preview `/admin/` verified in browser with title `@JiuJitsuNYC Content Manager`, `Login with Netlify Identity`, and `Go back to site`; console showed no errors.
+- Preview redirect checks: `/calendar/` and `/calendar2/` both returned `HTTP/2 302` to `https://at-jiujitsu-nyc.gymdesk.com/schedule`.
+
+No production merge/push was performed.
 
 ## Approval / production plan
 
