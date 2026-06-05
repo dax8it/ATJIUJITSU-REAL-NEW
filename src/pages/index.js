@@ -3,6 +3,7 @@ import { graphql, Link, StaticQuery } from "gatsby"
 import Layout from "../components/layout2"
 import SEO from "../components/seo"
 import PostCard from "../components/postCard"
+import instagramFeed from "../data/instagram-posts.json"
 
 import "../utils/normalize.css"
 import "../utils/css/screen.css"
@@ -44,38 +45,7 @@ const proofStats = [
   ["No contracts", "Straightforward pricing and easy first-class sign up"],
 ]
 
-const instagramPosts = [
-  {
-    title: "Toddlers building confidence one class at a time",
-    copy: "The newest academy update highlights toddler Jiu-Jitsu: energy, patience, small steps, and real confidence built through showing up.",
-    href: "https://www.instagram.com/jiujitsunyc/reel/DZLAs8kKyu4/",
-    tag: "June 4, 2026",
-  },
-  {
-    title: "The full fighter journey, not just the cage time",
-    copy: "A behind-the-scenes look at the talks between rounds, the training nobody sees, and Manuela's example as a fighter, coach, and teammate.",
-    href: "https://www.instagram.com/jiujitsunyc/reel/DZDvX5ySVC2/",
-    tag: "June 1, 2026",
-  },
-  {
-    title: "Growth that is physical, mental, and spiritual",
-    copy: "A fight-week reflection on effort, setbacks, lessons, and the people who were part of the process.",
-    href: "https://www.instagram.com/jiujitsunyc/p/DY3LiCglBEd/",
-    tag: "May 27, 2026",
-  },
-  {
-    title: "A moment that means more than the photo",
-    copy: "A team story from the mats: the work, the people, and everything that comes before a visible milestone.",
-    href: "https://www.instagram.com/jiujitsunyc/p/DY2wzFCkohj/",
-    tag: "May 27, 2026",
-  },
-  {
-    title: "Mother's Day on the mats",
-    copy: "Self-defense, Bachata, and community time with moms from the kids program — a reminder that martial arts is more than technique.",
-    href: "https://www.instagram.com/jiujitsunyc/reel/DYXcpoqxhaN/",
-    tag: "May 15, 2026",
-  },
-]
+const instagramPosts = instagramFeed.posts
 
 const faqs = [
   {
