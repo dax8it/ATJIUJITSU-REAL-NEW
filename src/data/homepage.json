@@ -1,0 +1,174 @@
+{
+  "seo": {
+    "title": "Brazilian Jiu-Jitsu & Kids Martial Arts in Jackson Heights, Queens",
+    "description": "Train Brazilian Jiu-Jitsu, kids martial arts, kickboxing, Muay Thai, MMA, and toddler Jiu-Jitsu at @JiuJitsuNYC in Jackson Heights, Queens. Beginner-friendly, visual, community-driven training with no contracts.",
+    "image": "/img/og-image.jpg",
+    "keywords": [
+      "Brazilian Jiu-Jitsu Jackson Heights",
+      "BJJ Queens",
+      "kids martial arts Queens",
+      "kids Jiu-Jitsu Jackson Heights",
+      "kickboxing Queens",
+      "Muay Thai Queens",
+      "MMA classes Queens",
+      "toddler Jiu-Jitsu",
+      "martial arts near me"
+    ]
+  },
+  "hero": {
+    "visible": true,
+    "order": 10,
+    "eyebrow": "Jackson Heights • Queens • Brazilian Jiu-Jitsu",
+    "title": "Train harder. Move better. Build confidence for life.",
+    "lede": "@JiuJitsuNYC is a visual, high-energy martial arts academy for kids, adults, beginners, families, and competitors — right on Northern Blvd between 82nd and 83rd Street.",
+    "image": "/img/index-group4.jpg",
+    "imageAlt": "Kids and adults training martial arts at @JiuJitsuNYC in Queens",
+    "imageLabel": "@JiuJitsuNYC students training",
+    "actions": [
+      {
+        "label": "Start Training",
+        "href": "https://at-jiujitsu-nyc.gymdesk.com/signup",
+        "style": "primary"
+      },
+      {
+        "label": "View Schedule",
+        "href": "https://at-jiujitsu-nyc.gymdesk.com/schedule",
+        "style": "secondary"
+      },
+      {
+        "label": "Prices — No Contracts",
+        "href": "/prices/",
+        "style": "ghost"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Jackson Heights",
+        "text": "Northern Blvd at 83rd St, near E/F/7/R/M trains"
+      },
+      {
+        "label": "Kids + adults",
+        "text": "Programs for toddlers, teens, beginners, families, and competitors"
+      },
+      {
+        "label": "No contracts",
+        "text": "Straightforward pricing and easy first-class sign up"
+      }
+    ],
+    "badges": [
+      {
+        "position": "top",
+        "label": "Kids + Adults",
+        "text": "BJJ • Kickboxing • MMA"
+      },
+      {
+        "position": "bottom",
+        "label": "Located at",
+        "text": "82-19 Northern Blvd • 83rd St corner"
+      }
+    ]
+  },
+  "intro": {
+    "visible": true,
+    "order": 20,
+    "eyebrow": "Why families choose us",
+    "title": "A Queens martial arts academy built for real progress.",
+    "body": [
+      "Step onto the mat for practical martial arts training that is clear, disciplined, and welcoming from day one. Kids learn focus and confidence; adults build real skill, conditioning, and self-defense instincts.",
+      "Students build practical self-defense, strength, discipline, friendships, and resilience through structured coaching — not generic fitness copy."
+    ]
+  },
+  "programsSection": {
+    "visible": true,
+    "order": 30,
+    "eyebrow": "Programs",
+    "title": "Find the right class faster.",
+    "copy": "Clear paths for parents, adult beginners, returning athletes, and students ready to compete."
+  },
+  "programs": [
+    {
+      "visible": true,
+      "order": 10,
+      "title": "Kids Jiu-Jitsu",
+      "detail": "Ages 5–15",
+      "copy": "Confidence, coordination, anti-bullying skills, and real grappling fundamentals in a structured Queens academy environment.",
+      "href": "/kids-jiujitsu-classes-in-queens/",
+      "image": "/img/kids-bjj-jackson-heights.jpg",
+      "imageAlt": "Kids Jiu-Jitsu training at @JiuJitsuNYC"
+    },
+    {
+      "visible": true,
+      "order": 20,
+      "title": "Toddler Jiu-Jitsu",
+      "detail": "Ages 3–5",
+      "copy": "A first martial arts experience built around movement, listening, balance, and safe play for young children.",
+      "href": "/toddler-jiujitsu/",
+      "image": "/img/kids-01.jpg",
+      "imageAlt": "Toddler Jiu-Jitsu training at @JiuJitsuNYC"
+    },
+    {
+      "visible": true,
+      "order": 30,
+      "title": "Adult Brazilian Jiu-Jitsu",
+      "detail": "Beginner to advanced",
+      "copy": "Learn leverage-based self-defense, no-gi and gi fundamentals, pressure-tested technique, and competition-ready training.",
+      "href": "/adult-jiujitsu/",
+      "image": "/img/index-group.jpg",
+      "imageAlt": "Adult Brazilian Jiu-Jitsu training at @JiuJitsuNYC"
+    },
+    {
+      "visible": true,
+      "order": 40,
+      "title": "Kickboxing & Muay Thai",
+      "detail": "Adults and kids",
+      "copy": "Striking classes for fitness, discipline, footwork, defense, and practical confidence without long-term contracts.",
+      "href": "/kick-boxing/",
+      "image": "/img/kick-boxing.jpg",
+      "imageAlt": "Kickboxing & Muay Thai training at @JiuJitsuNYC"
+    }
+  ],
+  "firstClass": {
+    "visible": true,
+    "order": 40,
+    "eyebrow": "First class clarity",
+    "title": "Parents and new students should not have to hunt for the next step.",
+    "copy": "Whether you are signing up a child, returning to training, or trying martial arts for the first time, the next move is simple: choose a program, check the schedule, and start with a beginner-friendly class.",
+    "image": "/img/index-our-team.jpg",
+    "imageAlt": "@JiuJitsuNYC coaches and students inside the Jackson Heights academy",
+    "bullets": [
+      "Fast schedule and sign-up access.",
+      "Dedicated surfaces for kids, toddlers, adults, and striking programs.",
+      "Clear location details for Jackson Heights, Queens — between 82nd and 83rd Street on Northern Blvd.",
+      "Community-first coaching with practical progress you can feel."
+    ],
+    "actions": [
+      {
+        "label": "Call (917) 745-1772",
+        "href": "tel:9177451772",
+        "style": "primary"
+      },
+      {
+        "label": "Meet the Academy",
+        "href": "/about/",
+        "style": "secondary"
+      }
+    ]
+  },
+  "instagramSection": {
+    "visible": true,
+    "order": 50,
+    "eyebrow": "Instagram",
+    "title": "Latest from the academy.",
+    "copy": "The newest public @jiujitsunyc posts in chronological order, newest first — fast on the website, with each card opening the original Instagram post.",
+    "buttonLabel": "Follow @jiujitsunyc",
+    "buttonHref": "https://www.instagram.com/jiujitsunyc/"
+  },
+  "featuredUpdates": {
+    "visible": true,
+    "order": 60,
+    "eyebrow": "Featured updates",
+    "title": "Programs, events, and academy news.",
+    "copy": "Latest from the academy: class details, events, training notes, and student stories.",
+    "postLimit": 6
+  }
+}

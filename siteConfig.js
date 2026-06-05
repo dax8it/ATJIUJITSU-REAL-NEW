@@ -1,8 +1,8 @@
 module.exports = {
   name: "@JiuJitsuNYC",
   shortName: "@JiuJitsuNYC",
-  description: "Best Adult and Kids Jiujitsu & Martial Arts Training in Jackson Heights, Queens.",
-  url: "https://atjiujitsunyc.com", // Domain of your site without prefix!
+  description: "Brazilian Jiu-Jitsu, kids martial arts, kickboxing, Muay Thai, MMA, and toddler Jiu-Jitsu in Jackson Heights, Queens.",
+  url: "https://www.atjiujitsunyc.com",
   prefix: "/",
   author: "@jiujitsunyc",
   twitter: "",

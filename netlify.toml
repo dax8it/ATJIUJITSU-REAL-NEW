@@ -1,28 +1,68 @@
 [build]
   publish = "public"
+  command = "npm run build"
+
+[build.environment]
+  NODE_VERSION = "20"
+  NPM_VERSION = "10"
+  SHARP_IGNORE_GLOBAL_LIBVIPS = "1"
 
 [[redirects]]
   from = "/admin/*"
   to = "/admin/index.html"
   status = 200
 
-# General security headers
+[[redirects]]
+  from = "/calendar"
+  to = "https://at-jiujitsu-nyc.gymdesk.com/schedule"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/calendar/"
+  to = "https://at-jiujitsu-nyc.gymdesk.com/schedule"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/calendar2"
+  to = "https://at-jiujitsu-nyc.gymdesk.com/schedule"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/calendar2/"
+  to = "https://at-jiujitsu-nyc.gymdesk.com/schedule"
+  status = 302
+  force = true
+
+# General security headers. Keep the public site locked down while allowing Decap CMS and Netlify Identity on /admin.
 [[headers]]
   for = "/*"
   [headers.values]
     X-Frame-Options = "DENY"
     Content-Security-Policy = """
       default-src 'self';
-      script-src 'self' 'unsafe-inline' 'unsafe-eval' https://identity.netlify.com https://unpkg.com/ https://cdn.decaporg.com;
-      connect-src 'self' https://api.decaporg.com https://identity.netlify.com;
+      script-src 'self' 'unsafe-inline' 'unsafe-eval' https://identity.netlify.com https://unpkg.com https://cdn.decaporg.com;
+      connect-src 'self' https://api.decaporg.com https://identity.netlify.com https://api.netlify.com https://api.github.com;
       img-src 'self' data: blob: https:;
       style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
+      font-src 'self' data: https://fonts.gstatic.com;
       frame-ancestors 'self';
       frame-src 'self' https://identity.netlify.com;
     """
 
-# Admin-specific headers
 [[headers]]
   for = "/admin/*"
   [headers.values]
-    X-Frame-Options = "ALLOW-FROM https://identity.netlify.com"
+    X-Frame-Options = "SAMEORIGIN"
+    Content-Security-Policy = """
+      default-src 'self' https: data: blob:;
+      script-src 'self' 'unsafe-inline' 'unsafe-eval' https://identity.netlify.com https://unpkg.com https://cdn.decaporg.com;
+      connect-src 'self' https: data: blob:;
+      img-src 'self' https: data: blob:;
+      style-src 'self' 'unsafe-inline' https:;
+      font-src 'self' https: data:;
+      frame-src 'self' https://identity.netlify.com https://api.netlify.com;
+      frame-ancestors 'self';
+    """

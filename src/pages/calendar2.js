@@ -1,6 +1,5 @@
 import React from "react"
 import { graphql, StaticQuery } from "gatsby"
-import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout2"
 import SEO from "../components/seo"
@@ -8,71 +7,37 @@ import SEO from "../components/seo"
 import "../utils/normalize.css"
 import "../utils/css/screen.css"
 
-const ElementsPage = ({ data }, location) => {
+const gymdeskScheduleUrl = "https://at-jiujitsu-nyc.gymdesk.com/schedule"
+const gymdeskSignupUrl = "https://at-jiujitsu-nyc.gymdesk.com/signup"
+
+const SchedulePage = ({ data }) => {
   const siteTitle = data.site.siteMetadata.title
 
   return (
     <Layout title={siteTitle}>
-      <SEO title="Elements" />
+      <SEO
+        title="Class Schedule"
+        description="View the current @JiuJitsuNYC class schedule in GymDesk for kids martial arts, adult Brazilian Jiu-Jitsu, kickboxing, Muay Thai, MMA, and toddler programs."
+        pathname="/calendar2/"
+      />
 
       <article className="post-content page-template no-image">
         <div className="post-content-body">
-
           <h1>Class Schedule</h1>
-        <p>Plan your martial arts training with our detailed calendar schedule. 
-          Find class timings, special events, and kids martial arts sessions.</p>
-
-          <br />
-
-          <div
-            class="maonrails-schedule maonrails-frame-container"
-            attr-gym="DL7vA"
-          ></div>
-
-          <br />
-
-          <hr />
-
-
-      
-      
-
-{/* ----- THIS IS THE CODE FOR HOME PAGE ----- */}
-
-
-
-
-          <h2 id="grid-system">@Jiujitsu Martial Arts Training, Jackson Heights Queens, NY</h2>
-
-      {/* 12 COLUMNS -  */}     
-
-          <div className="row">
-            <div className="col-12">
-              <div>
-                
-                <h2>@Jiujitsu Martial Arts Training, Jackson Heights Queens, NY</h2>
-                  <p>Discover the best BJJ and martial arts training with comprehensive 
-                    programs offering superior Jiujitsu instruction, welcoming everyone 
-                    from complete beginners to pro fighters.
-                  </p>
-
-                  <div className="row"> 
-                    <div  
-                    className="col-6" align="center" >
-                    <a href="https://at-jiujitsu-nyc.gymdesk.com/signup" className="button primary large">
-                        Ready for a Trail?
-                    </a>
-                    </div>
-                    <div  className="col-6" align="center">
-                    <a href="https://at-jiujitsu-nyc.gymdesk.com/signup" className="button primary large">
-                        Sign up! No Contract!
-                    </a>
-                  </div>
-                 </div>
-              </div>
-            </div>
-          </div>
-
+          <p>
+            The official @JiuJitsuNYC class schedule is maintained in GymDesk so
+            the class list stays current for parents, members, and new students.
+          </p>
+          <p>
+            <a href={gymdeskScheduleUrl} className="button primary large">
+              View Current GymDesk Schedule
+            </a>
+          </p>
+          <p>
+            <a href={gymdeskSignupUrl} className="button primary large">
+              Sign Up Through GymDesk
+            </a>
+          </p>
         </div>
       </article>
     </Layout>
@@ -80,50 +45,18 @@ const ElementsPage = ({ data }, location) => {
 }
 
 const indexQuery = graphql`
-query {
-  site {
-    siteMetadata {
-      title
-    }
-  }
-  smallPic: file(
-    relativePath: { eq: "kids-jiujitsu-jackson-heights-queens.jpg" }
-  ) {
-    childImageSharp {
-      fluid(maxWidth: 1360) {
-        ...GatsbyImageSharpFluid
+  query {
+    site {
+      siteMetadata {
+        title
       }
     }
   }
-  medPic: file(relativePath: { eq: "adult-bjj-queens.jpg" }) {
-    childImageSharp {
-      fluid(maxWidth: 1360) {
-        ...GatsbyImageSharpFluid
-      }
-    }
-  }
-  largePic: file(
-    relativePath: { eq: "vladimir-malyutin-98174-unsplash.jpg" }
-  ) {
-    childImageSharp {
-      fluid(maxWidth: 1360) {
-        ...GatsbyImageSharpFluid
-      }
-    }
-  }
-}
 `
-
-
-
-
-
 
 export default props => (
   <StaticQuery
     query={indexQuery}
-    render={data => (
-      <ElementsPage location={props.location} data={data} {...props} />
-    )}
+    render={data => <SchedulePage location={props.location} data={data} {...props} />}
   />
 )

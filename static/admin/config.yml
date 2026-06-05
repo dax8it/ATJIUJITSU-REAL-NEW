@@ -14,12 +14,161 @@ publish_mode: editorial_workflow
 media_folder: static/img
 public_folder: /img
 
-logo_url: https://atjiujitsunyc2020.netlify.com/img/atjiujitsu-icon.png
+logo_url: https://www.atjiujitsunyc.com/img/atjiujitsu-icon.png
 
-site_url: https://atjiujitsunyc2020.netlify.com
-display_url: https://atjiujitsunyc2020.netlify.com
+site_url: https://www.atjiujitsunyc.com
+display_url: https://www.atjiujitsunyc.com
 
 collections:
+  - name: "site_content"
+    label: "Site Content"
+    files:
+      - label: "Homepage"
+        name: "homepage"
+        file: "src/data/homepage.json"
+        fields:
+          - label: "SEO"
+            name: "seo"
+            widget: "object"
+            fields:
+              - { label: "SEO Title", name: "title", widget: "string" }
+              - { label: "SEO Description", name: "description", widget: "text" }
+              - { label: "Social Image", name: "image", widget: "image", required: false }
+              - label: "SEO Keywords"
+                name: "keywords"
+                widget: "list"
+                required: false
+                field: { label: "Keyword", name: "keyword", widget: "string" }
+          - label: "Hero"
+            name: "hero"
+            widget: "object"
+            fields:
+              - { label: "Visible", name: "visible", widget: "boolean", default: true }
+              - { label: "Section Order", name: "order", widget: "number", default: 10 }
+              - { label: "Eyebrow", name: "eyebrow", widget: "string", required: false }
+              - { label: "Headline", name: "title", widget: "string" }
+              - { label: "Lead Copy", name: "lede", widget: "text" }
+              - { label: "Hero Image", name: "image", widget: "image" }
+              - { label: "Hero Image Alt Text", name: "imageAlt", widget: "string" }
+              - { label: "Hero Image Accessibility Label", name: "imageLabel", widget: "string", required: false }
+              - label: "Hero Buttons"
+                name: "actions"
+                widget: "list"
+                summary: "{{fields.label}} → {{fields.href}}"
+                fields:
+                  - { label: "Label", name: "label", widget: "string" }
+                  - label: "URL"
+                    name: "href"
+                    widget: "string"
+                    hint: "Keep schedule/signup links pointed to Gymdesk unless Alex approves a provider change."
+                  - label: "Style"
+                    name: "style"
+                    widget: "select"
+                    options: ["primary", "secondary", "ghost"]
+                    default: "primary"
+              - label: "Hero Highlights"
+                name: "highlights"
+                widget: "list"
+                summary: "{{fields.label}}"
+                fields:
+                  - { label: "Label", name: "label", widget: "string" }
+                  - { label: "Text", name: "text", widget: "string" }
+              - label: "Hero Image Badges"
+                name: "badges"
+                widget: "list"
+                required: false
+                summary: "{{fields.position}} — {{fields.label}}"
+                fields:
+                  - { label: "Label", name: "label", widget: "string" }
+                  - { label: "Text", name: "text", widget: "string" }
+                  - label: "Position"
+                    name: "position"
+                    widget: "select"
+                    options: ["top", "bottom"]
+          - label: "Intro Section"
+            name: "intro"
+            widget: "object"
+            fields:
+              - { label: "Visible", name: "visible", widget: "boolean", default: true }
+              - { label: "Section Order", name: "order", widget: "number", default: 20 }
+              - { label: "Eyebrow", name: "eyebrow", widget: "string", required: false }
+              - { label: "Title", name: "title", widget: "string" }
+              - label: "Body Paragraphs"
+                name: "body"
+                widget: "list"
+                field: { label: "Paragraph", name: "paragraph", widget: "text" }
+          - label: "Programs Section Heading"
+            name: "programsSection"
+            widget: "object"
+            fields:
+              - { label: "Visible", name: "visible", widget: "boolean", default: true }
+              - { label: "Section Order", name: "order", widget: "number", default: 30 }
+              - { label: "Eyebrow", name: "eyebrow", widget: "string", required: false }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Intro Copy", name: "copy", widget: "text", required: false }
+          - label: "Program Cards"
+            name: "programs"
+            widget: "list"
+            summary: "{{fields.order}} — {{fields.title}}"
+            fields:
+              - { label: "Visible", name: "visible", widget: "boolean", default: true }
+              - { label: "Card Order", name: "order", widget: "number", default: 10 }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Detail Tag", name: "detail", widget: "string", required: false }
+              - { label: "Copy", name: "copy", widget: "text" }
+              - { label: "Destination URL", name: "href", widget: "string" }
+              - { label: "Image", name: "image", widget: "image" }
+              - { label: "Image Alt Text", name: "imageAlt", widget: "string" }
+          - label: "First Class / CTA Section"
+            name: "firstClass"
+            widget: "object"
+            fields:
+              - { label: "Visible", name: "visible", widget: "boolean", default: true }
+              - { label: "Section Order", name: "order", widget: "number", default: 40 }
+              - { label: "Eyebrow", name: "eyebrow", widget: "string", required: false }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Copy", name: "copy", widget: "text" }
+              - { label: "Image", name: "image", widget: "image" }
+              - { label: "Image Alt Text", name: "imageAlt", widget: "string" }
+              - label: "Bullet Points"
+                name: "bullets"
+                widget: "list"
+                field: { label: "Bullet", name: "bullet", widget: "string" }
+              - label: "Buttons"
+                name: "actions"
+                widget: "list"
+                summary: "{{fields.label}} → {{fields.href}}"
+                fields:
+                  - { label: "Label", name: "label", widget: "string" }
+                  - { label: "URL", name: "href", widget: "string" }
+                  - label: "Style"
+                    name: "style"
+                    widget: "select"
+                    options: ["primary", "secondary", "ghost"]
+                    default: "primary"
+          - label: "Instagram Section"
+            name: "instagramSection"
+            widget: "object"
+            hint: "The visible posts are still generated from src/data/instagram-posts.json by the automated sync script. These fields only edit the surrounding section copy and follow button."
+            fields:
+              - { label: "Visible", name: "visible", widget: "boolean", default: true }
+              - { label: "Section Order", name: "order", widget: "number", default: 50 }
+              - { label: "Eyebrow", name: "eyebrow", widget: "string", required: false }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Copy", name: "copy", widget: "text", required: false }
+              - { label: "Button Label", name: "buttonLabel", widget: "string", required: false }
+              - { label: "Button URL", name: "buttonHref", widget: "string", required: false }
+          - label: "Featured Updates Section"
+            name: "featuredUpdates"
+            widget: "object"
+            fields:
+              - { label: "Visible", name: "visible", widget: "boolean", default: true }
+              - { label: "Section Order", name: "order", widget: "number", default: 60 }
+              - { label: "Eyebrow", name: "eyebrow", widget: "string", required: false }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Copy", name: "copy", widget: "text", required: false }
+              - { label: "Number of Posts", name: "postLimit", widget: "number", default: 6 }
+
   - name: "blog"
     label: "blog"
     folder: "content/blog/"
