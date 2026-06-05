@@ -46,22 +46,34 @@ const proofStats = [
 
 const instagramPosts = [
   {
+    title: "Toddlers building confidence one class at a time",
+    copy: "The newest academy update highlights toddler Jiu-Jitsu: energy, patience, small steps, and real confidence built through showing up.",
+    href: "https://www.instagram.com/jiujitsunyc/reel/DZLAs8kKyu4/",
+    tag: "June 4, 2026",
+  },
+  {
+    title: "The full fighter journey, not just the cage time",
+    copy: "A behind-the-scenes look at the talks between rounds, the training nobody sees, and Manuela's example as a fighter, coach, and teammate.",
+    href: "https://www.instagram.com/jiujitsunyc/reel/DZDvX5ySVC2/",
+    tag: "June 1, 2026",
+  },
+  {
+    title: "Growth that is physical, mental, and spiritual",
+    copy: "A fight-week reflection on effort, setbacks, lessons, and the people who were part of the process.",
+    href: "https://www.instagram.com/jiujitsunyc/p/DY3LiCglBEd/",
+    tag: "May 27, 2026",
+  },
+  {
     title: "A moment that means more than the photo",
     copy: "A team story from the mats: the work, the people, and everything that comes before a visible milestone.",
-    href: "https://www.instagram.com/p/DY2wzFCkohj/",
-    tag: "Team culture",
+    href: "https://www.instagram.com/jiujitsunyc/p/DY2wzFCkohj/",
+    tag: "May 27, 2026",
   },
   {
-    title: "More than just a Jiu-Jitsu school",
-    copy: "A look at the academy's striking program and the kind of training students build on and off the mats.",
-    href: "https://www.instagram.com/p/DTvmYq8kk_y/",
-    tag: "Striking program",
-  },
-  {
-    title: "Snow day at the academy",
-    copy: "A lighter community moment from Jackson Heights — still with solid base and balance.",
-    href: "https://www.instagram.com/p/DVHjXFfklSU/",
-    tag: "Academy life",
+    title: "Mother's Day on the mats",
+    copy: "Self-defense, Bachata, and community time with moms from the kids program — a reminder that martial arts is more than technique.",
+    href: "https://www.instagram.com/jiujitsunyc/reel/DYXcpoqxhaN/",
+    tag: "May 15, 2026",
   },
 ]
 
@@ -284,9 +296,9 @@ const BlogIndex = ({ data }) => {
         <div className="section-heading social-heading">
           <div>
             <p className="eyebrow">Instagram</p>
-            <h2 id="instagram-title">See the academy in action.</h2>
+            <h2 id="instagram-title">Latest from the academy.</h2>
             <p>
-              A lightweight snapshot of public @jiujitsunyc posts — fast on the website,
+              The newest public @jiujitsunyc posts in chronological order, newest first — fast on the website,
               with each card opening the original Instagram post.
             </p>
           </div>
@@ -299,7 +311,7 @@ const BlogIndex = ({ data }) => {
             Follow @jiujitsunyc
           </a>
         </div>
-        <div className="instagram-grid" aria-label="Selected Instagram posts from @jiujitsunyc">
+        <div className="instagram-grid" aria-label="Latest Instagram posts from @jiujitsunyc, newest first">
           {instagramPosts.map(post => (
             <a
               className="instagram-card"
