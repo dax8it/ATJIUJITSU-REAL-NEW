@@ -16,14 +16,26 @@
     ]
   },
   "hero": {
-    "visible": true,
-    "order": 10,
     "eyebrow": "Jackson Heights • Queens • Brazilian Jiu-Jitsu",
-    "title": "Train harder. Move better. Build confidence for life.",
-    "lede": "@JiuJitsuNYC is a visual, high-energy martial arts academy for kids, adults, beginners, families, and competitors — right on Northern Blvd between 82nd and 83rd Street.",
-    "image": "/img/index-group4.jpg",
     "imageAlt": "Kids and adults training martial arts at @JiuJitsuNYC in Queens",
+    "order": 10,
+    "badges": [
+      {
+        "position": "top",
+        "label": "Kids + Adults",
+        "text": "BJJ • Kickboxing • MMA"
+      },
+      {
+        "position": "bottom",
+        "label": "Located at",
+        "text": "82-19 Northern Blvd • 83rd St corner"
+      }
+    ],
+    "visible": true,
+    "title": "Train harder. Move better. Build confidence for life.",
     "imageLabel": "@JiuJitsuNYC students training",
+    "lede": "@JiuJitsuNYC is a visual, high-energy martial arts academy for kids, adults, beginners, families, and competitors — right on Northern Blvd between 82nd and 83rd Street.",
+    "image": "/img/screen-shot-2026-06-11-at-4.54.42-pm.png",
     "actions": [
       {
         "label": "Start Training",
@@ -53,18 +65,6 @@
       {
         "label": "No contracts",
         "text": "Straightforward pricing and easy first-class sign up"
-      }
-    ],
-    "badges": [
-      {
-        "position": "top",
-        "label": "Kids + Adults",
-        "text": "BJJ • Kickboxing • MMA"
-      },
-      {
-        "position": "bottom",
-        "label": "Located at",
-        "text": "82-19 Northern Blvd • 83rd St corner"
       }
     ]
   },
@@ -128,19 +128,19 @@
     }
   ],
   "firstClass": {
-    "visible": true,
-    "order": 40,
     "eyebrow": "First class clarity",
-    "title": "Parents and new students should not have to hunt for the next step.",
-    "copy": "Whether you are signing up a child, returning to training, or trying martial arts for the first time, the next move is simple: choose a program, check the schedule, and start with a beginner-friendly class.",
-    "image": "/img/index-our-team.jpg",
     "imageAlt": "@JiuJitsuNYC coaches and students inside the Jackson Heights academy",
+    "order": 40,
     "bullets": [
       "Fast schedule and sign-up access.",
       "Dedicated surfaces for kids, toddlers, adults, and striking programs.",
       "Clear location details for Jackson Heights, Queens — between 82nd and 83rd Street on Northern Blvd.",
       "Community-first coaching with practical progress you can feel."
     ],
+    "visible": true,
+    "copy": "Whether you are signing up a child, returning to training, or trying martial arts for the first time, the next move is simple: choose a program, check the schedule, and start with a beginner-friendly class.",
+    "title": "Parents and new students should not have to hunt for the next step.",
+    "image": "/img/index-our-team.jpg",
     "actions": [
       {
         "label": "Call (917) 745-1772",
