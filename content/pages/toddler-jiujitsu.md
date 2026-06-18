@@ -5,7 +5,7 @@ order: 7
 date: 2019-05-01
 description: In Toddler BJJ, children will meet many new friends and share
   common experiences like drilling techniques, playing games, and live rolling
-thumbnail: /img/dsc09945.jpg
+thumbnail: /img/img_1915.jpg
 home: true
 tags:
   - Programs
