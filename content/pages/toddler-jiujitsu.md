@@ -67,7 +67,7 @@ tags:
 
 ## Register for classes here:
 
-## <https://www.maonrails.com/signup/member/8s6>
+## <https://at-jiujitsu-nyc.gymdesk.com/signup>
 
 <br>
 
