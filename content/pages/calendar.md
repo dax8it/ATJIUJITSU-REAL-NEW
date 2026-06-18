@@ -3,7 +3,9 @@ templateKey: blog-post
 title: Class Schedule
 order: 2
 date: 2020-05-29T22:47:34.544Z
-description: "View the current @JiuJitsuNYC class schedule in GymDesk for adult Brazilian Jiu-Jitsu, kids martial arts, kickboxing, Muay Thai, MMA, toddler classes, and more."
+description: View the current @JiuJitsuNYC class schedule in GymDesk for adult
+  Brazilian Jiu-Jitsu, kids martial arts, kickboxing, Muay Thai, MMA, toddler
+  classes, and more.
 thumbnail: /img/mvi_0006.00_11_45_46.still111-3-.jpg
 home: false
 tags:
