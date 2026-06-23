@@ -1,10 +1,11 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" class="auth-pending">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="robots" content="noindex" />
     <title>ATJJ Website Update Guide</title>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <style>
       :root {
         --black: #09090b;
@@ -16,6 +17,7 @@
         --green: #16a34a;
       }
       * { box-sizing: border-box; }
+      html.auth-pending body { visibility: hidden; }
       body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #f4f0ea; color: var(--mat); line-height: 1.45; }
       a { color: inherit; }
       .hero { background: radial-gradient(circle at 12% 15%, rgba(225,29,47,.35), transparent 36%), linear-gradient(135deg, var(--black), var(--mat)); color: var(--white); padding: 44px 28px 36px; }
@@ -219,5 +221,39 @@
         </section>
       </div>
     </main>
+    <script>
+      (function protectTrainingGuide() {
+        const reveal = () => document.documentElement.classList.remove("auth-pending");
+        const redirectToAdmin = () => window.location.replace("/admin/");
+
+        if (!window.netlifyIdentity) {
+          redirectToAdmin();
+          return;
+        }
+
+        window.netlifyIdentity.on("init", user => {
+          if (user) {
+            reveal();
+            return;
+          }
+
+          redirectToAdmin();
+        });
+
+        window.netlifyIdentity.on("logout", redirectToAdmin);
+
+        window.addEventListener("load", () => {
+          window.setTimeout(() => {
+            if (!document.documentElement.classList.contains("auth-pending")) return;
+            if (window.netlifyIdentity.currentUser()) {
+              reveal();
+              return;
+            }
+
+            redirectToAdmin();
+          }, 1200);
+        });
+      })();
+    </script>
   </body>
 </html>

@@ -7,7 +7,6 @@
     <title>@JiuJitsuNYC Content Manager</title>
   </head>
   <body>
-    <a class="atjj-training-link" href="/admin/training/" target="_blank" rel="noopener noreferrer">Update guide + video</a>
     <style>
       .atjj-training-link {
         position: fixed;
@@ -29,17 +28,8 @@
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
     <script>
-      if (window.netlifyIdentity) {
-        window.netlifyIdentity.on("init", user => {
-          if (!user) {
-            window.netlifyIdentity.on("login", () => {
-              document.location.href = "/admin/";
-            });
-          }
-        });
-      }
-
       function ensureTrainingLink() {
+        if (!window.netlifyIdentity || !window.netlifyIdentity.currentUser()) return;
         if (document.querySelector(".atjj-training-link")) return;
         const link = document.createElement("a");
         link.className = "atjj-training-link";
@@ -49,10 +39,27 @@
         link.textContent = "Update guide + video";
         document.body.appendChild(link);
       }
-      window.addEventListener("load", () => {
-        ensureTrainingLink();
-        setInterval(ensureTrainingLink, 2000);
-      });
+
+      function removeTrainingLink() {
+        document.querySelectorAll(".atjj-training-link").forEach(link => link.remove());
+      }
+
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            removeTrainingLink();
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+            return;
+          }
+
+          ensureTrainingLink();
+          setInterval(ensureTrainingLink, 2000);
+        });
+
+        window.netlifyIdentity.on("logout", removeTrainingLink);
+      }
     </script>
   </body>
 </html>
