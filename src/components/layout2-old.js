@@ -91,7 +91,7 @@ const Layout = props => {
     <div className="site-head-right">
       <div className="social-links">
         <a
-          href="https://at-jiujitsu-nyc.maonrails.com/login"
+          href="https://at-jiujitsu-nyc.gymdesk.com/login"
           title="Member Login"
           target="_blank"
           rel="noopener noreferrer"

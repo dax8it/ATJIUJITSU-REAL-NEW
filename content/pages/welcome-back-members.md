@@ -13,7 +13,7 @@ Through GYMDESK, you will be able to book your class sessions ahead of time.
 
 In the link below, there is a step by step video tutorial for how to register, if you have not yet done so. 
 
-<https://www.youtube.com/shorts/3uPuiY8huv0>[](https://www.maonrails.com/signup/member/8s6)[](https://at-jiujitsu-nyc.maonrails.com/login)
+<https://www.youtube.com/shorts/3uPuiY8huv0>[](https://www.maonrails.com/signup/member/8s6)[](https://at-jiujitsu-nyc.gymdesk.com/login)
 
 - - -
 

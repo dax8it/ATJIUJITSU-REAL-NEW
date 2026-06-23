@@ -86,7 +86,7 @@ const Layout = props => {
                         <Link to={`/tags/events`}>Events</Link>
                   </li>
                   <li className="nav-tags nav-dropdown" role="menuitem">
-                  <a href="https://at-jiujitsu-nyc.maonrails.com/login" 
+                  <a href="https://at-jiujitsu-nyc.gymdesk.com/login"
                     title="Member Login"
                     target="_blank"
                     rel="noopener noreferrer">

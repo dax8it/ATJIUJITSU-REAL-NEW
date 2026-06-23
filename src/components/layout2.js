@@ -54,7 +54,7 @@ const Layout = ({ title, children }) => {
                 </a>
               </li>
               <li>
-                <a href="https://at-jiujitsu-nyc.maonrails.com/login" target="_blank" rel="noopener noreferrer">
+                <a href="https://at-jiujitsu-nyc.gymdesk.com/login" target="_blank" rel="noopener noreferrer">
                   Member Login
                 </a>
               </li>
