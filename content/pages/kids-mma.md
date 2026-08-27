@@ -3,7 +3,9 @@ templateKey: blog-post
 title: Kids MMA
 order: 5
 date: 2021-03-24T20:36:49.923Z
-description: Join Coach Rocco for our Kids MMA Intro Class and learn from the Champ!
+description: "Our Kids MMA Program combines Jiu-Jitsu, striking, fitness, and
+  self-defense in a safe, structured environment designed to build confidence,
+  discipline, coordination, and real martial arts skills. "
 thumbnail: /img/screen-shot-2026-03-19-at-4.45.21-pm.png
 home: true
 tags:
