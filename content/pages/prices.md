@@ -87,7 +87,7 @@ Best for: Members who want maximum flexibility.
 
 - - -
 
-# Toddler Membership Unlimited:
+# Toddler Unlimited  Membership:
 * Monthly Fee: $275 + $50 sign-up fee
 
 * Access to unlimited toddler classes. Can choose from any of our Toddler Jiu-Jitsu classes and our Saturday morning beginner Kid's kickboxing class.   
